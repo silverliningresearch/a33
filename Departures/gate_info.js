@@ -1,5 +1,6 @@
 let Gate_Info = ` 
 [
+
  {
   "Flight": "AC5871",
   "Dest": "CMB",
