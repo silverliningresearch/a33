@@ -1,17898 +1,6 @@
 let Gate_Info = ` 
 [
  {
-  "Flight": "2Y923",
-  "Dest": "CGK",
-  "AirlineCode": "2Y",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0740",
-  "display_date": "2024-07-08",
-  "display_time": "0740",
-  "display_terminal": "1",
-  "display_gate": "A6F"
- },
- {
-  "Flight": "3K201",
-  "Dest": "CGK",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "4",
-  "display_gate": "G13"
- },
- {
-  "Flight": "3K205",
-  "Dest": "CGK",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "4",
-  "display_gate": "G7"
- },
- {
-  "Flight": "3K241",
-  "Dest": "DPS",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1050",
-  "display_date": "2024-07-08",
-  "display_time": "1050",
-  "display_terminal": "4",
-  "display_gate": "G5"
- },
- {
-  "Flight": "3K245",
-  "Dest": "DPS",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1630",
-  "display_date": "2024-07-08",
-  "display_time": "1630",
-  "display_terminal": "4",
-  "display_gate": "G12"
- },
- {
-  "Flight": "3K247",
-  "Dest": "SUB",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1210",
-  "display_date": "2024-07-08",
-  "display_time": "1210",
-  "display_terminal": "4",
-  "display_gate": "G13"
- },
- {
-  "Flight": "3K511",
-  "Dest": "BKK",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "3K513",
-  "Dest": "BKK",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1915",
-  "display_terminal": "4",
-  "display_gate": "G1"
- },
- {
-  "Flight": "3K515",
-  "Dest": "BKK",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1350",
-  "display_date": "2024-07-08",
-  "display_time": "1350",
-  "display_terminal": "4",
-  "display_gate": "G11"
- },
- {
-  "Flight": "3K535",
-  "Dest": "HKT",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1810",
-  "display_date": "2024-07-08",
-  "display_time": "1810",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "3K537",
-  "Dest": "HKT",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1940",
-  "display_date": "2024-07-08",
-  "display_time": "1940",
-  "display_terminal": "4",
-  "display_gate": "G11"
- },
- {
-  "Flight": "3K593",
-  "Dest": "PNH",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1325",
-  "display_date": "2024-07-08",
-  "display_time": "1325",
-  "display_terminal": "4",
-  "display_gate": "G14"
- },
- {
-  "Flight": "3K671",
-  "Dest": "PEN",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0725",
-  "display_date": "2024-07-08",
-  "display_time": "0725",
-  "display_terminal": "4",
-  "display_gate": "G11"
- },
- {
-  "Flight": "3K683",
-  "Dest": "KUL",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0700",
-  "display_date": "2024-07-08",
-  "display_time": "0700",
-  "display_terminal": "4",
-  "display_gate": "G12"
- },
- {
-  "Flight": "3K685",
-  "Dest": "KUL",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1340",
-  "display_date": "2024-07-08",
-  "display_time": "1340",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "3K687",
-  "Dest": "KUL",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "3K763",
-  "Dest": "KIX",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0215",
-  "display_date": "2024-07-08",
-  "display_time": "0215",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "3K779",
-  "Dest": "CRK",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1740",
-  "display_date": "2024-07-08",
-  "display_time": "1740",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "3K817",
-  "Dest": "HAK",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0725",
-  "display_date": "2024-07-08",
-  "display_time": "0725",
-  "display_terminal": "4",
-  "display_gate": "G6"
- },
- {
-  "Flight": "3K833",
-  "Dest": "WUX",
-  "AirlineCode": "3K",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0625",
-  "display_date": "2024-07-08",
-  "display_time": "0625",
-  "display_terminal": "4",
-  "display_gate": "G7"
- },
- {
-  "Flight": "3U3910",
-  "Dest": "TFU",
-  "AirlineCode": "3U",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1700",
-  "display_date": "2024-07-08",
-  "display_time": "1700",
-  "display_terminal": "2",
-  "display_gate": "F59"
- },
- {
-  "Flight": "3U7026",
-  "Dest": "CAN",
-  "AirlineCode": "3U",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "1",
-  "display_gate": "C12"
- },
- {
-  "Flight": "3U7028",
-  "Dest": "CAN",
-  "AirlineCode": "3U",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1330",
-  "display_date": "2024-07-08",
-  "display_time": "1330",
-  "display_terminal": "1",
-  "display_gate": "D30"
- },
- {
-  "Flight": "3U7068",
-  "Dest": "CAN",
-  "AirlineCode": "3U",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1750",
-  "display_date": "2024-07-08",
-  "display_time": "1750",
-  "display_terminal": "1",
-  "display_gate": "D30"
- },
- {
-  "Flight": "3U9388",
-  "Dest": "NNG",
-  "AirlineCode": "3U",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1445",
-  "display_date": "2024-07-08",
-  "display_time": "1445",
-  "display_terminal": "2",
-  "display_gate": "F51F"
- },
- {
-  "Flight": "5J538",
-  "Dest": "CRK",
-  "AirlineCode": "5J",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1650",
-  "display_date": "2024-07-08",
-  "display_time": "1650",
-  "display_terminal": "4",
-  "display_gate": "G11"
- },
- {
-  "Flight": "5J804",
-  "Dest": "MNL",
-  "AirlineCode": "5J",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0130",
-  "display_date": "2024-07-08",
-  "display_time": "0130",
-  "display_terminal": "4",
-  "display_gate": "G20"
- },
- {
-  "Flight": "5J806",
-  "Dest": "MNL",
-  "AirlineCode": "5J",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1840",
-  "display_date": "2024-07-08",
-  "display_time": "1840",
-  "display_terminal": "4",
-  "display_gate": "G13"
- },
- {
-  "Flight": "5J814",
-  "Dest": "MNL",
-  "AirlineCode": "5J",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1035",
-  "display_date": "2024-07-08",
-  "display_time": "1035",
-  "display_terminal": "4",
-  "display_gate": "G2"
- },
- {
-  "Flight": "5X166",
-  "Dest": "SZX",
-  "AirlineCode": "5X",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2140",
-  "display_date": "2024-07-08",
-  "display_time": "2140",
-  "display_terminal": "1",
-  "display_gate": "A6F"
- },
- {
-  "Flight": "6E1002",
-  "Dest": "MAA",
-  "AirlineCode": "6E",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0245",
-  "display_date": "2024-07-08",
-  "display_time": "0310",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "6E1004",
-  "Dest": "MAA",
-  "AirlineCode": "6E",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1130",
-  "display_date": "2024-07-08",
-  "display_time": "1130",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "6E1006",
-  "Dest": "BLR",
-  "AirlineCode": "6E",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0530",
-  "display_date": "2024-07-08",
-  "display_time": "0610",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "6E1008",
-  "Dest": "TRZ",
-  "AirlineCode": "6E",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0455",
-  "display_date": "2024-07-08",
-  "display_time": "0455",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "6E1012",
-  "Dest": "BOM",
-  "AirlineCode": "6E",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1945",
-  "display_date": "2024-07-08",
-  "display_time": "2005",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "6E1014",
-  "Dest": "DEL",
-  "AirlineCode": "6E",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1945",
-  "display_date": "2024-07-08",
-  "display_time": "1945",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "6E1016",
-  "Dest": "CCU",
-  "AirlineCode": "6E",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0415",
-  "display_date": "2024-07-08",
-  "display_time": "0415",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "6E1028",
-  "Dest": "HYD",
-  "AirlineCode": "6E",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2220",
-  "display_date": "2024-07-08",
-  "display_time": "2220",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "6E4601",
-  "Dest": "BNE",
-  "AirlineCode": "6E",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "6E4604",
-  "Dest": "MEL",
-  "AirlineCode": "6E",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "6E4606",
-  "Dest": "MEL",
-  "AirlineCode": "6E",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "6E4608",
-  "Dest": "PER",
-  "AirlineCode": "6E",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1935",
-  "display_date": "2024-07-08",
-  "display_time": "1935",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "6E4674",
-  "Dest": "SYD",
-  "AirlineCode": "6E",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "7C4056",
-  "Dest": "PUS",
-  "AirlineCode": "7C",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0035",
-  "display_date": "2024-07-08",
-  "display_time": "0100",
-  "display_terminal": "4",
-  "display_gate": "G8"
- },
- {
-  "Flight": "8B152",
-  "Dest": "CGK",
-  "AirlineCode": "8B",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1145",
-  "display_date": "2024-07-08",
-  "display_time": "1145",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "8M232",
-  "Dest": "RGN",
-  "AirlineCode": "8M",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1350",
-  "display_date": "2024-07-08",
-  "display_time": "1350",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "8M234",
-  "Dest": "RGN",
-  "AirlineCode": "8M",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C11"
- },
- {
-  "Flight": "8M5309",
-  "Dest": "CMB",
-  "AirlineCode": "8M",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2010",
-  "display_date": "2024-07-08",
-  "display_time": "2010",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "8M6422",
-  "Dest": "BWN",
-  "AirlineCode": "8M",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1210",
-  "display_date": "2024-07-08",
-  "display_time": "1210",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "8M9514",
-  "Dest": "KUL",
-  "AirlineCode": "8M",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1105",
-  "display_date": "2024-07-08",
-  "display_time": "1105",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "8M9518",
-  "Dest": "KUL",
-  "AirlineCode": "8M",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1635",
-  "display_date": "2024-07-08",
-  "display_time": "1635",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "8M9534",
-  "Dest": "KUL",
-  "AirlineCode": "8M",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0620",
-  "display_date": "2024-07-08",
-  "display_time": "0620",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "8M9544",
-  "Dest": "KUL",
-  "AirlineCode": "8M",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1215",
-  "display_date": "2024-07-08",
-  "display_time": "1215",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "9C6480",
-  "Dest": "SWA",
-  "AirlineCode": "9C",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1610",
-  "display_date": "2024-07-08",
-  "display_time": "1610",
-  "display_terminal": "4",
-  "display_gate": "G13"
- },
- {
-  "Flight": "9C8550",
-  "Dest": "PVG",
-  "AirlineCode": "9C",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "4",
-  "display_gate": "G13"
- },
- {
-  "Flight": "A31201",
-  "Dest": "FRA",
-  "AirlineCode": "A3",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "A31205",
-  "Dest": "MXP",
-  "AirlineCode": "A3",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "A31207",
-  "Dest": "MUC",
-  "AirlineCode": "A3",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0030",
-  "display_date": "2024-07-08",
-  "display_time": "0030",
-  "display_terminal": "3",
-  "display_gate": "B8"
- },
- {
-  "Flight": "A31209",
-  "Dest": "SYD",
-  "AirlineCode": "A3",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "A31211",
-  "Dest": "SYD",
-  "AirlineCode": "A3",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0935",
-  "display_date": "2024-07-08",
-  "display_time": "0935",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "A31213",
-  "Dest": "SYD",
-  "AirlineCode": "A3",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2020",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "A31215",
-  "Dest": "MEL",
-  "AirlineCode": "A3",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1110",
-  "display_date": "2024-07-08",
-  "display_time": "1110",
-  "display_terminal": "3",
-  "display_gate": "B10"
- },
- {
-  "Flight": "A31217",
-  "Dest": "MEL",
-  "AirlineCode": "A3",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2200",
-  "display_date": "2024-07-08",
-  "display_time": "2200",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "A31221",
-  "Dest": "MEL",
-  "AirlineCode": "A3",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "A31228",
-  "Dest": "PER",
-  "AirlineCode": "A3",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "A31230",
-  "Dest": "MEL",
-  "AirlineCode": "A3",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2040",
-  "display_date": "2024-07-08",
-  "display_time": "2040",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "AA6836",
-  "Dest": "LHR",
-  "AirlineCode": "AA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2320",
-  "display_date": "2024-07-08",
-  "display_time": "2320",
-  "display_terminal": "1",
-  "display_gate": "C26"
- },
- {
-  "Flight": "AA6874",
-  "Dest": "LHR",
-  "AirlineCode": "AA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2235",
-  "display_date": "2024-07-08",
-  "display_time": "2235",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "AA8232",
-  "Dest": "DOH",
-  "AirlineCode": "AA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0245",
-  "display_date": "2024-07-08",
-  "display_time": "0245",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "AA8233",
-  "Dest": "DOH",
-  "AirlineCode": "AA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "AA8313",
-  "Dest": "DOH",
-  "AirlineCode": "AA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1030",
-  "display_date": "2024-07-08",
-  "display_time": "1030",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "AA8399",
-  "Dest": "HND",
-  "AirlineCode": "AA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2150",
-  "display_date": "2024-07-08",
-  "display_time": "2150",
-  "display_terminal": "1",
-  "display_gate": "C20"
- },
- {
-  "Flight": "AA8413",
-  "Dest": "NRT",
-  "AirlineCode": "AA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0805",
-  "display_date": "2024-07-08",
-  "display_time": "0805",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "AA8488",
-  "Dest": "HND",
-  "AirlineCode": "AA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0150",
-  "display_date": "2024-07-08",
-  "display_time": "0150",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "AC5841",
-  "Dest": "DAC",
-  "AirlineCode": "AC",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2035",
-  "display_date": "2024-07-08",
-  "display_time": "2035",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "AC5852",
-  "Dest": "PER",
-  "AirlineCode": "AC",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "AC5854",
-  "Dest": "PER",
-  "AirlineCode": "AC",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "AC5857",
-  "Dest": "BKK",
-  "AirlineCode": "AC",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "AC5859",
-  "Dest": "BKK",
-  "AirlineCode": "AC",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1250",
-  "display_date": "2024-07-08",
-  "display_time": "1250",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "AC5862",
-  "Dest": "SGN",
-  "AirlineCode": "AC",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "E12"
- },
- {
-  "Flight": "AC5865",
-  "Dest": "KUL",
-  "AirlineCode": "AC",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0910",
-  "display_date": "2024-07-08",
-  "display_time": "0910",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "AC5867",
-  "Dest": "PEN",
-  "AirlineCode": "AC",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "AC5868",
-  "Dest": "PNH",
-  "AirlineCode": "AC",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1200",
-  "display_date": "2024-07-08",
-  "display_time": "1200",
-  "display_terminal": "2",
-  "display_gate": "F54"
- },
- {
-  "Flight": "AC5870",
-  "Dest": "PNH",
-  "AirlineCode": "AC",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1630",
-  "display_date": "2024-07-08",
-  "display_time": "1630",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "AC5871",
-  "Dest": "CMB",
-  "AirlineCode": "AC",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2220",
-  "display_date": "2024-07-08",
-  "display_time": "2220",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "AC6227",
-  "Dest": "HND",
-  "AirlineCode": "AC",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2210",
-  "display_date": "2024-07-08",
-  "display_time": "2210",
-  "display_terminal": "2",
-  "display_gate": "E8"
- },
- {
-  "Flight": "AC6247",
-  "Dest": "NRT",
-  "AirlineCode": "AC",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0615",
-  "display_date": "2024-07-08",
-  "display_time": "0615",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "AC6296",
-  "Dest": "FRA",
-  "AirlineCode": "AC",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "AC6298",
-  "Dest": "LHR",
-  "AirlineCode": "AC",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0110",
-  "display_date": "2024-07-08",
-  "display_time": "0110",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "AC6300",
-  "Dest": "HKG",
-  "AirlineCode": "AC",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1530",
-  "display_date": "2024-07-08",
-  "display_time": "1530",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
-  "Flight": "AC6303",
-  "Dest": "HKG",
-  "AirlineCode": "AC",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1305",
-  "display_date": "2024-07-08",
-  "display_time": "1305",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "AC6304",
-  "Dest": "HKG",
-  "AirlineCode": "AC",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0940",
-  "display_date": "2024-07-08",
-  "display_time": "0940",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
-  "Flight": "AC6305",
-  "Dest": "ICN",
-  "AirlineCode": "AC",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "2",
-  "display_gate": "D41"
- },
- {
-  "Flight": "AC6307",
-  "Dest": "NRT",
-  "AirlineCode": "AC",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0940",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "AC6309",
-  "Dest": "NRT",
-  "AirlineCode": "AC",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "AC7419",
-  "Dest": "BKK",
-  "AirlineCode": "AC",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2050",
-  "display_date": "2024-07-08",
-  "display_time": "2050",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "AC7611",
-  "Dest": "DXB",
-  "AirlineCode": "AC",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0140",
-  "display_date": "2024-07-08",
-  "display_time": "0140",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "AF257",
-  "Dest": "CDG",
-  "AirlineCode": "AF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2235",
-  "display_date": "2024-07-08",
-  "display_time": "2235",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "AF3819",
-  "Dest": "AUH",
-  "AirlineCode": "AF",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2055",
-  "display_date": "2024-07-08",
-  "display_time": "2055",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "AF3916",
-  "Dest": "MEL",
-  "AirlineCode": "AF",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1110",
-  "display_date": "2024-07-08",
-  "display_time": "1110",
-  "display_terminal": "3",
-  "display_gate": "B10"
- },
- {
-  "Flight": "AF3929",
-  "Dest": "DPS",
-  "AirlineCode": "AF",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "AF3931",
-  "Dest": "CGK",
-  "AirlineCode": "AF",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "3",
-  "display_gate": "A16"
- },
- {
-  "Flight": "AF3992",
-  "Dest": "SUB",
-  "AirlineCode": "AF",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1855",
-  "display_date": "2024-07-08",
-  "display_time": "1855",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "AF4386",
-  "Dest": "USM",
-  "AirlineCode": "AF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "AF7005",
-  "Dest": "CRK",
-  "AirlineCode": "AF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1740",
-  "display_date": "2024-07-08",
-  "display_time": "1740",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "AF7230",
-  "Dest": "MEL",
-  "AirlineCode": "AF",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2040",
-  "display_date": "2024-07-08",
-  "display_time": "2040",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "AF7232",
-  "Dest": "SYD",
-  "AirlineCode": "AF",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2020",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "AF7239",
-  "Dest": "PEN",
-  "AirlineCode": "AF",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "AF7240",
-  "Dest": "PEN",
-  "AirlineCode": "AF",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "AF7241",
-  "Dest": "HKT",
-  "AirlineCode": "AF",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1000",
-  "display_date": "2024-07-08",
-  "display_time": "1000",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "AF7243",
-  "Dest": "KUL",
-  "AirlineCode": "AF",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1245",
-  "display_date": "2024-07-08",
-  "display_time": "1245",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "AF7244",
-  "Dest": "HKT",
-  "AirlineCode": "AF",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "AF7248",
-  "Dest": "KUL",
-  "AirlineCode": "AF",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "AF9586",
-  "Dest": "KUL",
-  "AirlineCode": "AF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "AF9588",
-  "Dest": "HKT",
-  "AirlineCode": "AF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1810",
-  "display_date": "2024-07-08",
-  "display_time": "1810",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "AF9589",
-  "Dest": "HKT",
-  "AirlineCode": "AF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1940",
-  "display_date": "2024-07-08",
-  "display_time": "1940",
-  "display_terminal": "4",
-  "display_gate": "G11"
- },
- {
-  "Flight": "AF9590",
-  "Dest": "SUB",
-  "AirlineCode": "AF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1210",
-  "display_date": "2024-07-08",
-  "display_time": "1210",
-  "display_terminal": "4",
-  "display_gate": "G13"
- },
- {
-  "Flight": "AF9594",
-  "Dest": "KUL",
-  "AirlineCode": "AF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1340",
-  "display_date": "2024-07-08",
-  "display_time": "1340",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "AF9600",
-  "Dest": "DPS",
-  "AirlineCode": "AF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1630",
-  "display_date": "2024-07-08",
-  "display_time": "1630",
-  "display_terminal": "4",
-  "display_gate": "G12"
- },
- {
-  "Flight": "AF9667",
-  "Dest": "MEL",
-  "AirlineCode": "AF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "AF9668",
-  "Dest": "BNE",
-  "AirlineCode": "AF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "AF9669",
-  "Dest": "PER",
-  "AirlineCode": "AF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1935",
-  "display_date": "2024-07-08",
-  "display_time": "1935",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "AF9704",
-  "Dest": "SYD",
-  "AirlineCode": "AF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "AI343",
-  "Dest": "BOM",
-  "AirlineCode": "AI",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1945",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "AI347",
-  "Dest": "MAA",
-  "AirlineCode": "AI",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "2",
-  "display_gate": "F53"
- },
- {
-  "Flight": "AI381",
-  "Dest": "DEL",
-  "AirlineCode": "AI",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0835",
-  "display_date": "2024-07-08",
-  "display_time": "0835",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "AI383",
-  "Dest": "DEL",
-  "AirlineCode": "AI",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2335",
-  "display_date": "2024-07-08",
-  "display_time": "2335",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "AI393",
-  "Dest": "BLR",
-  "AirlineCode": "AI",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "0915",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "AI7058",
-  "Dest": "TPE",
-  "AirlineCode": "AI",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1310",
-  "display_date": "2024-07-08",
-  "display_time": "1310",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "AI7060",
-  "Dest": "TPE",
-  "AirlineCode": "AI",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1510",
-  "display_date": "2024-07-08",
-  "display_time": "1510",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "AI7204",
-  "Dest": "SFO",
-  "AirlineCode": "AI",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "0915",
-  "display_terminal": "3",
-  "display_gate": "C20"
- },
- {
-  "Flight": "AI7206",
-  "Dest": "NRT",
-  "AirlineCode": "AI",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0940",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "AI7242",
-  "Dest": "BKK",
-  "AirlineCode": "AI",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "AI7244",
-  "Dest": "KUL",
-  "AirlineCode": "AI",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0910",
-  "display_date": "2024-07-08",
-  "display_time": "0910",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "AI7262",
-  "Dest": "CCU",
-  "AirlineCode": "AI",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2040",
-  "display_date": "2024-07-08",
-  "display_time": "2040",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "AK1310",
-  "Dest": "IPH",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1140",
-  "display_date": "2024-07-08",
-  "display_time": "1140",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "AK1314",
-  "Dest": "IPH",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1410",
-  "display_date": "2024-07-08",
-  "display_time": "1410",
-  "display_terminal": "4",
-  "display_gate": "G13"
- },
- {
-  "Flight": "AK1720",
-  "Dest": "PEN",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1125",
-  "display_date": "2024-07-08",
-  "display_time": "1125",
-  "display_terminal": "4",
-  "display_gate": "G15"
- },
- {
-  "Flight": "AK1722",
-  "Dest": "PEN",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1350",
-  "display_date": "2024-07-08",
-  "display_time": "1410",
-  "display_terminal": "4",
-  "display_gate": "G1"
- },
- {
-  "Flight": "AK1724",
-  "Dest": "PEN",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1735",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "4",
-  "display_gate": "G12"
- },
- {
-  "Flight": "AK1730",
-  "Dest": "PEN",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2140",
-  "display_date": "2024-07-08",
-  "display_time": "2300",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "AK1776",
-  "Dest": "KCH",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1145",
-  "display_date": "2024-07-08",
-  "display_time": "1145",
-  "display_terminal": "4",
-  "display_gate": "G8"
- },
- {
-  "Flight": "AK1794",
-  "Dest": "BKI",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1210",
-  "display_date": "2024-07-08",
-  "display_time": "1210",
-  "display_terminal": "4",
-  "display_gate": "G16"
- },
- {
-  "Flight": "AK700",
-  "Dest": "KUL",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0755",
-  "display_date": "2024-07-08",
-  "display_time": "0755",
-  "display_terminal": "4",
-  "display_gate": "G1"
- },
- {
-  "Flight": "AK702",
-  "Dest": "KUL",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0910",
-  "display_date": "2024-07-08",
-  "display_time": "0910",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "AK704",
-  "Dest": "KUL",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1030",
-  "display_date": "2024-07-08",
-  "display_time": "1030",
-  "display_terminal": "4",
-  "display_gate": "G11"
- },
- {
-  "Flight": "AK706",
-  "Dest": "KUL",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1130",
-  "display_date": "2024-07-08",
-  "display_time": "1130",
-  "display_terminal": "4",
-  "display_gate": "G4"
- },
- {
-  "Flight": "AK710",
-  "Dest": "KUL",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1330",
-  "display_date": "2024-07-08",
-  "display_time": "1400",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "AK712",
-  "Dest": "KUL",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1740",
-  "display_date": "2024-07-08",
-  "display_time": "1740",
-  "display_terminal": "4",
-  "display_gate": "G7"
- },
- {
-  "Flight": "AK714",
-  "Dest": "KUL",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1610",
-  "display_date": "2024-07-08",
-  "display_time": "1610",
-  "display_terminal": "4",
-  "display_gate": "G1"
- },
- {
-  "Flight": "AK716",
-  "Dest": "KUL",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1910",
-  "display_date": "2024-07-08",
-  "display_time": "1925",
-  "display_terminal": "4",
-  "display_gate": "G8"
- },
- {
-  "Flight": "AK718",
-  "Dest": "KUL",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2045",
-  "display_date": "2024-07-08",
-  "display_time": "2045",
-  "display_terminal": "4",
-  "display_gate": "G8"
- },
- {
-  "Flight": "AK720",
-  "Dest": "KUL",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2120",
-  "display_date": "2024-07-08",
-  "display_time": "2120",
-  "display_terminal": "4",
-  "display_gate": "G1"
- },
- {
-  "Flight": "AK733",
-  "Dest": "LGK",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1055",
-  "display_date": "2024-07-08",
-  "display_time": "1055",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "AS5774",
-  "Dest": "DOH",
-  "AirlineCode": "AS",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1030",
-  "display_date": "2024-07-08",
-  "display_time": "1030",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "AS5776",
-  "Dest": "DOH",
-  "AirlineCode": "AS",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0245",
-  "display_date": "2024-07-08",
-  "display_time": "0245",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "AS5778",
-  "Dest": "DOH",
-  "AirlineCode": "AS",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "AS7348",
-  "Dest": "HND",
-  "AirlineCode": "AS",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0150",
-  "display_date": "2024-07-08",
-  "display_time": "0150",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "AS7350",
-  "Dest": "HND",
-  "AirlineCode": "AS",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2150",
-  "display_date": "2024-07-08",
-  "display_time": "2150",
-  "display_terminal": "1",
-  "display_gate": "C20"
- },
- {
-  "Flight": "AS7352",
-  "Dest": "NRT",
-  "AirlineCode": "AS",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0805",
-  "display_date": "2024-07-08",
-  "display_time": "0805",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "AT5729",
-  "Dest": "DOH",
-  "AirlineCode": "AT",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "AT5731",
-  "Dest": "DOH",
-  "AirlineCode": "AT",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0245",
-  "display_date": "2024-07-08",
-  "display_time": "0245",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "AV6551",
-  "Dest": "LHR",
-  "AirlineCode": "AV",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "AV6553",
-  "Dest": "LHR",
-  "AirlineCode": "AV",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1235",
-  "display_date": "2024-07-08",
-  "display_time": "1300",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "AY132",
-  "Dest": "HEL",
-  "AirlineCode": "AY",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2145",
-  "display_date": "2024-07-08",
-  "display_time": "2145",
-  "display_terminal": "1",
-  "display_gate": "D42"
- },
- {
-  "Flight": "AY5007",
-  "Dest": "BNE",
-  "AirlineCode": "AY",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "AY5009",
-  "Dest": "PER",
-  "AirlineCode": "AY",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1935",
-  "display_date": "2024-07-08",
-  "display_time": "1935",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "AY5013",
-  "Dest": "MEL",
-  "AirlineCode": "AY",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "AY5019",
-  "Dest": "SYD",
-  "AirlineCode": "AY",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "AY5029",
-  "Dest": "MEL",
-  "AirlineCode": "AY",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "AY5915",
-  "Dest": "SYD",
-  "AirlineCode": "AY",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1925",
-  "display_date": "2024-07-08",
-  "display_time": "1925",
-  "display_terminal": "1",
-  "display_gate": "C1"
- },
- {
-  "Flight": "AY6373",
-  "Dest": "MNL",
-  "AirlineCode": "AY",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0215",
-  "display_date": "2024-07-08",
-  "display_time": "0215",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "AY6374",
-  "Dest": "BKK",
-  "AirlineCode": "AY",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "AY6379",
-  "Dest": "BKK",
-  "AirlineCode": "AY",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1915",
-  "display_terminal": "4",
-  "display_gate": "G1"
- },
- {
-  "Flight": "AY6409",
-  "Dest": "CGK",
-  "AirlineCode": "AY",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "4",
-  "display_gate": "G7"
- },
- {
-  "Flight": "AY6413",
-  "Dest": "SUB",
-  "AirlineCode": "AY",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1210",
-  "display_date": "2024-07-08",
-  "display_time": "1210",
-  "display_terminal": "4",
-  "display_gate": "G13"
- },
- {
-  "Flight": "AY6421",
-  "Dest": "MEL",
-  "AirlineCode": "AY",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "4",
-  "display_gate": "G18"
- },
- {
-  "Flight": "AY6611",
-  "Dest": "KUL",
-  "AirlineCode": "AY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2115",
-  "display_date": "2024-07-08",
-  "display_time": "2115",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "AY6617",
-  "Dest": "KUL",
-  "AirlineCode": "AY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1915",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "AY6623",
-  "Dest": "KUL",
-  "AirlineCode": "AY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1105",
-  "display_date": "2024-07-08",
-  "display_time": "1105",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "AY6629",
-  "Dest": "KUL",
-  "AirlineCode": "AY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1535",
-  "display_date": "2024-07-08",
-  "display_time": "1535",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "AY6631",
-  "Dest": "KUL",
-  "AirlineCode": "AY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1815",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "AY6643",
-  "Dest": "CMB",
-  "AirlineCode": "AY",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2010",
-  "display_date": "2024-07-08",
-  "display_time": "2010",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "AY6721",
-  "Dest": "KUL",
-  "AirlineCode": "AY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1215",
-  "display_date": "2024-07-08",
-  "display_time": "1215",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "AY6941",
-  "Dest": "USM",
-  "AirlineCode": "AY",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "B65584",
-  "Dest": "DOH",
-  "AirlineCode": "B6",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0245",
-  "display_date": "2024-07-08",
-  "display_time": "0245",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "B66533",
-  "Dest": "DOH",
-  "AirlineCode": "B6",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "B66541",
-  "Dest": "DOH",
-  "AirlineCode": "B6",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1030",
-  "display_date": "2024-07-08",
-  "display_time": "1030",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "BA12",
-  "Dest": "LHR",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2320",
-  "display_date": "2024-07-08",
-  "display_time": "2320",
-  "display_terminal": "1",
-  "display_gate": "C26"
- },
- {
-  "Flight": "BA15",
-  "Dest": "SYD",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1925",
-  "display_date": "2024-07-08",
-  "display_time": "1925",
-  "display_terminal": "1",
-  "display_gate": "C1"
- },
- {
-  "Flight": "BA16",
-  "Dest": "LHR",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2235",
-  "display_date": "2024-07-08",
-  "display_time": "2235",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "BA2170",
-  "Dest": "USM",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "BA2172",
-  "Dest": "USM",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "BA2307",
-  "Dest": "DOH",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1030",
-  "display_date": "2024-07-08",
-  "display_time": "1030",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "BA4495",
-  "Dest": "DOH",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0245",
-  "display_date": "2024-07-08",
-  "display_time": "0245",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "BA6177",
-  "Dest": "DOH",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "BA7400",
-  "Dest": "MEL",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "BA7402",
-  "Dest": "MEL",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "BA7404",
-  "Dest": "PER",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1935",
-  "display_date": "2024-07-08",
-  "display_time": "1935",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "BA7406",
-  "Dest": "BNE",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "BA7492",
-  "Dest": "SYD",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "BA7900",
-  "Dest": "KUL",
-  "AirlineCode": "BA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1815",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "BA7902",
-  "Dest": "KUL",
-  "AirlineCode": "BA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1915",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "BA7904",
-  "Dest": "KUL",
-  "AirlineCode": "BA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2115",
-  "display_date": "2024-07-08",
-  "display_time": "2115",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "BG585",
-  "Dest": "DAC",
-  "AirlineCode": "BG",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1550",
-  "display_date": "2024-07-08",
-  "display_time": "1550",
-  "display_terminal": "3",
-  "display_gate": "A9"
- },
- {
-  "Flight": "BI3326",
-  "Dest": "RGN",
-  "AirlineCode": "BI",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1350",
-  "display_date": "2024-07-08",
-  "display_time": "1350",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "BI422",
-  "Dest": "BWN",
-  "AirlineCode": "BI",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1210",
-  "display_date": "2024-07-08",
-  "display_time": "1210",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "BR216",
-  "Dest": "TPE",
-  "AirlineCode": "BR",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1510",
-  "display_date": "2024-07-08",
-  "display_time": "1510",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "BR2202",
-  "Dest": "TPE",
-  "AirlineCode": "BR",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0820",
-  "display_date": "2024-07-08",
-  "display_time": "0820",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "BR2204",
-  "Dest": "TPE",
-  "AirlineCode": "BR",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1145",
-  "display_date": "2024-07-08",
-  "display_time": "1145",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "BR226",
-  "Dest": "TPE",
-  "AirlineCode": "BR",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1310",
-  "display_date": "2024-07-08",
-  "display_time": "1310",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "BR6017",
-  "Dest": "HAN",
-  "AirlineCode": "BR",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0225",
-  "display_date": "2024-07-08",
-  "display_time": "0225",
-  "display_terminal": "3",
-  "display_gate": "A6F"
- },
- {
-  "Flight": "BS308",
-  "Dest": "DAC",
-  "AirlineCode": "BS",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0540",
-  "display_date": "2024-07-08",
-  "display_time": "0540",
-  "display_terminal": "3",
-  "display_gate": "A9"
- },
- {
-  "Flight": "CA3306",
-  "Dest": "SZX",
-  "AirlineCode": "CA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1740",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "1",
-  "display_gate": "C11"
- },
- {
-  "Flight": "CA3726",
-  "Dest": "SZX",
-  "AirlineCode": "CA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1200",
-  "display_date": "2024-07-08",
-  "display_time": "1200",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "CA404",
-  "Dest": "TFU",
-  "AirlineCode": "CA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1600",
-  "display_date": "2024-07-08",
-  "display_time": "1600",
-  "display_terminal": "1",
-  "display_gate": "D38"
- },
- {
-  "Flight": "CA450",
-  "Dest": "CKG",
-  "AirlineCode": "CA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1735",
-  "display_date": "2024-07-08",
-  "display_time": "1735",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "CA5255",
-  "Dest": "CKG",
-  "AirlineCode": "CA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2020",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "A20"
- },
- {
-  "Flight": "CA5263",
-  "Dest": "PVG",
-  "AirlineCode": "CA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1245",
-  "display_date": "2024-07-08",
-  "display_time": "1245",
-  "display_terminal": "3",
-  "display_gate": "B6"
- },
- {
-  "Flight": "CA5265",
-  "Dest": "PVG",
-  "AirlineCode": "CA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "CA5267",
-  "Dest": "PVG",
-  "AirlineCode": "CA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1725",
-  "display_date": "2024-07-08",
-  "display_time": "1725",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "CA5269",
-  "Dest": "MEL",
-  "AirlineCode": "CA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "CA5272",
-  "Dest": "CGK",
-  "AirlineCode": "CA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0925",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "CA5274",
-  "Dest": "KUL",
-  "AirlineCode": "CA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "CA5276",
-  "Dest": "DPS",
-  "AirlineCode": "CA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1610",
-  "display_date": "2024-07-08",
-  "display_time": "1610",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "CA5277",
-  "Dest": "BNE",
-  "AirlineCode": "CA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0955",
-  "display_date": "2024-07-08",
-  "display_time": "0955",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "CA5279",
-  "Dest": "PER",
-  "AirlineCode": "CA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "CA5282",
-  "Dest": "PEK",
-  "AirlineCode": "CA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1650",
-  "display_date": "2024-07-08",
-  "display_time": "1650",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "CA5284",
-  "Dest": "PEK",
-  "AirlineCode": "CA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "3",
-  "display_gate": "C22"
- },
- {
-  "Flight": "CA5287",
-  "Dest": "PVG",
-  "AirlineCode": "CA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0115",
-  "display_date": "2024-07-08",
-  "display_time": "0115",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "CA5290",
-  "Dest": "MLE",
-  "AirlineCode": "CA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2045",
-  "display_date": "2024-07-08",
-  "display_time": "2045",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "CA5296",
-  "Dest": "PEN",
-  "AirlineCode": "CA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "CA5298",
-  "Dest": "MLE",
-  "AirlineCode": "CA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1005",
-  "display_date": "2024-07-08",
-  "display_time": "1005",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "CA5299",
-  "Dest": "PVG",
-  "AirlineCode": "CA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0755",
-  "display_date": "2024-07-08",
-  "display_time": "0755",
-  "display_terminal": "3",
-  "display_gate": ""
- },
- {
-  "Flight": "CA776",
-  "Dest": "PEK",
-  "AirlineCode": "CA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1615",
-  "display_date": "2024-07-08",
-  "display_time": "1615",
-  "display_terminal": "1",
-  "display_gate": "D42"
- },
- {
-  "Flight": "CA826",
-  "Dest": "PVG",
-  "AirlineCode": "CA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1715",
-  "display_date": "2024-07-08",
-  "display_time": "1715",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "CA970",
-  "Dest": "PEK",
-  "AirlineCode": "CA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2325",
-  "display_date": "2024-07-08",
-  "display_time": "2325",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "CA976",
-  "Dest": "PEK",
-  "AirlineCode": "CA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "CI754",
-  "Dest": "TPE",
-  "AirlineCode": "CI",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1335",
-  "display_date": "2024-07-08",
-  "display_time": "1335",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "CI756",
-  "Dest": "TPE",
-  "AirlineCode": "CI",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0200",
-  "display_date": "2024-07-08",
-  "display_time": "0240",
-  "display_terminal": "3",
-  "display_gate": "A9"
- },
- {
-  "Flight": "CI9705",
-  "Dest": "SUB",
-  "AirlineCode": "CI",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1855",
-  "display_date": "2024-07-08",
-  "display_time": "1855",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "CX636",
-  "Dest": "HKG",
-  "AirlineCode": "CX",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2010",
-  "display_date": "2024-07-08",
-  "display_time": "2010",
-  "display_terminal": "4",
-  "display_gate": "G20"
- },
- {
-  "Flight": "CX658",
-  "Dest": "HKG",
-  "AirlineCode": "CX",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "4",
-  "display_gate": "G18"
- },
- {
-  "Flight": "CX690",
-  "Dest": "HKG",
-  "AirlineCode": "CX",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1255",
-  "display_date": "2024-07-08",
-  "display_time": "1255",
-  "display_terminal": "4",
-  "display_gate": "G18"
- },
- {
-  "Flight": "CX692",
-  "Dest": "HKG",
-  "AirlineCode": "CX",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0630",
-  "display_date": "2024-07-08",
-  "display_time": "0630",
-  "display_terminal": "4",
-  "display_gate": "G18"
- },
- {
-  "Flight": "CX710",
-  "Dest": "HKG",
-  "AirlineCode": "CX",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "4",
-  "display_gate": "G20"
- },
- {
-  "Flight": "CX712",
-  "Dest": "HKG",
-  "AirlineCode": "CX",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1325",
-  "display_date": "2024-07-08",
-  "display_time": "1340",
-  "display_terminal": "4",
-  "display_gate": "G19"
- },
- {
-  "Flight": "CX714",
-  "Dest": "HKG",
-  "AirlineCode": "CX",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0145",
-  "display_date": "2024-07-08",
-  "display_time": "0145",
-  "display_terminal": "4",
-  "display_gate": "G18"
- },
- {
-  "Flight": "CX716",
-  "Dest": "HKG",
-  "AirlineCode": "CX",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1800",
-  "display_date": "2024-07-08",
-  "display_time": "1800",
-  "display_terminal": "4",
-  "display_gate": "G20"
- },
- {
-  "Flight": "CX734",
-  "Dest": "HKG",
-  "AirlineCode": "CX",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1605",
-  "display_date": "2024-07-08",
-  "display_time": "1605",
-  "display_terminal": "4",
-  "display_gate": "G19"
- },
- {
-  "Flight": "CZ3040",
-  "Dest": "CAN",
-  "AirlineCode": "CZ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1750",
-  "display_date": "2024-07-08",
-  "display_time": "1750",
-  "display_terminal": "1",
-  "display_gate": "D30"
- },
- {
-  "Flight": "CZ352",
-  "Dest": "CAN",
-  "AirlineCode": "CZ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "1",
-  "display_gate": "C12"
- },
- {
-  "Flight": "CZ354",
-  "Dest": "CAN",
-  "AirlineCode": "CZ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1330",
-  "display_date": "2024-07-08",
-  "display_time": "1330",
-  "display_terminal": "1",
-  "display_gate": "D30"
- },
- {
-  "Flight": "CZ546",
-  "Dest": "CKG",
-  "AirlineCode": "CZ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1435",
-  "display_date": "2024-07-08",
-  "display_time": "1435",
-  "display_terminal": "1",
-  "display_gate": "D40"
- },
- {
-  "Flight": "CZ8048",
-  "Dest": "SZX",
-  "AirlineCode": "CZ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2050",
-  "display_date": "2024-07-08",
-  "display_time": "2050",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "CZ8490",
-  "Dest": "CAN",
-  "AirlineCode": "CZ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0355",
-  "display_date": "2024-07-08",
-  "display_time": "0355",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "DL7691",
-  "Dest": "ICN",
-  "AirlineCode": "DL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0110",
-  "display_date": "2024-07-08",
-  "display_time": "0110",
-  "display_terminal": "4",
-  "display_gate": "G19"
- },
- {
-  "Flight": "DL7993",
-  "Dest": "ICN",
-  "AirlineCode": "DL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1050",
-  "display_date": "2024-07-08",
-  "display_time": "1050",
-  "display_terminal": "4",
-  "display_gate": "G19"
- },
- {
-  "Flight": "DL9025",
-  "Dest": "ICN",
-  "AirlineCode": "DL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2230",
-  "display_date": "2024-07-08",
-  "display_time": "2230",
-  "display_terminal": "4",
-  "display_gate": "G21"
- },
- {
-  "Flight": "EK3461",
-  "Dest": "KUL",
-  "AirlineCode": "EK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2140",
-  "display_date": "2024-07-08",
-  "display_time": "2155",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "EK3462",
-  "Dest": "KUL",
-  "AirlineCode": "EK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1230",
-  "display_date": "2024-07-08",
-  "display_time": "1230",
-  "display_terminal": "3",
-  "display_gate": "A18"
- },
- {
-  "Flight": "EK348",
-  "Dest": "PNH",
-  "AirlineCode": "EK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1535",
-  "display_date": "2024-07-08",
-  "display_time": "1535",
-  "display_terminal": "1",
-  "display_gate": "C1"
- },
- {
-  "Flight": "EK349",
-  "Dest": "DXB",
-  "AirlineCode": "EK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0140",
-  "display_date": "2024-07-08",
-  "display_time": "0140",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "EK353",
-  "Dest": "DXB",
-  "AirlineCode": "EK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0050",
-  "display_date": "2024-07-08",
-  "display_time": "0050",
-  "display_terminal": "1",
-  "display_gate": "C26"
- },
- {
-  "Flight": "EK355",
-  "Dest": "DXB",
-  "AirlineCode": "EK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C25"
- },
- {
-  "Flight": "EK404",
-  "Dest": "MEL",
-  "AirlineCode": "EK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1025",
-  "display_date": "2024-07-08",
-  "display_time": "1025",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "EK405",
-  "Dest": "DXB",
-  "AirlineCode": "EK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0940",
-  "display_date": "2024-07-08",
-  "display_time": "0940",
-  "display_terminal": "1",
-  "display_gate": "C26"
- },
- {
-  "Flight": "EK4609",
-  "Dest": "USM",
-  "AirlineCode": "EK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "EK5022",
-  "Dest": "SYD",
-  "AirlineCode": "EK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "EK5032",
-  "Dest": "MEL",
-  "AirlineCode": "EK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "EK5036",
-  "Dest": "MEL",
-  "AirlineCode": "EK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "EK5052",
-  "Dest": "BNE",
-  "AirlineCode": "EK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "EK5058",
-  "Dest": "PER",
-  "AirlineCode": "EK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1935",
-  "display_date": "2024-07-08",
-  "display_time": "1935",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "EK7709",
-  "Dest": "KUL",
-  "AirlineCode": "EK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0700",
-  "display_date": "2024-07-08",
-  "display_time": "0700",
-  "display_terminal": "4",
-  "display_gate": "G12"
- },
- {
-  "Flight": "EK7711",
-  "Dest": "KUL",
-  "AirlineCode": "EK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1340",
-  "display_date": "2024-07-08",
-  "display_time": "1340",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "EK7713",
-  "Dest": "KUL",
-  "AirlineCode": "EK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "EK7717",
-  "Dest": "BKK",
-  "AirlineCode": "EK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "EK7719",
-  "Dest": "BKK",
-  "AirlineCode": "EK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1915",
-  "display_terminal": "4",
-  "display_gate": "G1"
- },
- {
-  "Flight": "EK7721",
-  "Dest": "BKK",
-  "AirlineCode": "EK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1350",
-  "display_date": "2024-07-08",
-  "display_time": "1350",
-  "display_terminal": "4",
-  "display_gate": "G11"
- },
- {
-  "Flight": "EK7733",
-  "Dest": "HKT",
-  "AirlineCode": "EK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1810",
-  "display_date": "2024-07-08",
-  "display_time": "1810",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "EK7735",
-  "Dest": "HKT",
-  "AirlineCode": "EK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1940",
-  "display_date": "2024-07-08",
-  "display_time": "1940",
-  "display_terminal": "4",
-  "display_gate": "G11"
- },
- {
-  "Flight": "EK7747",
-  "Dest": "PNH",
-  "AirlineCode": "EK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1325",
-  "display_date": "2024-07-08",
-  "display_time": "1325",
-  "display_terminal": "4",
-  "display_gate": "G14"
- },
- {
-  "Flight": "EK7764",
-  "Dest": "CGK",
-  "AirlineCode": "EK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "4",
-  "display_gate": "G13"
- },
- {
-  "Flight": "EK7766",
-  "Dest": "CGK",
-  "AirlineCode": "EK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "4",
-  "display_gate": "G7"
- },
- {
-  "Flight": "EK7784",
-  "Dest": "DPS",
-  "AirlineCode": "EK",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1630",
-  "display_date": "2024-07-08",
-  "display_time": "1630",
-  "display_terminal": "4",
-  "display_gate": "G12"
- },
- {
-  "Flight": "EK9820",
-  "Dest": "HKG",
-  "AirlineCode": "EK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0845",
-  "display_date": "2024-07-08",
-  "display_time": "0905",
-  "display_terminal": "1",
-  "display_gate": "D33F"
- },
- {
-  "Flight": "ET1301",
-  "Dest": "DXB",
-  "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1510",
-  "display_date": "2024-07-08",
-  "display_time": "1510",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "ET1303",
-  "Dest": "MEL",
-  "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0025",
-  "display_date": "2024-07-08",
-  "display_time": "0230",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
-  "Flight": "ET1307",
-  "Dest": "BKK",
-  "AirlineCode": "ET",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "ET1309",
-  "Dest": "ADL",
-  "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2310",
-  "display_date": "2024-07-08",
-  "display_time": "2310",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "ET1311",
-  "Dest": "BNE",
-  "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2130",
-  "display_date": "2024-07-08",
-  "display_time": "2130",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "ET1313",
-  "Dest": "MEL",
-  "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2200",
-  "display_date": "2024-07-08",
-  "display_time": "2200",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "ET1315",
-  "Dest": "PER",
-  "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "ET1317",
-  "Dest": "SYD",
-  "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2020",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "ET1319",
-  "Dest": "AKL",
-  "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2245",
-  "display_date": "2024-07-08",
-  "display_time": "2245",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "ET1321",
-  "Dest": "CHC",
-  "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1950",
-  "display_date": "2024-07-08",
-  "display_time": "1950",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "ET1323",
-  "Dest": "HKG",
-  "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "ET1327",
-  "Dest": "PVG",
-  "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1725",
-  "display_date": "2024-07-08",
-  "display_time": "1725",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "ET1331",
-  "Dest": "SGN",
-  "AirlineCode": "ET",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1715",
-  "display_date": "2024-07-08",
-  "display_time": "1715",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "ET1332",
-  "Dest": "CAN",
-  "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "ET1334",
-  "Dest": "HAN",
-  "AirlineCode": "ET",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0905",
-  "display_date": "2024-07-08",
-  "display_time": "0905",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "ET1338",
-  "Dest": "KUL",
-  "AirlineCode": "ET",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1625",
-  "display_date": "2024-07-08",
-  "display_time": "1625",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "ET1340",
-  "Dest": "PEK",
-  "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1650",
-  "display_date": "2024-07-08",
-  "display_time": "1650",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "ET1342",
-  "Dest": "HND",
-  "AirlineCode": "ET",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2250",
-  "display_date": "2024-07-08",
-  "display_time": "2250",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "ET1344",
-  "Dest": "NRT",
-  "AirlineCode": "ET",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "ET1346",
-  "Dest": "CAN",
-  "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2010",
-  "display_date": "2024-07-08",
-  "display_time": "2010",
-  "display_terminal": "3",
-  "display_gate": "A19"
- },
- {
-  "Flight": "ET639",
-  "Dest": "ADD",
-  "AirlineCode": "ET",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0200",
-  "display_date": "2024-07-08",
-  "display_time": "0200",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "EY497",
-  "Dest": "AUH",
-  "AirlineCode": "EY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2055",
-  "display_date": "2024-07-08",
-  "display_time": "2055",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "EY7175",
-  "Dest": "CMB",
-  "AirlineCode": "EY",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2010",
-  "display_date": "2024-07-08",
-  "display_time": "2010",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "EY7716",
-  "Dest": "USM",
-  "AirlineCode": "EY",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "EY7723",
-  "Dest": "USM",
-  "AirlineCode": "EY",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "EY8134",
-  "Dest": "CGK",
-  "AirlineCode": "EY",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1220",
-  "display_date": "2024-07-08",
-  "display_time": "1305",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "EY8135",
-  "Dest": "CGK",
-  "AirlineCode": "EY",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1545",
-  "display_date": "2024-07-08",
-  "display_time": "1615",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "EY8136",
-  "Dest": "CGK",
-  "AirlineCode": "EY",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "3",
-  "display_gate": "A16"
- },
- {
-  "Flight": "FD350",
-  "Dest": "DMK",
-  "AirlineCode": "FD",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2040",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "4",
-  "display_gate": "G12"
- },
- {
-  "Flight": "FD356",
-  "Dest": "DMK",
-  "AirlineCode": "FD",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1440",
-  "display_date": "2024-07-08",
-  "display_time": "1500",
-  "display_terminal": "4",
-  "display_gate": "G14"
- },
- {
-  "Flight": "FD358",
-  "Dest": "DMK",
-  "AirlineCode": "FD",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1015",
-  "display_date": "2024-07-08",
-  "display_time": "1015",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "FD377",
-  "Dest": "HKT",
-  "AirlineCode": "FD",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1315",
-  "display_date": "2024-07-08",
-  "display_time": "1315",
-  "display_terminal": "4",
-  "display_gate": "G8"
- },
- {
-  "Flight": "FJ5325",
-  "Dest": "MEL",
-  "AirlineCode": "FJ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "FJ5327",
-  "Dest": "MEL",
-  "AirlineCode": "FJ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "FJ5329",
-  "Dest": "BNE",
-  "AirlineCode": "FJ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "FJ5331",
-  "Dest": "PER",
-  "AirlineCode": "FJ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1935",
-  "display_date": "2024-07-08",
-  "display_time": "1935",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "FJ5359",
-  "Dest": "SYD",
-  "AirlineCode": "FJ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "FJ5432",
-  "Dest": "MEL",
-  "AirlineCode": "FJ",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "4",
-  "display_gate": "G18"
- },
- {
-  "Flight": "FJ5901",
-  "Dest": "LHR",
-  "AirlineCode": "FJ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "FJ5903",
-  "Dest": "FRA",
-  "AirlineCode": "FJ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "FJ5921",
-  "Dest": "HND",
-  "AirlineCode": "FJ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2250",
-  "display_date": "2024-07-08",
-  "display_time": "2250",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "FJ5923",
-  "Dest": "NRT",
-  "AirlineCode": "FJ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "FJ5931",
-  "Dest": "KIX",
-  "AirlineCode": "FJ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0125",
-  "display_date": "2024-07-08",
-  "display_time": "0125",
-  "display_terminal": "2",
-  "display_gate": "F59"
- },
- {
-  "Flight": "FJ5949",
-  "Dest": "LHR",
-  "AirlineCode": "FJ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0110",
-  "display_date": "2024-07-08",
-  "display_time": "0110",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "FJ5951",
-  "Dest": "KIX",
-  "AirlineCode": "FJ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1355",
-  "display_date": "2024-07-08",
-  "display_time": "1355",
-  "display_terminal": "2",
-  "display_gate": "E12"
- },
- {
-  "Flight": "FJ5953",
-  "Dest": "HND",
-  "AirlineCode": "FJ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1355",
-  "display_date": "2024-07-08",
-  "display_time": "1355",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "FJ5955",
-  "Dest": "LHR",
-  "AirlineCode": "FJ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "FJ5957",
-  "Dest": "LHR",
-  "AirlineCode": "FJ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1235",
-  "display_date": "2024-07-08",
-  "display_time": "1300",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "FJ5959",
-  "Dest": "FRA",
-  "AirlineCode": "FJ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "FJ5963",
-  "Dest": "HND",
-  "AirlineCode": "FJ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "2",
-  "display_gate": "F59"
- },
- {
-  "Flight": "FJ5965",
-  "Dest": "KIX",
-  "AirlineCode": "FJ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "FJ5985",
-  "Dest": "HEL",
-  "AirlineCode": "FJ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2145",
-  "display_date": "2024-07-08",
-  "display_time": "2145",
-  "display_terminal": "1",
-  "display_gate": "D42"
- },
- {
-  "Flight": "FX18",
-  "Dest": "IND",
-  "AirlineCode": "FX",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1720",
-  "display_terminal": "1",
-  "display_gate": "A6F"
- },
- {
-  "Flight": "FX5071",
-  "Dest": "SYD",
-  "AirlineCode": "FX",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0405",
-  "display_date": "2024-07-08",
-  "display_time": "0405",
-  "display_terminal": "1",
-  "display_gate": "A6F"
- },
- {
-  "Flight": "FX6024",
-  "Dest": "CAN",
-  "AirlineCode": "FX",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2135",
-  "display_date": "2024-07-08",
-  "display_time": "2135",
-  "display_terminal": "1",
-  "display_gate": "A6F"
- },
- {
-  "Flight": "FX6826",
-  "Dest": "CAN",
-  "AirlineCode": "FX",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2200",
-  "display_date": "2024-07-08",
-  "display_time": "2200",
-  "display_terminal": "1",
-  "display_gate": "A6F"
- },
- {
-  "Flight": "FY7320",
-  "Dest": "KUL",
-  "AirlineCode": "FY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0620",
-  "display_date": "2024-07-08",
-  "display_time": "0620",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "FY7324",
-  "Dest": "KUL",
-  "AirlineCode": "FY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1340",
-  "display_date": "2024-07-08",
-  "display_time": "1405",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "FY7326",
-  "Dest": "KUL",
-  "AirlineCode": "FY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1815",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "FY7328",
-  "Dest": "KUL",
-  "AirlineCode": "FY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2115",
-  "display_date": "2024-07-08",
-  "display_time": "2115",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "FY7330",
-  "Dest": "KUL",
-  "AirlineCode": "FY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1105",
-  "display_date": "2024-07-08",
-  "display_time": "1105",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "FY7332",
-  "Dest": "KUL",
-  "AirlineCode": "FY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1915",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "FY7334",
-  "Dest": "KUL",
-  "AirlineCode": "FY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1635",
-  "display_date": "2024-07-08",
-  "display_time": "1635",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "FY7336",
-  "Dest": "KUL",
-  "AirlineCode": "FY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1535",
-  "display_date": "2024-07-08",
-  "display_time": "1535",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "FY7338",
-  "Dest": "KUL",
-  "AirlineCode": "FY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1215",
-  "display_date": "2024-07-08",
-  "display_time": "1215",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "GA823",
-  "Dest": "CGK",
-  "AirlineCode": "GA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0725",
-  "display_date": "2024-07-08",
-  "display_time": "1000",
-  "display_terminal": "3",
-  "display_gate": "A18"
- },
- {
-  "Flight": "GA829",
-  "Dest": "CGK",
-  "AirlineCode": "GA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1220",
-  "display_date": "2024-07-08",
-  "display_time": "1305",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "GA833",
-  "Dest": "CGK",
-  "AirlineCode": "GA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1545",
-  "display_date": "2024-07-08",
-  "display_time": "1615",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "GA837",
-  "Dest": "CGK",
-  "AirlineCode": "GA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "3",
-  "display_gate": "A16"
- },
- {
-  "Flight": "GA843",
-  "Dest": "DPS",
-  "AirlineCode": "GA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "GA855",
-  "Dest": "SUB",
-  "AirlineCode": "GA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1855",
-  "display_date": "2024-07-08",
-  "display_time": "1855",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "GA8819",
-  "Dest": "CGK",
-  "AirlineCode": "GA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "3",
-  "display_gate": "B6"
- },
- {
-  "Flight": "GA8821",
-  "Dest": "XMN",
-  "AirlineCode": "GA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0855",
-  "display_date": "2024-07-08",
-  "display_time": "0855",
-  "display_terminal": "1",
-  "display_gate": "C2"
- },
- {
-  "Flight": "GA8950",
-  "Dest": "CGK",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0620",
-  "display_date": "2024-07-08",
-  "display_time": "0655",
-  "display_terminal": "2",
-  "display_gate": "F60"
- },
- {
-  "Flight": "GA8956",
-  "Dest": "CGK",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0925",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "GA8958",
-  "Dest": "CGK",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1230",
-  "display_date": "2024-07-08",
-  "display_time": "1230",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "GA8962",
-  "Dest": "CGK",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1625",
-  "display_date": "2024-07-08",
-  "display_time": "1625",
-  "display_terminal": "2",
-  "display_gate": "E8"
- },
- {
-  "Flight": "GA8964",
-  "Dest": "CGK",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1735",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "GA8968",
-  "Dest": "CGK",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2155",
-  "display_date": "2024-07-08",
-  "display_time": "2155",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "GA8970",
-  "Dest": "LHR",
-  "AirlineCode": "GA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "GA8972",
-  "Dest": "BOM",
-  "AirlineCode": "GA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "GA8976",
-  "Dest": "JNB",
-  "AirlineCode": "GA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0130",
-  "display_date": "2024-07-08",
-  "display_time": "0130",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "GA9070",
-  "Dest": "DPS",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "0915",
-  "display_terminal": "2",
-  "display_gate": "F54"
- },
- {
-  "Flight": "GA9072",
-  "Dest": "DPS",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1610",
-  "display_date": "2024-07-08",
-  "display_time": "1610",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "GA9074",
-  "Dest": "DPS",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1740",
-  "display_date": "2024-07-08",
-  "display_time": "1740",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "GA9602",
-  "Dest": "SGN",
-  "AirlineCode": "GA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1310",
-  "display_date": "2024-07-08",
-  "display_time": "1310",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "GA9604",
-  "Dest": "SGN",
-  "AirlineCode": "GA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1825",
-  "display_date": "2024-07-08",
-  "display_time": "1825",
-  "display_terminal": "3",
-  "display_gate": "A5"
- },
- {
-  "Flight": "GA9606",
-  "Dest": "HAN",
-  "AirlineCode": "GA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1305",
-  "display_date": "2024-07-08",
-  "display_time": "1305",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "GA9733",
-  "Dest": "FOC",
-  "AirlineCode": "GA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1505",
-  "display_date": "2024-07-08",
-  "display_time": "1700",
-  "display_terminal": "1",
-  "display_gate": "D35"
- },
- {
-  "Flight": "GA9735",
-  "Dest": "XMN",
-  "AirlineCode": "GA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1515",
-  "display_date": "2024-07-08",
-  "display_time": "1515",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "GA9740",
-  "Dest": "DPS",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0645",
-  "display_date": "2024-07-08",
-  "display_time": "0645",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "GA9742",
-  "Dest": "DPS",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2120",
-  "display_date": "2024-07-08",
-  "display_time": "2120",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "GA9744",
-  "Dest": "DPS",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0820",
-  "display_date": "2024-07-08",
-  "display_time": "0820",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "GA9904",
-  "Dest": "SUB",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "GA9906",
-  "Dest": "SUB",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1630",
-  "display_date": "2024-07-08",
-  "display_time": "1630",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "GA9908",
-  "Dest": "KNO",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0740",
-  "display_date": "2024-07-08",
-  "display_time": "0740",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "GA9910",
-  "Dest": "KNO",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "GA9997",
-  "Dest": "TPE",
-  "AirlineCode": "GA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1335",
-  "display_date": "2024-07-08",
-  "display_time": "1335",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "HA5007",
-  "Dest": "HND",
-  "AirlineCode": "HA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2150",
-  "display_date": "2024-07-08",
-  "display_time": "2150",
-  "display_terminal": "1",
-  "display_gate": "C20"
- },
- {
-  "Flight": "HA5009",
-  "Dest": "HND",
-  "AirlineCode": "HA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0150",
-  "display_date": "2024-07-08",
-  "display_time": "0150",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "HA5370",
-  "Dest": "NRT",
-  "AirlineCode": "HA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0805",
-  "display_date": "2024-07-08",
-  "display_time": "0805",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "HM6227",
-  "Dest": "CMB",
-  "AirlineCode": "HM",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2010",
-  "display_date": "2024-07-08",
-  "display_time": "2010",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "HO1602",
-  "Dest": "PVG",
-  "AirlineCode": "HO",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1600",
-  "display_date": "2024-07-08",
-  "display_time": "1600",
-  "display_terminal": "4",
-  "display_gate": "G18"
- },
- {
-  "Flight": "HO1606",
-  "Dest": "PVG",
-  "AirlineCode": "HO",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2255",
-  "display_date": "2024-07-08",
-  "display_time": "2255",
-  "display_terminal": "4",
-  "display_gate": "G8"
- },
- {
-  "Flight": "HO3512",
-  "Dest": "PVG",
-  "AirlineCode": "HO",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1635",
-  "display_date": "2024-07-08",
-  "display_time": "1635",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "HO3514",
-  "Dest": "PVG",
-  "AirlineCode": "HO",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1010",
-  "display_date": "2024-07-08",
-  "display_time": "1010",
-  "display_terminal": "3",
-  "display_gate": "B6"
- },
- {
-  "Flight": "IB7305",
-  "Dest": "LHR",
-  "AirlineCode": "IB",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2320",
-  "display_date": "2024-07-08",
-  "display_time": "2320",
-  "display_terminal": "1",
-  "display_gate": "C26"
- },
- {
-  "Flight": "IB7306",
-  "Dest": "SYD",
-  "AirlineCode": "IB",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1925",
-  "display_date": "2024-07-08",
-  "display_time": "1925",
-  "display_terminal": "1",
-  "display_gate": "C1"
- },
- {
-  "Flight": "IB7307",
-  "Dest": "LHR",
-  "AirlineCode": "IB",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2235",
-  "display_date": "2024-07-08",
-  "display_time": "2235",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "IB7957",
-  "Dest": "DOH",
-  "AirlineCode": "IB",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0245",
-  "display_date": "2024-07-08",
-  "display_time": "0245",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "IB7959",
-  "Dest": "DOH",
-  "AirlineCode": "IB",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "IB909",
-  "Dest": "DOH",
-  "AirlineCode": "IB",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1030",
-  "display_date": "2024-07-08",
-  "display_time": "1030",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "ID7134",
-  "Dest": "DPS",
-  "AirlineCode": "ID",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1615",
-  "display_date": "2024-07-08",
-  "display_time": "1615",
-  "display_terminal": "3",
-  "display_gate": "A21"
- },
- {
-  "Flight": "ID7146",
-  "Dest": "KNO",
-  "AirlineCode": "ID",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1400",
-  "display_date": "2024-07-08",
-  "display_time": "1400",
-  "display_terminal": "3",
-  "display_gate": "A16"
- },
- {
-  "Flight": "ID7150",
-  "Dest": "CGK",
-  "AirlineCode": "ID",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1730",
-  "display_date": "2024-07-08",
-  "display_time": "1800",
-  "display_terminal": "3",
-  "display_gate": "A20"
- },
- {
-  "Flight": "ID7152",
-  "Dest": "CGK",
-  "AirlineCode": "ID",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2120",
-  "display_date": "2024-07-08",
-  "display_time": "2120",
-  "display_terminal": "3",
-  "display_gate": "A9"
- },
- {
-  "Flight": "ID7154",
-  "Dest": "CGK",
-  "AirlineCode": "ID",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1125",
-  "display_date": "2024-07-08",
-  "display_time": "1125",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "ID7156",
-  "Dest": "CGK",
-  "AirlineCode": "ID",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1435",
-  "display_date": "2024-07-08",
-  "display_time": "1435",
-  "display_terminal": "3",
-  "display_gate": "A20"
- },
- {
-  "Flight": "ID7158",
-  "Dest": "CGK",
-  "AirlineCode": "ID",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2205",
-  "display_date": "2024-07-08",
-  "display_time": "2205",
-  "display_terminal": "3",
-  "display_gate": "A19"
- },
- {
-  "Flight": "IX681",
-  "Dest": "TRZ",
-  "AirlineCode": "IX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0040",
-  "display_date": "2024-07-08",
-  "display_time": "0040",
-  "display_terminal": "2",
-  "display_gate": "F53"
- },
- {
-  "Flight": "IX683",
-  "Dest": "IXM",
-  "AirlineCode": "IX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1000",
-  "display_date": "2024-07-08",
-  "display_time": "1640",
-  "display_terminal": "2",
-  "display_gate": "F54"
- },
- {
-  "Flight": "IX687",
-  "Dest": "MAA",
-  "AirlineCode": "IX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2150",
-  "display_date": "2024-07-09",
-  "display_time": "0530",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "IX689",
-  "Dest": "TRZ",
-  "AirlineCode": "IX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1130",
-  "display_date": "2024-07-08",
-  "display_time": "1220",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "JL36",
-  "Dest": "HND",
-  "AirlineCode": "JL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2150",
-  "display_date": "2024-07-08",
-  "display_time": "2150",
-  "display_terminal": "1",
-  "display_gate": "C20"
- },
- {
-  "Flight": "JL38",
-  "Dest": "HND",
-  "AirlineCode": "JL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0150",
-  "display_date": "2024-07-08",
-  "display_time": "0150",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "JL5732",
-  "Dest": "CMB",
-  "AirlineCode": "JL",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2010",
-  "display_date": "2024-07-08",
-  "display_time": "2010",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "JL712",
-  "Dest": "NRT",
-  "AirlineCode": "JL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0805",
-  "display_date": "2024-07-08",
-  "display_time": "0805",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "JL7883",
-  "Dest": "MEL",
-  "AirlineCode": "JL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "JL7887",
-  "Dest": "PER",
-  "AirlineCode": "JL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1935",
-  "display_date": "2024-07-08",
-  "display_time": "1935",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "JL7891",
-  "Dest": "MEL",
-  "AirlineCode": "JL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "JL7897",
-  "Dest": "BNE",
-  "AirlineCode": "JL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "JQ6036",
-  "Dest": "MEL",
-  "AirlineCode": "JQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "JQ6038",
-  "Dest": "MEL",
-  "AirlineCode": "JQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "JQ6052",
-  "Dest": "BNE",
-  "AirlineCode": "JQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "JQ6072",
-  "Dest": "PER",
-  "AirlineCode": "JQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1935",
-  "display_date": "2024-07-08",
-  "display_time": "1935",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "JQ8",
-  "Dest": "MEL",
-  "AirlineCode": "JQ",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "4",
-  "display_gate": "G18"
- },
- {
-  "Flight": "JU8340",
-  "Dest": "DOH",
-  "AirlineCode": "JU",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0245",
-  "display_date": "2024-07-08",
-  "display_time": "0245",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "JX772",
-  "Dest": "TPE",
-  "AirlineCode": "JX",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1400",
-  "display_date": "2024-07-08",
-  "display_time": "1400",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "K63650",
-  "Dest": "SGN",
-  "AirlineCode": "K6",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1310",
-  "display_date": "2024-07-08",
-  "display_time": "1310",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "K63654",
-  "Dest": "SGN",
-  "AirlineCode": "K6",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1825",
-  "display_date": "2024-07-08",
-  "display_time": "1825",
-  "display_terminal": "3",
-  "display_gate": "A5"
- },
- {
-  "Flight": "K63660",
-  "Dest": "HAN",
-  "AirlineCode": "K6",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1305",
-  "display_date": "2024-07-08",
-  "display_time": "1305",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "KE5470",
-  "Dest": "CMB",
-  "AirlineCode": "KE",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2010",
-  "display_date": "2024-07-08",
-  "display_time": "2010",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "KE644",
-  "Dest": "ICN",
-  "AirlineCode": "KE",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2230",
-  "display_date": "2024-07-08",
-  "display_time": "2230",
-  "display_terminal": "4",
-  "display_gate": "G21"
- },
- {
-  "Flight": "KE646",
-  "Dest": "ICN",
-  "AirlineCode": "KE",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0110",
-  "display_date": "2024-07-08",
-  "display_time": "0110",
-  "display_terminal": "4",
-  "display_gate": "G19"
- },
- {
-  "Flight": "KE648",
-  "Dest": "ICN",
-  "AirlineCode": "KE",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1050",
-  "display_date": "2024-07-08",
-  "display_time": "1050",
-  "display_terminal": "4",
-  "display_gate": "G19"
- },
- {
-  "Flight": "KL3723",
-  "Dest": "USM",
-  "AirlineCode": "KL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "KL3856",
-  "Dest": "KUL",
-  "AirlineCode": "KL",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1815",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "KL3989",
-  "Dest": "USM",
-  "AirlineCode": "KL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "KL4043",
-  "Dest": "CGK",
-  "AirlineCode": "KL",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "3",
-  "display_gate": "A16"
- },
- {
-  "Flight": "KL4057",
-  "Dest": "SUB",
-  "AirlineCode": "KL",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1855",
-  "display_date": "2024-07-08",
-  "display_time": "1855",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "KL4092",
-  "Dest": "KUL",
-  "AirlineCode": "KL",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2115",
-  "display_date": "2024-07-08",
-  "display_time": "2115",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "KL4125",
-  "Dest": "KUL",
-  "AirlineCode": "KL",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1915",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "KL4853",
-  "Dest": "BKK",
-  "AirlineCode": "KL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "KL4857",
-  "Dest": "CGK",
-  "AirlineCode": "KL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "4",
-  "display_gate": "G7"
- },
- {
-  "Flight": "KL4860",
-  "Dest": "HKT",
-  "AirlineCode": "KL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1940",
-  "display_date": "2024-07-08",
-  "display_time": "1940",
-  "display_terminal": "4",
-  "display_gate": "G11"
- },
- {
-  "Flight": "KL4862",
-  "Dest": "CRK",
-  "AirlineCode": "KL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1740",
-  "display_date": "2024-07-08",
-  "display_time": "1740",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "KL4865",
-  "Dest": "BKK",
-  "AirlineCode": "KL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1915",
-  "display_terminal": "4",
-  "display_gate": "G1"
- },
- {
-  "Flight": "KL4868",
-  "Dest": "PNH",
-  "AirlineCode": "KL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1325",
-  "display_date": "2024-07-08",
-  "display_time": "1325",
-  "display_terminal": "4",
-  "display_gate": "G14"
- },
- {
-  "Flight": "KL4875",
-  "Dest": "KUL",
-  "AirlineCode": "KL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "KL4877",
-  "Dest": "SUB",
-  "AirlineCode": "KL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1210",
-  "display_date": "2024-07-08",
-  "display_time": "1210",
-  "display_terminal": "4",
-  "display_gate": "G13"
- },
- {
-  "Flight": "KL4881",
-  "Dest": "SYD",
-  "AirlineCode": "KL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "KL4884",
-  "Dest": "BNE",
-  "AirlineCode": "KL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "KL4885",
-  "Dest": "PER",
-  "AirlineCode": "KL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1935",
-  "display_date": "2024-07-08",
-  "display_time": "1935",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "KL4886",
-  "Dest": "MEL",
-  "AirlineCode": "KL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "KL4898",
-  "Dest": "MEL",
-  "AirlineCode": "KL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "KL6064",
-  "Dest": "DPS",
-  "AirlineCode": "KL",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "KL835",
-  "Dest": "DPS",
-  "AirlineCode": "KL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1650",
-  "display_date": "2024-07-08",
-  "display_time": "1730",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "KL836",
-  "Dest": "AMS",
-  "AirlineCode": "KL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0040",
-  "display_date": "2024-07-08",
-  "display_time": "0040",
-  "display_terminal": "1",
-  "display_gate": "C20"
- },
- {
-  "Flight": "KU6843",
-  "Dest": "AUH",
-  "AirlineCode": "KU",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2055",
-  "display_date": "2024-07-08",
-  "display_time": "2055",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "KU6934",
-  "Dest": "BKK",
-  "AirlineCode": "KU",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2050",
-  "display_date": "2024-07-08",
-  "display_time": "2050",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "LA4881",
-  "Dest": "SYD",
-  "AirlineCode": "LA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "LA5274",
-  "Dest": "DOH",
-  "AirlineCode": "LA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0245",
-  "display_date": "2024-07-08",
-  "display_time": "0245",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "LA6068",
-  "Dest": "DOH",
-  "AirlineCode": "LA",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "LD326",
-  "Dest": "HKG",
-  "AirlineCode": "LD",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2130",
-  "display_date": "2024-07-08",
-  "display_time": "2130",
-  "display_terminal": "1",
-  "display_gate": "D33F"
- },
- {
-  "Flight": "LH4630",
-  "Dest": "USM",
-  "AirlineCode": "LH",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "LH7163",
-  "Dest": "AKL",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1840",
-  "display_date": "2024-07-08",
-  "display_time": "1840",
-  "display_terminal": "3",
-  "display_gate": "B6"
- },
- {
-  "Flight": "LH7167",
-  "Dest": "AKL",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0850",
-  "display_date": "2024-07-08",
-  "display_time": "0850",
-  "display_terminal": "3",
-  "display_gate": "A15"
- },
- {
-  "Flight": "LH7198",
-  "Dest": "CGK",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2155",
-  "display_date": "2024-07-08",
-  "display_time": "2155",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "LH7200",
-  "Dest": "DAD",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "1045",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "LH7202",
-  "Dest": "MNL",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1925",
-  "display_date": "2024-07-08",
-  "display_time": "1925",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "LH7204",
-  "Dest": "MEL",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0025",
-  "display_date": "2024-07-08",
-  "display_time": "0230",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
-  "Flight": "LH7206",
-  "Dest": "PER",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "LH7208",
-  "Dest": "SYD",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "LH7210",
-  "Dest": "CGK",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0925",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "LH7212",
-  "Dest": "DAD",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1400",
-  "display_date": "2024-07-08",
-  "display_time": "1400",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "LH7214",
-  "Dest": "DPS",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "0915",
-  "display_terminal": "2",
-  "display_gate": "F54"
- },
- {
-  "Flight": "LH7216",
-  "Dest": "DPS",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2120",
-  "display_date": "2024-07-08",
-  "display_time": "2120",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "LH7218",
-  "Dest": "BWN",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "LH7220",
-  "Dest": "SGN",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "E12"
- },
- {
-  "Flight": "LH7222",
-  "Dest": "SGN",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1715",
-  "display_date": "2024-07-08",
-  "display_time": "1715",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "LH7224",
-  "Dest": "HAN",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0905",
-  "display_date": "2024-07-08",
-  "display_time": "0905",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "LH7226",
-  "Dest": "CGK",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1735",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "LH7228",
-  "Dest": "KUL",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "LH7230",
-  "Dest": "CGK",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0620",
-  "display_date": "2024-07-08",
-  "display_time": "0655",
-  "display_terminal": "2",
-  "display_gate": "F60"
- },
- {
-  "Flight": "LH7232",
-  "Dest": "SUB",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "LH7234",
-  "Dest": "PEN",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "LH7236",
-  "Dest": "KNO",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0740",
-  "display_date": "2024-07-08",
-  "display_time": "0740",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "LH7238",
-  "Dest": "KNO",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "LH7240",
-  "Dest": "DRW",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "3",
-  "display_gate": "A20"
- },
- {
-  "Flight": "LH7242",
-  "Dest": "CNS",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0840",
-  "display_date": "2024-07-08",
-  "display_time": "0840",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "LH779",
-  "Dest": "FRA",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2340",
-  "display_date": "2024-07-08",
-  "display_time": "2340",
-  "display_terminal": "2",
-  "display_gate": "F60"
- },
- {
-  "Flight": "LH791",
-  "Dest": "MUC",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2325",
-  "display_date": "2024-07-08",
-  "display_time": "2325",
-  "display_terminal": "2",
-  "display_gate": "E12"
- },
- {
-  "Flight": "LH9752",
-  "Dest": "MEL",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "LH9754",
-  "Dest": "SYD",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0045",
-  "display_date": "2024-07-08",
-  "display_time": "0045",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "LH9758",
-  "Dest": "PNH",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0740",
-  "display_date": "2024-07-08",
-  "display_time": "0740",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "LH9763",
-  "Dest": "FRA",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "LH9765",
-  "Dest": "FRA",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "LH9766",
-  "Dest": "AKL",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2245",
-  "display_date": "2024-07-08",
-  "display_time": "2245",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "LH9770",
-  "Dest": "ADL",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2310",
-  "display_date": "2024-07-08",
-  "display_time": "2310",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "LH9772",
-  "Dest": "BNE",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2130",
-  "display_date": "2024-07-08",
-  "display_time": "2130",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "LH9774",
-  "Dest": "MEL",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2200",
-  "display_date": "2024-07-08",
-  "display_time": "2200",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "LH9776",
-  "Dest": "MEL",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1110",
-  "display_date": "2024-07-08",
-  "display_time": "1110",
-  "display_terminal": "3",
-  "display_gate": "B10"
- },
- {
-  "Flight": "LH9778",
-  "Dest": "CHC",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1950",
-  "display_date": "2024-07-08",
-  "display_time": "1950",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "LH9780",
-  "Dest": "SYD",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2020",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "LH9782",
-  "Dest": "BNE",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0955",
-  "display_date": "2024-07-08",
-  "display_time": "0955",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "LH9784",
-  "Dest": "SYD",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0935",
-  "display_date": "2024-07-08",
-  "display_time": "0935",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "LH9786",
-  "Dest": "PER",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "LH9788",
-  "Dest": "PER",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "LH9791",
-  "Dest": "MUC",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0030",
-  "display_date": "2024-07-08",
-  "display_time": "0030",
-  "display_terminal": "3",
-  "display_gate": "B8"
- },
- {
-  "Flight": "LH9792",
-  "Dest": "DPS",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1740",
-  "display_date": "2024-07-08",
-  "display_time": "1740",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "LH9794",
-  "Dest": "SAI",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0845",
-  "display_date": "2024-07-08",
-  "display_time": "0845",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "LH9796",
-  "Dest": "BNE",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0045",
-  "display_date": "2024-07-08",
-  "display_time": "0045",
-  "display_terminal": "3",
-  "display_gate": "A15"
- },
- {
-  "Flight": "LH9798",
-  "Dest": "HKT",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "LX177",
-  "Dest": "ZRH",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2335",
-  "display_date": "2024-07-08",
-  "display_time": "2335",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "LX9001",
-  "Dest": "ZRH",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0125",
-  "display_date": "2024-07-08",
-  "display_time": "0155",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "LX9002",
-  "Dest": "BNE",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0045",
-  "display_date": "2024-07-08",
-  "display_time": "0045",
-  "display_terminal": "3",
-  "display_gate": "A15"
- },
- {
-  "Flight": "LX9004",
-  "Dest": "KNO",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0740",
-  "display_date": "2024-07-08",
-  "display_time": "0740",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "LX9008",
-  "Dest": "KNO",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "LX9010",
-  "Dest": "CGK",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0925",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "LX9012",
-  "Dest": "MEL",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1110",
-  "display_date": "2024-07-08",
-  "display_time": "1110",
-  "display_terminal": "3",
-  "display_gate": "B10"
- },
- {
-  "Flight": "LX9014",
-  "Dest": "DRW",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "3",
-  "display_gate": "A20"
- },
- {
-  "Flight": "LX9016",
-  "Dest": "ADL",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2310",
-  "display_date": "2024-07-08",
-  "display_time": "2310",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "LX9018",
-  "Dest": "BNE",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2130",
-  "display_date": "2024-07-08",
-  "display_time": "2130",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "LX9020",
-  "Dest": "CNS",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0840",
-  "display_date": "2024-07-08",
-  "display_time": "0840",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "LX9022",
-  "Dest": "MEL",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "LX9024",
-  "Dest": "MEL",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2200",
-  "display_date": "2024-07-08",
-  "display_time": "2200",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "LX9026",
-  "Dest": "PER",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "LX9028",
-  "Dest": "SYD",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2020",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "LX9030",
-  "Dest": "AKL",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2245",
-  "display_date": "2024-07-08",
-  "display_time": "2245",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "LX9032",
-  "Dest": "CHC",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1950",
-  "display_date": "2024-07-08",
-  "display_time": "1950",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "LX9036",
-  "Dest": "HAN",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0905",
-  "display_date": "2024-07-08",
-  "display_time": "0905",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "LX9038",
-  "Dest": "SYD",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "LX9040",
-  "Dest": "PER",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "LX9042",
-  "Dest": "PER",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "LX9044",
-  "Dest": "KUL",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0705",
-  "display_date": "2024-07-08",
-  "display_time": "0705",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "LX9046",
-  "Dest": "SYD",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0935",
-  "display_date": "2024-07-08",
-  "display_time": "0935",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "LX9048",
-  "Dest": "DPS",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2120",
-  "display_date": "2024-07-08",
-  "display_time": "2120",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "LX9050",
-  "Dest": "DPS",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1610",
-  "display_date": "2024-07-08",
-  "display_time": "1610",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "LX9052",
-  "Dest": "KUL",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1245",
-  "display_date": "2024-07-08",
-  "display_time": "1245",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "LX9054",
-  "Dest": "DPS",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0820",
-  "display_date": "2024-07-08",
-  "display_time": "0820",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "LX9056",
-  "Dest": "PEN",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "LX9058",
-  "Dest": "HKT",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "LX9062",
-  "Dest": "BKK",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "LX9064",
-  "Dest": "KUL",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "LX9066",
-  "Dest": "BKK",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0710",
-  "display_date": "2024-07-08",
-  "display_time": "0710",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "LX9068",
-  "Dest": "CGK",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2155",
-  "display_date": "2024-07-08",
-  "display_time": "2155",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "LX9072",
-  "Dest": "MNL",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1925",
-  "display_date": "2024-07-08",
-  "display_time": "1925",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "LX9074",
-  "Dest": "MEL",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0025",
-  "display_date": "2024-07-08",
-  "display_time": "0230",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
-  "Flight": "LX9076",
-  "Dest": "PEN",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "LX9078",
-  "Dest": "KUL",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "LX9080",
-  "Dest": "PER",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "LX9082",
-  "Dest": "KUL",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0910",
-  "display_date": "2024-07-08",
-  "display_time": "0910",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "LX9084",
-  "Dest": "PNH",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0740",
-  "display_date": "2024-07-08",
-  "display_time": "0740",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "LX9086",
-  "Dest": "SGN",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "E12"
- },
- {
-  "Flight": "LX9088",
-  "Dest": "SYD",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0045",
-  "display_date": "2024-07-08",
-  "display_time": "0045",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "LX9090",
-  "Dest": "HKT",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0810",
-  "display_date": "2024-07-08",
-  "display_time": "0810",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "LX9092",
-  "Dest": "SAI",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0845",
-  "display_date": "2024-07-08",
-  "display_time": "0845",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "LX9094",
-  "Dest": "DAD",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "1045",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "LX9096",
-  "Dest": "BNE",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0955",
-  "display_date": "2024-07-08",
-  "display_time": "0955",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "LX9204",
-  "Dest": "BWN",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "LX9215",
-  "Dest": "BRU",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "B6"
- },
- {
-  "Flight": "LX9240",
-  "Dest": "SUB",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "LX9244",
-  "Dest": "SUB",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1630",
-  "display_date": "2024-07-08",
-  "display_time": "1630",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "MF852",
-  "Dest": "XMN",
-  "AirlineCode": "MF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1515",
-  "display_date": "2024-07-08",
-  "display_time": "1515",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "MF866",
-  "Dest": "FOC",
-  "AirlineCode": "MF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1505",
-  "display_date": "2024-07-08",
-  "display_time": "1700",
-  "display_terminal": "1",
-  "display_gate": "D35"
- },
- {
-  "Flight": "MF8664",
-  "Dest": "JJN",
-  "AirlineCode": "MF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1345",
-  "display_date": "2024-07-08",
-  "display_time": "1345",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "MF8704",
-  "Dest": "HGH",
-  "AirlineCode": "MF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1450",
-  "display_date": "2024-07-08",
-  "display_time": "1450",
-  "display_terminal": "1",
-  "display_gate": "D35"
- },
- {
-  "Flight": "MF886",
-  "Dest": "XMN",
-  "AirlineCode": "MF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0855",
-  "display_date": "2024-07-08",
-  "display_time": "0855",
-  "display_terminal": "1",
-  "display_gate": "C2"
- },
- {
-  "Flight": "MF9501",
-  "Dest": "CGK",
-  "AirlineCode": "MF",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "3",
-  "display_gate": "A16"
- },
- {
-  "Flight": "MF9503",
-  "Dest": "CGK",
-  "AirlineCode": "MF",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1545",
-  "display_date": "2024-07-08",
-  "display_time": "1615",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "MF9505",
-  "Dest": "CGK",
-  "AirlineCode": "MF",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1220",
-  "display_date": "2024-07-08",
-  "display_time": "1305",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "MF9509",
-  "Dest": "DPS",
-  "AirlineCode": "MF",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "MH5722",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0705",
-  "display_date": "2024-07-08",
-  "display_time": "0705",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "MH5724",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0910",
-  "display_date": "2024-07-08",
-  "display_time": "0910",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "MH5728",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1245",
-  "display_date": "2024-07-08",
-  "display_time": "1245",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "MH5732",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2000",
-  "display_date": "2024-07-08",
-  "display_time": "2000",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "MH5734",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1450",
-  "display_date": "2024-07-08",
-  "display_time": "1450",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "MH5738",
-  "Dest": "PEN",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "MH5740",
-  "Dest": "PEN",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "MH5742",
-  "Dest": "PEN",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1300",
-  "display_date": "2024-07-08",
-  "display_time": "1300",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "MH5744",
-  "Dest": "PEN",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1540",
-  "display_date": "2024-07-08",
-  "display_time": "1540",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "MH5746",
-  "Dest": "PEN",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "MH5754",
-  "Dest": "LHR",
-  "AirlineCode": "MH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0110",
-  "display_date": "2024-07-08",
-  "display_time": "0110",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "MH5758",
-  "Dest": "LHR",
-  "AirlineCode": "MH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "MH5760",
-  "Dest": "LHR",
-  "AirlineCode": "MH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1235",
-  "display_date": "2024-07-08",
-  "display_time": "1300",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "MH5762",
-  "Dest": "LHR",
-  "AirlineCode": "MH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "MH5764",
-  "Dest": "CPT",
-  "AirlineCode": "MH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0130",
-  "display_date": "2024-07-08",
-  "display_time": "0130",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "MH5806",
-  "Dest": "ZRH",
-  "AirlineCode": "MH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0125",
-  "display_date": "2024-07-08",
-  "display_time": "0155",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "MH5842",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1625",
-  "display_date": "2024-07-08",
-  "display_time": "1625",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "MH5844",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "MH5854",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "MH5856",
-  "Dest": "CPH",
-  "AirlineCode": "MH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "MH602",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0620",
-  "display_date": "2024-07-08",
-  "display_time": "0620",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "MH606",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1340",
-  "display_date": "2024-07-08",
-  "display_time": "1405",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "MH608",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1815",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "MH610",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2115",
-  "display_date": "2024-07-08",
-  "display_time": "2115",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "MH614",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1105",
-  "display_date": "2024-07-08",
-  "display_time": "1105",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "MH616",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1915",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "MH620",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1635",
-  "display_date": "2024-07-08",
-  "display_time": "1635",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "MH624",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1535",
-  "display_date": "2024-07-08",
-  "display_time": "1535",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "MH628",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1215",
-  "display_date": "2024-07-08",
-  "display_time": "1215",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "MK9719",
-  "Dest": "KUL",
-  "AirlineCode": "MK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0620",
-  "display_date": "2024-07-08",
-  "display_time": "0620",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "MU2070",
-  "Dest": "XIY",
-  "AirlineCode": "MU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1420",
-  "display_date": "2024-07-08",
-  "display_time": "1420",
-  "display_terminal": "3",
-  "display_gate": "A19"
- },
- {
-  "Flight": "MU2670",
-  "Dest": "NKG",
-  "AirlineCode": "MU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0250",
-  "display_date": "2024-07-08",
-  "display_time": "0250",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "MU3972",
-  "Dest": "PVG",
-  "AirlineCode": "MU",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1600",
-  "display_date": "2024-07-08",
-  "display_time": "1600",
-  "display_terminal": "4",
-  "display_gate": "G18"
- },
- {
-  "Flight": "MU3976",
-  "Dest": "PVG",
-  "AirlineCode": "MU",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2255",
-  "display_date": "2024-07-08",
-  "display_time": "2255",
-  "display_terminal": "4",
-  "display_gate": "G8"
- },
- {
-  "Flight": "MU4006",
-  "Dest": "MEL",
-  "AirlineCode": "MU",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "MU4008",
-  "Dest": "MEL",
-  "AirlineCode": "MU",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "MU4010",
-  "Dest": "BNE",
-  "AirlineCode": "MU",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "MU4012",
-  "Dest": "PER",
-  "AirlineCode": "MU",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1935",
-  "display_date": "2024-07-08",
-  "display_time": "1935",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "MU4900",
-  "Dest": "XMN",
-  "AirlineCode": "MU",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1515",
-  "display_date": "2024-07-08",
-  "display_time": "1515",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "MU4902",
-  "Dest": "XMN",
-  "AirlineCode": "MU",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0855",
-  "display_date": "2024-07-08",
-  "display_time": "0855",
-  "display_terminal": "1",
-  "display_gate": "C2"
- },
- {
-  "Flight": "MU4904",
-  "Dest": "FOC",
-  "AirlineCode": "MU",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1505",
-  "display_date": "2024-07-08",
-  "display_time": "1700",
-  "display_terminal": "1",
-  "display_gate": "D35"
- },
- {
-  "Flight": "MU5032",
-  "Dest": "PKX",
-  "AirlineCode": "MU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0055",
-  "display_date": "2024-07-08",
-  "display_time": "0130",
-  "display_terminal": "3",
-  "display_gate": "B10"
- },
- {
-  "Flight": "MU5082",
-  "Dest": "KMG",
-  "AirlineCode": "MU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1240",
-  "display_date": "2024-07-08",
-  "display_time": "1240",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "MU544",
-  "Dest": "PVG",
-  "AirlineCode": "MU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0055",
-  "display_date": "2024-07-08",
-  "display_time": "0055",
-  "display_terminal": "3",
-  "display_gate": "A18"
- },
- {
-  "Flight": "MU546",
-  "Dest": "PVG",
-  "AirlineCode": "MU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1010",
-  "display_date": "2024-07-08",
-  "display_time": "1010",
-  "display_terminal": "3",
-  "display_gate": "B6"
- },
- {
-  "Flight": "MU566",
-  "Dest": "PVG",
-  "AirlineCode": "MU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2310",
-  "display_date": "2024-07-08",
-  "display_time": "2310",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "MU568",
-  "Dest": "PVG",
-  "AirlineCode": "MU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1635",
-  "display_date": "2024-07-08",
-  "display_time": "1635",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "MU6018",
-  "Dest": "PVG",
-  "AirlineCode": "MU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "3",
-  "display_gate": "A21"
- },
- {
-  "Flight": "MU770",
-  "Dest": "HFE",
-  "AirlineCode": "MU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0300",
-  "display_date": "2024-07-08",
-  "display_time": "0330",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "NH5364",
-  "Dest": "HYD",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2000",
-  "display_date": "2024-07-08",
-  "display_time": "2000",
-  "display_terminal": "3",
-  "display_gate": "A13"
- },
- {
-  "Flight": "NH5366",
-  "Dest": "SYD",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2020",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "NH5368",
-  "Dest": "SYD",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "NH5370",
-  "Dest": "PER",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "NH5374",
-  "Dest": "ADL",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2310",
-  "display_date": "2024-07-08",
-  "display_time": "2310",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "NH5376",
-  "Dest": "BNE",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0955",
-  "display_date": "2024-07-08",
-  "display_time": "0955",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "NH5378",
-  "Dest": "CNS",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0840",
-  "display_date": "2024-07-08",
-  "display_time": "0840",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "NH5482",
-  "Dest": "DRW",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "3",
-  "display_gate": "A20"
- },
- {
-  "Flight": "NH5484",
-  "Dest": "MEL",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1110",
-  "display_date": "2024-07-08",
-  "display_time": "1110",
-  "display_terminal": "3",
-  "display_gate": "B10"
- },
- {
-  "Flight": "NH5486",
-  "Dest": "MEL",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "NH6250",
-  "Dest": "HND",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "2",
-  "display_gate": "F59"
- },
- {
-  "Flight": "NH6252",
-  "Dest": "NRT",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0940",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "NH6254",
-  "Dest": "NRT",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "NH6256",
-  "Dest": "HND",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1355",
-  "display_date": "2024-07-08",
-  "display_time": "1355",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "NH6258",
-  "Dest": "HND",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2250",
-  "display_date": "2024-07-08",
-  "display_time": "2250",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "NH6260",
-  "Dest": "KIX",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1355",
-  "display_date": "2024-07-08",
-  "display_time": "1355",
-  "display_terminal": "2",
-  "display_gate": "E12"
- },
- {
-  "Flight": "NH6264",
-  "Dest": "KIX",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0125",
-  "display_date": "2024-07-08",
-  "display_time": "0125",
-  "display_terminal": "2",
-  "display_gate": "F59"
- },
- {
-  "Flight": "NH6266",
-  "Dest": "KIX",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "NH6268",
-  "Dest": "NGO",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0120",
-  "display_date": "2024-07-08",
-  "display_time": "0120",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "NH6270",
-  "Dest": "FUK",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0120",
-  "display_date": "2024-07-08",
-  "display_time": "0120",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "NH6272",
-  "Dest": "CGK",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0925",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "NH6274",
-  "Dest": "JNB",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0130",
-  "display_date": "2024-07-08",
-  "display_time": "0130",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "NH6276",
-  "Dest": "BOM",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "NH6278",
-  "Dest": "DEL",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0235",
-  "display_date": "2024-07-08",
-  "display_time": "0235",
-  "display_terminal": "3",
-  "display_gate": "A13"
- },
- {
-  "Flight": "NH6280",
-  "Dest": "BLR",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2005",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "NH6282",
-  "Dest": "MAA",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2025",
-  "display_date": "2024-07-08",
-  "display_time": "2025",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "NH6284",
-  "Dest": "BOM",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0740",
-  "display_date": "2024-07-08",
-  "display_time": "0740",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "NH6286",
-  "Dest": "DEL",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1650",
-  "display_date": "2024-07-08",
-  "display_time": "1650",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "NH6288",
-  "Dest": "PNH",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0740",
-  "display_date": "2024-07-08",
-  "display_time": "0740",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "NH6290",
-  "Dest": "CCU",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2040",
-  "display_date": "2024-07-08",
-  "display_time": "2040",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "NH6296",
-  "Dest": "RGN",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0755",
-  "display_date": "2024-07-08",
-  "display_time": "0755",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "NH6298",
-  "Dest": "COK",
-  "AirlineCode": "NH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2000",
-  "display_date": "2024-07-08",
-  "display_time": "2000",
-  "display_terminal": "3",
-  "display_gate": "A18"
- },
- {
-  "Flight": "NH802",
-  "Dest": "NRT",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0615",
-  "display_date": "2024-07-08",
-  "display_time": "0615",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "NH842",
-  "Dest": "HND",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1105",
-  "display_date": "2024-07-08",
-  "display_time": "1105",
-  "display_terminal": "2",
-  "display_gate": "E8"
- },
- {
-  "Flight": "NH844",
-  "Dest": "HND",
-  "AirlineCode": "NH",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2210",
-  "display_date": "2024-07-08",
-  "display_time": "2210",
-  "display_terminal": "2",
-  "display_gate": "E8"
- },
- {
-  "Flight": "NQ4",
-  "Dest": "NRT",
-  "AirlineCode": "NQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0055",
-  "display_date": "2024-07-08",
-  "display_time": "0055",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "NX907",
-  "Dest": "MFM",
-  "AirlineCode": "NX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1700",
-  "display_date": "2024-07-08",
-  "display_time": "1800",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "NZ281",
-  "Dest": "AKL",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0850",
-  "display_date": "2024-07-08",
-  "display_time": "0850",
-  "display_terminal": "3",
-  "display_gate": "A15"
- },
- {
-  "Flight": "NZ283",
-  "Dest": "AKL",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1840",
-  "display_date": "2024-07-08",
-  "display_time": "1840",
-  "display_terminal": "3",
-  "display_gate": "B6"
- },
- {
-  "Flight": "NZ3202",
-  "Dest": "BOM",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0740",
-  "display_date": "2024-07-08",
-  "display_time": "0740",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "NZ3204",
-  "Dest": "BOM",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "NZ3208",
-  "Dest": "BLR",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2005",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "NZ3210",
-  "Dest": "CCU",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2040",
-  "display_date": "2024-07-08",
-  "display_time": "2040",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "NZ3212",
-  "Dest": "MAA",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2025",
-  "display_date": "2024-07-08",
-  "display_time": "2025",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "NZ3214",
-  "Dest": "BLR",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0840",
-  "display_date": "2024-07-08",
-  "display_time": "0840",
-  "display_terminal": "3",
-  "display_gate": "B8"
- },
- {
-  "Flight": "NZ3216",
-  "Dest": "MAA",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0840",
-  "display_date": "2024-07-08",
-  "display_time": "0840",
-  "display_terminal": "3",
-  "display_gate": "A19"
- },
- {
-  "Flight": "NZ3218",
-  "Dest": "HAN",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1505",
-  "display_date": "2024-07-08",
-  "display_time": "1505",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "NZ3232",
-  "Dest": "PEN",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "NZ3252",
-  "Dest": "HYD",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2000",
-  "display_date": "2024-07-08",
-  "display_time": "2000",
-  "display_terminal": "3",
-  "display_gate": "A13"
- },
- {
-  "Flight": "NZ3254",
-  "Dest": "COK",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2000",
-  "display_date": "2024-07-08",
-  "display_time": "2000",
-  "display_terminal": "3",
-  "display_gate": "A18"
- },
- {
-  "Flight": "NZ3258",
-  "Dest": "HYD",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0845",
-  "display_date": "2024-07-08",
-  "display_time": "0845",
-  "display_terminal": "3",
-  "display_gate": "A9"
- },
- {
-  "Flight": "NZ3274",
-  "Dest": "DXB",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1510",
-  "display_date": "2024-07-08",
-  "display_time": "1510",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "NZ3278",
-  "Dest": "CPT",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0130",
-  "display_date": "2024-07-08",
-  "display_time": "0130",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "NZ3285",
-  "Dest": "AKL",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2245",
-  "display_date": "2024-07-08",
-  "display_time": "2245",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "NZ3297",
-  "Dest": "CHC",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1950",
-  "display_date": "2024-07-08",
-  "display_time": "1950",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "NZ3306",
-  "Dest": "LHR",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0110",
-  "display_date": "2024-07-08",
-  "display_time": "0110",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "NZ3308",
-  "Dest": "LHR",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "NZ3312",
-  "Dest": "LGW",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "A5"
- },
- {
-  "Flight": "NZ3318",
-  "Dest": "LHR",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1235",
-  "display_date": "2024-07-08",
-  "display_time": "1300",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "NZ3322",
-  "Dest": "LHR",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "NZ3324",
-  "Dest": "AMS",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "C1"
- },
- {
-  "Flight": "NZ3326",
-  "Dest": "FRA",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "NZ3328",
-  "Dest": "MUC",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0030",
-  "display_date": "2024-07-08",
-  "display_time": "0030",
-  "display_terminal": "3",
-  "display_gate": "B8"
- },
- {
-  "Flight": "NZ3336",
-  "Dest": "FRA",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "NZ3346",
-  "Dest": "ZRH",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0125",
-  "display_date": "2024-07-08",
-  "display_time": "0155",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "NZ3352",
-  "Dest": "CPH",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "NZ3368",
-  "Dest": "MXP",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "NZ3382",
-  "Dest": "DEL",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0235",
-  "display_date": "2024-07-08",
-  "display_time": "0235",
-  "display_terminal": "3",
-  "display_gate": "A13"
- },
- {
-  "Flight": "NZ3386",
-  "Dest": "DEL",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1650",
-  "display_date": "2024-07-08",
-  "display_time": "1650",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "NZ3396",
-  "Dest": "CEB",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1055",
-  "display_date": "2024-07-08",
-  "display_time": "1055",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "NZ3400",
-  "Dest": "BWN",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "NZ3404",
-  "Dest": "KUL",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0705",
-  "display_date": "2024-07-08",
-  "display_time": "0705",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "NZ3408",
-  "Dest": "KUL",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0910",
-  "display_date": "2024-07-08",
-  "display_time": "0910",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "NZ3410",
-  "Dest": "KUL",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2000",
-  "display_date": "2024-07-08",
-  "display_time": "2000",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "NZ3414",
-  "Dest": "KUL",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1245",
-  "display_date": "2024-07-08",
-  "display_time": "1245",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "NZ3416",
-  "Dest": "KUL",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1450",
-  "display_date": "2024-07-08",
-  "display_time": "1450",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "NZ3422",
-  "Dest": "PEN",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "NZ3424",
-  "Dest": "PEN",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "NZ3426",
-  "Dest": "PEN",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1540",
-  "display_date": "2024-07-08",
-  "display_time": "1540",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "NZ3428",
-  "Dest": "PEN",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1300",
-  "display_date": "2024-07-08",
-  "display_time": "1300",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "NZ3430",
-  "Dest": "KUL",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "NZ3432",
-  "Dest": "KUL",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1625",
-  "display_date": "2024-07-08",
-  "display_time": "1625",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "NZ3434",
-  "Dest": "KUL",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "NZ3436",
-  "Dest": "MNL",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0920",
-  "display_date": "2024-07-08",
-  "display_time": "0920",
-  "display_terminal": "2",
-  "display_gate": "F60"
- },
- {
-  "Flight": "NZ3440",
-  "Dest": "PNH",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1630",
-  "display_date": "2024-07-08",
-  "display_time": "1630",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "NZ3442",
-  "Dest": "MNL",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1925",
-  "display_date": "2024-07-08",
-  "display_time": "1925",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "NZ3444",
-  "Dest": "CMB",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2220",
-  "display_date": "2024-07-08",
-  "display_time": "2220",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "NZ3446",
-  "Dest": "BKK",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0710",
-  "display_date": "2024-07-08",
-  "display_time": "0710",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "NZ3448",
-  "Dest": "BKK",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "NZ3450",
-  "Dest": "BKK",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1250",
-  "display_date": "2024-07-08",
-  "display_time": "1250",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "NZ3452",
-  "Dest": "BKK",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1600",
-  "display_date": "2024-07-08",
-  "display_time": "1600",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "NZ3454",
-  "Dest": "BKK",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "NZ3456",
-  "Dest": "SGN",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "E12"
- },
- {
-  "Flight": "NZ3458",
-  "Dest": "HAN",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0905",
-  "display_date": "2024-07-08",
-  "display_time": "0905",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "NZ3460",
-  "Dest": "SGN",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1715",
-  "display_date": "2024-07-08",
-  "display_time": "1715",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "NZ3462",
-  "Dest": "SGN",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1330",
-  "display_date": "2024-07-08",
-  "display_time": "1330",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "NZ3464",
-  "Dest": "BKK",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1730",
-  "display_date": "2024-07-08",
-  "display_time": "1730",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "NZ3468",
-  "Dest": "DAD",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "1045",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "NZ3470",
-  "Dest": "DAD",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1400",
-  "display_date": "2024-07-08",
-  "display_time": "1400",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "NZ3476",
-  "Dest": "HKT",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1000",
-  "display_date": "2024-07-08",
-  "display_time": "1000",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "NZ3478",
-  "Dest": "PNH",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0740",
-  "display_date": "2024-07-08",
-  "display_time": "0740",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "NZ3482",
-  "Dest": "PNH",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1200",
-  "display_date": "2024-07-08",
-  "display_time": "1200",
-  "display_terminal": "2",
-  "display_gate": "F54"
- },
- {
-  "Flight": "NZ3484",
-  "Dest": "SAI",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0845",
-  "display_date": "2024-07-08",
-  "display_time": "0845",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "NZ3492",
-  "Dest": "HKT",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0810",
-  "display_date": "2024-07-08",
-  "display_time": "0810",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "NZ3494",
-  "Dest": "HKT",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1315",
-  "display_date": "2024-07-08",
-  "display_time": "1315",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "NZ3496",
-  "Dest": "HKT",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1620",
-  "display_date": "2024-07-08",
-  "display_time": "1620",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "NZ3498",
-  "Dest": "HKT",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "O3106",
-  "Dest": "SZX",
-  "AirlineCode": "O3",
-  "DTerm": "0",
-  "Date": "2024-07-08",
-  "Time": "0315",
-  "display_date": "2024-07-08",
-  "display_time": "0315",
-  "display_terminal": "0",
-  "display_gate": "A6F"
- },
- {
-  "Flight": "OD802",
-  "Dest": "KUL",
-  "AirlineCode": "OD",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1020",
-  "display_date": "2024-07-08",
-  "display_time": "1020",
-  "display_terminal": "3",
-  "display_gate": "A20"
- },
- {
-  "Flight": "OD804",
-  "Dest": "KUL",
-  "AirlineCode": "OD",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1230",
-  "display_date": "2024-07-08",
-  "display_time": "1230",
-  "display_terminal": "3",
-  "display_gate": "A18"
- },
- {
-  "Flight": "OD806",
-  "Dest": "KUL",
-  "AirlineCode": "OD",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2140",
-  "display_date": "2024-07-08",
-  "display_time": "2155",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "OD808",
-  "Dest": "KUL",
-  "AirlineCode": "OD",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1710",
-  "display_date": "2024-07-08",
-  "display_time": "1710",
-  "display_terminal": "3",
-  "display_gate": "A19"
- },
- {
-  "Flight": "OM5502",
-  "Dest": "NRT",
-  "AirlineCode": "OM",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0805",
-  "display_date": "2024-07-08",
-  "display_time": "0805",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "OM6234",
-  "Dest": "ICN",
-  "AirlineCode": "OM",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1050",
-  "display_date": "2024-07-08",
-  "display_time": "1050",
-  "display_terminal": "4",
-  "display_gate": "G19"
- },
- {
-  "Flight": "OQ2096",
-  "Dest": "CKG",
-  "AirlineCode": "OQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1435",
-  "display_date": "2024-07-08",
-  "display_time": "1435",
-  "display_terminal": "1",
-  "display_gate": "D40"
- },
- {
-  "Flight": "OS8610",
-  "Dest": "BKK",
-  "AirlineCode": "OS",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2050",
-  "display_date": "2024-07-08",
-  "display_time": "2050",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "OU5803",
-  "Dest": "LHR",
-  "AirlineCode": "OU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "OU5805",
-  "Dest": "FRA",
-  "AirlineCode": "OU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "OU5807",
-  "Dest": "CPH",
-  "AirlineCode": "OU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "OU5809",
-  "Dest": "FRA",
-  "AirlineCode": "OU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "OU5813",
-  "Dest": "MUC",
-  "AirlineCode": "OU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0030",
-  "display_date": "2024-07-08",
-  "display_time": "0030",
-  "display_terminal": "3",
-  "display_gate": "B8"
- },
- {
-  "Flight": "OU5815",
-  "Dest": "ZRH",
-  "AirlineCode": "OU",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0125",
-  "display_date": "2024-07-08",
-  "display_time": "0155",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "OZ6724",
-  "Dest": "DPS",
-  "AirlineCode": "OZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0645",
-  "display_date": "2024-07-08",
-  "display_time": "0645",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "OZ6726",
-  "Dest": "ICN",
-  "AirlineCode": "OZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0225",
-  "display_date": "2024-07-08",
-  "display_time": "0225",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "OZ6734",
-  "Dest": "KUL",
-  "AirlineCode": "OZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0705",
-  "display_date": "2024-07-08",
-  "display_time": "0705",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "OZ6782",
-  "Dest": "ICN",
-  "AirlineCode": "OZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0010",
-  "display_date": "2024-07-08",
-  "display_time": "0010",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "OZ6784",
-  "Dest": "ICN",
-  "AirlineCode": "OZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1445",
-  "display_date": "2024-07-08",
-  "display_time": "1445",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "OZ6786",
-  "Dest": "PUS",
-  "AirlineCode": "OZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2305",
-  "display_date": "2024-07-08",
-  "display_time": "2305",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "OZ6790",
-  "Dest": "ICN",
-  "AirlineCode": "OZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "2",
-  "display_gate": "D41"
- },
- {
-  "Flight": "OZ6792",
-  "Dest": "CPT",
-  "AirlineCode": "OZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0130",
-  "display_date": "2024-07-08",
-  "display_time": "0130",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "OZ6796",
-  "Dest": "CGK",
-  "AirlineCode": "OZ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1735",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "OZ6797",
-  "Dest": "PER",
-  "AirlineCode": "OZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "OZ6799",
-  "Dest": "AKL",
-  "AirlineCode": "OZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2245",
-  "display_date": "2024-07-08",
-  "display_time": "2245",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "OZ752",
-  "Dest": "ICN",
-  "AirlineCode": "OZ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2250",
-  "display_date": "2024-07-08",
-  "display_time": "2250",
-  "display_terminal": "3",
-  "display_gate": "A13"
- },
- {
-  "Flight": "PG4307",
-  "Dest": "CGK",
-  "AirlineCode": "PG",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "3",
-  "display_gate": "A16"
- },
- {
-  "Flight": "PG4375",
-  "Dest": "CGK",
-  "AirlineCode": "PG",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1545",
-  "display_date": "2024-07-08",
-  "display_time": "1615",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "PG4527",
-  "Dest": "MEL",
-  "AirlineCode": "PG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "PG4533",
-  "Dest": "SYD",
-  "AirlineCode": "PG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "PG4539",
-  "Dest": "BNE",
-  "AirlineCode": "PG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "PG4541",
-  "Dest": "MEL",
-  "AirlineCode": "PG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "PG4543",
-  "Dest": "PER",
-  "AirlineCode": "PG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1935",
-  "display_date": "2024-07-08",
-  "display_time": "1935",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "PG4702",
-  "Dest": "BKK",
-  "AirlineCode": "PG",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0710",
-  "display_date": "2024-07-08",
-  "display_time": "0710",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "PG4704",
-  "Dest": "BKK",
-  "AirlineCode": "PG",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "PG4706",
-  "Dest": "BKK",
-  "AirlineCode": "PG",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1250",
-  "display_date": "2024-07-08",
-  "display_time": "1250",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "PG4708",
-  "Dest": "BKK",
-  "AirlineCode": "PG",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1600",
-  "display_date": "2024-07-08",
-  "display_time": "1600",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "PG4710",
-  "Dest": "BKK",
-  "AirlineCode": "PG",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1730",
-  "display_date": "2024-07-08",
-  "display_time": "1730",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "PG4712",
-  "Dest": "BKK",
-  "AirlineCode": "PG",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "PG4716",
-  "Dest": "HKT",
-  "AirlineCode": "PG",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0810",
-  "display_date": "2024-07-08",
-  "display_time": "0810",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "PG4718",
-  "Dest": "HKT",
-  "AirlineCode": "PG",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1000",
-  "display_date": "2024-07-08",
-  "display_time": "1000",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "PG4722",
-  "Dest": "HKT",
-  "AirlineCode": "PG",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1620",
-  "display_date": "2024-07-08",
-  "display_time": "1620",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "PG4724",
-  "Dest": "HKT",
-  "AirlineCode": "PG",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "PG4726",
-  "Dest": "HKT",
-  "AirlineCode": "PG",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1315",
-  "display_date": "2024-07-08",
-  "display_time": "1315",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "PG4729",
-  "Dest": "SYD",
-  "AirlineCode": "PG",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0045",
-  "display_date": "2024-07-08",
-  "display_time": "0045",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "PG4731",
-  "Dest": "SYD",
-  "AirlineCode": "PG",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2020",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "PG4735",
-  "Dest": "ADL",
-  "AirlineCode": "PG",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2310",
-  "display_date": "2024-07-08",
-  "display_time": "2310",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "PG4739",
-  "Dest": "AKL",
-  "AirlineCode": "PG",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2245",
-  "display_date": "2024-07-08",
-  "display_time": "2245",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "PG962",
-  "Dest": "USM",
-  "AirlineCode": "PG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "PG968",
-  "Dest": "USM",
-  "AirlineCode": "PG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "PR3830",
-  "Dest": "CDG",
-  "AirlineCode": "PR",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1355",
-  "display_date": "2024-07-08",
-  "display_time": "1355",
-  "display_terminal": "3",
-  "display_gate": "A13"
- },
- {
-  "Flight": "PR3832",
-  "Dest": "CDG",
-  "AirlineCode": "PR",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0015",
-  "display_date": "2024-07-08",
-  "display_time": "0015",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "PR3834",
-  "Dest": "CPH",
-  "AirlineCode": "PR",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "PR3838",
-  "Dest": "FRA",
-  "AirlineCode": "PR",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "PR3842",
-  "Dest": "FRA",
-  "AirlineCode": "PR",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "PR3844",
-  "Dest": "MXP",
-  "AirlineCode": "PR",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "PR3848",
-  "Dest": "ZRH",
-  "AirlineCode": "PR",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0125",
-  "display_date": "2024-07-08",
-  "display_time": "0155",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "PR3852",
-  "Dest": "MNL",
-  "AirlineCode": "PR",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0920",
-  "display_date": "2024-07-08",
-  "display_time": "0920",
-  "display_terminal": "2",
-  "display_gate": "F60"
- },
- {
-  "Flight": "PR3854",
-  "Dest": "MNL",
-  "AirlineCode": "PR",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1330",
-  "display_date": "2024-07-08",
-  "display_time": "1330",
-  "display_terminal": "2",
-  "display_gate": "F59"
- },
- {
-  "Flight": "PR3856",
-  "Dest": "MNL",
-  "AirlineCode": "PR",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1925",
-  "display_date": "2024-07-08",
-  "display_time": "1925",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "PR502",
-  "Dest": "MNL",
-  "AirlineCode": "PR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1040",
-  "display_date": "2024-07-08",
-  "display_time": "1215",
-  "display_terminal": "1",
-  "display_gate": "D35"
- },
- {
-  "Flight": "PR508",
-  "Dest": "MNL",
-  "AirlineCode": "PR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1430",
-  "display_date": "2024-07-08",
-  "display_time": "1430",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "PR510",
-  "Dest": "MNL",
-  "AirlineCode": "PR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0030",
-  "display_date": "2024-07-08",
-  "display_time": "0030",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "PR512",
-  "Dest": "MNL",
-  "AirlineCode": "PR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1950",
-  "display_date": "2024-07-08",
-  "display_time": "1950",
-  "display_terminal": "1",
-  "display_gate": ""
- },
- {
-  "Flight": "PX393",
-  "Dest": "POM",
-  "AirlineCode": "PX",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2035",
-  "display_date": "2024-07-08",
-  "display_time": "2035",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "QF1",
-  "Dest": "LHR",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2315",
-  "display_date": "2024-07-08",
-  "display_time": "2315",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "QF2",
-  "Dest": "SYD",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "QF292",
-  "Dest": "SYD",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "QF3423",
-  "Dest": "CMB",
-  "AirlineCode": "QF",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2010",
-  "display_date": "2024-07-08",
-  "display_time": "2010",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "QF3440",
-  "Dest": "USM",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "QF3498",
-  "Dest": "USM",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "QF36",
-  "Dest": "MEL",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "QF38",
-  "Dest": "MEL",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "QF3875",
-  "Dest": "HEL",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2145",
-  "display_date": "2024-07-08",
-  "display_time": "2145",
-  "display_terminal": "1",
-  "display_gate": "D42"
- },
- {
-  "Flight": "QF4017",
-  "Dest": "HND",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0150",
-  "display_date": "2024-07-08",
-  "display_time": "0150",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "QF4021",
-  "Dest": "NRT",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0805",
-  "display_date": "2024-07-08",
-  "display_time": "0805",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "QF4025",
-  "Dest": "HND",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2150",
-  "display_date": "2024-07-08",
-  "display_time": "2150",
-  "display_terminal": "1",
-  "display_gate": "C20"
- },
- {
-  "Flight": "QF5135",
-  "Dest": "WUX",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0625",
-  "display_date": "2024-07-08",
-  "display_time": "0625",
-  "display_terminal": "4",
-  "display_gate": "G7"
- },
- {
-  "Flight": "QF5139",
-  "Dest": "HAK",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0725",
-  "display_date": "2024-07-08",
-  "display_time": "0725",
-  "display_terminal": "4",
-  "display_gate": "G6"
- },
- {
-  "Flight": "QF5147",
-  "Dest": "DPS",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1630",
-  "display_date": "2024-07-08",
-  "display_time": "1630",
-  "display_terminal": "4",
-  "display_gate": "G12"
- },
- {
-  "Flight": "QF5149",
-  "Dest": "DPS",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1050",
-  "display_date": "2024-07-08",
-  "display_time": "1050",
-  "display_terminal": "4",
-  "display_gate": "G5"
- },
- {
-  "Flight": "QF5163",
-  "Dest": "PNH",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1325",
-  "display_date": "2024-07-08",
-  "display_time": "1325",
-  "display_terminal": "4",
-  "display_gate": "G14"
- },
- {
-  "Flight": "QF5165",
-  "Dest": "BKK",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "QF5167",
-  "Dest": "BKK",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1915",
-  "display_terminal": "4",
-  "display_gate": "G1"
- },
- {
-  "Flight": "QF5169",
-  "Dest": "BKK",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1350",
-  "display_date": "2024-07-08",
-  "display_time": "1350",
-  "display_terminal": "4",
-  "display_gate": "G11"
- },
- {
-  "Flight": "QF5173",
-  "Dest": "HKT",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1810",
-  "display_date": "2024-07-08",
-  "display_time": "1810",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "QF5175",
-  "Dest": "HKT",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1940",
-  "display_date": "2024-07-08",
-  "display_time": "1940",
-  "display_terminal": "4",
-  "display_gate": "G11"
- },
- {
-  "Flight": "QF5183",
-  "Dest": "KUL",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0700",
-  "display_date": "2024-07-08",
-  "display_time": "0700",
-  "display_terminal": "4",
-  "display_gate": "G12"
- },
- {
-  "Flight": "QF5185",
-  "Dest": "KUL",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1340",
-  "display_date": "2024-07-08",
-  "display_time": "1340",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "QF5187",
-  "Dest": "KUL",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "QF5197",
-  "Dest": "SUB",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1210",
-  "display_date": "2024-07-08",
-  "display_time": "1210",
-  "display_terminal": "4",
-  "display_gate": "G13"
- },
- {
-  "Flight": "QF52",
-  "Dest": "BNE",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "QF5201",
-  "Dest": "CGK",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "4",
-  "display_gate": "G13"
- },
- {
-  "Flight": "QF5205",
-  "Dest": "CGK",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "4",
-  "display_gate": "G7"
- },
- {
-  "Flight": "QF5510",
-  "Dest": "MEL",
-  "AirlineCode": "QF",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "4",
-  "display_gate": "G18"
- },
- {
-  "Flight": "QF72",
-  "Dest": "PER",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1935",
-  "display_date": "2024-07-08",
-  "display_time": "1935",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "QF8353",
-  "Dest": "DXB",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0050",
-  "display_date": "2024-07-08",
-  "display_time": "0050",
-  "display_terminal": "1",
-  "display_gate": "C26"
- },
- {
-  "Flight": "QF8355",
-  "Dest": "DXB",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C25"
- },
- {
-  "Flight": "QF8404",
-  "Dest": "MEL",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1025",
-  "display_date": "2024-07-08",
-  "display_time": "1025",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "QG523",
-  "Dest": "CGK",
-  "AirlineCode": "QG",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1020",
-  "display_date": "2024-07-08",
-  "display_time": "1020",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "QG527",
-  "Dest": "CGK",
-  "AirlineCode": "QG",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "3",
-  "display_gate": "B6"
- },
- {
-  "Flight": "QR4419",
-  "Dest": "USM",
-  "AirlineCode": "QR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "QR4421",
-  "Dest": "USM",
-  "AirlineCode": "QR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "QR5392",
-  "Dest": "KUL",
-  "AirlineCode": "QR",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0620",
-  "display_date": "2024-07-08",
-  "display_time": "0620",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "QR5410",
-  "Dest": "KUL",
-  "AirlineCode": "QR",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1915",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "QR5480",
-  "Dest": "KUL",
-  "AirlineCode": "QR",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1215",
-  "display_date": "2024-07-08",
-  "display_time": "1215",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "QR5492",
-  "Dest": "KUL",
-  "AirlineCode": "QR",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1635",
-  "display_date": "2024-07-08",
-  "display_time": "1635",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "QR5494",
-  "Dest": "KUL",
-  "AirlineCode": "QR",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1535",
-  "display_date": "2024-07-08",
-  "display_time": "1535",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "QR5496",
-  "Dest": "KUL",
-  "AirlineCode": "QR",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1340",
-  "display_date": "2024-07-08",
-  "display_time": "1405",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "QR5498",
-  "Dest": "KUL",
-  "AirlineCode": "QR",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1815",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "QR5500",
-  "Dest": "KUL",
-  "AirlineCode": "QR",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2115",
-  "display_date": "2024-07-08",
-  "display_time": "2115",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "QR8406",
-  "Dest": "HKG",
-  "AirlineCode": "QR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0410",
-  "display_date": "2024-07-08",
-  "display_time": "0410",
-  "display_terminal": "1",
-  "display_gate": "D33F"
- },
- {
-  "Flight": "QR943",
-  "Dest": "DOH",
-  "AirlineCode": "QR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1030",
-  "display_date": "2024-07-08",
-  "display_time": "1030",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "QR945",
-  "Dest": "DOH",
-  "AirlineCode": "QR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0245",
-  "display_date": "2024-07-08",
-  "display_time": "0245",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "QR947",
-  "Dest": "DOH",
-  "AirlineCode": "QR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "QV1",
-  "Dest": "VTE",
-  "AirlineCode": "QV",
-  "DTerm": "0",
-  "Date": "2024-07-08",
-  "Time": "1800",
-  "display_date": "2024-07-08",
-  "display_time": "1800",
-  "display_terminal": "0",
-  "display_gate": ""
- },
- {
-  "Flight": "QZ261",
-  "Dest": "CGK",
-  "AirlineCode": "QZ",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1940",
-  "display_date": "2024-07-08",
-  "display_time": "1940",
-  "display_terminal": "4",
-  "display_gate": "G2"
- },
- {
-  "Flight": "QZ263",
-  "Dest": "CGK",
-  "AirlineCode": "QZ",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1020",
-  "display_date": "2024-07-08",
-  "display_time": "1020",
-  "display_terminal": "4",
-  "display_gate": "G8"
- },
- {
-  "Flight": "QZ265",
-  "Dest": "CGK",
-  "AirlineCode": "QZ",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1445",
-  "display_date": "2024-07-08",
-  "display_time": "1445",
-  "display_terminal": "4",
-  "display_gate": "G2"
- },
- {
-  "Flight": "QZ267",
-  "Dest": "CGK",
-  "AirlineCode": "QZ",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1200",
-  "display_date": "2024-07-08",
-  "display_time": "1200",
-  "display_terminal": "4",
-  "display_gate": "G1"
- },
- {
-  "Flight": "QZ501",
-  "Dest": "DPS",
-  "AirlineCode": "QZ",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1610",
-  "display_date": "2024-07-08",
-  "display_time": "1610",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "QZ503",
-  "Dest": "DPS",
-  "AirlineCode": "QZ",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1035",
-  "display_date": "2024-07-08",
-  "display_time": "1035",
-  "display_terminal": "4",
-  "display_gate": "G6"
- },
- {
-  "Flight": "QZ505",
-  "Dest": "DPS",
-  "AirlineCode": "QZ",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1215",
-  "display_date": "2024-07-08",
-  "display_time": "1215",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "QZ507",
-  "Dest": "DPS",
-  "AirlineCode": "QZ",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1730",
-  "display_date": "2024-07-08",
-  "display_time": "1730",
-  "display_terminal": "4",
-  "display_gate": "G8"
- },
- {
-  "Flight": "RJ3807",
-  "Dest": "DOH",
-  "AirlineCode": "RJ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0245",
-  "display_date": "2024-07-08",
-  "display_time": "0245",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "RJ3844",
-  "Dest": "DOH",
-  "AirlineCode": "RJ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1030",
-  "display_date": "2024-07-08",
-  "display_time": "1030",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "SA7231",
-  "Dest": "CPT",
-  "AirlineCode": "SA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0130",
-  "display_date": "2024-07-08",
-  "display_time": "0130",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "SK8000",
-  "Dest": "CPH",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "SK8005",
-  "Dest": "AKL",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2245",
-  "display_date": "2024-07-08",
-  "display_time": "2245",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "SK8007",
-  "Dest": "BKK",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1250",
-  "display_date": "2024-07-08",
-  "display_time": "1250",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "SK8009",
-  "Dest": "BNE",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0955",
-  "display_date": "2024-07-08",
-  "display_time": "0955",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "SK8011",
-  "Dest": "SYD",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0935",
-  "display_date": "2024-07-08",
-  "display_time": "0935",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "SK8013",
-  "Dest": "MEL",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1110",
-  "display_date": "2024-07-08",
-  "display_time": "1110",
-  "display_terminal": "3",
-  "display_gate": "B10"
- },
- {
-  "Flight": "SK8015",
-  "Dest": "DPS",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "0915",
-  "display_terminal": "2",
-  "display_gate": "F54"
- },
- {
-  "Flight": "SK8017",
-  "Dest": "BKK",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0710",
-  "display_date": "2024-07-08",
-  "display_time": "0710",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "SK8019",
-  "Dest": "BKK",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "SK8023",
-  "Dest": "KUL",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "SK8025",
-  "Dest": "BNE",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2130",
-  "display_date": "2024-07-08",
-  "display_time": "2130",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "SK8027",
-  "Dest": "BNE",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0045",
-  "display_date": "2024-07-08",
-  "display_time": "0045",
-  "display_terminal": "3",
-  "display_gate": "A15"
- },
- {
-  "Flight": "SK8031",
-  "Dest": "ADL",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2310",
-  "display_date": "2024-07-08",
-  "display_time": "2310",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "SK8033",
-  "Dest": "CGK",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0925",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "SK8035",
-  "Dest": "CGK",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1230",
-  "display_date": "2024-07-08",
-  "display_time": "1230",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "SK8036",
-  "Dest": "LHR",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0110",
-  "display_date": "2024-07-08",
-  "display_time": "0110",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "SK8038",
-  "Dest": "LHR",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "SK8040",
-  "Dest": "LHR",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1235",
-  "display_date": "2024-07-08",
-  "display_time": "1300",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "SK8042",
-  "Dest": "LHR",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "SK8043",
-  "Dest": "CGK",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2155",
-  "display_date": "2024-07-08",
-  "display_time": "2155",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "SK8045",
-  "Dest": "DPS",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0820",
-  "display_date": "2024-07-08",
-  "display_time": "0820",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "SK8047",
-  "Dest": "DPS",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1740",
-  "display_date": "2024-07-08",
-  "display_time": "1740",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "SK8049",
-  "Dest": "KUL",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1245",
-  "display_date": "2024-07-08",
-  "display_time": "1245",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "SK8051",
-  "Dest": "KUL",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "SK8053",
-  "Dest": "KUL",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0910",
-  "display_date": "2024-07-08",
-  "display_time": "0910",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "SK8057",
-  "Dest": "KUL",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0705",
-  "display_date": "2024-07-08",
-  "display_time": "0705",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "SK8061",
-  "Dest": "MEL",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2200",
-  "display_date": "2024-07-08",
-  "display_time": "2200",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "SK8063",
-  "Dest": "MEL",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0025",
-  "display_date": "2024-07-08",
-  "display_time": "0230",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
-  "Flight": "SK8065",
-  "Dest": "MEL",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "SK8067",
-  "Dest": "PER",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "SK8069",
-  "Dest": "PER",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "SK8071",
-  "Dest": "PER",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "SK8073",
-  "Dest": "SYD",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2020",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "SK8075",
-  "Dest": "SYD",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0045",
-  "display_date": "2024-07-08",
-  "display_time": "0045",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "SK8077",
-  "Dest": "SYD",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "SL101",
-  "Dest": "DMK",
-  "AirlineCode": "SL",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1210",
-  "display_date": "2024-07-08",
-  "display_time": "1240",
-  "display_terminal": "3",
-  "display_gate": "A5"
- },
- {
-  "Flight": "SQ104",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0705",
-  "display_date": "2024-07-08",
-  "display_time": "0705",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "SQ106",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "SQ108",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0910",
-  "display_date": "2024-07-08",
-  "display_time": "0910",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "SQ114",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1245",
-  "display_date": "2024-07-08",
-  "display_time": "1245",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "SQ116",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1450",
-  "display_date": "2024-07-08",
-  "display_time": "1450",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "SQ12",
-  "Dest": "LAX",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0940",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "SQ122",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1625",
-  "display_date": "2024-07-08",
-  "display_time": "1625",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "SQ126",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "SQ128",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2000",
-  "display_date": "2024-07-08",
-  "display_time": "2000",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "SQ132",
-  "Dest": "PEN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "SQ134",
-  "Dest": "PEN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "SQ136",
-  "Dest": "PEN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1300",
-  "display_date": "2024-07-08",
-  "display_time": "1300",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "SQ138",
-  "Dest": "PEN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1540",
-  "display_date": "2024-07-08",
-  "display_time": "1540",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "SQ142",
-  "Dest": "PEN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "SQ148",
-  "Dest": "BWN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "SQ154",
-  "Dest": "PNH",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0740",
-  "display_date": "2024-07-08",
-  "display_time": "0740",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "SQ156",
-  "Dest": "PNH",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1200",
-  "display_date": "2024-07-08",
-  "display_time": "1200",
-  "display_terminal": "2",
-  "display_gate": "F54"
- },
- {
-  "Flight": "SQ158",
-  "Dest": "PNH",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1630",
-  "display_date": "2024-07-08",
-  "display_time": "1630",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "SQ164",
-  "Dest": "SAI",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0845",
-  "display_date": "2024-07-08",
-  "display_time": "0845",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "SQ172",
-  "Dest": "DAD",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "1045",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "SQ174",
-  "Dest": "DAD",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1400",
-  "display_date": "2024-07-08",
-  "display_time": "1400",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "SQ178",
-  "Dest": "SGN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "E12"
- },
- {
-  "Flight": "SQ184",
-  "Dest": "SGN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1330",
-  "display_date": "2024-07-08",
-  "display_time": "1330",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "SQ186",
-  "Dest": "SGN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1715",
-  "display_date": "2024-07-08",
-  "display_time": "1715",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "SQ192",
-  "Dest": "HAN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0905",
-  "display_date": "2024-07-08",
-  "display_time": "0905",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "SQ194",
-  "Dest": "HAN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1505",
-  "display_date": "2024-07-08",
-  "display_time": "1505",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "SQ2008",
-  "Dest": "FRA",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2340",
-  "display_date": "2024-07-08",
-  "display_time": "2340",
-  "display_terminal": "2",
-  "display_gate": "F60"
- },
- {
-  "Flight": "SQ203",
-  "Dest": "CNS",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0840",
-  "display_date": "2024-07-08",
-  "display_time": "0840",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "SQ207",
-  "Dest": "MEL",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "SQ211",
-  "Dest": "SYD",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0935",
-  "display_date": "2024-07-08",
-  "display_time": "0935",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "SQ213",
-  "Dest": "PER",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "SQ215",
-  "Dest": "PER",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "SQ217",
-  "Dest": "MEL",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1110",
-  "display_date": "2024-07-08",
-  "display_time": "1110",
-  "display_terminal": "3",
-  "display_gate": "B10"
- },
- {
-  "Flight": "SQ22",
-  "Dest": "EWR",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2335",
-  "display_date": "2024-07-08",
-  "display_time": "2335",
-  "display_terminal": "3",
-  "display_gate": "A15"
- },
- {
-  "Flight": "SQ2203",
-  "Dest": "MUC",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2325",
-  "display_date": "2024-07-08",
-  "display_time": "2325",
-  "display_terminal": "2",
-  "display_gate": "E12"
- },
- {
-  "Flight": "SQ221",
-  "Dest": "SYD",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2020",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "SQ223",
-  "Dest": "PER",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "SQ225",
-  "Dest": "PER",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "SQ227",
-  "Dest": "MEL",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2200",
-  "display_date": "2024-07-08",
-  "display_time": "2200",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "SQ231",
-  "Dest": "SYD",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0045",
-  "display_date": "2024-07-08",
-  "display_time": "0045",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "SQ235",
-  "Dest": "BNE",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2130",
-  "display_date": "2024-07-08",
-  "display_time": "2130",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "SQ237",
-  "Dest": "MEL",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0025",
-  "display_date": "2024-07-08",
-  "display_time": "0230",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
-  "Flight": "SQ24",
-  "Dest": "JFK",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1210",
-  "display_date": "2024-07-08",
-  "display_time": "1210",
-  "display_terminal": "3",
-  "display_gate": "C1"
- },
- {
-  "Flight": "SQ241",
-  "Dest": "SYD",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "SQ245",
-  "Dest": "BNE",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0955",
-  "display_date": "2024-07-08",
-  "display_time": "0955",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "SQ247",
-  "Dest": "MEL",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2040",
-  "display_date": "2024-07-08",
-  "display_time": "2040",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "SQ251",
-  "Dest": "DRW",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "3",
-  "display_gate": "A20"
- },
- {
-  "Flight": "SQ255",
-  "Dest": "BNE",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0045",
-  "display_date": "2024-07-08",
-  "display_time": "0045",
-  "display_terminal": "3",
-  "display_gate": "A15"
- },
- {
-  "Flight": "SQ26",
-  "Dest": "JFK",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "SQ279",
-  "Dest": "ADL",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2310",
-  "display_date": "2024-07-08",
-  "display_time": "2310",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "SQ285",
-  "Dest": "AKL",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2245",
-  "display_date": "2024-07-08",
-  "display_time": "2245",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "SQ2929",
-  "Dest": "ZRH",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2335",
-  "display_date": "2024-07-08",
-  "display_time": "2335",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "SQ297",
-  "Dest": "CHC",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1950",
-  "display_date": "2024-07-08",
-  "display_time": "1950",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "SQ304",
-  "Dest": "BRU",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "B6"
- },
- {
-  "Flight": "SQ306",
-  "Dest": "LHR",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0110",
-  "display_date": "2024-07-08",
-  "display_time": "0110",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "SQ308",
-  "Dest": "LHR",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "SQ312",
-  "Dest": "LGW",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "A5"
- },
- {
-  "Flight": "SQ318",
-  "Dest": "LHR",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1235",
-  "display_date": "2024-07-08",
-  "display_time": "1300",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "SQ32",
-  "Dest": "SFO",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "0915",
-  "display_terminal": "3",
-  "display_gate": "C20"
- },
- {
-  "Flight": "SQ322",
-  "Dest": "LHR",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "SQ324",
-  "Dest": "AMS",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "C1"
- },
- {
-  "Flight": "SQ326",
-  "Dest": "FRA",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "SQ328",
-  "Dest": "MUC",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0030",
-  "display_date": "2024-07-08",
-  "display_time": "0030",
-  "display_terminal": "3",
-  "display_gate": "B8"
- },
- {
-  "Flight": "SQ332",
-  "Dest": "CDG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1355",
-  "display_date": "2024-07-08",
-  "display_time": "1355",
-  "display_terminal": "3",
-  "display_gate": "A13"
- },
- {
-  "Flight": "SQ336",
-  "Dest": "CDG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0015",
-  "display_date": "2024-07-08",
-  "display_time": "0015",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "SQ34",
-  "Dest": "SFO",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1950",
-  "display_date": "2024-07-08",
-  "display_time": "1950",
-  "display_terminal": "3",
-  "display_gate": "B8"
- },
- {
-  "Flight": "SQ346",
-  "Dest": "ZRH",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0125",
-  "display_date": "2024-07-08",
-  "display_time": "0155",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "SQ352",
-  "Dest": "CPH",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "SQ356",
-  "Dest": "MXP",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "SQ38",
-  "Dest": "LAX",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2045",
-  "display_date": "2024-07-08",
-  "display_time": "2045",
-  "display_terminal": "3",
-  "display_gate": "A15"
- },
- {
-  "Flight": "SQ392",
-  "Dest": "IST",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0145",
-  "display_date": "2024-07-08",
-  "display_time": "0145",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "SQ402",
-  "Dest": "DEL",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0235",
-  "display_date": "2024-07-08",
-  "display_time": "0235",
-  "display_terminal": "3",
-  "display_gate": "A13"
- },
- {
-  "Flight": "SQ406",
-  "Dest": "DEL",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1650",
-  "display_date": "2024-07-08",
-  "display_time": "1650",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "SQ422",
-  "Dest": "BOM",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0740",
-  "display_date": "2024-07-08",
-  "display_time": "0740",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "SQ424",
-  "Dest": "BOM",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "SQ4281",
-  "Dest": "AKL",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0850",
-  "display_date": "2024-07-08",
-  "display_time": "0850",
-  "display_terminal": "3",
-  "display_gate": "A15"
- },
- {
-  "Flight": "SQ4283",
-  "Dest": "AKL",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1840",
-  "display_date": "2024-07-08",
-  "display_time": "1840",
-  "display_terminal": "3",
-  "display_gate": "B6"
- },
- {
-  "Flight": "SQ432",
-  "Dest": "MLE",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1005",
-  "display_date": "2024-07-08",
-  "display_time": "1005",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "SQ438",
-  "Dest": "MLE",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2045",
-  "display_date": "2024-07-08",
-  "display_time": "2045",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "SQ442",
-  "Dest": "KTM",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1855",
-  "display_date": "2024-07-08",
-  "display_time": "1855",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "SQ446",
-  "Dest": "DAC",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2035",
-  "display_date": "2024-07-08",
-  "display_time": "2035",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "SQ468",
-  "Dest": "CMB",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2220",
-  "display_date": "2024-07-08",
-  "display_time": "2220",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "SQ478",
-  "Dest": "CPT",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0130",
-  "display_date": "2024-07-08",
-  "display_time": "0130",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "SQ494",
-  "Dest": "DXB",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1510",
-  "display_date": "2024-07-08",
-  "display_time": "1510",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "SQ5052",
-  "Dest": "MNL",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1040",
-  "display_date": "2024-07-08",
-  "display_time": "1215",
-  "display_terminal": "1",
-  "display_gate": "D35"
- },
- {
-  "Flight": "SQ5054",
-  "Dest": "MNL",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1430",
-  "display_date": "2024-07-08",
-  "display_time": "1430",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "SQ5056",
-  "Dest": "MNL",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0030",
-  "display_date": "2024-07-08",
-  "display_time": "0030",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "SQ5058",
-  "Dest": "MNL",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1950",
-  "display_date": "2024-07-08",
-  "display_time": "1950",
-  "display_terminal": "1",
-  "display_gate": ""
- },
- {
-  "Flight": "SQ508",
-  "Dest": "BLR",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0840",
-  "display_date": "2024-07-08",
-  "display_time": "0840",
-  "display_terminal": "3",
-  "display_gate": "B8"
- },
- {
-  "Flight": "SQ510",
-  "Dest": "BLR",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2005",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "SQ516",
-  "Dest": "CCU",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2040",
-  "display_date": "2024-07-08",
-  "display_time": "2040",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "SQ518",
-  "Dest": "HYD",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0845",
-  "display_date": "2024-07-08",
-  "display_time": "0845",
-  "display_terminal": "3",
-  "display_gate": "A9"
- },
- {
-  "Flight": "SQ522",
-  "Dest": "HYD",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2000",
-  "display_date": "2024-07-08",
-  "display_time": "2000",
-  "display_terminal": "3",
-  "display_gate": "A13"
- },
- {
-  "Flight": "SQ524",
-  "Dest": "MAA",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0840",
-  "display_date": "2024-07-08",
-  "display_time": "0840",
-  "display_terminal": "3",
-  "display_gate": "A19"
- },
- {
-  "Flight": "SQ528",
-  "Dest": "MAA",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2025",
-  "display_date": "2024-07-08",
-  "display_time": "2025",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "SQ534",
-  "Dest": "COK",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2000",
-  "display_date": "2024-07-08",
-  "display_time": "2000",
-  "display_terminal": "3",
-  "display_gate": "A18"
- },
- {
-  "Flight": "SQ5462",
-  "Dest": "USM",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "SQ5498",
-  "Dest": "USM",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "SQ5553",
-  "Dest": "DPS",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "SQ5555",
-  "Dest": "SUB",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1855",
-  "display_date": "2024-07-08",
-  "display_time": "1855",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "SQ5563",
-  "Dest": "CGK",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0725",
-  "display_date": "2024-07-08",
-  "display_time": "1000",
-  "display_terminal": "3",
-  "display_gate": "A18"
- },
- {
-  "Flight": "SQ5569",
-  "Dest": "CGK",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1220",
-  "display_date": "2024-07-08",
-  "display_time": "1305",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "SQ5573",
-  "Dest": "CGK",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1545",
-  "display_date": "2024-07-08",
-  "display_time": "1615",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "SQ5577",
-  "Dest": "CGK",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "3",
-  "display_gate": "A16"
- },
- {
-  "Flight": "SQ5602",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0620",
-  "display_date": "2024-07-08",
-  "display_time": "0620",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "SQ5606",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1340",
-  "display_date": "2024-07-08",
-  "display_time": "1405",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "SQ5608",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1815",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "SQ5610",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2115",
-  "display_date": "2024-07-08",
-  "display_time": "2115",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "SQ5614",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1105",
-  "display_date": "2024-07-08",
-  "display_time": "1105",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "SQ5616",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1915",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "SQ5620",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1635",
-  "display_date": "2024-07-08",
-  "display_time": "1635",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "SQ5624",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1535",
-  "display_date": "2024-07-08",
-  "display_time": "1535",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "SQ5628",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1215",
-  "display_date": "2024-07-08",
-  "display_time": "1215",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "SQ5752",
-  "Dest": "ICN",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2250",
-  "display_date": "2024-07-08",
-  "display_time": "2250",
-  "display_terminal": "3",
-  "display_gate": "A13"
- },
- {
-  "Flight": "SQ5804",
-  "Dest": "TPE",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1510",
-  "display_date": "2024-07-08",
-  "display_time": "1510",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "SQ5806",
-  "Dest": "TPE",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1310",
-  "display_date": "2024-07-08",
-  "display_time": "1310",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "SQ5870",
-  "Dest": "PEK",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2325",
-  "display_date": "2024-07-08",
-  "display_time": "2325",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "SQ5872",
-  "Dest": "PEK",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1615",
-  "display_date": "2024-07-08",
-  "display_time": "1615",
-  "display_terminal": "1",
-  "display_gate": "D42"
- },
- {
-  "Flight": "SQ5876",
-  "Dest": "PEK",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "SQ5880",
-  "Dest": "TFU",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1600",
-  "display_date": "2024-07-08",
-  "display_time": "1600",
-  "display_terminal": "1",
-  "display_gate": "D38"
- },
- {
-  "Flight": "SQ5886",
-  "Dest": "CKG",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1735",
-  "display_date": "2024-07-08",
-  "display_time": "1735",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "SQ5894",
-  "Dest": "SZX",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1740",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "1",
-  "display_gate": "C11"
- },
- {
-  "Flight": "SQ5904",
-  "Dest": "NRT",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0615",
-  "display_date": "2024-07-08",
-  "display_time": "0615",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "SQ5906",
-  "Dest": "HND",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2210",
-  "display_date": "2024-07-08",
-  "display_time": "2210",
-  "display_terminal": "2",
-  "display_gate": "E8"
- },
- {
-  "Flight": "SQ5908",
-  "Dest": "HND",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1105",
-  "display_date": "2024-07-08",
-  "display_time": "1105",
-  "display_terminal": "2",
-  "display_gate": "E8"
- },
- {
-  "Flight": "SQ600",
-  "Dest": "ICN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "2",
-  "display_gate": "D41"
- },
- {
-  "Flight": "SQ606",
-  "Dest": "ICN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1445",
-  "display_date": "2024-07-08",
-  "display_time": "1445",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "SQ608",
-  "Dest": "ICN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0010",
-  "display_date": "2024-07-08",
-  "display_time": "0010",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "SQ612",
-  "Dest": "ICN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0225",
-  "display_date": "2024-07-08",
-  "display_time": "0225",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "SQ616",
-  "Dest": "PUS",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2305",
-  "display_date": "2024-07-08",
-  "display_time": "2305",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "SQ618",
-  "Dest": "KIX",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0125",
-  "display_date": "2024-07-08",
-  "display_time": "0125",
-  "display_terminal": "2",
-  "display_gate": "F59"
- },
- {
-  "Flight": "SQ620",
-  "Dest": "KIX",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "SQ622",
-  "Dest": "KIX",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1355",
-  "display_date": "2024-07-08",
-  "display_time": "1355",
-  "display_terminal": "2",
-  "display_gate": "E12"
- },
- {
-  "Flight": "SQ632",
-  "Dest": "HND",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "2",
-  "display_gate": "F59"
- },
- {
-  "Flight": "SQ634",
-  "Dest": "HND",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1355",
-  "display_date": "2024-07-08",
-  "display_time": "1355",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "SQ636",
-  "Dest": "HND",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2250",
-  "display_date": "2024-07-08",
-  "display_time": "2250",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "SQ638",
-  "Dest": "NRT",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "SQ656",
-  "Dest": "FUK",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0120",
-  "display_date": "2024-07-08",
-  "display_time": "0120",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "SQ672",
-  "Dest": "NGO",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0120",
-  "display_date": "2024-07-08",
-  "display_time": "0120",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "SQ706",
-  "Dest": "BKK",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0710",
-  "display_date": "2024-07-08",
-  "display_time": "0710",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "SQ708",
-  "Dest": "BKK",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "SQ710",
-  "Dest": "BKK",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1250",
-  "display_date": "2024-07-08",
-  "display_time": "1250",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "SQ712",
-  "Dest": "BKK",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1600",
-  "display_date": "2024-07-08",
-  "display_time": "1600",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "SQ714",
-  "Dest": "BKK",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1730",
-  "display_date": "2024-07-08",
-  "display_time": "1730",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "SQ720",
-  "Dest": "BKK",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "SQ726",
-  "Dest": "HKT",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0810",
-  "display_date": "2024-07-08",
-  "display_time": "0810",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "SQ728",
-  "Dest": "HKT",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1000",
-  "display_date": "2024-07-08",
-  "display_time": "1000",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "SQ732",
-  "Dest": "HKT",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1315",
-  "display_date": "2024-07-08",
-  "display_time": "1315",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "SQ736",
-  "Dest": "HKT",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1620",
-  "display_date": "2024-07-08",
-  "display_time": "1620",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "SQ740",
-  "Dest": "HKT",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "SQ7408",
-  "Dest": "LAX",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2140",
-  "display_date": "2024-07-08",
-  "display_time": "2140",
-  "display_terminal": "3",
-  "display_gate": "A6F"
- },
- {
-  "Flight": "SQ7430",
-  "Dest": "CVG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0925",
-  "display_terminal": "3",
-  "display_gate": "A6F"
- },
- {
-  "Flight": "SQ762",
-  "Dest": "RGN",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0755",
-  "display_date": "2024-07-08",
-  "display_time": "0755",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "SQ7822",
-  "Dest": "CAN",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "3",
-  "display_gate": "A6F"
- },
- {
-  "Flight": "SQ7974",
-  "Dest": "LAX",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0445",
-  "display_date": "2024-07-08",
-  "display_time": "0445",
-  "display_terminal": "3",
-  "display_gate": "A6F"
- },
- {
-  "Flight": "SQ802",
-  "Dest": "PEK",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "3",
-  "display_gate": "C22"
- },
- {
-  "Flight": "SQ806",
-  "Dest": "PEK",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1650",
-  "display_date": "2024-07-08",
-  "display_time": "1650",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "SQ818",
-  "Dest": "CKG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2020",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "A20"
- },
- {
-  "Flight": "SQ826",
-  "Dest": "PVG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0115",
-  "display_date": "2024-07-08",
-  "display_time": "0115",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "SQ828",
-  "Dest": "PVG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0755",
-  "display_date": "2024-07-08",
-  "display_time": "0755",
-  "display_terminal": "3",
-  "display_gate": ""
- },
- {
-  "Flight": "SQ830",
-  "Dest": "PVG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "SQ8302",
-  "Dest": "ATQ",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1510",
-  "display_date": "2024-07-08",
-  "display_time": "1545",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "SQ8312",
-  "Dest": "HAK",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0700",
-  "display_date": "2024-07-08",
-  "display_time": "0700",
-  "display_terminal": "1",
-  "display_gate": "D38"
- },
- {
-  "Flight": "SQ8316",
-  "Dest": "HGH",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1630",
-  "display_date": "2024-07-08",
-  "display_time": "1630",
-  "display_terminal": "1",
-  "display_gate": "D44"
- },
- {
-  "Flight": "SQ832",
-  "Dest": "PVG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1245",
-  "display_date": "2024-07-08",
-  "display_time": "1245",
-  "display_terminal": "3",
-  "display_gate": "B6"
- },
- {
-  "Flight": "SQ8322",
-  "Dest": "IPH",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1525",
-  "display_date": "2024-07-08",
-  "display_time": "1525",
-  "display_terminal": "1",
-  "display_gate": "B6"
- },
- {
-  "Flight": "SQ8328",
-  "Dest": "JED",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1605",
-  "display_date": "2024-07-08",
-  "display_time": "1605",
-  "display_terminal": "1",
-  "display_gate": "B8"
- },
- {
-  "Flight": "SQ8340",
-  "Dest": "USM",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0700",
-  "display_date": "2024-07-08",
-  "display_time": "0700",
-  "display_terminal": "1",
-  "display_gate": "D33"
- },
- {
-  "Flight": "SQ8342",
-  "Dest": "USM",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1015",
-  "display_date": "2024-07-08",
-  "display_time": "1015",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "SQ8344",
-  "Dest": "MFM",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1350",
-  "display_date": "2024-07-08",
-  "display_time": "1350",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "SQ8348",
-  "Dest": "NKG",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1030",
-  "display_date": "2024-07-08",
-  "display_time": "1200",
-  "display_terminal": "1",
-  "display_gate": "D41"
- },
- {
-  "Flight": "SQ836",
-  "Dest": "PVG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1725",
-  "display_date": "2024-07-08",
-  "display_time": "1725",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "SQ8370",
-  "Dest": "TSN",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0130",
-  "display_date": "2024-07-08",
-  "display_time": "0130",
-  "display_terminal": "1",
-  "display_gate": "D42"
- },
- {
-  "Flight": "SQ8374",
-  "Dest": "XIY",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1910",
-  "display_date": "2024-07-08",
-  "display_time": "1910",
-  "display_terminal": "1",
-  "display_gate": "C26"
- },
- {
-  "Flight": "SQ8382",
-  "Dest": "HDY",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1220",
-  "display_date": "2024-07-08",
-  "display_time": "1220",
-  "display_terminal": "1",
-  "display_gate": "C11"
- },
- {
-  "Flight": "SQ8388",
-  "Dest": "NNG",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0940",
-  "display_date": "2024-07-08",
-  "display_time": "0940",
-  "display_terminal": "1",
-  "display_gate": "D42"
- },
- {
-  "Flight": "SQ8390",
-  "Dest": "KHN",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1430",
-  "display_date": "2024-07-08",
-  "display_time": "1430",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "SQ8394",
-  "Dest": "LGK",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1415",
-  "display_date": "2024-07-08",
-  "display_time": "1415",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "SQ8416",
-  "Dest": "TRV",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D38"
- },
- {
-  "Flight": "SQ8418",
-  "Dest": "CJB",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2025",
-  "display_date": "2024-07-08",
-  "display_time": "2025",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "SQ842",
-  "Dest": "TFU",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1235",
-  "display_date": "2024-07-08",
-  "display_time": "1235",
-  "display_terminal": "3",
-  "display_gate": "A9"
- },
- {
-  "Flight": "SQ8420",
-  "Dest": "VTZ",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2025",
-  "display_date": "2024-07-08",
-  "display_time": "2025",
-  "display_terminal": "1",
-  "display_gate": "D35"
- },
- {
-  "Flight": "SQ8424",
-  "Dest": "BKI",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1825",
-  "display_date": "2024-07-08",
-  "display_time": "1825",
-  "display_terminal": "1",
-  "display_gate": "C19"
- },
- {
-  "Flight": "SQ8428",
-  "Dest": "CNX",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1505",
-  "display_date": "2024-07-08",
-  "display_time": "1505",
-  "display_terminal": "1",
-  "display_gate": "B9"
- },
- {
-  "Flight": "SQ8430",
-  "Dest": "CAN",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0515",
-  "display_date": "2024-07-08",
-  "display_time": "0515",
-  "display_terminal": "1",
-  "display_gate": "D47"
- },
- {
-  "Flight": "SQ8440",
-  "Dest": "CEB",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2040",
-  "display_date": "2024-07-08",
-  "display_time": "2040",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "SQ8442",
-  "Dest": "MAA",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2225",
-  "display_date": "2024-07-08",
-  "display_time": "2225",
-  "display_terminal": "1",
-  "display_gate": "D35"
- },
- {
-  "Flight": "SQ8448",
-  "Dest": "WUH",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1855",
-  "display_date": "2024-07-08",
-  "display_time": "1855",
-  "display_terminal": "1",
-  "display_gate": "B10"
- },
- {
-  "Flight": "SQ8462",
-  "Dest": "HDY",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2215",
-  "display_date": "2024-07-08",
-  "display_time": "2215",
-  "display_terminal": "1",
-  "display_gate": "D48"
- },
- {
-  "Flight": "SQ8484",
-  "Dest": "KCH",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1955",
-  "display_date": "2024-07-08",
-  "display_time": "1955",
-  "display_terminal": "1",
-  "display_gate": "C23"
- },
- {
-  "Flight": "SQ8490",
-  "Dest": "CJU",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0015",
-  "display_date": "2024-07-08",
-  "display_time": "0015",
-  "display_terminal": "1",
-  "display_gate": "C11"
- },
- {
-  "Flight": "SQ8492",
-  "Dest": "PER",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1200",
-  "display_date": "2024-07-08",
-  "display_time": "1200",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "SQ850",
-  "Dest": "CAN",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "SQ8500",
-  "Dest": "PEN",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1430",
-  "display_date": "2024-07-08",
-  "display_time": "1430",
-  "display_terminal": "1",
-  "display_gate": "B10"
- },
- {
-  "Flight": "SQ8502",
-  "Dest": "PEN",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "1",
-  "display_gate": "D38"
- },
- {
-  "Flight": "SQ8508",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0940",
-  "display_date": "2024-07-08",
-  "display_time": "0940",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "SQ8510",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2000",
-  "display_date": "2024-07-08",
-  "display_time": "2000",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "SQ8514",
-  "Dest": "MEL",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1100",
-  "display_date": "2024-07-08",
-  "display_time": "1100",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "SQ8516",
-  "Dest": "SYD",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1000",
-  "display_date": "2024-07-08",
-  "display_time": "1000",
-  "display_terminal": "1",
-  "display_gate": "C23"
- },
- {
-  "Flight": "SQ852",
-  "Dest": "CAN",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2010",
-  "display_date": "2024-07-08",
-  "display_time": "2010",
-  "display_terminal": "3",
-  "display_gate": "A19"
- },
- {
-  "Flight": "SQ8522",
-  "Dest": "TPE",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0845",
-  "display_date": "2024-07-08",
-  "display_time": "0845",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "SQ8524",
-  "Dest": "TPE",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0145",
-  "display_date": "2024-07-08",
-  "display_time": "0145",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "SQ8528",
-  "Dest": "TPE",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1155",
-  "display_date": "2024-07-08",
-  "display_time": "1155",
-  "display_terminal": "1",
-  "display_gate": "D44"
- },
- {
-  "Flight": "SQ8536",
-  "Dest": "SGN",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0700",
-  "display_date": "2024-07-08",
-  "display_time": "0700",
-  "display_terminal": "1",
-  "display_gate": "D42"
- },
- {
-  "Flight": "SQ8538",
-  "Dest": "SGN",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1310",
-  "display_date": "2024-07-08",
-  "display_time": "1310",
-  "display_terminal": "1",
-  "display_gate": "D38"
- },
- {
-  "Flight": "SQ8546",
-  "Dest": "BKK",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0820",
-  "display_date": "2024-07-08",
-  "display_time": "0820",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "SQ8550",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1700",
-  "display_date": "2024-07-08",
-  "display_time": "1700",
-  "display_terminal": "1",
-  "display_gate": "D41"
- },
- {
-  "Flight": "SQ8552",
-  "Dest": "HAN",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "1",
-  "display_gate": "D47"
- },
- {
-  "Flight": "SQ8558",
-  "Dest": "BKK",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1510",
-  "display_date": "2024-07-08",
-  "display_time": "1510",
-  "display_terminal": "1",
-  "display_gate": "C26"
- },
- {
-  "Flight": "SQ8570",
-  "Dest": "HKT",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1815",
-  "display_date": "2024-07-08",
-  "display_time": "1815",
-  "display_terminal": "1",
-  "display_gate": "D48"
- },
- {
-  "Flight": "SQ8578",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0450",
-  "display_date": "2024-07-08",
-  "display_time": "0450",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "SQ8582",
-  "Dest": "KUL",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1610",
-  "display_date": "2024-07-08",
-  "display_time": "1610",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "SQ8594",
-  "Dest": "MNL",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1440",
-  "display_date": "2024-07-08",
-  "display_time": "1440",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "SQ8598",
-  "Dest": "SYD",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0200",
-  "display_date": "2024-07-08",
-  "display_time": "0200",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "SQ860",
-  "Dest": "SZX",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2210",
-  "display_date": "2024-07-08",
-  "display_time": "2210",
-  "display_terminal": "3",
-  "display_gate": "B8"
- },
- {
-  "Flight": "SQ8602",
-  "Dest": "PEN",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1945",
-  "display_date": "2024-07-08",
-  "display_time": "1945",
-  "display_terminal": "1",
-  "display_gate": "B5"
- },
- {
-  "Flight": "SQ8612",
-  "Dest": "BKK",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1255",
-  "display_date": "2024-07-08",
-  "display_time": "1255",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "SQ8614",
-  "Dest": "BKK",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0545",
-  "display_date": "2024-07-08",
-  "display_time": "0545",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "SQ8616",
-  "Dest": "BKK",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1755",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "SQ8620",
-  "Dest": "HKT",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0725",
-  "display_date": "2024-07-08",
-  "display_time": "0725",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "SQ8634",
-  "Dest": "KBV",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1545",
-  "display_date": "2024-07-08",
-  "display_time": "1545",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "SQ8636",
-  "Dest": "MNL",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0200",
-  "display_date": "2024-07-08",
-  "display_time": "0200",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "SQ8642",
-  "Dest": "NRT",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2215",
-  "display_date": "2024-07-08",
-  "display_time": "2215",
-  "display_terminal": "1",
-  "display_gate": "D44"
- },
- {
-  "Flight": "SQ868",
-  "Dest": "XMN",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "3",
-  "display_gate": "A21"
- },
- {
-  "Flight": "SQ8682",
-  "Dest": "HKG",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1555",
-  "display_date": "2024-07-08",
-  "display_time": "1555",
-  "display_terminal": "1",
-  "display_gate": "C11"
- },
- {
-  "Flight": "SQ874",
-  "Dest": "HKG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0725",
-  "display_date": "2024-07-08",
-  "display_time": "0725",
-  "display_terminal": "3",
-  "display_gate": "A16"
- },
- {
-  "Flight": "SQ876",
-  "Dest": "TPE",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0820",
-  "display_date": "2024-07-08",
-  "display_time": "0820",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "SQ878",
-  "Dest": "TPE",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1145",
-  "display_date": "2024-07-08",
-  "display_time": "1145",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "SQ882",
-  "Dest": "HKG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0840",
-  "display_date": "2024-07-08",
-  "display_time": "0925",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "SQ892",
-  "Dest": "HKG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0940",
-  "display_date": "2024-07-08",
-  "display_time": "0940",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
-  "Flight": "SQ894",
-  "Dest": "HKG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1305",
-  "display_date": "2024-07-08",
-  "display_time": "1305",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "SQ896",
-  "Dest": "HKG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1530",
-  "display_date": "2024-07-08",
-  "display_time": "1530",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
-  "Flight": "SQ898",
-  "Dest": "HKG",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "SQ900",
-  "Dest": "CEB",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1055",
-  "display_date": "2024-07-08",
-  "display_time": "1055",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "SQ910",
-  "Dest": "MNL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0920",
-  "display_date": "2024-07-08",
-  "display_time": "0920",
-  "display_terminal": "2",
-  "display_gate": "F60"
- },
- {
-  "Flight": "SQ916",
-  "Dest": "MNL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1330",
-  "display_date": "2024-07-08",
-  "display_time": "1330",
-  "display_terminal": "2",
-  "display_gate": "F59"
- },
- {
-  "Flight": "SQ918",
-  "Dest": "MNL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1925",
-  "display_date": "2024-07-08",
-  "display_time": "1925",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "SQ922",
-  "Dest": "SUB",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "SQ926",
-  "Dest": "SUB",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1420",
-  "display_date": "2024-07-08",
-  "display_time": "1420",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "SQ928",
-  "Dest": "SUB",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1630",
-  "display_date": "2024-07-08",
-  "display_time": "1630",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "SQ934",
-  "Dest": "DPS",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0645",
-  "display_date": "2024-07-08",
-  "display_time": "0645",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "SQ936",
-  "Dest": "DPS",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0820",
-  "display_date": "2024-07-08",
-  "display_time": "0820",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "SQ938",
-  "Dest": "DPS",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "0915",
-  "display_terminal": "2",
-  "display_gate": "F54"
- },
- {
-  "Flight": "SQ944",
-  "Dest": "DPS",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1610",
-  "display_date": "2024-07-08",
-  "display_time": "1610",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "SQ946",
-  "Dest": "DPS",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1740",
-  "display_date": "2024-07-08",
-  "display_time": "1740",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "SQ948",
-  "Dest": "DPS",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2120",
-  "display_date": "2024-07-08",
-  "display_time": "2120",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "SQ950",
-  "Dest": "CGK",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0620",
-  "display_date": "2024-07-08",
-  "display_time": "0655",
-  "display_terminal": "2",
-  "display_gate": "F60"
- },
- {
-  "Flight": "SQ956",
-  "Dest": "CGK",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0925",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "SQ958",
-  "Dest": "CGK",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1230",
-  "display_date": "2024-07-08",
-  "display_time": "1230",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "SQ962",
-  "Dest": "CGK",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1625",
-  "display_date": "2024-07-08",
-  "display_time": "1625",
-  "display_terminal": "2",
-  "display_gate": "E8"
- },
- {
-  "Flight": "SQ964",
-  "Dest": "CGK",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1735",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "SQ968",
-  "Dest": "CGK",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2155",
-  "display_date": "2024-07-08",
-  "display_time": "2155",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "SQ990",
-  "Dest": "KNO",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0740",
-  "display_date": "2024-07-08",
-  "display_time": "0740",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "SQ994",
-  "Dest": "KNO",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "SV6123",
-  "Dest": "SUB",
-  "AirlineCode": "SV",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1855",
-  "display_date": "2024-07-08",
-  "display_time": "1855",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "SV6173",
-  "Dest": "CGK",
-  "AirlineCode": "SV",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0725",
-  "display_date": "2024-07-08",
-  "display_time": "1000",
-  "display_terminal": "3",
-  "display_gate": "A18"
- },
- {
-  "Flight": "SV6193",
-  "Dest": "CGK",
-  "AirlineCode": "SV",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1545",
-  "display_date": "2024-07-08",
-  "display_time": "1615",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "SV6201",
-  "Dest": "CGK",
-  "AirlineCode": "SV",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "3",
-  "display_gate": "A16"
- },
- {
-  "Flight": "TG402",
-  "Dest": "BKK",
-  "AirlineCode": "TG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0815",
-  "display_terminal": "1",
-  "display_gate": "D48"
- },
- {
-  "Flight": "TG404",
-  "Dest": "BKK",
-  "AirlineCode": "TG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1225",
-  "display_date": "2024-07-08",
-  "display_time": "1250",
-  "display_terminal": "1",
-  "display_gate": "C23"
- },
- {
-  "Flight": "TG408",
-  "Dest": "BKK",
-  "AirlineCode": "TG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1815",
-  "display_date": "2024-07-08",
-  "display_time": "1815",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "TG410",
-  "Dest": "BKK",
-  "AirlineCode": "TG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2050",
-  "display_date": "2024-07-08",
-  "display_time": "2050",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "TG414",
-  "Dest": "BKK",
-  "AirlineCode": "TG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1555",
-  "display_date": "2024-07-08",
-  "display_time": "1555",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "TG7335",
-  "Dest": "USM",
-  "AirlineCode": "TG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "TG7337",
-  "Dest": "USM",
-  "AirlineCode": "TG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "TK168",
-  "Dest": "MEL",
-  "AirlineCode": "TK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1015",
-  "display_date": "2024-07-08",
-  "display_time": "1015",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "TK4468",
-  "Dest": "USM",
-  "AirlineCode": "TK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "TK4515",
-  "Dest": "USM",
-  "AirlineCode": "TK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "TK55",
-  "Dest": "IST",
-  "AirlineCode": "TK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2325",
-  "display_date": "2024-07-08",
-  "display_time": "2325",
-  "display_terminal": "1",
-  "display_gate": "D41"
- },
- {
-  "Flight": "TK8028",
-  "Dest": "BKK",
-  "AirlineCode": "TK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1815",
-  "display_date": "2024-07-08",
-  "display_time": "1815",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "TK8489",
-  "Dest": "BKK",
-  "AirlineCode": "TK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2050",
-  "display_date": "2024-07-08",
-  "display_time": "2050",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "TK8733",
-  "Dest": "AKL",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1840",
-  "display_date": "2024-07-08",
-  "display_time": "1840",
-  "display_terminal": "3",
-  "display_gate": "B6"
- },
- {
-  "Flight": "TK9302",
-  "Dest": "MEL",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "TK9304",
-  "Dest": "SYD",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0935",
-  "display_date": "2024-07-08",
-  "display_time": "0935",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "TK9306",
-  "Dest": "PER",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "TK9308",
-  "Dest": "PER",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "TK9310",
-  "Dest": "MEL",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1110",
-  "display_date": "2024-07-08",
-  "display_time": "1110",
-  "display_terminal": "3",
-  "display_gate": "B10"
- },
- {
-  "Flight": "TK9312",
-  "Dest": "SYD",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2020",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "TK9314",
-  "Dest": "PER",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "TK9316",
-  "Dest": "PER",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "TK9318",
-  "Dest": "MEL",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2200",
-  "display_date": "2024-07-08",
-  "display_time": "2200",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "TK9320",
-  "Dest": "SYD",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0045",
-  "display_date": "2024-07-08",
-  "display_time": "0045",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "TK9322",
-  "Dest": "BNE",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2130",
-  "display_date": "2024-07-08",
-  "display_time": "2130",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "TK9324",
-  "Dest": "MEL",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0025",
-  "display_date": "2024-07-08",
-  "display_time": "0230",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
-  "Flight": "TK9326",
-  "Dest": "SYD",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "TK9328",
-  "Dest": "BNE",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0955",
-  "display_date": "2024-07-08",
-  "display_time": "0955",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "TK9330",
-  "Dest": "BNE",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0045",
-  "display_date": "2024-07-08",
-  "display_time": "0045",
-  "display_terminal": "3",
-  "display_gate": "A15"
- },
- {
-  "Flight": "TK9332",
-  "Dest": "ADL",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2310",
-  "display_date": "2024-07-08",
-  "display_time": "2310",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "TK9334",
-  "Dest": "AKL",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2245",
-  "display_date": "2024-07-08",
-  "display_time": "2245",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "TK9336",
-  "Dest": "CHC",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1950",
-  "display_date": "2024-07-08",
-  "display_time": "1950",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "TK9338",
-  "Dest": "BWN",
-  "AirlineCode": "TK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "TK9340",
-  "Dest": "HAN",
-  "AirlineCode": "TK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0905",
-  "display_date": "2024-07-08",
-  "display_time": "0905",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "TK9522",
-  "Dest": "BWN",
-  "AirlineCode": "TK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1210",
-  "display_date": "2024-07-08",
-  "display_time": "1210",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "TP6356",
-  "Dest": "DXB",
-  "AirlineCode": "TP",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0050",
-  "display_date": "2024-07-08",
-  "display_time": "0050",
-  "display_terminal": "1",
-  "display_gate": "C26"
- },
- {
-  "Flight": "TP8400",
-  "Dest": "LHR",
-  "AirlineCode": "TP",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0110",
-  "display_date": "2024-07-08",
-  "display_time": "0110",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "TP8402",
-  "Dest": "LHR",
-  "AirlineCode": "TP",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "TP8404",
-  "Dest": "LHR",
-  "AirlineCode": "TP",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "TP8416",
-  "Dest": "FRA",
-  "AirlineCode": "TP",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "TP8418",
-  "Dest": "LHR",
-  "AirlineCode": "TP",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1235",
-  "display_date": "2024-07-08",
-  "display_time": "1300",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "TP8421",
-  "Dest": "FRA",
-  "AirlineCode": "TP",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "TP8424",
-  "Dest": "LGW",
-  "AirlineCode": "TP",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "A5"
- },
- {
-  "Flight": "TP8436",
-  "Dest": "MXP",
-  "AirlineCode": "TP",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "TR100",
-  "Dest": "CAN",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0515",
-  "display_date": "2024-07-08",
-  "display_time": "0515",
-  "display_terminal": "1",
-  "display_gate": "D47"
- },
- {
-  "Flight": "TR112",
-  "Dest": "KHN",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1430",
-  "display_date": "2024-07-08",
-  "display_time": "1430",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "TR114",
-  "Dest": "NNG",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0940",
-  "display_date": "2024-07-08",
-  "display_time": "0940",
-  "display_terminal": "1",
-  "display_gate": "D42"
- },
- {
-  "Flight": "TR118",
-  "Dest": "HAK",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0700",
-  "display_date": "2024-07-08",
-  "display_time": "0700",
-  "display_terminal": "1",
-  "display_gate": "D38"
- },
- {
-  "Flight": "TR12",
-  "Dest": "SYD",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1000",
-  "display_date": "2024-07-08",
-  "display_time": "1000",
-  "display_terminal": "1",
-  "display_gate": "C23"
- },
- {
-  "Flight": "TR120",
-  "Dest": "WUH",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1855",
-  "display_date": "2024-07-08",
-  "display_time": "1855",
-  "display_terminal": "1",
-  "display_gate": "B10"
- },
- {
-  "Flight": "TR134",
-  "Dest": "XIY",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1910",
-  "display_date": "2024-07-08",
-  "display_time": "1910",
-  "display_terminal": "1",
-  "display_gate": "C26"
- },
- {
-  "Flight": "TR138",
-  "Dest": "TSN",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0130",
-  "display_date": "2024-07-08",
-  "display_time": "0130",
-  "display_terminal": "1",
-  "display_gate": "D42"
- },
- {
-  "Flight": "TR172",
-  "Dest": "TNA",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0025",
-  "display_date": "2024-07-08",
-  "display_time": "0025",
-  "display_terminal": "1",
-  "display_gate": "D41"
- },
- {
-  "Flight": "TR174",
-  "Dest": "FOC",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0705",
-  "display_date": "2024-07-08",
-  "display_time": "0705",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "TR18",
-  "Dest": "MEL",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0230",
-  "display_date": "2024-07-08",
-  "display_time": "0230",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "TR180",
-  "Dest": "NKG",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1030",
-  "display_date": "2024-07-08",
-  "display_time": "1200",
-  "display_terminal": "1",
-  "display_gate": "D41"
- },
- {
-  "Flight": "TR188",
-  "Dest": "HGH",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1630",
-  "display_date": "2024-07-08",
-  "display_time": "1630",
-  "display_terminal": "1",
-  "display_gate": "D44"
- },
- {
-  "Flight": "TR2",
-  "Dest": "SYD",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0200",
-  "display_date": "2024-07-08",
-  "display_time": "0200",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "TR200",
-  "Dest": "YIA",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0820",
-  "display_date": "2024-07-08",
-  "display_time": "0820",
-  "display_terminal": "1",
-  "display_gate": "D33"
- },
- {
-  "Flight": "TR216",
-  "Dest": "MDC",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0925",
-  "display_terminal": "1",
-  "display_gate": "D30"
- },
- {
-  "Flight": "TR222",
-  "Dest": "BPN",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0755",
-  "display_date": "2024-07-08",
-  "display_time": "0755",
-  "display_terminal": "1",
-  "display_gate": "C11"
- },
- {
-  "Flight": "TR232",
-  "Dest": "UPG",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0755",
-  "display_date": "2024-07-08",
-  "display_time": "0755",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "TR24",
-  "Dest": "MEL",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1100",
-  "display_date": "2024-07-08",
-  "display_time": "1100",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "TR252",
-  "Dest": "PKU",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1050",
-  "display_date": "2024-07-08",
-  "display_time": "1050",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "TR260",
-  "Dest": "LOP",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1540",
-  "display_date": "2024-07-08",
-  "display_time": "1540",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "TR262",
-  "Dest": "SUB",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0815",
-  "display_date": "2024-07-08",
-  "display_time": "0815",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "TR274",
-  "Dest": "CGK",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0815",
-  "display_date": "2024-07-08",
-  "display_time": "0815",
-  "display_terminal": "1",
-  "display_gate": "D35"
- },
- {
-  "Flight": "TR276",
-  "Dest": "CGK",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1020",
-  "display_date": "2024-07-08",
-  "display_time": "1020",
-  "display_terminal": "1",
-  "display_gate": "D42"
- },
- {
-  "Flight": "TR278",
-  "Dest": "CGK",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1825",
-  "display_date": "2024-07-08",
-  "display_time": "1825",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "TR280",
-  "Dest": "DPS",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0710",
-  "display_date": "2024-07-08",
-  "display_time": "0710",
-  "display_terminal": "1",
-  "display_gate": "D44"
- },
- {
-  "Flight": "TR284",
-  "Dest": "DPS",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1035",
-  "display_date": "2024-07-08",
-  "display_time": "1035",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "TR286",
-  "Dest": "DPS",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1550",
-  "display_date": "2024-07-08",
-  "display_time": "1550",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "TR300",
-  "Dest": "HAN",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "1",
-  "display_gate": "D47"
- },
- {
-  "Flight": "TR304",
-  "Dest": "SGN",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0700",
-  "display_date": "2024-07-08",
-  "display_time": "0700",
-  "display_terminal": "1",
-  "display_gate": "D42"
- },
- {
-  "Flight": "TR306",
-  "Dest": "SGN",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1310",
-  "display_date": "2024-07-08",
-  "display_time": "1310",
-  "display_terminal": "1",
-  "display_gate": "D38"
- },
- {
-  "Flight": "TR358",
-  "Dest": "DVO",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1330",
-  "display_date": "2024-07-08",
-  "display_time": "1330",
-  "display_terminal": "1",
-  "display_gate": "B9"
- },
- {
-  "Flight": "TR380",
-  "Dest": "CEB",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2040",
-  "display_date": "2024-07-08",
-  "display_time": "2040",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "TR390",
-  "Dest": "MNL",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1440",
-  "display_date": "2024-07-08",
-  "display_time": "1440",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "TR396",
-  "Dest": "MNL",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0200",
-  "display_date": "2024-07-08",
-  "display_time": "0200",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "TR412",
-  "Dest": "MYY",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1655",
-  "display_date": "2024-07-08",
-  "display_time": "1655",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "TR424",
-  "Dest": "PEN",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1430",
-  "display_date": "2024-07-08",
-  "display_time": "1430",
-  "display_terminal": "1",
-  "display_gate": "B10"
- },
- {
-  "Flight": "TR426",
-  "Dest": "PEN",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "1",
-  "display_gate": "D38"
- },
- {
-  "Flight": "TR428",
-  "Dest": "PEN",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1945",
-  "display_date": "2024-07-08",
-  "display_time": "1945",
-  "display_terminal": "1",
-  "display_gate": "B5"
- },
- {
-  "Flight": "TR434",
-  "Dest": "KCH",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1955",
-  "display_date": "2024-07-08",
-  "display_time": "1955",
-  "display_terminal": "1",
-  "display_gate": "C23"
- },
- {
-  "Flight": "TR438",
-  "Dest": "KUA",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0555",
-  "display_date": "2024-07-08",
-  "display_time": "0555",
-  "display_terminal": "1",
-  "display_gate": "D43"
- },
- {
-  "Flight": "TR452",
-  "Dest": "KUL",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0940",
-  "display_date": "2024-07-08",
-  "display_time": "0940",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "TR456",
-  "Dest": "KUL",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0450",
-  "display_date": "2024-07-08",
-  "display_time": "0450",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "TR466",
-  "Dest": "KUL",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2000",
-  "display_date": "2024-07-08",
-  "display_time": "2000",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "TR468",
-  "Dest": "KUL",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1700",
-  "display_date": "2024-07-08",
-  "display_time": "1700",
-  "display_terminal": "1",
-  "display_gate": "D41"
- },
- {
-  "Flight": "TR472",
-  "Dest": "KUL",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1610",
-  "display_date": "2024-07-08",
-  "display_time": "1610",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "TR476",
-  "Dest": "LGK",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1415",
-  "display_date": "2024-07-08",
-  "display_time": "1415",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "TR486",
-  "Dest": "IPH",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1525",
-  "display_date": "2024-07-08",
-  "display_time": "1525",
-  "display_terminal": "1",
-  "display_gate": "B6"
- },
- {
-  "Flight": "TR488",
-  "Dest": "IPH",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0555",
-  "display_date": "2024-07-08",
-  "display_time": "0555",
-  "display_terminal": "1",
-  "display_gate": "C2"
- },
- {
-  "Flight": "TR492",
-  "Dest": "BKI",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1825",
-  "display_date": "2024-07-08",
-  "display_time": "1825",
-  "display_terminal": "1",
-  "display_gate": "C19"
- },
- {
-  "Flight": "TR512",
-  "Dest": "ATQ",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1510",
-  "display_date": "2024-07-08",
-  "display_time": "1545",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "TR530",
-  "Dest": "TRV",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "D38"
- },
- {
-  "Flight": "TR540",
-  "Dest": "CJB",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2025",
-  "display_date": "2024-07-08",
-  "display_time": "2025",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "TR562",
-  "Dest": "TRZ",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2255",
-  "display_date": "2024-07-08",
-  "display_time": "2255",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "TR564",
-  "Dest": "TRZ",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2125",
-  "display_date": "2024-07-08",
-  "display_time": "2125",
-  "display_terminal": "1",
-  "display_gate": "D30"
- },
- {
-  "Flight": "TR578",
-  "Dest": "MAA",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2225",
-  "display_date": "2024-07-08",
-  "display_time": "2225",
-  "display_terminal": "1",
-  "display_gate": "D35"
- },
- {
-  "Flight": "TR586",
-  "Dest": "VTZ",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2025",
-  "display_date": "2024-07-08",
-  "display_time": "2025",
-  "display_terminal": "1",
-  "display_gate": "D35"
- },
- {
-  "Flight": "TR596",
-  "Dest": "JED",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1605",
-  "display_date": "2024-07-08",
-  "display_time": "1605",
-  "display_terminal": "1",
-  "display_gate": "B8"
- },
- {
-  "Flight": "TR604",
-  "Dest": "BKK",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1255",
-  "display_date": "2024-07-08",
-  "display_time": "1255",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "TR608",
-  "Dest": "BKK",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0545",
-  "display_date": "2024-07-08",
-  "display_time": "0545",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "TR610",
-  "Dest": "BKK",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1510",
-  "display_date": "2024-07-08",
-  "display_time": "1510",
-  "display_terminal": "1",
-  "display_gate": "C26"
- },
- {
-  "Flight": "TR616",
-  "Dest": "BKK",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1755",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "TR624",
-  "Dest": "BKK",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0820",
-  "display_date": "2024-07-08",
-  "display_time": "0820",
-  "display_terminal": "1",
-  "display_gate": "C24"
- },
- {
-  "Flight": "TR630",
-  "Dest": "HDY",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2215",
-  "display_date": "2024-07-08",
-  "display_time": "2215",
-  "display_terminal": "1",
-  "display_gate": "D48"
- },
- {
-  "Flight": "TR632",
-  "Dest": "HDY",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1220",
-  "display_date": "2024-07-08",
-  "display_time": "1220",
-  "display_terminal": "1",
-  "display_gate": "C11"
- },
- {
-  "Flight": "TR640",
-  "Dest": "USM",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0700",
-  "display_date": "2024-07-08",
-  "display_time": "0700",
-  "display_terminal": "1",
-  "display_gate": "D33"
- },
- {
-  "Flight": "TR642",
-  "Dest": "USM",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1015",
-  "display_date": "2024-07-08",
-  "display_time": "1015",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "TR652",
-  "Dest": "HKT",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1815",
-  "display_date": "2024-07-08",
-  "display_time": "1815",
-  "display_terminal": "1",
-  "display_gate": "D48"
- },
- {
-  "Flight": "TR658",
-  "Dest": "HKT",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0725",
-  "display_date": "2024-07-08",
-  "display_time": "0725",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "TR674",
-  "Dest": "CNX",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1505",
-  "display_date": "2024-07-08",
-  "display_time": "1505",
-  "display_terminal": "1",
-  "display_gate": "B9"
- },
- {
-  "Flight": "TR684",
-  "Dest": "KBV",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1545",
-  "display_date": "2024-07-08",
-  "display_time": "1545",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "TR720",
-  "Dest": "BER",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0030",
-  "display_date": "2024-07-08",
-  "display_time": "0030",
-  "display_terminal": "1",
-  "display_gate": "D47"
- },
- {
-  "Flight": "TR8",
-  "Dest": "PER",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1200",
-  "display_date": "2024-07-08",
-  "display_time": "1200",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "TR808",
-  "Dest": "NRT",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2215",
-  "display_date": "2024-07-08",
-  "display_time": "2215",
-  "display_terminal": "1",
-  "display_gate": "D44"
- },
- {
-  "Flight": "TR812",
-  "Dest": "CJU",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0015",
-  "display_date": "2024-07-08",
-  "display_time": "0015",
-  "display_terminal": "1",
-  "display_gate": "C11"
- },
- {
-  "Flight": "TR818",
-  "Dest": "KIX",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0625",
-  "display_date": "2024-07-08",
-  "display_time": "0625",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "TR874",
-  "Dest": "NRT",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0845",
-  "display_date": "2024-07-08",
-  "display_time": "0845",
-  "display_terminal": "1",
-  "display_gate": "C17"
- },
- {
-  "Flight": "TR896",
-  "Dest": "ICN",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1155",
-  "display_date": "2024-07-08",
-  "display_time": "1155",
-  "display_terminal": "1",
-  "display_gate": "D44"
- },
- {
-  "Flight": "TR898",
-  "Dest": "NRT",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0145",
-  "display_date": "2024-07-08",
-  "display_time": "0145",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "TR904",
-  "Dest": "MFM",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1350",
-  "display_date": "2024-07-08",
-  "display_time": "1350",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "TR972",
-  "Dest": "HKG",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1555",
-  "display_date": "2024-07-08",
-  "display_time": "1555",
-  "display_terminal": "1",
-  "display_gate": "C11"
- },
- {
-  "Flight": "TW172",
-  "Dest": "ICN",
-  "AirlineCode": "TW",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0215",
-  "display_date": "2024-07-08",
-  "display_time": "0345",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "UA2",
-  "Dest": "SFO",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0845",
-  "display_date": "2024-07-08",
-  "display_time": "0845",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "UA28",
-  "Dest": "SFO",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "2",
-  "display_gate": "F54"
- },
- {
-  "Flight": "UA7671",
-  "Dest": "PEN",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1540",
-  "display_date": "2024-07-08",
-  "display_time": "1540",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "UA7672",
-  "Dest": "PER",
-  "AirlineCode": "UA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "UA7674",
-  "Dest": "SUB",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1420",
-  "display_date": "2024-07-08",
-  "display_time": "1420",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "UA7677",
-  "Dest": "CGK",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0925",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "UA7678",
-  "Dest": "CGK",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1230",
-  "display_date": "2024-07-08",
-  "display_time": "1230",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "UA7681",
-  "Dest": "CGK",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2155",
-  "display_date": "2024-07-08",
-  "display_time": "2155",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "UA7682",
-  "Dest": "KUL",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1245",
-  "display_date": "2024-07-08",
-  "display_time": "1245",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "UA7692",
-  "Dest": "SAI",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0845",
-  "display_date": "2024-07-08",
-  "display_time": "0845",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "UA7694",
-  "Dest": "PER",
-  "AirlineCode": "UA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "UA7696",
-  "Dest": "MLE",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2045",
-  "display_date": "2024-07-08",
-  "display_time": "2045",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "UA7698",
-  "Dest": "MLE",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1005",
-  "display_date": "2024-07-08",
-  "display_time": "1005",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "UA7700",
-  "Dest": "KUL",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0910",
-  "display_date": "2024-07-08",
-  "display_time": "0910",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "UA7702",
-  "Dest": "DPS",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1610",
-  "display_date": "2024-07-08",
-  "display_time": "1610",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "UA7704",
-  "Dest": "DPS",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "0915",
-  "display_terminal": "2",
-  "display_gate": "F54"
- },
- {
-  "Flight": "UA7708",
-  "Dest": "BWN",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "UA7712",
-  "Dest": "PEN",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "UA7714",
-  "Dest": "SUB",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1630",
-  "display_date": "2024-07-08",
-  "display_time": "1630",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "UA7934",
-  "Dest": "NRT",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0615",
-  "display_date": "2024-07-08",
-  "display_time": "0615",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "UA7992",
-  "Dest": "HND",
-  "AirlineCode": "UA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1105",
-  "display_date": "2024-07-08",
-  "display_time": "1105",
-  "display_terminal": "2",
-  "display_gate": "E8"
- },
- {
-  "Flight": "UB2",
-  "Dest": "RGN",
-  "AirlineCode": "UB",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1315",
-  "display_date": "2024-07-08",
-  "display_time": "1315",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "UK106",
-  "Dest": "BOM",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1030",
-  "display_date": "2024-07-08",
-  "display_time": "1450",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "UK108",
-  "Dest": "BOM",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2120",
-  "display_date": "2024-07-09",
-  "display_time": "0110",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "UK110",
-  "Dest": "PNQ",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1155",
-  "display_date": "2024-07-08",
-  "display_time": "1255",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "UK116",
-  "Dest": "DEL",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "2",
-  "display_gate": "F51"
- },
- {
-  "Flight": "UK2006",
-  "Dest": "HND",
-  "AirlineCode": "UK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2150",
-  "display_date": "2024-07-08",
-  "display_time": "2150",
-  "display_terminal": "1",
-  "display_gate": "C20"
- },
- {
-  "Flight": "UK2008",
-  "Dest": "HND",
-  "AirlineCode": "UK",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0150",
-  "display_date": "2024-07-08",
-  "display_time": "0150",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "UK8012",
-  "Dest": "NRT",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0940",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "UK8022",
-  "Dest": "EWR",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2335",
-  "display_date": "2024-07-08",
-  "display_time": "2335",
-  "display_terminal": "3",
-  "display_gate": "A15"
- },
- {
-  "Flight": "UK8024",
-  "Dest": "JFK",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1210",
-  "display_date": "2024-07-08",
-  "display_time": "1210",
-  "display_terminal": "3",
-  "display_gate": "C1"
- },
- {
-  "Flight": "UK8032",
-  "Dest": "SFO",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "0915",
-  "display_terminal": "3",
-  "display_gate": "C20"
- },
- {
-  "Flight": "UK8034",
-  "Dest": "SFO",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1950",
-  "display_date": "2024-07-08",
-  "display_time": "1950",
-  "display_terminal": "3",
-  "display_gate": "B8"
- },
- {
-  "Flight": "UK8038",
-  "Dest": "LAX",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2045",
-  "display_date": "2024-07-08",
-  "display_time": "2045",
-  "display_terminal": "3",
-  "display_gate": "A15"
- },
- {
-  "Flight": "UK8114",
-  "Dest": "KUL",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1245",
-  "display_date": "2024-07-08",
-  "display_time": "1245",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "UK8116",
-  "Dest": "KUL",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1450",
-  "display_date": "2024-07-08",
-  "display_time": "1450",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "UK8128",
-  "Dest": "KUL",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2000",
-  "display_date": "2024-07-08",
-  "display_time": "2000",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "UK8134",
-  "Dest": "PEN",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "UK8136",
-  "Dest": "PEN",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1300",
-  "display_date": "2024-07-08",
-  "display_time": "1300",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "UK8156",
-  "Dest": "PNH",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1200",
-  "display_date": "2024-07-08",
-  "display_time": "1200",
-  "display_terminal": "2",
-  "display_gate": "F54"
- },
- {
-  "Flight": "UK8172",
-  "Dest": "DAD",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "1045",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "UK8174",
-  "Dest": "DAD",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1400",
-  "display_date": "2024-07-08",
-  "display_time": "1400",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "UK8178",
-  "Dest": "SGN",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "E12"
- },
- {
-  "Flight": "UK8184",
-  "Dest": "SGN",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1330",
-  "display_date": "2024-07-08",
-  "display_time": "1330",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "UK8192",
-  "Dest": "HAN",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0905",
-  "display_date": "2024-07-08",
-  "display_time": "0905",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "UK8194",
-  "Dest": "HAN",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1505",
-  "display_date": "2024-07-08",
-  "display_time": "1505",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "UK8217",
-  "Dest": "MEL",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1110",
-  "display_date": "2024-07-08",
-  "display_time": "1110",
-  "display_terminal": "3",
-  "display_gate": "B10"
- },
- {
-  "Flight": "UK8221",
-  "Dest": "SYD",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2020",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "UK8223",
-  "Dest": "PER",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "UK8225",
-  "Dest": "PER",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "UK8227",
-  "Dest": "MEL",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2200",
-  "display_date": "2024-07-08",
-  "display_time": "2200",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "UK8231",
-  "Dest": "SYD",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0045",
-  "display_date": "2024-07-08",
-  "display_time": "0045",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "UK8235",
-  "Dest": "BNE",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2130",
-  "display_date": "2024-07-08",
-  "display_time": "2130",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "UK8245",
-  "Dest": "BNE",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0955",
-  "display_date": "2024-07-08",
-  "display_time": "0955",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "UK8279",
-  "Dest": "ADL",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2310",
-  "display_date": "2024-07-08",
-  "display_time": "2310",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "UK8285",
-  "Dest": "AKL",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2245",
-  "display_date": "2024-07-08",
-  "display_time": "2245",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "UK8297",
-  "Dest": "CHC",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1950",
-  "display_date": "2024-07-08",
-  "display_time": "1950",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "UK8606",
-  "Dest": "ICN",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1445",
-  "display_date": "2024-07-08",
-  "display_time": "1445",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "UK8608",
-  "Dest": "ICN",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0010",
-  "display_date": "2024-07-08",
-  "display_time": "0010",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "UK8622",
-  "Dest": "KIX",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1355",
-  "display_date": "2024-07-08",
-  "display_time": "1355",
-  "display_terminal": "2",
-  "display_gate": "E12"
- },
- {
-  "Flight": "UK8634",
-  "Dest": "HND",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1355",
-  "display_date": "2024-07-08",
-  "display_time": "1355",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "UK8636",
-  "Dest": "HND",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2250",
-  "display_date": "2024-07-08",
-  "display_time": "2250",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "UK8638",
-  "Dest": "NRT",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "UK8672",
-  "Dest": "NGO",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0120",
-  "display_date": "2024-07-08",
-  "display_time": "0120",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "UK8728",
-  "Dest": "HKT",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1000",
-  "display_date": "2024-07-08",
-  "display_time": "1000",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "UK8732",
-  "Dest": "HKT",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1315",
-  "display_date": "2024-07-08",
-  "display_time": "1315",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "UK8878",
-  "Dest": "TPE",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1145",
-  "display_date": "2024-07-08",
-  "display_time": "1145",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "UK8892",
-  "Dest": "HKG",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0940",
-  "display_date": "2024-07-08",
-  "display_time": "0940",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
-  "Flight": "UK8894",
-  "Dest": "HKG",
-  "AirlineCode": "UK",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1305",
-  "display_date": "2024-07-08",
-  "display_time": "1305",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "UK8926",
-  "Dest": "SUB",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1420",
-  "display_date": "2024-07-08",
-  "display_time": "1420",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "UK8938",
-  "Dest": "DPS",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "0915",
-  "display_terminal": "2",
-  "display_gate": "F54"
- },
- {
-  "Flight": "UK8948",
-  "Dest": "DPS",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2120",
-  "display_date": "2024-07-08",
-  "display_time": "2120",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "UK8958",
-  "Dest": "CGK",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1230",
-  "display_date": "2024-07-08",
-  "display_time": "1230",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "UK8968",
-  "Dest": "CGK",
-  "AirlineCode": "UK",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2155",
-  "display_date": "2024-07-08",
-  "display_time": "2155",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "UL309",
-  "Dest": "CMB",
-  "AirlineCode": "UL",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2010",
-  "display_date": "2024-07-08",
-  "display_time": "2010",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "UL3261",
-  "Dest": "HKT",
-  "AirlineCode": "UL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1810",
-  "display_date": "2024-07-08",
-  "display_time": "1810",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "UL3269",
-  "Dest": "HKT",
-  "AirlineCode": "UL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1940",
-  "display_date": "2024-07-08",
-  "display_time": "1940",
-  "display_terminal": "4",
-  "display_gate": "G11"
- },
- {
-  "Flight": "UL3275",
-  "Dest": "PNH",
-  "AirlineCode": "UL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1325",
-  "display_date": "2024-07-08",
-  "display_time": "1325",
-  "display_terminal": "4",
-  "display_gate": "G14"
- },
- {
-  "Flight": "UL3279",
-  "Dest": "KUL",
-  "AirlineCode": "UL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "4",
-  "display_gate": "G9"
- },
- {
-  "Flight": "UL3281",
-  "Dest": "BKK",
-  "AirlineCode": "UL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1350",
-  "display_date": "2024-07-08",
-  "display_time": "1350",
-  "display_terminal": "4",
-  "display_gate": "G11"
- },
- {
-  "Flight": "UL3283",
-  "Dest": "BKK",
-  "AirlineCode": "UL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1915",
-  "display_terminal": "4",
-  "display_gate": "G1"
- },
- {
-  "Flight": "UL3285",
-  "Dest": "KUL",
-  "AirlineCode": "UL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0700",
-  "display_date": "2024-07-08",
-  "display_time": "0700",
-  "display_terminal": "4",
-  "display_gate": "G12"
- },
- {
-  "Flight": "UL3287",
-  "Dest": "KUL",
-  "AirlineCode": "UL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1340",
-  "display_date": "2024-07-08",
-  "display_time": "1340",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "UL3291",
-  "Dest": "BKK",
-  "AirlineCode": "UL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "4",
-  "display_gate": "G10"
- },
- {
-  "Flight": "UL3304",
-  "Dest": "RGN",
-  "AirlineCode": "UL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1350",
-  "display_date": "2024-07-08",
-  "display_time": "1350",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "UL3306",
-  "Dest": "RGN",
-  "AirlineCode": "UL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C11"
- },
- {
-  "Flight": "UL3336",
-  "Dest": "HND",
-  "AirlineCode": "UL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2150",
-  "display_date": "2024-07-08",
-  "display_time": "2150",
-  "display_terminal": "1",
-  "display_gate": "C20"
- },
- {
-  "Flight": "UL3338",
-  "Dest": "HND",
-  "AirlineCode": "UL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0150",
-  "display_date": "2024-07-08",
-  "display_time": "0150",
-  "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "UL3354",
-  "Dest": "NRT",
-  "AirlineCode": "UL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0805",
-  "display_date": "2024-07-08",
-  "display_time": "0805",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "UL3374",
-  "Dest": "MEL",
-  "AirlineCode": "UL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "UL3378",
-  "Dest": "MEL",
-  "AirlineCode": "UL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2015",
-  "display_date": "2024-07-08",
-  "display_time": "2015",
-  "display_terminal": "1",
-  "display_gate": "D37"
- },
- {
-  "Flight": "UL3382",
-  "Dest": "BNE",
-  "AirlineCode": "UL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2030",
-  "display_date": "2024-07-08",
-  "display_time": "2030",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "UL3386",
-  "Dest": "PER",
-  "AirlineCode": "UL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1935",
-  "display_date": "2024-07-08",
-  "display_time": "1935",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
-  "Flight": "UL3419",
-  "Dest": "SYD",
-  "AirlineCode": "UL",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "2100",
-  "display_date": "2024-07-08",
-  "display_time": "2100",
-  "display_terminal": "1",
-  "display_gate": "C18"
- },
- {
-  "Flight": "UL3816",
-  "Dest": "ICN",
-  "AirlineCode": "UL",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "2230",
-  "display_date": "2024-07-08",
-  "display_time": "2230",
-  "display_terminal": "4",
-  "display_gate": "G21"
- },
- {
-  "Flight": "UX2718",
-  "Dest": "AUH",
-  "AirlineCode": "UX",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2055",
-  "display_date": "2024-07-08",
-  "display_time": "2055",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "VA5406",
-  "Dest": "FRA",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "VA5424",
-  "Dest": "KUL",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0705",
-  "display_date": "2024-07-08",
-  "display_time": "0705",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "VA5426",
-  "Dest": "KUL",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "VA5428",
-  "Dest": "KUL",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0910",
-  "display_date": "2024-07-08",
-  "display_time": "0910",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "VA5434",
-  "Dest": "KUL",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1245",
-  "display_date": "2024-07-08",
-  "display_time": "1245",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "VA5436",
-  "Dest": "KUL",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1450",
-  "display_date": "2024-07-08",
-  "display_time": "1450",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "VA5442",
-  "Dest": "KUL",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1625",
-  "display_date": "2024-07-08",
-  "display_time": "1625",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "VA5446",
-  "Dest": "KUL",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "VA5452",
-  "Dest": "PEN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "VA5454",
-  "Dest": "PEN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "VA5456",
-  "Dest": "PEN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1300",
-  "display_date": "2024-07-08",
-  "display_time": "1300",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "VA5458",
-  "Dest": "PEN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1540",
-  "display_date": "2024-07-08",
-  "display_time": "1540",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "VA5462",
-  "Dest": "PEN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "VA5474",
-  "Dest": "PNH",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0740",
-  "display_date": "2024-07-08",
-  "display_time": "0740",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "VA5476",
-  "Dest": "PNH",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1200",
-  "display_date": "2024-07-08",
-  "display_time": "1200",
-  "display_terminal": "2",
-  "display_gate": "F54"
- },
- {
-  "Flight": "VA5478",
-  "Dest": "PNH",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1630",
-  "display_date": "2024-07-08",
-  "display_time": "1630",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "VA5482",
-  "Dest": "SAI",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0845",
-  "display_date": "2024-07-08",
-  "display_time": "0845",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "VA5486",
-  "Dest": "DAD",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0915",
-  "display_date": "2024-07-08",
-  "display_time": "1045",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "VA5488",
-  "Dest": "DAD",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1400",
-  "display_date": "2024-07-08",
-  "display_time": "1400",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "VA5490",
-  "Dest": "SGN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0945",
-  "display_date": "2024-07-08",
-  "display_time": "0945",
-  "display_terminal": "2",
-  "display_gate": "E12"
- },
- {
-  "Flight": "VA5492",
-  "Dest": "HAN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0905",
-  "display_date": "2024-07-08",
-  "display_time": "0905",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "VA5494",
-  "Dest": "SGN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1330",
-  "display_date": "2024-07-08",
-  "display_time": "1330",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "VA5496",
-  "Dest": "SGN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1715",
-  "display_date": "2024-07-08",
-  "display_time": "1715",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "VA5498",
-  "Dest": "HAN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1505",
-  "display_date": "2024-07-08",
-  "display_time": "1505",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "VA5503",
-  "Dest": "CNS",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0840",
-  "display_date": "2024-07-08",
-  "display_time": "0840",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "VA5507",
-  "Dest": "MEL",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0750",
-  "display_date": "2024-07-08",
-  "display_time": "0750",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "VA5511",
-  "Dest": "SYD",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0935",
-  "display_date": "2024-07-08",
-  "display_time": "0935",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "VA5515",
-  "Dest": "PER",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "VA5517",
-  "Dest": "MEL",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1110",
-  "display_date": "2024-07-08",
-  "display_time": "1110",
-  "display_terminal": "3",
-  "display_gate": "B10"
- },
- {
-  "Flight": "VA5521",
-  "Dest": "SYD",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2020",
-  "display_date": "2024-07-08",
-  "display_time": "2020",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "VA5523",
-  "Dest": "PER",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "VA5525",
-  "Dest": "PER",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "VA5527",
-  "Dest": "MEL",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2200",
-  "display_date": "2024-07-08",
-  "display_time": "2200",
-  "display_terminal": "3",
-  "display_gate": "B2"
- },
- {
-  "Flight": "VA5531",
-  "Dest": "SYD",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0045",
-  "display_date": "2024-07-08",
-  "display_time": "0045",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "VA5535",
-  "Dest": "BNE",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2130",
-  "display_date": "2024-07-08",
-  "display_time": "2130",
-  "display_terminal": "3",
-  "display_gate": "B9"
- },
- {
-  "Flight": "VA5537",
-  "Dest": "MEL",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0025",
-  "display_date": "2024-07-08",
-  "display_time": "0230",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
-  "Flight": "VA5539",
-  "Dest": "SYD",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0715",
-  "display_date": "2024-07-08",
-  "display_time": "0715",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "VA5541",
-  "Dest": "BNE",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0955",
-  "display_date": "2024-07-08",
-  "display_time": "0955",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "VA5545",
-  "Dest": "DRW",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "3",
-  "display_gate": "A20"
- },
- {
-  "Flight": "VA5549",
-  "Dest": "BNE",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0045",
-  "display_date": "2024-07-08",
-  "display_time": "0045",
-  "display_terminal": "3",
-  "display_gate": "A15"
- },
- {
-  "Flight": "VA5555",
-  "Dest": "ADL",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2310",
-  "display_date": "2024-07-08",
-  "display_time": "2310",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "VA5560",
-  "Dest": "LHR",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0110",
-  "display_date": "2024-07-08",
-  "display_time": "0110",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "VA5562",
-  "Dest": "LHR",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "VA5564",
-  "Dest": "LHR",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1235",
-  "display_date": "2024-07-08",
-  "display_time": "1300",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "VA5566",
-  "Dest": "LHR",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "VA5570",
-  "Dest": "AMS",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2355",
-  "display_date": "2024-07-08",
-  "display_time": "2355",
-  "display_terminal": "3",
-  "display_gate": "C1"
- },
- {
-  "Flight": "VA5572",
-  "Dest": "FRA",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "VA5574",
-  "Dest": "MUC",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0030",
-  "display_date": "2024-07-08",
-  "display_time": "0030",
-  "display_terminal": "3",
-  "display_gate": "B8"
- },
- {
-  "Flight": "VA5576",
-  "Dest": "CDG",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0015",
-  "display_date": "2024-07-08",
-  "display_time": "0015",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "VA5578",
-  "Dest": "CDG",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1355",
-  "display_date": "2024-07-08",
-  "display_time": "1355",
-  "display_terminal": "3",
-  "display_gate": "A13"
- },
- {
-  "Flight": "VA5580",
-  "Dest": "ZRH",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0125",
-  "display_date": "2024-07-08",
-  "display_time": "0155",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "VA5582",
-  "Dest": "CPH",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0005",
-  "display_date": "2024-07-08",
-  "display_time": "0005",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "VA5586",
-  "Dest": "MXP",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "VA5624",
-  "Dest": "CMB",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2220",
-  "display_date": "2024-07-08",
-  "display_time": "2220",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "VA5628",
-  "Dest": "JNB",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0130",
-  "display_date": "2024-07-08",
-  "display_time": "0130",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "VA5670",
-  "Dest": "ICN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "2",
-  "display_gate": "D41"
- },
- {
-  "Flight": "VA5676",
-  "Dest": "ICN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1445",
-  "display_date": "2024-07-08",
-  "display_time": "1445",
-  "display_terminal": "2",
-  "display_gate": "F42"
- },
- {
-  "Flight": "VA5678",
-  "Dest": "ICN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0010",
-  "display_date": "2024-07-08",
-  "display_time": "0010",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "VA5682",
-  "Dest": "ICN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0225",
-  "display_date": "2024-07-08",
-  "display_time": "0225",
-  "display_terminal": "2",
-  "display_gate": "F58"
- },
- {
-  "Flight": "VA5716",
-  "Dest": "BKK",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0710",
-  "display_date": "2024-07-08",
-  "display_time": "0710",
-  "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "VA5718",
-  "Dest": "BKK",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "VA5720",
-  "Dest": "BKK",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1250",
-  "display_date": "2024-07-08",
-  "display_time": "1250",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "VA5722",
-  "Dest": "BKK",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1600",
-  "display_date": "2024-07-08",
-  "display_time": "1600",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "VA5724",
-  "Dest": "BKK",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1730",
-  "display_date": "2024-07-08",
-  "display_time": "1730",
-  "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "VA5730",
-  "Dest": "HKT",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0810",
-  "display_date": "2024-07-08",
-  "display_time": "0810",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "VA5732",
-  "Dest": "HKT",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1000",
-  "display_date": "2024-07-08",
-  "display_time": "1000",
-  "display_terminal": "2",
-  "display_gate": "D40"
- },
- {
-  "Flight": "VA5736",
-  "Dest": "HKT",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1620",
-  "display_date": "2024-07-08",
-  "display_time": "1620",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "VA5738",
-  "Dest": "HKT",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1830",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "E7"
- },
- {
-  "Flight": "VA5742",
-  "Dest": "PEK",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0830",
-  "display_date": "2024-07-08",
-  "display_time": "0830",
-  "display_terminal": "3",
-  "display_gate": "C22"
- },
- {
-  "Flight": "VA5746",
-  "Dest": "PVG",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0115",
-  "display_date": "2024-07-08",
-  "display_time": "0115",
-  "display_terminal": "3",
-  "display_gate": "B5"
- },
- {
-  "Flight": "VA5748",
-  "Dest": "PVG",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0755",
-  "display_date": "2024-07-08",
-  "display_time": "0755",
-  "display_terminal": "3",
-  "display_gate": ""
- },
- {
-  "Flight": "VA5750",
-  "Dest": "CAN",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "VA5756",
-  "Dest": "PVG",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1725",
-  "display_date": "2024-07-08",
-  "display_time": "1725",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "VA5758",
-  "Dest": "PVG",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0930",
-  "display_date": "2024-07-08",
-  "display_time": "0930",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "VA5764",
-  "Dest": "HKG",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0725",
-  "display_date": "2024-07-08",
-  "display_time": "0725",
-  "display_terminal": "3",
-  "display_gate": "A16"
- },
- {
-  "Flight": "VA5772",
-  "Dest": "HKG",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0840",
-  "display_date": "2024-07-08",
-  "display_time": "0925",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "VA5774",
-  "Dest": "HKG",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1305",
-  "display_date": "2024-07-08",
-  "display_time": "1305",
-  "display_terminal": "3",
-  "display_gate": "A14"
- },
- {
-  "Flight": "VA5776",
-  "Dest": "HKG",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1530",
-  "display_date": "2024-07-08",
-  "display_time": "1530",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
-  "Flight": "VA5778",
-  "Dest": "HKG",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1900",
-  "display_date": "2024-07-08",
-  "display_time": "1900",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "VA5782",
-  "Dest": "HKG",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0940",
-  "display_date": "2024-07-08",
-  "display_time": "0940",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
-  "Flight": "VA5786",
-  "Dest": "PEK",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1650",
-  "display_date": "2024-07-08",
-  "display_time": "1650",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
-  "Flight": "VA5818",
-  "Dest": "CGK",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0620",
-  "display_date": "2024-07-08",
-  "display_time": "0655",
-  "display_terminal": "2",
-  "display_gate": "F60"
- },
- {
-  "Flight": "VA5824",
-  "Dest": "CGK",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0925",
-  "display_date": "2024-07-08",
-  "display_time": "0925",
-  "display_terminal": "2",
-  "display_gate": "F40"
- },
- {
-  "Flight": "VA5826",
-  "Dest": "CGK",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1230",
-  "display_date": "2024-07-08",
-  "display_time": "1230",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "VA5832",
-  "Dest": "CGK",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1720",
-  "display_date": "2024-07-08",
-  "display_time": "1735",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "VA5834",
-  "Dest": "CGK",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1625",
-  "display_date": "2024-07-08",
-  "display_time": "1625",
-  "display_terminal": "2",
-  "display_gate": "E8"
- },
- {
-  "Flight": "VA5836",
-  "Dest": "CGK",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2155",
-  "display_date": "2024-07-08",
-  "display_time": "2155",
-  "display_terminal": "2",
-  "display_gate": "E26"
- },
- {
-  "Flight": "VJ812",
-  "Dest": "SGN",
-  "AirlineCode": "VJ",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1305",
-  "display_date": "2024-07-08",
-  "display_time": "1305",
-  "display_terminal": "4",
-  "display_gate": "G6"
- },
- {
-  "Flight": "VJ814",
-  "Dest": "SGN",
-  "AirlineCode": "VJ",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1755",
-  "display_date": "2024-07-08",
-  "display_time": "1755",
-  "display_terminal": "4",
-  "display_gate": "G14"
- },
- {
-  "Flight": "VJ916",
-  "Dest": "HAN",
-  "AirlineCode": "VJ",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1455",
-  "display_date": "2024-07-08",
-  "display_time": "1455",
-  "display_terminal": "4",
-  "display_gate": "G15"
- },
- {
-  "Flight": "VJ970",
-  "Dest": "DAD",
-  "AirlineCode": "VJ",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "4",
-  "display_gate": "G12"
- },
- {
-  "Flight": "VN3251",
-  "Dest": "CGK",
-  "AirlineCode": "VN",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0725",
-  "display_date": "2024-07-08",
-  "display_time": "1000",
-  "display_terminal": "3",
-  "display_gate": "A18"
- },
- {
-  "Flight": "VN3289",
-  "Dest": "SUB",
-  "AirlineCode": "VN",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1855",
-  "display_date": "2024-07-08",
-  "display_time": "1855",
-  "display_terminal": "3",
-  "display_gate": "A1"
- },
- {
-  "Flight": "VN3932",
-  "Dest": "CGK",
-  "AirlineCode": "VN",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1220",
-  "display_date": "2024-07-08",
-  "display_time": "1305",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "VN3963",
-  "Dest": "DPS",
-  "AirlineCode": "VN",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1115",
-  "display_date": "2024-07-08",
-  "display_time": "1115",
-  "display_terminal": "3",
-  "display_gate": "A3"
- },
- {
-  "Flight": "VN3967",
-  "Dest": "CGK",
-  "AirlineCode": "VN",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1930",
-  "display_date": "2024-07-08",
-  "display_time": "1930",
-  "display_terminal": "3",
-  "display_gate": "A16"
- },
- {
-  "Flight": "VN3981",
-  "Dest": "CGK",
-  "AirlineCode": "VN",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1545",
-  "display_date": "2024-07-08",
-  "display_time": "1615",
-  "display_terminal": "3",
-  "display_gate": "A12"
- },
- {
-  "Flight": "VN650",
-  "Dest": "SGN",
-  "AirlineCode": "VN",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1310",
-  "display_date": "2024-07-08",
-  "display_time": "1310",
-  "display_terminal": "3",
-  "display_gate": "B1"
- },
- {
-  "Flight": "VN654",
-  "Dest": "SGN",
-  "AirlineCode": "VN",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1825",
-  "display_date": "2024-07-08",
-  "display_time": "1825",
-  "display_terminal": "3",
-  "display_gate": "A5"
- },
- {
-  "Flight": "VN660",
-  "Dest": "HAN",
-  "AirlineCode": "VN",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1305",
-  "display_date": "2024-07-08",
-  "display_time": "1305",
-  "display_terminal": "3",
-  "display_gate": "B3"
- },
- {
-  "Flight": "VS7969",
-  "Dest": "LHR",
-  "AirlineCode": "VS",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "2330",
-  "display_date": "2024-07-08",
-  "display_time": "2330",
-  "display_terminal": "3",
-  "display_gate": "A10"
- },
- {
-  "Flight": "VS7971",
-  "Dest": "LHR",
-  "AirlineCode": "VS",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "1235",
-  "display_date": "2024-07-08",
-  "display_time": "1300",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "VS7973",
-  "Dest": "LHR",
-  "AirlineCode": "VS",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0900",
-  "display_date": "2024-07-08",
-  "display_time": "0900",
-  "display_terminal": "3",
-  "display_gate": "B4"
- },
- {
-  "Flight": "VS7975",
-  "Dest": "LHR",
-  "AirlineCode": "VS",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0110",
-  "display_date": "2024-07-08",
-  "display_time": "0110",
-  "display_terminal": "3",
-  "display_gate": "A4"
- },
- {
-  "Flight": "WS5933",
-  "Dest": "NRT",
-  "AirlineCode": "WS",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0805",
-  "display_date": "2024-07-08",
-  "display_time": "0805",
-  "display_terminal": "1",
-  "display_gate": "C15"
- },
- {
-  "Flight": "WS6066",
-  "Dest": "ICN",
-  "AirlineCode": "WS",
-  "DTerm": "4",
-  "Date": "2024-07-08",
-  "Time": "1050",
-  "display_date": "2024-07-08",
-  "display_time": "1050",
-  "display_terminal": "4",
-  "display_gate": "G19"
- },
- {
-  "Flight": "WY5605",
-  "Dest": "KUL",
-  "AirlineCode": "WY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2115",
-  "display_date": "2024-07-08",
-  "display_time": "2115",
-  "display_terminal": "2",
-  "display_gate": "F37"
- },
- {
-  "Flight": "WY5608",
-  "Dest": "KUL",
-  "AirlineCode": "WY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1815",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "WY5612",
-  "Dest": "KUL",
-  "AirlineCode": "WY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1105",
-  "display_date": "2024-07-08",
-  "display_time": "1105",
-  "display_terminal": "2",
-  "display_gate": "F56"
- },
- {
-  "Flight": "WY5613",
-  "Dest": "KUL",
-  "AirlineCode": "WY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1915",
-  "display_date": "2024-07-08",
-  "display_time": "1915",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "WY5617",
-  "Dest": "KUL",
-  "AirlineCode": "WY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1535",
-  "display_date": "2024-07-08",
-  "display_time": "1535",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
-  "Flight": "WY5690",
-  "Dest": "KUL",
-  "AirlineCode": "WY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "0620",
-  "display_date": "2024-07-08",
-  "display_time": "0620",
-  "display_terminal": "2",
-  "display_gate": "F52"
- },
- {
-  "Flight": "WY5692",
-  "Dest": "KUL",
-  "AirlineCode": "WY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1340",
-  "display_date": "2024-07-08",
-  "display_time": "1405",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
-  "Flight": "WY5693",
-  "Dest": "KUL",
-  "AirlineCode": "WY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1635",
-  "display_date": "2024-07-08",
-  "display_time": "1635",
-  "display_terminal": "2",
-  "display_gate": "E6"
- },
- {
-  "Flight": "WY5694",
-  "Dest": "KUL",
-  "AirlineCode": "WY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "1215",
-  "display_date": "2024-07-08",
-  "display_time": "1215",
-  "display_terminal": "2",
-  "display_gate": "F35"
- },
- {
-  "Flight": "WY6082",
-  "Dest": "DOH",
-  "AirlineCode": "WY",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0245",
-  "display_date": "2024-07-08",
-  "display_time": "0245",
-  "display_terminal": "1",
-  "display_gate": "D46"
- },
- {
-  "Flight": "WY6084",
-  "Dest": "DOH",
-  "AirlineCode": "WY",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1845",
-  "display_date": "2024-07-08",
-  "display_time": "1845",
-  "display_terminal": "1",
-  "display_gate": "D32"
- },
- {
-  "Flight": "WY6578",
-  "Dest": "DOH",
-  "AirlineCode": "WY",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1030",
-  "display_date": "2024-07-08",
-  "display_time": "1030",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "XY3473",
-  "Dest": "AUH",
-  "AirlineCode": "XY",
-  "DTerm": "2",
-  "Date": "2024-07-08",
-  "Time": "2055",
-  "display_date": "2024-07-08",
-  "display_time": "2055",
-  "display_terminal": "2",
-  "display_gate": "E28"
- },
- {
-  "Flight": "ZG54",
-  "Dest": "NRT",
-  "AirlineCode": "ZG",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "0040",
-  "display_date": "2024-07-08",
-  "display_time": "0040",
-  "display_terminal": "1",
-  "display_gate": "D34"
- },
- {
-  "Flight": "ZH3561",
-  "Dest": "CAN",
-  "AirlineCode": "ZH",
-  "DTerm": "3",
-  "Date": "2024-07-08",
-  "Time": "0800",
-  "display_date": "2024-07-08",
-  "display_time": "0800",
-  "display_terminal": "3",
-  "display_gate": "A17"
- },
- {
-  "Flight": "ZH9024",
-  "Dest": "SZX",
-  "AirlineCode": "ZH",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1740",
-  "display_date": "2024-07-08",
-  "display_time": "1830",
-  "display_terminal": "1",
-  "display_gate": "C11"
- },
- {
-  "Flight": "ZH9026",
-  "Dest": "SZX",
-  "AirlineCode": "ZH",
-  "DTerm": "1",
-  "Date": "2024-07-08",
-  "Time": "1200",
-  "display_date": "2024-07-08",
-  "display_time": "1200",
-  "display_terminal": "1",
-  "display_gate": "C13"
- },
- {
   "Flight": "2Y221",
   "Dest": "KNO",
   "AirlineCode": "2Y",
@@ -17926,7 +34,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0740",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "2Y933",
@@ -17950,7 +58,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0600",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "3K161",
@@ -17962,7 +70,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1000",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G9"
  },
  {
   "Flight": "3K241",
@@ -17974,7 +82,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1050",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G15"
  },
  {
   "Flight": "3K245",
@@ -17986,7 +94,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1540",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G13"
  },
  {
   "Flight": "3K511",
@@ -17998,7 +106,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G13"
  },
  {
   "Flight": "3K513",
@@ -18022,7 +130,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1045",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G5"
  },
  {
   "Flight": "3K535",
@@ -18034,7 +142,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1500",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G4"
  },
  {
   "Flight": "3K537",
@@ -18070,7 +178,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0700",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G12"
  },
  {
   "Flight": "3K685",
@@ -18082,7 +190,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1340",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G1"
  },
  {
   "Flight": "3K687",
@@ -18106,7 +214,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0600",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G11"
  },
  {
   "Flight": "3K763",
@@ -18130,7 +238,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1715",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G10"
  },
  {
   "Flight": "3K767",
@@ -18166,7 +274,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0625",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G10"
  },
  {
   "Flight": "3S531",
@@ -18190,7 +298,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1700",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "3U7026",
@@ -18202,7 +310,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C12"
  },
  {
   "Flight": "3U7028",
@@ -18214,7 +322,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1330",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D37"
  },
  {
   "Flight": "3U7068",
@@ -18238,7 +346,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1650",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G9"
  },
  {
   "Flight": "5J548",
@@ -18286,7 +394,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1035",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G17"
  },
  {
   "Flight": "5X166",
@@ -18310,7 +418,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0835",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "6E1002",
@@ -18320,7 +428,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0245",
   "display_date": "2024-07-09",
-  "display_time": "0245",
+  "display_time": "0315",
   "display_terminal": "2",
   "display_gate": "F36"
  },
@@ -18334,7 +442,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1130",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "6E1006",
@@ -18344,7 +452,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0530",
   "display_date": "2024-07-09",
-  "display_time": "0530",
+  "display_time": "0620",
   "display_terminal": "2",
   "display_gate": "F36"
  },
@@ -18488,9 +596,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1530",
   "display_date": "2024-07-09",
-  "display_time": "1530",
+  "display_time": "1645",
   "display_terminal": "0",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "8B152",
@@ -18502,7 +610,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1350",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F50"
  },
  {
   "Flight": "8K801",
@@ -18526,7 +634,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0600",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "8M232",
@@ -18538,7 +646,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1350",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D42"
  },
  {
   "Flight": "8M234",
@@ -18598,7 +706,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1105",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "8M9534",
@@ -18610,7 +718,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F50"
  },
  {
   "Flight": "8M9544",
@@ -18622,7 +730,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1215",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "9C8550",
@@ -18682,7 +790,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A16"
  },
  {
   "Flight": "A31211",
@@ -18694,7 +802,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0935",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "A31213",
@@ -18718,7 +826,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1110",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A17"
  },
  {
   "Flight": "A31217",
@@ -18754,7 +862,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0750",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "A31228",
@@ -18766,7 +874,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B3"
  },
  {
   "Flight": "A31230",
@@ -18838,7 +946,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1030",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D32"
  },
  {
   "Flight": "AA8399",
@@ -18862,7 +970,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0805",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D34"
  },
  {
   "Flight": "AA8488",
@@ -18886,7 +994,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0910",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E26"
  },
  {
   "Flight": "AC5841",
@@ -18910,7 +1018,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "AC5854",
@@ -18934,7 +1042,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E8"
  },
  {
   "Flight": "AC5859",
@@ -18946,7 +1054,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1250",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E26"
  },
  {
   "Flight": "AC5862",
@@ -18958,7 +1066,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "AC5865",
@@ -18970,7 +1078,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0910",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "AC5867",
@@ -18982,7 +1090,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "AC5868",
@@ -18994,7 +1102,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1200",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E7"
  },
  {
   "Flight": "AC5870",
@@ -19006,7 +1114,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1630",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "AC5871",
@@ -19042,7 +1150,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0615",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E12"
  },
  {
   "Flight": "AC6296",
@@ -19078,7 +1186,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1530",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A2"
  },
  {
   "Flight": "AC6303",
@@ -19090,7 +1198,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1305",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "AC6304",
@@ -19102,7 +1210,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0940",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A10"
  },
  {
   "Flight": "AC6305",
@@ -19114,7 +1222,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "AC6307",
@@ -19126,7 +1234,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B2"
  },
  {
   "Flight": "AC6309",
@@ -19198,7 +1306,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1110",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A17"
  },
  {
   "Flight": "AF3929",
@@ -19210,7 +1318,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A9"
  },
  {
   "Flight": "AF3931",
@@ -19220,7 +1328,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1930",
   "display_date": "2024-07-09",
-  "display_time": "1930",
+  "display_time": "2025",
   "display_terminal": "3",
   "display_gate": ""
  },
@@ -19270,7 +1378,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1715",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G10"
  },
  {
   "Flight": "AF7003",
@@ -19318,7 +1426,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "AF7240",
@@ -19342,7 +1450,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1000",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "AF7243",
@@ -19354,7 +1462,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1245",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "AF7244",
@@ -19402,7 +1510,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1500",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G4"
  },
  {
   "Flight": "AF9589",
@@ -19426,7 +1534,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1340",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G1"
  },
  {
   "Flight": "AF9600",
@@ -19438,7 +1546,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1540",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G13"
  },
  {
   "Flight": "AF9667",
@@ -19510,7 +1618,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F53"
  },
  {
   "Flight": "AI381",
@@ -19520,9 +1628,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0835",
   "display_date": "2024-07-09",
-  "display_time": "0835",
+  "display_time": "0920",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F50"
  },
  {
   "Flight": "AI383",
@@ -19546,7 +1654,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0915",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "AI7058",
@@ -19558,7 +1666,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1310",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "AI7060",
@@ -19570,7 +1678,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1510",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A14"
  },
  {
   "Flight": "AI7204",
@@ -19582,7 +1690,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0915",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B8"
  },
  {
   "Flight": "AI7206",
@@ -19594,7 +1702,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B2"
  },
  {
   "Flight": "AI7242",
@@ -19606,7 +1714,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E8"
  },
  {
   "Flight": "AI7244",
@@ -19618,7 +1726,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0910",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "AI7262",
@@ -19642,7 +1750,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1140",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G10"
  },
  {
   "Flight": "AK1716",
@@ -19654,7 +1762,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1220",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G6"
  },
  {
   "Flight": "AK1720",
@@ -19666,7 +1774,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1125",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G1"
  },
  {
   "Flight": "AK1722",
@@ -19678,7 +1786,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1350",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G11"
  },
  {
   "Flight": "AK1724",
@@ -19690,7 +1798,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1735",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G7"
  },
  {
   "Flight": "AK1730",
@@ -19714,7 +1822,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1520",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G10"
  },
  {
   "Flight": "AK1776",
@@ -19726,7 +1834,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1145",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G7"
  },
  {
   "Flight": "AK1794",
@@ -19738,7 +1846,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1210",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G5"
  },
  {
   "Flight": "AK700",
@@ -19750,7 +1858,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0755",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G10"
  },
  {
   "Flight": "AK702",
@@ -19762,7 +1870,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0910",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G1"
  },
  {
   "Flight": "AK704",
@@ -19774,7 +1882,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1030",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G2"
  },
  {
   "Flight": "AK706",
@@ -19786,7 +1894,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1130",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G13"
  },
  {
   "Flight": "AK710",
@@ -19798,7 +1906,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1330",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G5"
  },
  {
   "Flight": "AK712",
@@ -19810,7 +1918,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1410",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G14"
  },
  {
   "Flight": "AK714",
@@ -19822,7 +1930,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1610",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G7"
  },
  {
   "Flight": "AK716",
@@ -19870,7 +1978,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1055",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G6"
  },
  {
   "Flight": "AS5774",
@@ -19882,7 +1990,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1030",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D32"
  },
  {
   "Flight": "AS5776",
@@ -19942,7 +2050,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0805",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D34"
  },
  {
   "Flight": "AT5729",
@@ -19978,7 +2086,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A4"
  },
  {
   "Flight": "AV6553",
@@ -19990,7 +2098,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1235",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A14"
  },
  {
   "Flight": "AV6557",
@@ -20110,7 +2218,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G13"
  },
  {
   "Flight": "AY6379",
@@ -20182,7 +2290,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1105",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "AY6629",
@@ -20194,7 +2302,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1535",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "AY6631",
@@ -20230,7 +2338,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1215",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "AY6941",
@@ -20278,7 +2386,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1030",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D32"
  },
  {
   "Flight": "BA12",
@@ -20326,7 +2434,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "BA2172",
@@ -20350,7 +2458,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1030",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D32"
  },
  {
   "Flight": "BA4495",
@@ -20482,7 +2590,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1550",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A19"
  },
  {
   "Flight": "BI3326",
@@ -20494,7 +2602,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1350",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D42"
  },
  {
   "Flight": "BI422",
@@ -20506,7 +2614,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1210",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "BI424",
@@ -20530,7 +2638,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1510",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A14"
  },
  {
   "Flight": "BR2202",
@@ -20542,7 +2650,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0820",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C20"
  },
  {
   "Flight": "BR2204",
@@ -20552,9 +2660,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1145",
   "display_date": "2024-07-09",
-  "display_time": "1145",
+  "display_time": "1200",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "BR226",
@@ -20566,7 +2674,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1310",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "BS308",
@@ -20590,7 +2698,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1740",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C16"
  },
  {
   "Flight": "CA3726",
@@ -20602,7 +2710,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1200",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D36"
  },
  {
   "Flight": "CA404",
@@ -20614,7 +2722,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1600",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D38"
  },
  {
   "Flight": "CA450",
@@ -20626,7 +2734,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1735",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C20"
  },
  {
   "Flight": "CA5255",
@@ -20650,7 +2758,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1245",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B3"
  },
  {
   "Flight": "CA5265",
@@ -20662,7 +2770,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "CA5267",
@@ -20674,7 +2782,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1725",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A11"
  },
  {
   "Flight": "CA5269",
@@ -20686,7 +2794,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0750",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "CA5272",
@@ -20698,7 +2806,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "CA5274",
@@ -20722,7 +2830,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1610",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E27"
  },
  {
   "Flight": "CA5277",
@@ -20734,7 +2842,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0955",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C1"
  },
  {
   "Flight": "CA5279",
@@ -20746,7 +2854,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "CA5282",
@@ -20758,7 +2866,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1650",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "CA5284",
@@ -20770,7 +2878,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A2"
  },
  {
   "Flight": "CA5287",
@@ -20806,7 +2914,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E7"
  },
  {
   "Flight": "CA5298",
@@ -20818,7 +2926,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1005",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E12"
  },
  {
   "Flight": "CA5299",
@@ -20830,7 +2938,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0755",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B1"
  },
  {
   "Flight": "CA776",
@@ -20842,7 +2950,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1615",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C15"
  },
  {
   "Flight": "CA826",
@@ -20854,7 +2962,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1715",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D48"
  },
  {
   "Flight": "CA970",
@@ -20876,9 +2984,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0900",
   "display_date": "2024-07-09",
-  "display_time": "0900",
+  "display_time": "1120",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D46"
  },
  {
   "Flight": "CI5872",
@@ -20890,7 +2998,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0630",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "CI754",
@@ -20900,9 +3008,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1335",
   "display_date": "2024-07-09",
-  "display_time": "1335",
+  "display_time": "1350",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A17"
  },
  {
   "Flight": "CI758",
@@ -20950,7 +3058,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G18"
  },
  {
   "Flight": "CX690",
@@ -20962,7 +3070,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1255",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G18"
  },
  {
   "Flight": "CX692",
@@ -20974,7 +3082,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0630",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G18"
  },
  {
   "Flight": "CX710",
@@ -20986,7 +3094,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G20"
  },
  {
   "Flight": "CX712",
@@ -20998,7 +3106,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1325",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G19"
  },
  {
   "Flight": "CX714",
@@ -21034,7 +3142,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1605",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G18"
  },
  {
   "Flight": "CZ3040",
@@ -21058,7 +3166,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C12"
  },
  {
   "Flight": "CZ354",
@@ -21070,7 +3178,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1330",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D37"
  },
  {
   "Flight": "CZ546",
@@ -21082,7 +3190,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1435",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D36"
  },
  {
   "Flight": "CZ8048",
@@ -21104,7 +3212,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0355",
   "display_date": "2024-07-09",
-  "display_time": "0355",
+  "display_time": "0435",
   "display_terminal": "1",
   "display_gate": "C11"
  },
@@ -21130,7 +3238,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1050",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G19"
  },
  {
   "Flight": "DL9025",
@@ -21166,7 +3274,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1230",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A21"
  },
  {
   "Flight": "EK348",
@@ -21178,7 +3286,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1535",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C13"
  },
  {
   "Flight": "EK349",
@@ -21226,7 +3334,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1025",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C13"
  },
  {
   "Flight": "EK405",
@@ -21238,7 +3346,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0940",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C15"
  },
  {
   "Flight": "EK4609",
@@ -21322,7 +3430,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0700",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G12"
  },
  {
   "Flight": "EK7711",
@@ -21334,7 +3442,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1340",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G1"
  },
  {
   "Flight": "EK7713",
@@ -21358,7 +3466,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G13"
  },
  {
   "Flight": "EK7719",
@@ -21382,7 +3490,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1045",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G5"
  },
  {
   "Flight": "EK7733",
@@ -21394,7 +3502,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1500",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G4"
  },
  {
   "Flight": "EK7735",
@@ -21418,7 +3526,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1540",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G13"
  },
  {
   "Flight": "ES780",
@@ -21430,7 +3538,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "0",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "ET1301",
@@ -21442,7 +3550,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1510",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B2"
  },
  {
   "Flight": "ET1303",
@@ -21574,7 +3682,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1725",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A11"
  },
  {
   "Flight": "ET1331",
@@ -21586,7 +3694,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1715",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "ET1332",
@@ -21598,7 +3706,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B7"
  },
  {
   "Flight": "ET1334",
@@ -21610,7 +3718,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0905",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F58"
  },
  {
   "Flight": "ET1338",
@@ -21622,7 +3730,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1625",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "ET1340",
@@ -21634,7 +3742,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1650",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "ET1342",
@@ -21682,7 +3790,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1550",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F50"
  },
  {
   "Flight": "EY497",
@@ -21730,7 +3838,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "EY8134",
@@ -21740,9 +3848,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1220",
   "display_date": "2024-07-09",
-  "display_time": "1220",
+  "display_time": "1345",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A1"
  },
  {
   "Flight": "EY8135",
@@ -21754,7 +3862,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1545",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B4"
  },
  {
   "Flight": "EY8136",
@@ -21764,7 +3872,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1930",
   "display_date": "2024-07-09",
-  "display_time": "1930",
+  "display_time": "2025",
   "display_terminal": "3",
   "display_gate": ""
  },
@@ -21790,7 +3898,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1440",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G6"
  },
  {
   "Flight": "FD358",
@@ -21802,7 +3910,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1015",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G14"
  },
  {
   "Flight": "FD377",
@@ -21814,7 +3922,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1315",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G10"
  },
  {
   "Flight": "FJ5325",
@@ -21970,7 +4078,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1355",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "FJ5953",
@@ -21982,7 +4090,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1355",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "FJ5955",
@@ -21994,7 +4102,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A4"
  },
  {
   "Flight": "FJ5957",
@@ -22006,7 +4114,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1235",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A14"
  },
  {
   "Flight": "FJ5959",
@@ -22018,7 +4126,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B7"
  },
  {
   "Flight": "FJ5963",
@@ -22030,7 +4138,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "FJ5965",
@@ -22042,7 +4150,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E11"
  },
  {
   "Flight": "FJ5985",
@@ -22066,7 +4174,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "FX6024",
@@ -22090,7 +4198,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1550",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "FY7320",
@@ -22102,7 +4210,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F50"
  },
  {
   "Flight": "FY7324",
@@ -22150,7 +4258,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1105",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "FY7332",
@@ -22174,7 +4282,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1535",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "FY7338",
@@ -22186,7 +4294,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1215",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "GA823",
@@ -22196,9 +4304,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0725",
   "display_date": "2024-07-09",
-  "display_time": "0725",
+  "display_time": "0800",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C13"
  },
  {
   "Flight": "GA829",
@@ -22208,9 +4316,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1220",
   "display_date": "2024-07-09",
-  "display_time": "1220",
+  "display_time": "1345",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A1"
  },
  {
   "Flight": "GA833",
@@ -22222,7 +4330,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1545",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B4"
  },
  {
   "Flight": "GA837",
@@ -22232,7 +4340,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1930",
   "display_date": "2024-07-09",
-  "display_time": "1930",
+  "display_time": "2025",
   "display_terminal": "3",
   "display_gate": ""
  },
@@ -22246,7 +4354,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A9"
  },
  {
   "Flight": "GA855",
@@ -22282,7 +4390,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0855",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C2"
  },
  {
   "Flight": "GA8950",
@@ -22294,7 +4402,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F41"
  },
  {
   "Flight": "GA8956",
@@ -22306,7 +4414,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "GA8958",
@@ -22318,7 +4426,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1230",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "GA8962",
@@ -22330,7 +4438,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1625",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E26"
  },
  {
   "Flight": "GA8964",
@@ -22342,7 +4450,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F41"
  },
  {
   "Flight": "GA8968",
@@ -22388,7 +4496,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0130",
   "display_date": "2024-07-09",
-  "display_time": "0130",
+  "display_time": "0240",
   "display_terminal": "3",
   "display_gate": "B3"
  },
@@ -22402,7 +4510,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0915",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "GA9072",
@@ -22414,7 +4522,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1610",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E27"
  },
  {
   "Flight": "GA9074",
@@ -22426,7 +4534,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1740",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "GA9602",
@@ -22438,7 +4546,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1310",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A9"
  },
  {
   "Flight": "GA9604",
@@ -22462,7 +4570,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1305",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "GA9733",
@@ -22474,7 +4582,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1505",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D37"
  },
  {
   "Flight": "GA9735",
@@ -22486,7 +4594,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1515",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D30"
  },
  {
   "Flight": "GA9740",
@@ -22498,7 +4606,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0645",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "GA9742",
@@ -22522,7 +4630,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0820",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "GA9904",
@@ -22534,7 +4642,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0750",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F60"
  },
  {
   "Flight": "GA9906",
@@ -22546,7 +4654,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1630",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "GA9908",
@@ -22558,7 +4666,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0740",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "GA9910",
@@ -22580,9 +4688,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1335",
   "display_date": "2024-07-09",
-  "display_time": "1335",
+  "display_time": "1350",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A17"
  },
  {
   "Flight": "GF165",
@@ -22594,7 +4702,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1400",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A10"
  },
  {
   "Flight": "GF166",
@@ -22654,7 +4762,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0805",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D34"
  },
  {
   "Flight": "HM6227",
@@ -22678,7 +4786,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1600",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G11"
  },
  {
   "Flight": "HO1606",
@@ -22702,7 +4810,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1635",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "HO3514",
@@ -22714,7 +4822,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1010",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A3"
  },
  {
   "Flight": "IB7305",
@@ -22786,7 +4894,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1030",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D32"
  },
  {
   "Flight": "ID7146",
@@ -22798,7 +4906,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1400",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A16"
  },
  {
   "Flight": "ID7150",
@@ -22810,7 +4918,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1615",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A20"
  },
  {
   "Flight": "ID7152",
@@ -22834,7 +4942,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1125",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A20"
  },
  {
   "Flight": "ID7156",
@@ -22846,7 +4954,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1435",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A18"
  },
  {
   "Flight": "ID7158",
@@ -22882,7 +4990,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1550",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F36"
  },
  {
   "Flight": "IX687",
@@ -22906,7 +5014,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1130",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F50"
  },
  {
   "Flight": "JL36",
@@ -22954,7 +5062,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0805",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D34"
  },
  {
   "Flight": "JL7883",
@@ -23014,7 +5122,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0550",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D33F"
  },
  {
   "Flight": "JQ6036",
@@ -23098,7 +5206,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1400",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D46"
  },
  {
   "Flight": "K63650",
@@ -23110,7 +5218,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1310",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A9"
  },
  {
   "Flight": "K63654",
@@ -23134,7 +5242,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1305",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "KE364",
@@ -23146,7 +5254,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1100",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "D33F"
  },
  {
   "Flight": "KE5470",
@@ -23194,7 +5302,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1050",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G19"
  },
  {
   "Flight": "KJ594",
@@ -23242,7 +5350,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "KL4043",
@@ -23252,7 +5360,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1930",
   "display_date": "2024-07-09",
-  "display_time": "1930",
+  "display_time": "2025",
   "display_terminal": "3",
   "display_gate": ""
  },
@@ -23302,7 +5410,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1715",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G10"
  },
  {
   "Flight": "KL4853",
@@ -23314,7 +5422,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G13"
  },
  {
   "Flight": "KL4860",
@@ -23422,7 +5530,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A9"
  },
  {
   "Flight": "KL835",
@@ -23434,7 +5542,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1650",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C22"
  },
  {
   "Flight": "KL836",
@@ -23444,7 +5552,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0040",
   "display_date": "2024-07-09",
-  "display_time": "0040",
+  "display_time": "0100",
   "display_terminal": "1",
   "display_gate": "C22"
  },
@@ -23458,7 +5566,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1650",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D42"
  },
  {
   "Flight": "KU6843",
@@ -23566,7 +5674,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0850",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A20"
  },
  {
   "Flight": "LH7198",
@@ -23588,9 +5696,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0915",
   "display_date": "2024-07-09",
-  "display_time": "0915",
+  "display_time": "1030",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "LH7202",
@@ -23638,7 +5746,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A16"
  },
  {
   "Flight": "LH7210",
@@ -23650,7 +5758,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "LH7212",
@@ -23662,7 +5770,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1400",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "LH7214",
@@ -23674,7 +5782,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0915",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "LH7216",
@@ -23698,7 +5806,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F36"
  },
  {
   "Flight": "LH7220",
@@ -23710,7 +5818,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "LH7222",
@@ -23722,7 +5830,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1715",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "LH7224",
@@ -23734,7 +5842,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0905",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F58"
  },
  {
   "Flight": "LH7226",
@@ -23746,7 +5854,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F41"
  },
  {
   "Flight": "LH7228",
@@ -23770,7 +5878,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F41"
  },
  {
   "Flight": "LH7232",
@@ -23782,7 +5890,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0750",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F60"
  },
  {
   "Flight": "LH7234",
@@ -23806,7 +5914,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0740",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "LH7238",
@@ -23830,7 +5938,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A21"
  },
  {
   "Flight": "LH779",
@@ -23866,7 +5974,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0750",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "LH9754",
@@ -23890,7 +5998,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0740",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "LH9763",
@@ -23914,7 +6022,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B7"
  },
  {
   "Flight": "LH9766",
@@ -23974,7 +6082,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1110",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A17"
  },
  {
   "Flight": "LH9778",
@@ -24010,7 +6118,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0955",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C1"
  },
  {
   "Flight": "LH9784",
@@ -24022,7 +6130,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0935",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "LH9786",
@@ -24034,7 +6142,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "LH9788",
@@ -24070,7 +6178,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1740",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "LH9794",
@@ -24082,7 +6190,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0845",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D42"
  },
  {
   "Flight": "LH9796",
@@ -24130,7 +6238,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0220",
   "display_terminal": "3",
-  "display_gate": "A5"
+  "display_gate": "A12"
  },
  {
   "Flight": "LX9002",
@@ -24154,7 +6262,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0740",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "LX9008",
@@ -24178,7 +6286,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "LX9012",
@@ -24190,7 +6298,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1110",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A17"
  },
  {
   "Flight": "LX9014",
@@ -24202,7 +6310,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A21"
  },
  {
   "Flight": "LX9016",
@@ -24238,7 +6346,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0750",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "LX9024",
@@ -24310,7 +6418,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0905",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F58"
  },
  {
   "Flight": "LX9038",
@@ -24322,7 +6430,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A16"
  },
  {
   "Flight": "LX9040",
@@ -24334,7 +6442,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B3"
  },
  {
   "Flight": "LX9042",
@@ -24358,7 +6466,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0705",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "LX9046",
@@ -24370,7 +6478,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0935",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "LX9048",
@@ -24394,7 +6502,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1610",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E27"
  },
  {
   "Flight": "LX9052",
@@ -24406,7 +6514,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1245",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "LX9054",
@@ -24418,7 +6526,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0820",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "LX9056",
@@ -24430,7 +6538,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E7"
  },
  {
   "Flight": "LX9058",
@@ -24454,7 +6562,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E8"
  },
  {
   "Flight": "LX9064",
@@ -24478,7 +6586,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0710",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "LX9068",
@@ -24538,7 +6646,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "LX9080",
@@ -24550,7 +6658,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "LX9082",
@@ -24562,7 +6670,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0910",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "LX9084",
@@ -24574,7 +6682,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0740",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "LX9086",
@@ -24586,7 +6694,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "LX9088",
@@ -24610,7 +6718,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0810",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "LX9092",
@@ -24622,7 +6730,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0845",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D42"
  },
  {
   "Flight": "LX9094",
@@ -24634,7 +6742,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1400",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "LX9096",
@@ -24646,7 +6754,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0955",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C1"
  },
  {
   "Flight": "LX9204",
@@ -24658,7 +6766,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F36"
  },
  {
   "Flight": "LX9240",
@@ -24670,7 +6778,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0750",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F60"
  },
  {
   "Flight": "LX9244",
@@ -24682,7 +6790,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1630",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "MF852",
@@ -24694,7 +6802,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1515",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D30"
  },
  {
   "Flight": "MF866",
@@ -24706,7 +6814,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1505",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D37"
  },
  {
   "Flight": "MF8704",
@@ -24718,7 +6826,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1450",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D42"
  },
  {
   "Flight": "MF886",
@@ -24730,7 +6838,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0855",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C2"
  },
  {
   "Flight": "MF9501",
@@ -24740,7 +6848,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1930",
   "display_date": "2024-07-09",
-  "display_time": "1930",
+  "display_time": "2025",
   "display_terminal": "3",
   "display_gate": ""
  },
@@ -24754,7 +6862,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1545",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B4"
  },
  {
   "Flight": "MF9505",
@@ -24764,9 +6872,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1220",
   "display_date": "2024-07-09",
-  "display_time": "1220",
+  "display_time": "1345",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A1"
  },
  {
   "Flight": "MF9509",
@@ -24778,7 +6886,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A9"
  },
  {
   "Flight": "MH5722",
@@ -24790,7 +6898,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0705",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "MH5724",
@@ -24802,7 +6910,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0910",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "MH5728",
@@ -24814,7 +6922,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1245",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "MH5732",
@@ -24838,7 +6946,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1450",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "MH5738",
@@ -24850,7 +6958,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E7"
  },
  {
   "Flight": "MH5740",
@@ -24862,7 +6970,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "MH5742",
@@ -24874,7 +6982,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1300",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "MH5744",
@@ -24886,7 +6994,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1540",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E8"
  },
  {
   "Flight": "MH5746",
@@ -24934,7 +7042,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A4"
  },
  {
   "Flight": "MH5760",
@@ -24946,7 +7054,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1235",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A14"
  },
  {
   "Flight": "MH5762",
@@ -24968,7 +7076,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0130",
   "display_date": "2024-07-09",
-  "display_time": "0130",
+  "display_time": "0240",
   "display_terminal": "3",
   "display_gate": "B3"
  },
@@ -24982,7 +7090,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0220",
   "display_terminal": "3",
-  "display_gate": "A5"
+  "display_gate": "A12"
  },
  {
   "Flight": "MH5820",
@@ -25006,7 +7114,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1625",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "MH5844",
@@ -25030,7 +7138,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "MH5856",
@@ -25054,7 +7162,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F50"
  },
  {
   "Flight": "MH606",
@@ -25102,7 +7210,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1105",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "MH616",
@@ -25126,7 +7234,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1535",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "MH628",
@@ -25138,7 +7246,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1215",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "MK9719",
@@ -25150,7 +7258,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F50"
  },
  {
   "Flight": "MU2670",
@@ -25174,7 +7282,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1600",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G11"
  },
  {
   "Flight": "MU3976",
@@ -25246,7 +7354,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1515",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D30"
  },
  {
   "Flight": "MU4902",
@@ -25258,7 +7366,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0855",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C2"
  },
  {
   "Flight": "MU4904",
@@ -25270,7 +7378,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1505",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D37"
  },
  {
   "Flight": "MU5032",
@@ -25294,7 +7402,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1220",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B2"
  },
  {
   "Flight": "MU544",
@@ -25318,7 +7426,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1010",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A3"
  },
  {
   "Flight": "MU566",
@@ -25342,7 +7450,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1635",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "MU6018",
@@ -25366,7 +7474,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1545",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A9"
  },
  {
   "Flight": "MU898",
@@ -25414,7 +7522,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A16"
  },
  {
   "Flight": "NH5370",
@@ -25426,7 +7534,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "NH5374",
@@ -25450,7 +7558,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0955",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C1"
  },
  {
   "Flight": "NH5482",
@@ -25462,7 +7570,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A21"
  },
  {
   "Flight": "NH5484",
@@ -25474,7 +7582,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1110",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A17"
  },
  {
   "Flight": "NH5486",
@@ -25486,7 +7594,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0750",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "NH6250",
@@ -25498,7 +7606,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "NH6252",
@@ -25510,7 +7618,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B2"
  },
  {
   "Flight": "NH6254",
@@ -25534,7 +7642,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1355",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "NH6258",
@@ -25558,7 +7666,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1355",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "NH6264",
@@ -25582,7 +7690,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E11"
  },
  {
   "Flight": "NH6268",
@@ -25618,7 +7726,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "NH6274",
@@ -25628,7 +7736,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0130",
   "display_date": "2024-07-09",
-  "display_time": "0130",
+  "display_time": "0240",
   "display_terminal": "3",
   "display_gate": "B3"
  },
@@ -25652,9 +7760,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0235",
   "display_date": "2024-07-09",
-  "display_time": "0235",
+  "display_time": "0255",
   "display_terminal": "3",
-  "display_gate": "A13"
+  "display_gate": "A5"
  },
  {
   "Flight": "NH6280",
@@ -25690,7 +7798,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0740",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C1"
  },
  {
   "Flight": "NH6286",
@@ -25702,7 +7810,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1650",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "NH6288",
@@ -25714,7 +7822,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0740",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "NH6290",
@@ -25750,7 +7858,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0755",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D42"
  },
  {
   "Flight": "NH6298",
@@ -25774,7 +7882,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0615",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E12"
  },
  {
   "Flight": "NH842",
@@ -25786,7 +7894,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1105",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E27"
  },
  {
   "Flight": "NH844",
@@ -25822,7 +7930,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1700",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "NZ281",
@@ -25834,7 +7942,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0850",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A20"
  },
  {
   "Flight": "NZ283",
@@ -25858,7 +7966,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0740",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C1"
  },
  {
   "Flight": "NZ3204",
@@ -25930,7 +8038,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0840",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B6"
  },
  {
   "Flight": "NZ3216",
@@ -25942,7 +8050,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0840",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A18"
  },
  {
   "Flight": "NZ3218",
@@ -25954,7 +8062,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1505",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "NZ3232",
@@ -25966,7 +8074,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E7"
  },
  {
   "Flight": "NZ3252",
@@ -26002,7 +8110,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1510",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B2"
  },
  {
   "Flight": "NZ3278",
@@ -26012,7 +8120,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0130",
   "display_date": "2024-07-09",
-  "display_time": "0130",
+  "display_time": "0240",
   "display_terminal": "3",
   "display_gate": "B3"
  },
@@ -26048,7 +8156,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0225",
   "display_date": "2024-07-09",
-  "display_time": "0225",
+  "display_time": "0240",
   "display_terminal": "3",
   "display_gate": "B4"
  },
@@ -26074,7 +8182,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A4"
  },
  {
   "Flight": "NZ3318",
@@ -26086,7 +8194,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1235",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A14"
  },
  {
   "Flight": "NZ3322",
@@ -26122,7 +8230,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B7"
  },
  {
   "Flight": "NZ3328",
@@ -26158,7 +8266,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0220",
   "display_terminal": "3",
-  "display_gate": "A5"
+  "display_gate": "A12"
  },
  {
   "Flight": "NZ3352",
@@ -26204,9 +8312,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0235",
   "display_date": "2024-07-09",
-  "display_time": "0235",
+  "display_time": "0255",
   "display_terminal": "3",
-  "display_gate": "A13"
+  "display_gate": "A5"
  },
  {
   "Flight": "NZ3386",
@@ -26218,7 +8326,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1650",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "NZ3396",
@@ -26230,7 +8338,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1055",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "NZ3400",
@@ -26242,7 +8350,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F36"
  },
  {
   "Flight": "NZ3404",
@@ -26254,7 +8362,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0705",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "NZ3408",
@@ -26266,7 +8374,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0910",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "NZ3410",
@@ -26290,7 +8398,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1245",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "NZ3416",
@@ -26302,7 +8410,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1450",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "NZ3422",
@@ -26314,7 +8422,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "NZ3424",
@@ -26338,7 +8446,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1540",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E8"
  },
  {
   "Flight": "NZ3428",
@@ -26350,7 +8458,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1300",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "NZ3430",
@@ -26362,7 +8470,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "NZ3432",
@@ -26374,7 +8482,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1625",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "NZ3434",
@@ -26398,7 +8506,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0920",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F41"
  },
  {
   "Flight": "NZ3440",
@@ -26410,7 +8518,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1630",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "NZ3442",
@@ -26446,7 +8554,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0710",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "NZ3448",
@@ -26458,7 +8566,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E8"
  },
  {
   "Flight": "NZ3450",
@@ -26470,7 +8578,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1250",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E26"
  },
  {
   "Flight": "NZ3452",
@@ -26482,7 +8590,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1600",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F58"
  },
  {
   "Flight": "NZ3454",
@@ -26506,7 +8614,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "NZ3458",
@@ -26518,7 +8626,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0905",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F58"
  },
  {
   "Flight": "NZ3460",
@@ -26530,7 +8638,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1715",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "NZ3464",
@@ -26542,7 +8650,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1730",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "NZ3468",
@@ -26552,9 +8660,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0915",
   "display_date": "2024-07-09",
-  "display_time": "0915",
+  "display_time": "1030",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "NZ3470",
@@ -26566,7 +8674,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1400",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "NZ3476",
@@ -26578,7 +8686,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1000",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "NZ3478",
@@ -26590,7 +8698,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0740",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "NZ3482",
@@ -26602,7 +8710,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1200",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E7"
  },
  {
   "Flight": "NZ3484",
@@ -26614,7 +8722,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0845",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D42"
  },
  {
   "Flight": "NZ3492",
@@ -26626,7 +8734,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0810",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "NZ3494",
@@ -26638,7 +8746,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1315",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "NZ3496",
@@ -26650,7 +8758,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "NZ3498",
@@ -26686,7 +8794,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1020",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A2"
  },
  {
   "Flight": "OD804",
@@ -26698,7 +8806,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1230",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A21"
  },
  {
   "Flight": "OD806",
@@ -26722,7 +8830,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1710",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A21"
  },
  {
   "Flight": "OM5502",
@@ -26734,7 +8842,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0805",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D34"
  },
  {
   "Flight": "OM6234",
@@ -26746,7 +8854,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1050",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G19"
  },
  {
   "Flight": "OQ2096",
@@ -26758,7 +8866,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1435",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D36"
  },
  {
   "Flight": "OS8610",
@@ -26782,7 +8890,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B7"
  },
  {
   "Flight": "OU5807",
@@ -26830,7 +8938,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0220",
   "display_terminal": "3",
-  "display_gate": "A5"
+  "display_gate": "A12"
  },
  {
   "Flight": "OZ384",
@@ -26854,7 +8962,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0645",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "OZ6726",
@@ -26864,7 +8972,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0225",
   "display_date": "2024-07-09",
-  "display_time": "0225",
+  "display_time": "0240",
   "display_terminal": "2",
   "display_gate": "F60"
  },
@@ -26878,7 +8986,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0705",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "OZ6782",
@@ -26902,7 +9010,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1445",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "OZ6790",
@@ -26914,7 +9022,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "OZ6792",
@@ -26924,7 +9032,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0130",
   "display_date": "2024-07-09",
-  "display_time": "0130",
+  "display_time": "0240",
   "display_terminal": "3",
   "display_gate": "B3"
  },
@@ -26938,7 +9046,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F41"
  },
  {
   "Flight": "OZ6797",
@@ -26984,7 +9092,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1930",
   "display_date": "2024-07-09",
-  "display_time": "1930",
+  "display_time": "2025",
   "display_terminal": "3",
   "display_gate": ""
  },
@@ -26998,7 +9106,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1545",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B4"
  },
  {
   "Flight": "PG4527",
@@ -27070,7 +9178,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0710",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "PG4704",
@@ -27082,7 +9190,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E8"
  },
  {
   "Flight": "PG4706",
@@ -27094,7 +9202,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1250",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E26"
  },
  {
   "Flight": "PG4708",
@@ -27106,7 +9214,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1600",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F58"
  },
  {
   "Flight": "PG4710",
@@ -27118,7 +9226,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1730",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "PG4712",
@@ -27142,7 +9250,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0810",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "PG4718",
@@ -27154,7 +9262,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1000",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "PG4722",
@@ -27166,7 +9274,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "PG4724",
@@ -27190,7 +9298,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1315",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "PG4729",
@@ -27262,7 +9370,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "PR3830",
@@ -27274,7 +9382,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "PR3832",
@@ -27334,7 +9442,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B7"
  },
  {
   "Flight": "PR3846",
@@ -27358,7 +9466,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0220",
   "display_terminal": "3",
-  "display_gate": "A5"
+  "display_gate": "A12"
  },
  {
   "Flight": "PR3852",
@@ -27370,7 +9478,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0920",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F41"
  },
  {
   "Flight": "PR3854",
@@ -27382,7 +9490,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1330",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F42"
  },
  {
   "Flight": "PR3856",
@@ -27406,7 +9514,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1040",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D37"
  },
  {
   "Flight": "PR508",
@@ -27418,7 +9526,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1430",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C22"
  },
  {
   "Flight": "PR510",
@@ -27514,7 +9622,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "QF3498",
@@ -27586,7 +9694,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0805",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D34"
  },
  {
   "Flight": "QF4025",
@@ -27622,7 +9730,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1540",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G13"
  },
  {
   "Flight": "QF5149",
@@ -27634,7 +9742,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1050",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G15"
  },
  {
   "Flight": "QF5165",
@@ -27646,7 +9754,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G13"
  },
  {
   "Flight": "QF5167",
@@ -27670,7 +9778,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1045",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G5"
  },
  {
   "Flight": "QF5173",
@@ -27682,7 +9790,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1500",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G4"
  },
  {
   "Flight": "QF5175",
@@ -27706,7 +9814,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0700",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G12"
  },
  {
   "Flight": "QF5185",
@@ -27718,7 +9826,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1340",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G1"
  },
  {
   "Flight": "QF5187",
@@ -27814,7 +9922,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1025",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C13"
  },
  {
   "Flight": "QG523",
@@ -27826,7 +9934,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1020",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A19"
  },
  {
   "Flight": "QG527",
@@ -27850,7 +9958,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "QR4421",
@@ -27874,7 +9982,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F50"
  },
  {
   "Flight": "QR5410",
@@ -27898,7 +10006,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1215",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "QR5494",
@@ -27910,7 +10018,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1535",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "QR5496",
@@ -27958,7 +10066,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1030",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D32"
  },
  {
   "Flight": "QR945",
@@ -28018,7 +10126,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1020",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G10"
  },
  {
   "Flight": "QZ265",
@@ -28030,7 +10138,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1445",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G2"
  },
  {
   "Flight": "QZ267",
@@ -28042,7 +10150,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1200",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G14"
  },
  {
   "Flight": "QZ501",
@@ -28054,7 +10162,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1610",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G1"
  },
  {
   "Flight": "QZ503",
@@ -28066,7 +10174,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1035",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G11"
  },
  {
   "Flight": "QZ505",
@@ -28078,7 +10186,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1215",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G11"
  },
  {
   "Flight": "QZ507",
@@ -28090,7 +10198,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1730",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G1"
  },
  {
   "Flight": "RJ3807",
@@ -28114,7 +10222,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1030",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D32"
  },
  {
   "Flight": "SA7231",
@@ -28124,7 +10232,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0130",
   "display_date": "2024-07-09",
-  "display_time": "0130",
+  "display_time": "0240",
   "display_terminal": "3",
   "display_gate": "B3"
  },
@@ -28174,7 +10282,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1250",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E26"
  },
  {
   "Flight": "SK8009",
@@ -28186,7 +10294,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0955",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C1"
  },
  {
   "Flight": "SK8011",
@@ -28198,7 +10306,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0935",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "SK8013",
@@ -28210,7 +10318,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1110",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A17"
  },
  {
   "Flight": "SK8015",
@@ -28222,7 +10330,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0915",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "SK8017",
@@ -28234,7 +10342,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0710",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "SK8019",
@@ -28246,7 +10354,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E8"
  },
  {
   "Flight": "SK8023",
@@ -28258,7 +10366,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "SK8025",
@@ -28306,7 +10414,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "SK8035",
@@ -28318,7 +10426,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1230",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "SK8036",
@@ -28342,7 +10450,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A4"
  },
  {
   "Flight": "SK8040",
@@ -28354,7 +10462,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1235",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A14"
  },
  {
   "Flight": "SK8042",
@@ -28390,7 +10498,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0820",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "SK8047",
@@ -28402,7 +10510,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1740",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "SK8049",
@@ -28414,7 +10522,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1245",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "SK8051",
@@ -28438,7 +10546,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0910",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "SK8057",
@@ -28450,7 +10558,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0705",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "SK8061",
@@ -28486,7 +10594,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0750",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "SK8067",
@@ -28498,7 +10606,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "SK8069",
@@ -28558,7 +10666,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A16"
  },
  {
   "Flight": "SL101",
@@ -28570,7 +10678,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1210",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A16"
  },
  {
   "Flight": "SQ104",
@@ -28582,7 +10690,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0705",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "SQ1050",
@@ -28594,7 +10702,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0910",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E26"
  },
  {
   "Flight": "SQ106",
@@ -28606,7 +10714,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "SQ108",
@@ -28618,7 +10726,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0910",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "SQ114",
@@ -28630,7 +10738,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1245",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "SQ116",
@@ -28642,7 +10750,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1450",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "SQ12",
@@ -28654,7 +10762,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B2"
  },
  {
   "Flight": "SQ122",
@@ -28666,7 +10774,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1625",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "SQ126",
@@ -28702,7 +10810,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E7"
  },
  {
   "Flight": "SQ134",
@@ -28714,7 +10822,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "SQ136",
@@ -28726,7 +10834,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1300",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "SQ138",
@@ -28738,7 +10846,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1540",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E8"
  },
  {
   "Flight": "SQ142",
@@ -28762,7 +10870,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F36"
  },
  {
   "Flight": "SQ154",
@@ -28774,7 +10882,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0740",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "SQ156",
@@ -28786,7 +10894,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1200",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E7"
  },
  {
   "Flight": "SQ158",
@@ -28798,7 +10906,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1630",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "SQ164",
@@ -28810,7 +10918,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0845",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D42"
  },
  {
   "Flight": "SQ172",
@@ -28820,9 +10928,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0915",
   "display_date": "2024-07-09",
-  "display_time": "0915",
+  "display_time": "1030",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "SQ174",
@@ -28834,7 +10942,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1400",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "SQ178",
@@ -28846,7 +10954,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "SQ186",
@@ -28858,7 +10966,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1715",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "SQ192",
@@ -28870,7 +10978,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0905",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F58"
  },
  {
   "Flight": "SQ194",
@@ -28882,7 +10990,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1505",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "SQ2008",
@@ -28906,7 +11014,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0750",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "SQ211",
@@ -28918,7 +11026,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0935",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "SQ213",
@@ -28930,7 +11038,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B3"
  },
  {
   "Flight": "SQ215",
@@ -28954,7 +11062,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1110",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A17"
  },
  {
   "Flight": "SQ22",
@@ -29002,7 +11110,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "SQ225",
@@ -29074,7 +11182,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1210",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B8"
  },
  {
   "Flight": "SQ241",
@@ -29086,7 +11194,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A16"
  },
  {
   "Flight": "SQ245",
@@ -29098,7 +11206,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0955",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C1"
  },
  {
   "Flight": "SQ247",
@@ -29122,7 +11230,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A21"
  },
  {
   "Flight": "SQ255",
@@ -29170,7 +11278,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B10"
  },
  {
   "Flight": "SQ285",
@@ -29230,7 +11338,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A4"
  },
  {
   "Flight": "SQ318",
@@ -29242,7 +11350,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1235",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A14"
  },
  {
   "Flight": "SQ32",
@@ -29254,7 +11362,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0915",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B8"
  },
  {
   "Flight": "SQ322",
@@ -29290,7 +11398,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B7"
  },
  {
   "Flight": "SQ328",
@@ -29314,7 +11422,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "SQ336",
@@ -29350,7 +11458,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0220",
   "display_terminal": "3",
-  "display_gate": "A5"
+  "display_gate": "A12"
  },
  {
   "Flight": "SQ352",
@@ -29408,9 +11516,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0235",
   "display_date": "2024-07-09",
-  "display_time": "0235",
+  "display_time": "0255",
   "display_terminal": "3",
-  "display_gate": "A13"
+  "display_gate": "A5"
  },
  {
   "Flight": "SQ406",
@@ -29422,7 +11530,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1650",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "SQ422",
@@ -29434,7 +11542,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0740",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C1"
  },
  {
   "Flight": "SQ424",
@@ -29470,7 +11578,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0850",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A20"
  },
  {
   "Flight": "SQ4283",
@@ -29494,7 +11602,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1005",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E12"
  },
  {
   "Flight": "SQ438",
@@ -29552,7 +11660,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0130",
   "display_date": "2024-07-09",
-  "display_time": "0130",
+  "display_time": "0240",
   "display_terminal": "3",
   "display_gate": "B3"
  },
@@ -29566,7 +11674,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1510",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B2"
  },
  {
   "Flight": "SQ504",
@@ -29590,7 +11698,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1040",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D37"
  },
  {
   "Flight": "SQ5054",
@@ -29602,7 +11710,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1430",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C22"
  },
  {
   "Flight": "SQ5056",
@@ -29638,7 +11746,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0840",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B6"
  },
  {
   "Flight": "SQ510",
@@ -29672,7 +11780,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0225",
   "display_date": "2024-07-09",
-  "display_time": "0225",
+  "display_time": "0240",
   "display_terminal": "3",
   "display_gate": "B4"
  },
@@ -29698,7 +11806,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0840",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A18"
  },
  {
   "Flight": "SQ528",
@@ -29746,7 +11854,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "SQ5553",
@@ -29758,7 +11866,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A9"
  },
  {
   "Flight": "SQ5555",
@@ -29780,9 +11888,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0725",
   "display_date": "2024-07-09",
-  "display_time": "0725",
+  "display_time": "0800",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C13"
  },
  {
   "Flight": "SQ5569",
@@ -29792,9 +11900,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1220",
   "display_date": "2024-07-09",
-  "display_time": "1220",
+  "display_time": "1345",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A1"
  },
  {
   "Flight": "SQ5573",
@@ -29806,7 +11914,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1545",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B4"
  },
  {
   "Flight": "SQ5577",
@@ -29816,7 +11924,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1930",
   "display_date": "2024-07-09",
-  "display_time": "1930",
+  "display_time": "2025",
   "display_terminal": "3",
   "display_gate": ""
  },
@@ -29830,7 +11938,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F50"
  },
  {
   "Flight": "SQ5606",
@@ -29878,7 +11986,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1105",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "SQ5616",
@@ -29902,7 +12010,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1535",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "SQ5628",
@@ -29914,7 +12022,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1215",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "SQ5752",
@@ -29938,7 +12046,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1510",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A14"
  },
  {
   "Flight": "SQ5806",
@@ -29950,7 +12058,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1310",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "SQ5870",
@@ -29974,7 +12082,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1615",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C15"
  },
  {
   "Flight": "SQ5876",
@@ -29984,9 +12092,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0900",
   "display_date": "2024-07-09",
-  "display_time": "0900",
+  "display_time": "1120",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D46"
  },
  {
   "Flight": "SQ5880",
@@ -29998,7 +12106,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1600",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D38"
  },
  {
   "Flight": "SQ5886",
@@ -30010,7 +12118,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1735",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C20"
  },
  {
   "Flight": "SQ5894",
@@ -30022,7 +12130,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1740",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C16"
  },
  {
   "Flight": "SQ5904",
@@ -30034,7 +12142,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0615",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E12"
  },
  {
   "Flight": "SQ5906",
@@ -30058,7 +12166,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1105",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E27"
  },
  {
   "Flight": "SQ600",
@@ -30070,7 +12178,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "SQ606",
@@ -30082,7 +12190,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1445",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "SQ608",
@@ -30104,7 +12212,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0225",
   "display_date": "2024-07-09",
-  "display_time": "0225",
+  "display_time": "0240",
   "display_terminal": "2",
   "display_gate": "F60"
  },
@@ -30130,7 +12238,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E11"
  },
  {
   "Flight": "SQ622",
@@ -30142,7 +12250,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1355",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "SQ632",
@@ -30154,7 +12262,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "SQ634",
@@ -30166,7 +12274,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1355",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "SQ636",
@@ -30226,7 +12334,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0710",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "SQ708",
@@ -30238,7 +12346,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E8"
  },
  {
   "Flight": "SQ710",
@@ -30250,7 +12358,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1250",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E26"
  },
  {
   "Flight": "SQ712",
@@ -30262,7 +12370,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1600",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F58"
  },
  {
   "Flight": "SQ714",
@@ -30274,7 +12382,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1730",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "SQ720",
@@ -30298,7 +12406,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0810",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "SQ728",
@@ -30310,7 +12418,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1000",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "SQ7298",
@@ -30334,7 +12442,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1315",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "SQ736",
@@ -30346,7 +12454,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "SQ7360",
@@ -30358,7 +12466,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1225",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "SQ740",
@@ -30394,7 +12502,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "SQ762",
@@ -30406,7 +12514,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0755",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D42"
  },
  {
   "Flight": "SQ7824",
@@ -30442,7 +12550,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1230",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "SQ800",
@@ -30466,7 +12574,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A2"
  },
  {
   "Flight": "SQ806",
@@ -30478,7 +12586,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1650",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "SQ818",
@@ -30514,7 +12622,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0755",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B1"
  },
  {
   "Flight": "SQ830",
@@ -30526,7 +12634,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "SQ8308",
@@ -30550,7 +12658,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1630",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "B5"
  },
  {
   "Flight": "SQ832",
@@ -30562,7 +12670,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1245",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B3"
  },
  {
   "Flight": "SQ8322",
@@ -30574,7 +12682,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1525",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C18"
  },
  {
   "Flight": "SQ8324",
@@ -30586,7 +12694,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1105",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C11"
  },
  {
   "Flight": "SQ8340",
@@ -30598,7 +12706,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0700",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D43"
  },
  {
   "Flight": "SQ8342",
@@ -30610,7 +12718,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1015",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D43"
  },
  {
   "Flight": "SQ8344",
@@ -30622,7 +12730,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1350",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "SQ8346",
@@ -30634,7 +12742,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1205",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D48"
  },
  {
   "Flight": "SQ8348",
@@ -30646,7 +12754,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1030",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C25"
  },
  {
   "Flight": "SQ8356",
@@ -30682,7 +12790,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1725",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A11"
  },
  {
   "Flight": "SQ8370",
@@ -30718,7 +12826,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1220",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C19"
  },
  {
   "Flight": "SQ8394",
@@ -30730,7 +12838,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1330",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C11"
  },
  {
   "Flight": "SQ8408",
@@ -30754,7 +12862,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1235",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B1"
  },
  {
   "Flight": "SQ8422",
@@ -30766,7 +12874,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0850",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C18"
  },
  {
   "Flight": "SQ8428",
@@ -30778,7 +12886,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1255",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C16"
  },
  {
   "Flight": "SQ8430",
@@ -30860,9 +12968,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1200",
   "display_date": "2024-07-09",
-  "display_time": "1200",
+  "display_time": "1320",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D32"
  },
  {
   "Flight": "SQ8494",
@@ -30874,7 +12982,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1530",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C20"
  },
  {
   "Flight": "SQ850",
@@ -30886,7 +12994,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B7"
  },
  {
   "Flight": "SQ8500",
@@ -30898,7 +13006,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1425",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C24"
  },
  {
   "Flight": "SQ8502",
@@ -30910,7 +13018,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D33"
  },
  {
   "Flight": "SQ8508",
@@ -30922,7 +13030,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C17"
  },
  {
   "Flight": "SQ8510",
@@ -30946,7 +13054,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1100",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D44"
  },
  {
   "Flight": "SQ8516",
@@ -30958,7 +13066,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1000",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C22"
  },
  {
   "Flight": "SQ852",
@@ -30982,7 +13090,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0845",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D36"
  },
  {
   "Flight": "SQ8524",
@@ -31006,7 +13114,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1520",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D48"
  },
  {
   "Flight": "SQ8536",
@@ -31018,7 +13126,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0700",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C2"
  },
  {
   "Flight": "SQ8538",
@@ -31030,7 +13138,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1310",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C15"
  },
  {
   "Flight": "SQ8546",
@@ -31042,7 +13150,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0820",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C23"
  },
  {
   "Flight": "SQ8550",
@@ -31054,7 +13162,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1700",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C1"
  },
  {
   "Flight": "SQ8556",
@@ -31066,7 +13174,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0820",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D48"
  },
  {
   "Flight": "SQ8558",
@@ -31078,7 +13186,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1510",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "B10"
  },
  {
   "Flight": "SQ856",
@@ -31100,9 +13208,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1300",
   "display_date": "2024-07-09",
-  "display_time": "1300",
+  "display_time": "1310",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D38"
  },
  {
   "Flight": "SQ8570",
@@ -31126,7 +13234,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1020",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D30"
  },
  {
   "Flight": "SQ8576",
@@ -31162,7 +13270,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1610",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C11"
  },
  {
   "Flight": "SQ8594",
@@ -31174,7 +13282,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1440",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C19"
  },
  {
   "Flight": "SQ8598",
@@ -31184,7 +13292,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0200",
   "display_date": "2024-07-09",
-  "display_time": "0200",
+  "display_time": "0300",
   "display_terminal": "1",
   "display_gate": "D44"
  },
@@ -31210,7 +13318,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1255",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C25"
  },
  {
   "Flight": "SQ8614",
@@ -31222,7 +13330,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0545",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D38"
  },
  {
   "Flight": "SQ8620",
@@ -31234,7 +13342,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0730",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C11"
  },
  {
   "Flight": "SQ8634",
@@ -31246,7 +13354,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1545",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "SQ8636",
@@ -31282,7 +13390,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0750",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A19"
  },
  {
   "Flight": "SQ8682",
@@ -31294,7 +13402,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1555",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C16"
  },
  {
   "Flight": "SQ874",
@@ -31306,7 +13414,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0725",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A11"
  },
  {
   "Flight": "SQ876",
@@ -31318,7 +13426,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0820",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C20"
  },
  {
   "Flight": "SQ878",
@@ -31328,9 +13436,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1145",
   "display_date": "2024-07-09",
-  "display_time": "1145",
+  "display_time": "1200",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "SQ882",
@@ -31342,7 +13450,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0840",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "SQ8873",
@@ -31366,7 +13474,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0940",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A10"
  },
  {
   "Flight": "SQ894",
@@ -31378,7 +13486,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1305",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "SQ896",
@@ -31390,7 +13498,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1530",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A2"
  },
  {
   "Flight": "SQ898",
@@ -31414,7 +13522,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1055",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "SQ910",
@@ -31426,7 +13534,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0920",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F41"
  },
  {
   "Flight": "SQ916",
@@ -31438,7 +13546,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1330",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F42"
  },
  {
   "Flight": "SQ918",
@@ -31462,7 +13570,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0750",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F60"
  },
  {
   "Flight": "SQ926",
@@ -31474,7 +13582,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1420",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F36"
  },
  {
   "Flight": "SQ928",
@@ -31486,7 +13594,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1630",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "SQ934",
@@ -31498,7 +13606,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0645",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "SQ936",
@@ -31510,7 +13618,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0820",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "SQ938",
@@ -31522,7 +13630,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0915",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "SQ944",
@@ -31534,7 +13642,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1610",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E27"
  },
  {
   "Flight": "SQ946",
@@ -31546,7 +13654,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1740",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "SQ948",
@@ -31570,7 +13678,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F41"
  },
  {
   "Flight": "SQ956",
@@ -31582,7 +13690,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "SQ958",
@@ -31594,7 +13702,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1230",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "SQ962",
@@ -31606,7 +13714,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1625",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E26"
  },
  {
   "Flight": "SQ964",
@@ -31618,7 +13726,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F41"
  },
  {
   "Flight": "SQ968",
@@ -31642,7 +13750,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0740",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "SQ994",
@@ -31676,9 +13784,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0725",
   "display_date": "2024-07-09",
-  "display_time": "0725",
+  "display_time": "0800",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C13"
  },
  {
   "Flight": "SV6193",
@@ -31690,7 +13798,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1545",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B4"
  },
  {
   "Flight": "SV6201",
@@ -31700,7 +13808,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1930",
   "display_date": "2024-07-09",
-  "display_time": "1930",
+  "display_time": "2025",
   "display_terminal": "3",
   "display_gate": ""
  },
@@ -31714,7 +13822,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C25"
  },
  {
   "Flight": "TG404",
@@ -31726,7 +13834,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1225",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D34"
  },
  {
   "Flight": "TG408",
@@ -31762,7 +13870,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1555",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D34"
  },
  {
   "Flight": "TG7335",
@@ -31786,7 +13894,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "TH383",
@@ -31798,7 +13906,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0615",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "TK169",
@@ -31822,7 +13930,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1015",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D34"
  },
  {
   "Flight": "TK4468",
@@ -31846,7 +13954,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "TK55",
@@ -31918,7 +14026,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0750",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "TK9304",
@@ -31930,7 +14038,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0935",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "TK9306",
@@ -31942,7 +14050,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B3"
  },
  {
   "Flight": "TK9308",
@@ -31966,7 +14074,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1110",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A17"
  },
  {
   "Flight": "TK9312",
@@ -31990,7 +14098,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "TK9316",
@@ -32062,7 +14170,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A16"
  },
  {
   "Flight": "TK9328",
@@ -32074,7 +14182,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0955",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C1"
  },
  {
   "Flight": "TK9330",
@@ -32134,7 +14242,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F36"
  },
  {
   "Flight": "TK9340",
@@ -32146,7 +14254,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0905",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F58"
  },
  {
   "Flight": "TK9522",
@@ -32158,7 +14266,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1210",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "TP6356",
@@ -32194,7 +14302,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A4"
  },
  {
   "Flight": "TP8404",
@@ -32242,7 +14350,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1235",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A14"
  },
  {
   "Flight": "TP8421",
@@ -32254,7 +14362,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B7"
  },
  {
   "Flight": "TP8426",
@@ -32302,7 +14410,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0700",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C17"
  },
  {
   "Flight": "TR12",
@@ -32314,7 +14422,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1000",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C22"
  },
  {
   "Flight": "TR120",
@@ -32386,7 +14494,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1530",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C20"
  },
  {
   "Flight": "TR160",
@@ -32410,7 +14518,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1205",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D48"
  },
  {
   "Flight": "TR180",
@@ -32422,7 +14530,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1030",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C25"
  },
  {
   "Flight": "TR186",
@@ -32446,7 +14554,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1630",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "B5"
  },
  {
   "Flight": "TR2",
@@ -32456,7 +14564,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0200",
   "display_date": "2024-07-09",
-  "display_time": "0200",
+  "display_time": "0300",
   "display_terminal": "1",
   "display_gate": "D44"
  },
@@ -32470,7 +14578,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0820",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D37"
  },
  {
   "Flight": "TR234",
@@ -32482,7 +14590,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1520",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C26"
  },
  {
   "Flight": "TR24",
@@ -32494,7 +14602,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1100",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D44"
  },
  {
   "Flight": "TR262",
@@ -32506,7 +14614,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0815",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "TR266",
@@ -32518,7 +14626,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1725",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C25"
  },
  {
   "Flight": "TR276",
@@ -32530,7 +14638,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1020",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C17"
  },
  {
   "Flight": "TR278",
@@ -32554,7 +14662,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0710",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D32"
  },
  {
   "Flight": "TR284",
@@ -32566,7 +14674,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1035",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D42"
  },
  {
   "Flight": "TR286",
@@ -32578,7 +14686,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1550",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "TR302",
@@ -32590,7 +14698,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1520",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D48"
  },
  {
   "Flight": "TR304",
@@ -32602,7 +14710,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0700",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C2"
  },
  {
   "Flight": "TR306",
@@ -32614,7 +14722,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1310",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C15"
  },
  {
   "Flight": "TR350",
@@ -32626,7 +14734,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1020",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D30"
  },
  {
   "Flight": "TR360",
@@ -32636,9 +14744,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1300",
   "display_date": "2024-07-09",
-  "display_time": "1300",
+  "display_time": "1310",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D38"
  },
  {
   "Flight": "TR384",
@@ -32650,7 +14758,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0820",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D48"
  },
  {
   "Flight": "TR386",
@@ -32674,7 +14782,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1440",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C19"
  },
  {
   "Flight": "TR394",
@@ -32710,7 +14818,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1655",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C17"
  },
  {
   "Flight": "TR424",
@@ -32722,7 +14830,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1425",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C24"
  },
  {
   "Flight": "TR426",
@@ -32734,7 +14842,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D33"
  },
  {
   "Flight": "TR428",
@@ -32758,7 +14866,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0635",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D33"
  },
  {
   "Flight": "TR452",
@@ -32770,7 +14878,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C17"
  },
  {
   "Flight": "TR456",
@@ -32806,7 +14914,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1700",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C1"
  },
  {
   "Flight": "TR472",
@@ -32818,7 +14926,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1610",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C11"
  },
  {
   "Flight": "TR476",
@@ -32830,7 +14938,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1330",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C11"
  },
  {
   "Flight": "TR484",
@@ -32842,7 +14950,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1105",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C11"
  },
  {
   "Flight": "TR486",
@@ -32854,7 +14962,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1525",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C18"
  },
  {
   "Flight": "TR490",
@@ -32866,7 +14974,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0850",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C18"
  },
  {
   "Flight": "TR562",
@@ -32914,7 +15022,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1255",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C25"
  },
  {
   "Flight": "TR608",
@@ -32926,7 +15034,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0545",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D38"
  },
  {
   "Flight": "TR610",
@@ -32938,7 +15046,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1510",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "B10"
  },
  {
   "Flight": "TR614",
@@ -32962,7 +15070,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0820",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C23"
  },
  {
   "Flight": "TR632",
@@ -32974,7 +15082,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1220",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C19"
  },
  {
   "Flight": "TR640",
@@ -32986,7 +15094,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0700",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D43"
  },
  {
   "Flight": "TR642",
@@ -32998,7 +15106,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1015",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D43"
  },
  {
   "Flight": "TR652",
@@ -33022,7 +15130,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0730",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C11"
  },
  {
   "Flight": "TR674",
@@ -33034,7 +15142,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1255",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C16"
  },
  {
   "Flight": "TR684",
@@ -33046,7 +15154,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1545",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "TR690",
@@ -33068,9 +15176,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1200",
   "display_date": "2024-07-09",
-  "display_time": "1200",
+  "display_time": "1320",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D32"
  },
  {
   "Flight": "TR808",
@@ -33106,7 +15214,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C15"
  },
  {
   "Flight": "TR842",
@@ -33130,7 +15238,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0845",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D36"
  },
  {
   "Flight": "TR892",
@@ -33142,7 +15250,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0600",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C24"
  },
  {
   "Flight": "TR898",
@@ -33166,7 +15274,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1350",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "TR972",
@@ -33178,7 +15286,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1555",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C16"
  },
  {
   "Flight": "TW172",
@@ -33202,7 +15310,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0845",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F42"
  },
  {
   "Flight": "UA28",
@@ -33226,7 +15334,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1540",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E8"
  },
  {
   "Flight": "UA7672",
@@ -33250,7 +15358,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1420",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F36"
  },
  {
   "Flight": "UA7677",
@@ -33262,7 +15370,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "UA7678",
@@ -33274,7 +15382,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1230",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "UA7681",
@@ -33298,7 +15406,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1245",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "UA7694",
@@ -33310,7 +15418,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "UA7696",
@@ -33334,7 +15442,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1005",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E12"
  },
  {
   "Flight": "UA7700",
@@ -33346,7 +15454,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0910",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "UA7702",
@@ -33358,7 +15466,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1610",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E27"
  },
  {
   "Flight": "UA7704",
@@ -33370,7 +15478,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0915",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "UA7712",
@@ -33382,7 +15490,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "UA7714",
@@ -33394,7 +15502,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1630",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "UA7934",
@@ -33406,7 +15514,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0615",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E12"
  },
  {
   "Flight": "UA7992",
@@ -33418,7 +15526,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1105",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E27"
  },
  {
   "Flight": "UB2",
@@ -33430,7 +15538,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1315",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A20"
  },
  {
   "Flight": "UK106",
@@ -33440,9 +15548,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1030",
   "display_date": "2024-07-09",
-  "display_time": "1030",
+  "display_time": "1050",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "UK108",
@@ -33466,7 +15574,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1155",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F36"
  },
  {
   "Flight": "UK116",
@@ -33478,7 +15586,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F51"
  },
  {
   "Flight": "UK2006",
@@ -33514,7 +15622,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B2"
  },
  {
   "Flight": "UK8022",
@@ -33538,7 +15646,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1210",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B8"
  },
  {
   "Flight": "UK8032",
@@ -33550,7 +15658,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0915",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B8"
  },
  {
   "Flight": "UK8034",
@@ -33586,7 +15694,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1245",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "UK8116",
@@ -33598,7 +15706,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1450",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "UK8128",
@@ -33622,7 +15730,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "UK8136",
@@ -33634,7 +15742,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1300",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "UK8156",
@@ -33646,7 +15754,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1200",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E7"
  },
  {
   "Flight": "UK8172",
@@ -33656,9 +15764,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0915",
   "display_date": "2024-07-09",
-  "display_time": "0915",
+  "display_time": "1030",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "UK8174",
@@ -33670,7 +15778,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1400",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "UK8178",
@@ -33682,7 +15790,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "UK8192",
@@ -33694,7 +15802,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0905",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F58"
  },
  {
   "Flight": "UK8194",
@@ -33706,7 +15814,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1505",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "UK8217",
@@ -33718,7 +15826,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1110",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A17"
  },
  {
   "Flight": "UK8221",
@@ -33742,7 +15850,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "UK8225",
@@ -33802,7 +15910,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0955",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C1"
  },
  {
   "Flight": "UK8279",
@@ -33850,7 +15958,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1445",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "UK8608",
@@ -33874,7 +15982,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1355",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "UK8634",
@@ -33886,7 +15994,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1355",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "UK8636",
@@ -33934,7 +16042,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1000",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "UK8732",
@@ -33946,7 +16054,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1315",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "UK8878",
@@ -33956,9 +16064,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1145",
   "display_date": "2024-07-09",
-  "display_time": "1145",
+  "display_time": "1200",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "UK8892",
@@ -33970,7 +16078,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0940",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A10"
  },
  {
   "Flight": "UK8894",
@@ -33982,7 +16090,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1305",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "UK8926",
@@ -33994,7 +16102,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1420",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F36"
  },
  {
   "Flight": "UK8938",
@@ -34006,7 +16114,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0915",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "UK8948",
@@ -34030,7 +16138,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1230",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "UK8968",
@@ -34066,7 +16174,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1500",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G4"
  },
  {
   "Flight": "UL3269",
@@ -34102,7 +16210,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1045",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G5"
  },
  {
   "Flight": "UL3283",
@@ -34126,7 +16234,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0700",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G12"
  },
  {
   "Flight": "UL3287",
@@ -34138,7 +16246,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1340",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G1"
  },
  {
   "Flight": "UL3291",
@@ -34150,7 +16258,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G13"
  },
  {
   "Flight": "UL3304",
@@ -34162,7 +16270,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1350",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D42"
  },
  {
   "Flight": "UL3306",
@@ -34210,7 +16318,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0805",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D34"
  },
  {
   "Flight": "UL3374",
@@ -34316,7 +16424,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0225",
   "display_date": "2024-07-09",
-  "display_time": "0225",
+  "display_time": "0240",
   "display_terminal": "3",
   "display_gate": "B4"
  },
@@ -34330,7 +16438,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0705",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "VA5426",
@@ -34342,7 +16450,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "VA5428",
@@ -34354,7 +16462,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0910",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "VA5434",
@@ -34366,7 +16474,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1245",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "VA5436",
@@ -34378,7 +16486,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1450",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "VA5442",
@@ -34390,7 +16498,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1625",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "VA5446",
@@ -34414,7 +16522,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E7"
  },
  {
   "Flight": "VA5454",
@@ -34426,7 +16534,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "VA5456",
@@ -34438,7 +16546,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1300",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "VA5458",
@@ -34450,7 +16558,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1540",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E8"
  },
  {
   "Flight": "VA5462",
@@ -34474,7 +16582,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0740",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "VA5476",
@@ -34486,7 +16594,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1200",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E7"
  },
  {
   "Flight": "VA5478",
@@ -34498,7 +16606,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1630",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "VA5482",
@@ -34510,7 +16618,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0845",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D42"
  },
  {
   "Flight": "VA5486",
@@ -34520,9 +16628,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0915",
   "display_date": "2024-07-09",
-  "display_time": "0915",
+  "display_time": "1030",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E6"
  },
  {
   "Flight": "VA5488",
@@ -34534,7 +16642,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1400",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "VA5490",
@@ -34546,7 +16654,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0945",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "VA5492",
@@ -34558,7 +16666,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0905",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F58"
  },
  {
   "Flight": "VA5496",
@@ -34570,7 +16678,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1715",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D41"
  },
  {
   "Flight": "VA5498",
@@ -34582,7 +16690,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1505",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "VA5507",
@@ -34594,7 +16702,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0750",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "VA5511",
@@ -34606,7 +16714,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0935",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "VA5515",
@@ -34630,7 +16738,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1110",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A17"
  },
  {
   "Flight": "VA5521",
@@ -34654,7 +16762,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "VA5525",
@@ -34726,7 +16834,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0715",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A16"
  },
  {
   "Flight": "VA5541",
@@ -34738,7 +16846,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0955",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C1"
  },
  {
   "Flight": "VA5545",
@@ -34750,7 +16858,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A21"
  },
  {
   "Flight": "VA5549",
@@ -34798,7 +16906,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A4"
  },
  {
   "Flight": "VA5564",
@@ -34810,7 +16918,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1235",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A14"
  },
  {
   "Flight": "VA5566",
@@ -34846,7 +16954,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B7"
  },
  {
   "Flight": "VA5574",
@@ -34882,7 +16990,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "VA5580",
@@ -34894,7 +17002,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0220",
   "display_terminal": "3",
-  "display_gate": "A5"
+  "display_gate": "A12"
  },
  {
   "Flight": "VA5582",
@@ -34952,7 +17060,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0130",
   "display_date": "2024-07-09",
-  "display_time": "0130",
+  "display_time": "0240",
   "display_terminal": "3",
   "display_gate": "B3"
  },
@@ -34966,7 +17074,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "VA5676",
@@ -34978,7 +17086,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1445",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "VA5678",
@@ -35000,7 +17108,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0225",
   "display_date": "2024-07-09",
-  "display_time": "0225",
+  "display_time": "0240",
   "display_terminal": "2",
   "display_gate": "F60"
  },
@@ -35014,7 +17122,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0710",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "D40"
  },
  {
   "Flight": "VA5718",
@@ -35026,7 +17134,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E8"
  },
  {
   "Flight": "VA5720",
@@ -35038,7 +17146,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1250",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E26"
  },
  {
   "Flight": "VA5722",
@@ -35050,7 +17158,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1600",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F58"
  },
  {
   "Flight": "VA5724",
@@ -35062,7 +17170,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1730",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "VA5730",
@@ -35074,7 +17182,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0810",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "VA5732",
@@ -35086,7 +17194,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1000",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "VA5736",
@@ -35098,7 +17206,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "VA5738",
@@ -35122,7 +17230,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0830",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A2"
  },
  {
   "Flight": "VA5746",
@@ -35146,7 +17254,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0755",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B1"
  },
  {
   "Flight": "VA5750",
@@ -35158,7 +17266,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B7"
  },
  {
   "Flight": "VA5756",
@@ -35170,7 +17278,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1725",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A11"
  },
  {
   "Flight": "VA5758",
@@ -35182,7 +17290,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0930",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "VA5764",
@@ -35194,7 +17302,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0725",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A11"
  },
  {
   "Flight": "VA5772",
@@ -35206,7 +17314,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0840",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "VA5774",
@@ -35218,7 +17326,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1305",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B9"
  },
  {
   "Flight": "VA5776",
@@ -35230,7 +17338,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1530",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A2"
  },
  {
   "Flight": "VA5778",
@@ -35254,7 +17362,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0940",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A10"
  },
  {
   "Flight": "VA5786",
@@ -35266,7 +17374,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1650",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "VA5818",
@@ -35278,7 +17386,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F41"
  },
  {
   "Flight": "VA5824",
@@ -35290,7 +17398,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0925",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "VA5826",
@@ -35302,7 +17410,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1230",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F54"
  },
  {
   "Flight": "VA5832",
@@ -35314,7 +17422,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1720",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F41"
  },
  {
   "Flight": "VA5834",
@@ -35326,7 +17434,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1625",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E26"
  },
  {
   "Flight": "VA5836",
@@ -35350,7 +17458,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1100",
   "display_terminal": "0",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "VJ812",
@@ -35362,7 +17470,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1305",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G12"
  },
  {
   "Flight": "VJ814",
@@ -35386,7 +17494,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1455",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G12"
  },
  {
   "Flight": "VJ970",
@@ -35398,7 +17506,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G12"
  },
  {
   "Flight": "VN3251",
@@ -35408,9 +17516,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0725",
   "display_date": "2024-07-09",
-  "display_time": "0725",
+  "display_time": "0800",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "C13"
  },
  {
   "Flight": "VN3289",
@@ -35432,9 +17540,9 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1220",
   "display_date": "2024-07-09",
-  "display_time": "1220",
+  "display_time": "1345",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A1"
  },
  {
   "Flight": "VN3963",
@@ -35446,7 +17554,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1115",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A9"
  },
  {
   "Flight": "VN3967",
@@ -35456,7 +17564,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1930",
   "display_date": "2024-07-09",
-  "display_time": "1930",
+  "display_time": "2025",
   "display_terminal": "3",
   "display_gate": ""
  },
@@ -35470,7 +17578,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1545",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B4"
  },
  {
   "Flight": "VN650",
@@ -35482,7 +17590,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1310",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A9"
  },
  {
   "Flight": "VN654",
@@ -35506,7 +17614,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1305",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A15"
  },
  {
   "Flight": "VS7967",
@@ -35516,7 +17624,7 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "0225",
   "display_date": "2024-07-09",
-  "display_time": "0225",
+  "display_time": "0240",
   "display_terminal": "3",
   "display_gate": "B4"
  },
@@ -35542,7 +17650,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1235",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A14"
  },
  {
   "Flight": "VS7973",
@@ -35554,7 +17662,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0900",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A4"
  },
  {
   "Flight": "VS7975",
@@ -35578,7 +17686,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0805",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D34"
  },
  {
   "Flight": "WS6066",
@@ -35590,7 +17698,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1050",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G19"
  },
  {
   "Flight": "WY5605",
@@ -35626,7 +17734,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1105",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "WY5613",
@@ -35650,7 +17758,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1535",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "WY5690",
@@ -35662,7 +17770,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F50"
  },
  {
   "Flight": "WY5692",
@@ -35686,7 +17794,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1215",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "WY6082",
@@ -35722,7 +17830,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1030",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D32"
  },
  {
   "Flight": "XY3473",
@@ -35758,7 +17866,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "0800",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B7"
  },
  {
   "Flight": "ZH9024",
@@ -35770,7 +17878,7 @@ let Gate_Info = `
   "display_date": "2024-07-09",
   "display_time": "1740",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C16"
  },
  {
   "Flight": "ZH9026",
@@ -35780,6 +17888,17994 @@ let Gate_Info = `
   "Date": "2024-07-09",
   "Time": "1200",
   "display_date": "2024-07-09",
+  "display_time": "1200",
+  "display_terminal": "1",
+  "display_gate": "D36"
+ },
+ {
+  "Flight": "2Y221",
+  "Dest": "KNO",
+  "AirlineCode": "2Y",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0630",
+  "display_date": "2024-07-10",
+  "display_time": "0630",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "2Y923",
+  "Dest": "CGK",
+  "AirlineCode": "2Y",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0740",
+  "display_date": "2024-07-10",
+  "display_time": "0740",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "2Y931",
+  "Dest": "BPN",
+  "AirlineCode": "2Y",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0430",
+  "display_date": "2024-07-10",
+  "display_time": "0430",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "2Y935",
+  "Dest": "SUB",
+  "AirlineCode": "2Y",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0600",
+  "display_date": "2024-07-10",
+  "display_time": "0600",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K201",
+  "Dest": "CGK",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K241",
+  "Dest": "DPS",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1050",
+  "display_date": "2024-07-10",
+  "display_time": "1050",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K245",
+  "Dest": "DPS",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1540",
+  "display_date": "2024-07-10",
+  "display_time": "1540",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K247",
+  "Dest": "SUB",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1210",
+  "display_date": "2024-07-10",
+  "display_time": "1210",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K511",
+  "Dest": "BKK",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K513",
+  "Dest": "BKK",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K515",
+  "Dest": "BKK",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1045",
+  "display_date": "2024-07-10",
+  "display_time": "1045",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K535",
+  "Dest": "HKT",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1700",
+  "display_date": "2024-07-10",
+  "display_time": "1700",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K537",
+  "Dest": "HKT",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1940",
+  "display_date": "2024-07-10",
+  "display_time": "1940",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K593",
+  "Dest": "PNH",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1335",
+  "display_date": "2024-07-10",
+  "display_time": "1335",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K671",
+  "Dest": "PEN",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0725",
+  "display_date": "2024-07-10",
+  "display_time": "0725",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K683",
+  "Dest": "KUL",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0700",
+  "display_date": "2024-07-10",
+  "display_time": "0700",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K687",
+  "Dest": "KUL",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K761",
+  "Dest": "MNL",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0600",
+  "display_date": "2024-07-10",
+  "display_time": "0600",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K763",
+  "Dest": "KIX",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0215",
+  "display_date": "2024-07-10",
+  "display_time": "0215",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K765",
+  "Dest": "MNL",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1715",
+  "display_date": "2024-07-10",
+  "display_time": "1715",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K779",
+  "Dest": "CRK",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1710",
+  "display_date": "2024-07-10",
+  "display_time": "1710",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3K817",
+  "Dest": "HAK",
+  "AirlineCode": "3K",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0725",
+  "display_date": "2024-07-10",
+  "display_time": "0725",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3S531",
+  "Dest": "LEJ",
+  "AirlineCode": "3S",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0325",
+  "display_date": "2024-07-10",
+  "display_time": "0325",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3U3910",
+  "Dest": "TFU",
+  "AirlineCode": "3U",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1700",
+  "display_date": "2024-07-10",
+  "display_time": "1700",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3U7026",
+  "Dest": "CAN",
+  "AirlineCode": "3U",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3U7028",
+  "Dest": "CAN",
+  "AirlineCode": "3U",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1330",
+  "display_date": "2024-07-10",
+  "display_time": "1330",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3U7068",
+  "Dest": "CAN",
+  "AirlineCode": "3U",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1750",
+  "display_date": "2024-07-10",
+  "display_time": "1750",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "3U9388",
+  "Dest": "NNG",
+  "AirlineCode": "3U",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1445",
+  "display_date": "2024-07-10",
+  "display_time": "1445",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "5J538",
+  "Dest": "CRK",
+  "AirlineCode": "5J",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1650",
+  "display_date": "2024-07-10",
+  "display_time": "1650",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "5J804",
+  "Dest": "MNL",
+  "AirlineCode": "5J",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0130",
+  "display_date": "2024-07-10",
+  "display_time": "0130",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "5J806",
+  "Dest": "MNL",
+  "AirlineCode": "5J",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1840",
+  "display_date": "2024-07-10",
+  "display_time": "1840",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "5J814",
+  "Dest": "MNL",
+  "AirlineCode": "5J",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1035",
+  "display_date": "2024-07-10",
+  "display_time": "1035",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "5X166",
+  "Dest": "SZX",
+  "AirlineCode": "5X",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2140",
+  "display_date": "2024-07-10",
+  "display_time": "2140",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "5X167",
+  "Dest": "HKG",
+  "AirlineCode": "5X",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0835",
+  "display_date": "2024-07-10",
+  "display_time": "0835",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "6E1002",
+  "Dest": "MAA",
+  "AirlineCode": "6E",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0245",
+  "display_date": "2024-07-10",
+  "display_time": "0245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "6E1004",
+  "Dest": "MAA",
+  "AirlineCode": "6E",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1130",
+  "display_date": "2024-07-10",
+  "display_time": "1130",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "6E1006",
+  "Dest": "BLR",
+  "AirlineCode": "6E",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0530",
+  "display_date": "2024-07-10",
+  "display_time": "0530",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "6E1008",
+  "Dest": "TRZ",
+  "AirlineCode": "6E",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0455",
+  "display_date": "2024-07-10",
+  "display_time": "0455",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "6E1012",
+  "Dest": "BOM",
+  "AirlineCode": "6E",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1945",
+  "display_date": "2024-07-10",
+  "display_time": "1945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "6E1014",
+  "Dest": "DEL",
+  "AirlineCode": "6E",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1945",
+  "display_date": "2024-07-10",
+  "display_time": "1945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "6E1016",
+  "Dest": "CCU",
+  "AirlineCode": "6E",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0415",
+  "display_date": "2024-07-10",
+  "display_time": "0415",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "6E1018",
+  "Dest": "BBI",
+  "AirlineCode": "6E",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0600",
+  "display_date": "2024-07-10",
+  "display_time": "0600",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "6E1028",
+  "Dest": "HYD",
+  "AirlineCode": "6E",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2220",
+  "display_date": "2024-07-10",
+  "display_time": "2220",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "6E4601",
+  "Dest": "BNE",
+  "AirlineCode": "6E",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "6E4604",
+  "Dest": "MEL",
+  "AirlineCode": "6E",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "6E4608",
+  "Dest": "PER",
+  "AirlineCode": "6E",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1935",
+  "display_date": "2024-07-10",
+  "display_time": "1935",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "6E4674",
+  "Dest": "SYD",
+  "AirlineCode": "6E",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "7C4056",
+  "Dest": "PUS",
+  "AirlineCode": "7C",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0035",
+  "display_date": "2024-07-10",
+  "display_time": "0035",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "8B152",
+  "Dest": "CGK",
+  "AirlineCode": "8B",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1145",
+  "display_date": "2024-07-10",
+  "display_time": "1350",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "8K801",
+  "Dest": "BKK",
+  "AirlineCode": "8K",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0340",
+  "display_date": "2024-07-10",
+  "display_time": "0340",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "8K804",
+  "Dest": "CGK",
+  "AirlineCode": "8K",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0600",
+  "display_date": "2024-07-10",
+  "display_time": "0600",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "8M232",
+  "Dest": "RGN",
+  "AirlineCode": "8M",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1350",
+  "display_date": "2024-07-10",
+  "display_time": "1350",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "8M234",
+  "Dest": "RGN",
+  "AirlineCode": "8M",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "8M5309",
+  "Dest": "CMB",
+  "AirlineCode": "8M",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2010",
+  "display_date": "2024-07-10",
+  "display_time": "2010",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "8M6422",
+  "Dest": "BWN",
+  "AirlineCode": "8M",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1210",
+  "display_date": "2024-07-10",
+  "display_time": "1210",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "8M9518",
+  "Dest": "KUL",
+  "AirlineCode": "8M",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1635",
+  "display_date": "2024-07-10",
+  "display_time": "1635",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "8M9534",
+  "Dest": "KUL",
+  "AirlineCode": "8M",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0620",
+  "display_date": "2024-07-10",
+  "display_time": "0620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "8M9535",
+  "Dest": "KUL",
+  "AirlineCode": "8M",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "8M9544",
+  "Dest": "KUL",
+  "AirlineCode": "8M",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1215",
+  "display_date": "2024-07-10",
+  "display_time": "1215",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "9C6480",
+  "Dest": "SWA",
+  "AirlineCode": "9C",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1610",
+  "display_date": "2024-07-10",
+  "display_time": "1610",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "9C8550",
+  "Dest": "PVG",
+  "AirlineCode": "9C",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "A31201",
+  "Dest": "FRA",
+  "AirlineCode": "A3",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "A31203",
+  "Dest": "MXP",
+  "AirlineCode": "A3",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "A31207",
+  "Dest": "MUC",
+  "AirlineCode": "A3",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0030",
+  "display_date": "2024-07-10",
+  "display_time": "0030",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "A31209",
+  "Dest": "SYD",
+  "AirlineCode": "A3",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "A31211",
+  "Dest": "SYD",
+  "AirlineCode": "A3",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0935",
+  "display_date": "2024-07-10",
+  "display_time": "0935",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "A31213",
+  "Dest": "SYD",
+  "AirlineCode": "A3",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "A31215",
+  "Dest": "MEL",
+  "AirlineCode": "A3",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1110",
+  "display_date": "2024-07-10",
+  "display_time": "1110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "A31217",
+  "Dest": "MEL",
+  "AirlineCode": "A3",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2200",
+  "display_date": "2024-07-10",
+  "display_time": "2200",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "A31221",
+  "Dest": "MEL",
+  "AirlineCode": "A3",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "A31226",
+  "Dest": "IST",
+  "AirlineCode": "A3",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0145",
+  "display_date": "2024-07-10",
+  "display_time": "0145",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "A31230",
+  "Dest": "MEL",
+  "AirlineCode": "A3",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2040",
+  "display_date": "2024-07-10",
+  "display_time": "2040",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AA6836",
+  "Dest": "LHR",
+  "AirlineCode": "AA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2320",
+  "display_date": "2024-07-10",
+  "display_time": "2320",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AA6874",
+  "Dest": "LHR",
+  "AirlineCode": "AA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2235",
+  "display_date": "2024-07-10",
+  "display_time": "2235",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AA8232",
+  "Dest": "DOH",
+  "AirlineCode": "AA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0245",
+  "display_date": "2024-07-10",
+  "display_time": "0245",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AA8233",
+  "Dest": "DOH",
+  "AirlineCode": "AA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AA8313",
+  "Dest": "DOH",
+  "AirlineCode": "AA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1030",
+  "display_date": "2024-07-10",
+  "display_time": "1030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AA8399",
+  "Dest": "HND",
+  "AirlineCode": "AA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2150",
+  "display_date": "2024-07-10",
+  "display_time": "2150",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AA8413",
+  "Dest": "NRT",
+  "AirlineCode": "AA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0805",
+  "display_date": "2024-07-10",
+  "display_time": "0805",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AA8488",
+  "Dest": "HND",
+  "AirlineCode": "AA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0150",
+  "display_date": "2024-07-10",
+  "display_time": "0150",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC5841",
+  "Dest": "DAC",
+  "AirlineCode": "AC",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2035",
+  "display_date": "2024-07-10",
+  "display_time": "2035",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC5852",
+  "Dest": "PER",
+  "AirlineCode": "AC",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC5854",
+  "Dest": "PER",
+  "AirlineCode": "AC",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC5857",
+  "Dest": "BKK",
+  "AirlineCode": "AC",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC5859",
+  "Dest": "BKK",
+  "AirlineCode": "AC",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1250",
+  "display_date": "2024-07-10",
+  "display_time": "1250",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC5862",
+  "Dest": "SGN",
+  "AirlineCode": "AC",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC5865",
+  "Dest": "KUL",
+  "AirlineCode": "AC",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0910",
+  "display_date": "2024-07-10",
+  "display_time": "0910",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC5867",
+  "Dest": "PEN",
+  "AirlineCode": "AC",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC5868",
+  "Dest": "PNH",
+  "AirlineCode": "AC",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1200",
+  "display_date": "2024-07-10",
+  "display_time": "1200",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC5870",
+  "Dest": "PNH",
+  "AirlineCode": "AC",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1630",
+  "display_date": "2024-07-10",
+  "display_time": "1630",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC5871",
+  "Dest": "CMB",
+  "AirlineCode": "AC",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2220",
+  "display_date": "2024-07-10",
+  "display_time": "2220",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC6227",
+  "Dest": "HND",
+  "AirlineCode": "AC",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2210",
+  "display_date": "2024-07-10",
+  "display_time": "2210",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC6247",
+  "Dest": "NRT",
+  "AirlineCode": "AC",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0615",
+  "display_date": "2024-07-10",
+  "display_time": "0615",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC6296",
+  "Dest": "FRA",
+  "AirlineCode": "AC",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC6298",
+  "Dest": "LHR",
+  "AirlineCode": "AC",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0110",
+  "display_date": "2024-07-10",
+  "display_time": "0110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC6300",
+  "Dest": "HKG",
+  "AirlineCode": "AC",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1530",
+  "display_date": "2024-07-10",
+  "display_time": "1530",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC6303",
+  "Dest": "HKG",
+  "AirlineCode": "AC",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1305",
+  "display_date": "2024-07-10",
+  "display_time": "1305",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC6304",
+  "Dest": "HKG",
+  "AirlineCode": "AC",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0940",
+  "display_date": "2024-07-10",
+  "display_time": "0940",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC6305",
+  "Dest": "ICN",
+  "AirlineCode": "AC",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC6307",
+  "Dest": "NRT",
+  "AirlineCode": "AC",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC6309",
+  "Dest": "NRT",
+  "AirlineCode": "AC",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC7419",
+  "Dest": "BKK",
+  "AirlineCode": "AC",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2050",
+  "display_date": "2024-07-10",
+  "display_time": "2050",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC7611",
+  "Dest": "DXB",
+  "AirlineCode": "AC",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0140",
+  "display_date": "2024-07-10",
+  "display_time": "0140",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF257",
+  "Dest": "CDG",
+  "AirlineCode": "AF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2235",
+  "display_date": "2024-07-10",
+  "display_time": "2235",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF3819",
+  "Dest": "AUH",
+  "AirlineCode": "AF",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2055",
+  "display_date": "2024-07-10",
+  "display_time": "2055",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF3916",
+  "Dest": "MEL",
+  "AirlineCode": "AF",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1110",
+  "display_date": "2024-07-10",
+  "display_time": "1110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF3929",
+  "Dest": "DPS",
+  "AirlineCode": "AF",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF3931",
+  "Dest": "CGK",
+  "AirlineCode": "AF",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF3992",
+  "Dest": "SUB",
+  "AirlineCode": "AF",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1855",
+  "display_date": "2024-07-10",
+  "display_time": "1855",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF4386",
+  "Dest": "USM",
+  "AirlineCode": "AF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF7001",
+  "Dest": "MNL",
+  "AirlineCode": "AF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1715",
+  "display_date": "2024-07-10",
+  "display_time": "1715",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF7005",
+  "Dest": "CRK",
+  "AirlineCode": "AF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1710",
+  "display_date": "2024-07-10",
+  "display_time": "1710",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF7230",
+  "Dest": "MEL",
+  "AirlineCode": "AF",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2040",
+  "display_date": "2024-07-10",
+  "display_time": "2040",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF7232",
+  "Dest": "SYD",
+  "AirlineCode": "AF",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF7239",
+  "Dest": "PEN",
+  "AirlineCode": "AF",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF7240",
+  "Dest": "PEN",
+  "AirlineCode": "AF",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF7241",
+  "Dest": "HKT",
+  "AirlineCode": "AF",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1000",
+  "display_date": "2024-07-10",
+  "display_time": "1000",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF7243",
+  "Dest": "KUL",
+  "AirlineCode": "AF",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF7244",
+  "Dest": "HKT",
+  "AirlineCode": "AF",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF7248",
+  "Dest": "KUL",
+  "AirlineCode": "AF",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF9586",
+  "Dest": "KUL",
+  "AirlineCode": "AF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF9588",
+  "Dest": "HKT",
+  "AirlineCode": "AF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1700",
+  "display_date": "2024-07-10",
+  "display_time": "1700",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF9589",
+  "Dest": "HKT",
+  "AirlineCode": "AF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1940",
+  "display_date": "2024-07-10",
+  "display_time": "1940",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF9590",
+  "Dest": "SUB",
+  "AirlineCode": "AF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1210",
+  "display_date": "2024-07-10",
+  "display_time": "1210",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF9598",
+  "Dest": "PNH",
+  "AirlineCode": "AF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1335",
+  "display_date": "2024-07-10",
+  "display_time": "1335",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF9600",
+  "Dest": "DPS",
+  "AirlineCode": "AF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1540",
+  "display_date": "2024-07-10",
+  "display_time": "1540",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF9667",
+  "Dest": "MEL",
+  "AirlineCode": "AF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF9668",
+  "Dest": "BNE",
+  "AirlineCode": "AF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF9669",
+  "Dest": "PER",
+  "AirlineCode": "AF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1935",
+  "display_date": "2024-07-10",
+  "display_time": "1935",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AF9704",
+  "Dest": "SYD",
+  "AirlineCode": "AF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AI343",
+  "Dest": "BOM",
+  "AirlineCode": "AI",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AI347",
+  "Dest": "MAA",
+  "AirlineCode": "AI",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AI381",
+  "Dest": "DEL",
+  "AirlineCode": "AI",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0835",
+  "display_date": "2024-07-10",
+  "display_time": "0835",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AI383",
+  "Dest": "DEL",
+  "AirlineCode": "AI",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2335",
+  "display_date": "2024-07-10",
+  "display_time": "2335",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AI393",
+  "Dest": "BLR",
+  "AirlineCode": "AI",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AI7058",
+  "Dest": "TPE",
+  "AirlineCode": "AI",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1310",
+  "display_date": "2024-07-10",
+  "display_time": "1310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AI7060",
+  "Dest": "TPE",
+  "AirlineCode": "AI",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1510",
+  "display_date": "2024-07-10",
+  "display_time": "1510",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AI7204",
+  "Dest": "SFO",
+  "AirlineCode": "AI",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AI7206",
+  "Dest": "NRT",
+  "AirlineCode": "AI",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AI7242",
+  "Dest": "BKK",
+  "AirlineCode": "AI",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AI7244",
+  "Dest": "KUL",
+  "AirlineCode": "AI",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0910",
+  "display_date": "2024-07-10",
+  "display_time": "0910",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AI7262",
+  "Dest": "CCU",
+  "AirlineCode": "AI",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2040",
+  "display_date": "2024-07-10",
+  "display_time": "2040",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK1310",
+  "Dest": "IPH",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1140",
+  "display_date": "2024-07-10",
+  "display_time": "1140",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK1314",
+  "Dest": "IPH",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1410",
+  "display_date": "2024-07-10",
+  "display_time": "1410",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK1720",
+  "Dest": "PEN",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1125",
+  "display_date": "2024-07-10",
+  "display_time": "1125",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK1722",
+  "Dest": "PEN",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1350",
+  "display_date": "2024-07-10",
+  "display_time": "1350",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK1724",
+  "Dest": "PEN",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1735",
+  "display_date": "2024-07-10",
+  "display_time": "1735",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK1730",
+  "Dest": "PEN",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2140",
+  "display_date": "2024-07-10",
+  "display_time": "2140",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK1776",
+  "Dest": "KCH",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1145",
+  "display_date": "2024-07-10",
+  "display_time": "1145",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK1794",
+  "Dest": "BKI",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1210",
+  "display_date": "2024-07-10",
+  "display_time": "1210",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK700",
+  "Dest": "KUL",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0755",
+  "display_date": "2024-07-10",
+  "display_time": "0755",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK702",
+  "Dest": "KUL",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0910",
+  "display_date": "2024-07-10",
+  "display_time": "0910",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK704",
+  "Dest": "KUL",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1030",
+  "display_date": "2024-07-10",
+  "display_time": "1030",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK706",
+  "Dest": "KUL",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1130",
+  "display_date": "2024-07-10",
+  "display_time": "1130",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK710",
+  "Dest": "KUL",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1330",
+  "display_date": "2024-07-10",
+  "display_time": "1330",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK712",
+  "Dest": "KUL",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1740",
+  "display_date": "2024-07-10",
+  "display_time": "1740",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK714",
+  "Dest": "KUL",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1610",
+  "display_date": "2024-07-10",
+  "display_time": "1610",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK716",
+  "Dest": "KUL",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1910",
+  "display_date": "2024-07-10",
+  "display_time": "1910",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK718",
+  "Dest": "KUL",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2045",
+  "display_date": "2024-07-10",
+  "display_time": "2045",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK720",
+  "Dest": "KUL",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2120",
+  "display_date": "2024-07-10",
+  "display_time": "2120",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AK733",
+  "Dest": "LGK",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1055",
+  "display_date": "2024-07-10",
+  "display_time": "1055",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AS5774",
+  "Dest": "DOH",
+  "AirlineCode": "AS",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1030",
+  "display_date": "2024-07-10",
+  "display_time": "1030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AS5776",
+  "Dest": "DOH",
+  "AirlineCode": "AS",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0245",
+  "display_date": "2024-07-10",
+  "display_time": "0245",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AS5778",
+  "Dest": "DOH",
+  "AirlineCode": "AS",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AS7348",
+  "Dest": "HND",
+  "AirlineCode": "AS",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0150",
+  "display_date": "2024-07-10",
+  "display_time": "0150",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AS7350",
+  "Dest": "HND",
+  "AirlineCode": "AS",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2150",
+  "display_date": "2024-07-10",
+  "display_time": "2150",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AS7352",
+  "Dest": "NRT",
+  "AirlineCode": "AS",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0805",
+  "display_date": "2024-07-10",
+  "display_time": "0805",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AT5729",
+  "Dest": "DOH",
+  "AirlineCode": "AT",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AT5731",
+  "Dest": "DOH",
+  "AirlineCode": "AT",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0245",
+  "display_date": "2024-07-10",
+  "display_time": "0245",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AV6551",
+  "Dest": "LHR",
+  "AirlineCode": "AV",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AV6553",
+  "Dest": "LHR",
+  "AirlineCode": "AV",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1235",
+  "display_date": "2024-07-10",
+  "display_time": "1235",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AV6557",
+  "Dest": "MXP",
+  "AirlineCode": "AV",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY132",
+  "Dest": "HEL",
+  "AirlineCode": "AY",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2145",
+  "display_date": "2024-07-10",
+  "display_time": "2145",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY5007",
+  "Dest": "BNE",
+  "AirlineCode": "AY",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY5009",
+  "Dest": "PER",
+  "AirlineCode": "AY",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1935",
+  "display_date": "2024-07-10",
+  "display_time": "1935",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY5013",
+  "Dest": "MEL",
+  "AirlineCode": "AY",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY5019",
+  "Dest": "SYD",
+  "AirlineCode": "AY",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY5915",
+  "Dest": "SYD",
+  "AirlineCode": "AY",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1925",
+  "display_date": "2024-07-10",
+  "display_time": "1925",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY6373",
+  "Dest": "MNL",
+  "AirlineCode": "AY",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0215",
+  "display_date": "2024-07-10",
+  "display_time": "0215",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY6374",
+  "Dest": "BKK",
+  "AirlineCode": "AY",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY6379",
+  "Dest": "BKK",
+  "AirlineCode": "AY",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY6413",
+  "Dest": "SUB",
+  "AirlineCode": "AY",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1210",
+  "display_date": "2024-07-10",
+  "display_time": "1210",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY6421",
+  "Dest": "MEL",
+  "AirlineCode": "AY",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY6611",
+  "Dest": "KUL",
+  "AirlineCode": "AY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2115",
+  "display_date": "2024-07-10",
+  "display_time": "2115",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY6617",
+  "Dest": "KUL",
+  "AirlineCode": "AY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY6629",
+  "Dest": "KUL",
+  "AirlineCode": "AY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1535",
+  "display_date": "2024-07-10",
+  "display_time": "1535",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY6631",
+  "Dest": "KUL",
+  "AirlineCode": "AY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1815",
+  "display_date": "2024-07-10",
+  "display_time": "1815",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY6643",
+  "Dest": "CMB",
+  "AirlineCode": "AY",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2010",
+  "display_date": "2024-07-10",
+  "display_time": "2010",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY6721",
+  "Dest": "KUL",
+  "AirlineCode": "AY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1215",
+  "display_date": "2024-07-10",
+  "display_time": "1215",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY6741",
+  "Dest": "KUL",
+  "AirlineCode": "AY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AY6941",
+  "Dest": "USM",
+  "AirlineCode": "AY",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "B65584",
+  "Dest": "DOH",
+  "AirlineCode": "B6",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0245",
+  "display_date": "2024-07-10",
+  "display_time": "0245",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "B66533",
+  "Dest": "DOH",
+  "AirlineCode": "B6",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "B66541",
+  "Dest": "DOH",
+  "AirlineCode": "B6",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1030",
+  "display_date": "2024-07-10",
+  "display_time": "1030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA12",
+  "Dest": "LHR",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2320",
+  "display_date": "2024-07-10",
+  "display_time": "2320",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA15",
+  "Dest": "SYD",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1925",
+  "display_date": "2024-07-10",
+  "display_time": "1925",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA16",
+  "Dest": "LHR",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2235",
+  "display_date": "2024-07-10",
+  "display_time": "2235",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA2170",
+  "Dest": "USM",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA2172",
+  "Dest": "USM",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA2307",
+  "Dest": "DOH",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1030",
+  "display_date": "2024-07-10",
+  "display_time": "1030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA4495",
+  "Dest": "DOH",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0245",
+  "display_date": "2024-07-10",
+  "display_time": "0245",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA6177",
+  "Dest": "DOH",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA7402",
+  "Dest": "MEL",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA7404",
+  "Dest": "PER",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1935",
+  "display_date": "2024-07-10",
+  "display_time": "1935",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA7406",
+  "Dest": "BNE",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA7492",
+  "Dest": "SYD",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA7900",
+  "Dest": "KUL",
+  "AirlineCode": "BA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1815",
+  "display_date": "2024-07-10",
+  "display_time": "1815",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA7902",
+  "Dest": "KUL",
+  "AirlineCode": "BA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BA7904",
+  "Dest": "KUL",
+  "AirlineCode": "BA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2115",
+  "display_date": "2024-07-10",
+  "display_time": "2115",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BG585",
+  "Dest": "DAC",
+  "AirlineCode": "BG",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1550",
+  "display_date": "2024-07-10",
+  "display_time": "1550",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BI3326",
+  "Dest": "RGN",
+  "AirlineCode": "BI",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1350",
+  "display_date": "2024-07-10",
+  "display_time": "1350",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BI422",
+  "Dest": "BWN",
+  "AirlineCode": "BI",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1210",
+  "display_date": "2024-07-10",
+  "display_time": "1210",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BR216",
+  "Dest": "TPE",
+  "AirlineCode": "BR",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1510",
+  "display_date": "2024-07-10",
+  "display_time": "1510",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BR2202",
+  "Dest": "TPE",
+  "AirlineCode": "BR",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0820",
+  "display_date": "2024-07-10",
+  "display_time": "0820",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BR2204",
+  "Dest": "TPE",
+  "AirlineCode": "BR",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1145",
+  "display_date": "2024-07-10",
+  "display_time": "1145",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BR226",
+  "Dest": "TPE",
+  "AirlineCode": "BR",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1310",
+  "display_date": "2024-07-10",
+  "display_time": "1310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BR6017",
+  "Dest": "HAN",
+  "AirlineCode": "BR",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0950",
+  "display_date": "2024-07-10",
+  "display_time": "0950",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "BS308",
+  "Dest": "DAC",
+  "AirlineCode": "BS",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0540",
+  "display_date": "2024-07-10",
+  "display_time": "0540",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA3306",
+  "Dest": "SZX",
+  "AirlineCode": "CA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1740",
+  "display_date": "2024-07-10",
+  "display_time": "1740",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA3726",
+  "Dest": "SZX",
+  "AirlineCode": "CA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1200",
+  "display_date": "2024-07-10",
+  "display_time": "1200",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA404",
+  "Dest": "TFU",
+  "AirlineCode": "CA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1600",
+  "display_date": "2024-07-10",
+  "display_time": "1600",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA450",
+  "Dest": "CKG",
+  "AirlineCode": "CA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1735",
+  "display_date": "2024-07-10",
+  "display_time": "1735",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5255",
+  "Dest": "CKG",
+  "AirlineCode": "CA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5263",
+  "Dest": "PVG",
+  "AirlineCode": "CA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5265",
+  "Dest": "PVG",
+  "AirlineCode": "CA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5267",
+  "Dest": "PVG",
+  "AirlineCode": "CA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1725",
+  "display_date": "2024-07-10",
+  "display_time": "1725",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5269",
+  "Dest": "MEL",
+  "AirlineCode": "CA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5272",
+  "Dest": "CGK",
+  "AirlineCode": "CA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5274",
+  "Dest": "KUL",
+  "AirlineCode": "CA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5276",
+  "Dest": "DPS",
+  "AirlineCode": "CA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1610",
+  "display_date": "2024-07-10",
+  "display_time": "1610",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5277",
+  "Dest": "BNE",
+  "AirlineCode": "CA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5279",
+  "Dest": "PER",
+  "AirlineCode": "CA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5282",
+  "Dest": "PEK",
+  "AirlineCode": "CA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1650",
+  "display_date": "2024-07-10",
+  "display_time": "1650",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5284",
+  "Dest": "PEK",
+  "AirlineCode": "CA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5287",
+  "Dest": "PVG",
+  "AirlineCode": "CA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0115",
+  "display_date": "2024-07-10",
+  "display_time": "0115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5290",
+  "Dest": "MLE",
+  "AirlineCode": "CA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2045",
+  "display_date": "2024-07-10",
+  "display_time": "2045",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5296",
+  "Dest": "PEN",
+  "AirlineCode": "CA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5298",
+  "Dest": "MLE",
+  "AirlineCode": "CA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1005",
+  "display_date": "2024-07-10",
+  "display_time": "1005",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA5299",
+  "Dest": "PVG",
+  "AirlineCode": "CA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0755",
+  "display_date": "2024-07-10",
+  "display_time": "0755",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA776",
+  "Dest": "PEK",
+  "AirlineCode": "CA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1615",
+  "display_date": "2024-07-10",
+  "display_time": "1615",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA826",
+  "Dest": "PVG",
+  "AirlineCode": "CA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1715",
+  "display_date": "2024-07-10",
+  "display_time": "1715",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA970",
+  "Dest": "PEK",
+  "AirlineCode": "CA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2325",
+  "display_date": "2024-07-10",
+  "display_time": "2325",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CA976",
+  "Dest": "PEK",
+  "AirlineCode": "CA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CI5884",
+  "Dest": "TPE",
+  "AirlineCode": "CI",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0630",
+  "display_date": "2024-07-10",
+  "display_time": "0630",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CI754",
+  "Dest": "TPE",
+  "AirlineCode": "CI",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1335",
+  "display_date": "2024-07-10",
+  "display_time": "1335",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CI756",
+  "Dest": "TPE",
+  "AirlineCode": "CI",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0200",
+  "display_date": "2024-07-10",
+  "display_time": "0200",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CI9705",
+  "Dest": "SUB",
+  "AirlineCode": "CI",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1855",
+  "display_date": "2024-07-10",
+  "display_time": "1855",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CK284",
+  "Dest": "PVG",
+  "AirlineCode": "CK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1630",
+  "display_date": "2024-07-10",
+  "display_time": "1630",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CV5103",
+  "Dest": "ANC",
+  "AirlineCode": "CV",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CV9002",
+  "Dest": "LUX",
+  "AirlineCode": "CV",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0535",
+  "display_date": "2024-07-10",
+  "display_time": "0535",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CX2074",
+  "Dest": "HKG",
+  "AirlineCode": "CX",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1355",
+  "display_date": "2024-07-10",
+  "display_time": "1355",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CX636",
+  "Dest": "HKG",
+  "AirlineCode": "CX",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2010",
+  "display_date": "2024-07-10",
+  "display_time": "2010",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CX658",
+  "Dest": "HKG",
+  "AirlineCode": "CX",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CX690",
+  "Dest": "HKG",
+  "AirlineCode": "CX",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1255",
+  "display_date": "2024-07-10",
+  "display_time": "1255",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CX692",
+  "Dest": "HKG",
+  "AirlineCode": "CX",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0630",
+  "display_date": "2024-07-10",
+  "display_time": "0630",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CX710",
+  "Dest": "HKG",
+  "AirlineCode": "CX",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CX712",
+  "Dest": "HKG",
+  "AirlineCode": "CX",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1325",
+  "display_date": "2024-07-10",
+  "display_time": "1325",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CX714",
+  "Dest": "HKG",
+  "AirlineCode": "CX",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0145",
+  "display_date": "2024-07-10",
+  "display_time": "0145",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CX716",
+  "Dest": "HKG",
+  "AirlineCode": "CX",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1800",
+  "display_date": "2024-07-10",
+  "display_time": "1800",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CX734",
+  "Dest": "HKG",
+  "AirlineCode": "CX",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1605",
+  "display_date": "2024-07-10",
+  "display_time": "1605",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CZ3040",
+  "Dest": "CAN",
+  "AirlineCode": "CZ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1750",
+  "display_date": "2024-07-10",
+  "display_time": "1750",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CZ352",
+  "Dest": "CAN",
+  "AirlineCode": "CZ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CZ354",
+  "Dest": "CAN",
+  "AirlineCode": "CZ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1330",
+  "display_date": "2024-07-10",
+  "display_time": "1330",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CZ546",
+  "Dest": "CKG",
+  "AirlineCode": "CZ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1435",
+  "display_date": "2024-07-10",
+  "display_time": "1435",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CZ8048",
+  "Dest": "SZX",
+  "AirlineCode": "CZ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2050",
+  "display_date": "2024-07-10",
+  "display_time": "2050",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "CZ8490",
+  "Dest": "CAN",
+  "AirlineCode": "CZ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0355",
+  "display_date": "2024-07-10",
+  "display_time": "0355",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "DL7691",
+  "Dest": "ICN",
+  "AirlineCode": "DL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0110",
+  "display_date": "2024-07-10",
+  "display_time": "0110",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "DL7993",
+  "Dest": "ICN",
+  "AirlineCode": "DL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1050",
+  "display_date": "2024-07-10",
+  "display_time": "1050",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "DL9025",
+  "Dest": "ICN",
+  "AirlineCode": "DL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2230",
+  "display_date": "2024-07-10",
+  "display_time": "2230",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK3461",
+  "Dest": "KUL",
+  "AirlineCode": "EK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2140",
+  "display_date": "2024-07-10",
+  "display_time": "2140",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK3462",
+  "Dest": "KUL",
+  "AirlineCode": "EK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1230",
+  "display_date": "2024-07-10",
+  "display_time": "1230",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK348",
+  "Dest": "PNH",
+  "AirlineCode": "EK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1535",
+  "display_date": "2024-07-10",
+  "display_time": "1535",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK349",
+  "Dest": "DXB",
+  "AirlineCode": "EK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0140",
+  "display_date": "2024-07-10",
+  "display_time": "0140",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK353",
+  "Dest": "DXB",
+  "AirlineCode": "EK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0050",
+  "display_date": "2024-07-10",
+  "display_time": "0050",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK355",
+  "Dest": "DXB",
+  "AirlineCode": "EK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK404",
+  "Dest": "MEL",
+  "AirlineCode": "EK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1025",
+  "display_date": "2024-07-10",
+  "display_time": "1025",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK405",
+  "Dest": "DXB",
+  "AirlineCode": "EK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0940",
+  "display_date": "2024-07-10",
+  "display_time": "0940",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK4609",
+  "Dest": "USM",
+  "AirlineCode": "EK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK5022",
+  "Dest": "SYD",
+  "AirlineCode": "EK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK5036",
+  "Dest": "MEL",
+  "AirlineCode": "EK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK5052",
+  "Dest": "BNE",
+  "AirlineCode": "EK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK5058",
+  "Dest": "PER",
+  "AirlineCode": "EK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1935",
+  "display_date": "2024-07-10",
+  "display_time": "1935",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK7709",
+  "Dest": "KUL",
+  "AirlineCode": "EK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0700",
+  "display_date": "2024-07-10",
+  "display_time": "0700",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK7713",
+  "Dest": "KUL",
+  "AirlineCode": "EK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK7717",
+  "Dest": "BKK",
+  "AirlineCode": "EK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK7719",
+  "Dest": "BKK",
+  "AirlineCode": "EK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK7721",
+  "Dest": "BKK",
+  "AirlineCode": "EK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1045",
+  "display_date": "2024-07-10",
+  "display_time": "1045",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK7733",
+  "Dest": "HKT",
+  "AirlineCode": "EK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1700",
+  "display_date": "2024-07-10",
+  "display_time": "1700",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK7735",
+  "Dest": "HKT",
+  "AirlineCode": "EK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1940",
+  "display_date": "2024-07-10",
+  "display_time": "1940",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK7747",
+  "Dest": "PNH",
+  "AirlineCode": "EK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1335",
+  "display_date": "2024-07-10",
+  "display_time": "1335",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK7764",
+  "Dest": "CGK",
+  "AirlineCode": "EK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK7784",
+  "Dest": "DPS",
+  "AirlineCode": "EK",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1540",
+  "display_date": "2024-07-10",
+  "display_time": "1540",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EK9824",
+  "Dest": "HKG",
+  "AirlineCode": "EK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0635",
+  "display_date": "2024-07-10",
+  "display_time": "0635",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ES782",
+  "Dest": "BAH",
+  "AirlineCode": "ES",
+  "DTerm": "0",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "0",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1301",
+  "Dest": "DXB",
+  "AirlineCode": "ET",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1510",
+  "display_date": "2024-07-10",
+  "display_time": "1510",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1303",
+  "Dest": "MEL",
+  "AirlineCode": "ET",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0025",
+  "display_date": "2024-07-10",
+  "display_time": "0025",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1307",
+  "Dest": "BKK",
+  "AirlineCode": "ET",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1309",
+  "Dest": "ADL",
+  "AirlineCode": "ET",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2310",
+  "display_date": "2024-07-10",
+  "display_time": "2310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1311",
+  "Dest": "BNE",
+  "AirlineCode": "ET",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2130",
+  "display_date": "2024-07-10",
+  "display_time": "2130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1313",
+  "Dest": "MEL",
+  "AirlineCode": "ET",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2200",
+  "display_date": "2024-07-10",
+  "display_time": "2200",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1315",
+  "Dest": "PER",
+  "AirlineCode": "ET",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1317",
+  "Dest": "SYD",
+  "AirlineCode": "ET",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1319",
+  "Dest": "AKL",
+  "AirlineCode": "ET",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2245",
+  "display_date": "2024-07-10",
+  "display_time": "2245",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1321",
+  "Dest": "CHC",
+  "AirlineCode": "ET",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1950",
+  "display_date": "2024-07-10",
+  "display_time": "1950",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1323",
+  "Dest": "HKG",
+  "AirlineCode": "ET",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1327",
+  "Dest": "PVG",
+  "AirlineCode": "ET",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1725",
+  "display_date": "2024-07-10",
+  "display_time": "1725",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1331",
+  "Dest": "SGN",
+  "AirlineCode": "ET",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1715",
+  "display_date": "2024-07-10",
+  "display_time": "1715",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1332",
+  "Dest": "CAN",
+  "AirlineCode": "ET",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1334",
+  "Dest": "HAN",
+  "AirlineCode": "ET",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0905",
+  "display_date": "2024-07-10",
+  "display_time": "0905",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1338",
+  "Dest": "KUL",
+  "AirlineCode": "ET",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1625",
+  "display_date": "2024-07-10",
+  "display_time": "1625",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1340",
+  "Dest": "PEK",
+  "AirlineCode": "ET",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1650",
+  "display_date": "2024-07-10",
+  "display_time": "1650",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1342",
+  "Dest": "HND",
+  "AirlineCode": "ET",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2250",
+  "display_date": "2024-07-10",
+  "display_time": "2250",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1344",
+  "Dest": "NRT",
+  "AirlineCode": "ET",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET1346",
+  "Dest": "CAN",
+  "AirlineCode": "ET",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2010",
+  "display_date": "2024-07-10",
+  "display_time": "2010",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ET639",
+  "Dest": "ADD",
+  "AirlineCode": "ET",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0200",
+  "display_date": "2024-07-10",
+  "display_time": "0200",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EY497",
+  "Dest": "AUH",
+  "AirlineCode": "EY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2055",
+  "display_date": "2024-07-10",
+  "display_time": "2055",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EY7175",
+  "Dest": "CMB",
+  "AirlineCode": "EY",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2010",
+  "display_date": "2024-07-10",
+  "display_time": "2010",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EY7716",
+  "Dest": "USM",
+  "AirlineCode": "EY",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EY7723",
+  "Dest": "USM",
+  "AirlineCode": "EY",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EY8134",
+  "Dest": "CGK",
+  "AirlineCode": "EY",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1220",
+  "display_date": "2024-07-10",
+  "display_time": "1220",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EY8135",
+  "Dest": "CGK",
+  "AirlineCode": "EY",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1545",
+  "display_date": "2024-07-10",
+  "display_time": "1545",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "EY8136",
+  "Dest": "CGK",
+  "AirlineCode": "EY",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FD350",
+  "Dest": "DMK",
+  "AirlineCode": "FD",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2040",
+  "display_date": "2024-07-10",
+  "display_time": "2040",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FD356",
+  "Dest": "DMK",
+  "AirlineCode": "FD",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1440",
+  "display_date": "2024-07-10",
+  "display_time": "1440",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FD358",
+  "Dest": "DMK",
+  "AirlineCode": "FD",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1015",
+  "display_date": "2024-07-10",
+  "display_time": "1015",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FD377",
+  "Dest": "HKT",
+  "AirlineCode": "FD",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1315",
+  "display_date": "2024-07-10",
+  "display_time": "1315",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5325",
+  "Dest": "MEL",
+  "AirlineCode": "FJ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5329",
+  "Dest": "BNE",
+  "AirlineCode": "FJ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5331",
+  "Dest": "PER",
+  "AirlineCode": "FJ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1935",
+  "display_date": "2024-07-10",
+  "display_time": "1935",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5359",
+  "Dest": "SYD",
+  "AirlineCode": "FJ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5432",
+  "Dest": "MEL",
+  "AirlineCode": "FJ",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5901",
+  "Dest": "LHR",
+  "AirlineCode": "FJ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5903",
+  "Dest": "FRA",
+  "AirlineCode": "FJ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5921",
+  "Dest": "HND",
+  "AirlineCode": "FJ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2250",
+  "display_date": "2024-07-10",
+  "display_time": "2250",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5923",
+  "Dest": "NRT",
+  "AirlineCode": "FJ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5931",
+  "Dest": "KIX",
+  "AirlineCode": "FJ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0125",
+  "display_date": "2024-07-10",
+  "display_time": "0125",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5949",
+  "Dest": "LHR",
+  "AirlineCode": "FJ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0110",
+  "display_date": "2024-07-10",
+  "display_time": "0110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5951",
+  "Dest": "KIX",
+  "AirlineCode": "FJ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1355",
+  "display_date": "2024-07-10",
+  "display_time": "1355",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5953",
+  "Dest": "HND",
+  "AirlineCode": "FJ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1355",
+  "display_date": "2024-07-10",
+  "display_time": "1355",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5955",
+  "Dest": "LHR",
+  "AirlineCode": "FJ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5957",
+  "Dest": "LHR",
+  "AirlineCode": "FJ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1235",
+  "display_date": "2024-07-10",
+  "display_time": "1235",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5959",
+  "Dest": "FRA",
+  "AirlineCode": "FJ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5963",
+  "Dest": "HND",
+  "AirlineCode": "FJ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5965",
+  "Dest": "KIX",
+  "AirlineCode": "FJ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FJ5985",
+  "Dest": "HEL",
+  "AirlineCode": "FJ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2145",
+  "display_date": "2024-07-10",
+  "display_time": "2145",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FX5601",
+  "Dest": "KIX",
+  "AirlineCode": "FX",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FX6013",
+  "Dest": "CAN",
+  "AirlineCode": "FX",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0555",
+  "display_date": "2024-07-10",
+  "display_time": "0555",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FX6024",
+  "Dest": "CAN",
+  "AirlineCode": "FX",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2135",
+  "display_date": "2024-07-10",
+  "display_time": "2135",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FX6091",
+  "Dest": "CAN",
+  "AirlineCode": "FX",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1550",
+  "display_date": "2024-07-10",
+  "display_time": "1550",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FY7320",
+  "Dest": "KUL",
+  "AirlineCode": "FY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0620",
+  "display_date": "2024-07-10",
+  "display_time": "0620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FY7322",
+  "Dest": "KUL",
+  "AirlineCode": "FY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FY7324",
+  "Dest": "KUL",
+  "AirlineCode": "FY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1340",
+  "display_date": "2024-07-10",
+  "display_time": "1340",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FY7326",
+  "Dest": "KUL",
+  "AirlineCode": "FY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1815",
+  "display_date": "2024-07-10",
+  "display_time": "1815",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FY7328",
+  "Dest": "KUL",
+  "AirlineCode": "FY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2115",
+  "display_date": "2024-07-10",
+  "display_time": "2115",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FY7332",
+  "Dest": "KUL",
+  "AirlineCode": "FY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FY7334",
+  "Dest": "KUL",
+  "AirlineCode": "FY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1635",
+  "display_date": "2024-07-10",
+  "display_time": "1635",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FY7336",
+  "Dest": "KUL",
+  "AirlineCode": "FY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1535",
+  "display_date": "2024-07-10",
+  "display_time": "1535",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "FY7338",
+  "Dest": "KUL",
+  "AirlineCode": "FY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1215",
+  "display_date": "2024-07-10",
+  "display_time": "1215",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA823",
+  "Dest": "CGK",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0725",
+  "display_date": "2024-07-10",
+  "display_time": "0725",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA829",
+  "Dest": "CGK",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1220",
+  "display_date": "2024-07-10",
+  "display_time": "1220",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA833",
+  "Dest": "CGK",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1545",
+  "display_date": "2024-07-10",
+  "display_time": "1545",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA837",
+  "Dest": "CGK",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA843",
+  "Dest": "DPS",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA855",
+  "Dest": "SUB",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1855",
+  "display_date": "2024-07-10",
+  "display_time": "1855",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA8819",
+  "Dest": "CGK",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA8821",
+  "Dest": "XMN",
+  "AirlineCode": "GA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0855",
+  "display_date": "2024-07-10",
+  "display_time": "0855",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA8950",
+  "Dest": "CGK",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0620",
+  "display_date": "2024-07-10",
+  "display_time": "0620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA8956",
+  "Dest": "CGK",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA8958",
+  "Dest": "CGK",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1230",
+  "display_date": "2024-07-10",
+  "display_time": "1230",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA8962",
+  "Dest": "CGK",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1625",
+  "display_date": "2024-07-10",
+  "display_time": "1625",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA8964",
+  "Dest": "CGK",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA8968",
+  "Dest": "CGK",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2155",
+  "display_date": "2024-07-10",
+  "display_time": "2155",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA8970",
+  "Dest": "LHR",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA8972",
+  "Dest": "BOM",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA8976",
+  "Dest": "JNB",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0130",
+  "display_date": "2024-07-10",
+  "display_time": "0130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9070",
+  "Dest": "DPS",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9072",
+  "Dest": "DPS",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1610",
+  "display_date": "2024-07-10",
+  "display_time": "1610",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9074",
+  "Dest": "DPS",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1740",
+  "display_date": "2024-07-10",
+  "display_time": "1740",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9602",
+  "Dest": "SGN",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1310",
+  "display_date": "2024-07-10",
+  "display_time": "1310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9604",
+  "Dest": "SGN",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1825",
+  "display_date": "2024-07-10",
+  "display_time": "1825",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9606",
+  "Dest": "HAN",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1305",
+  "display_date": "2024-07-10",
+  "display_time": "1305",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9733",
+  "Dest": "FOC",
+  "AirlineCode": "GA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1505",
+  "display_date": "2024-07-10",
+  "display_time": "1505",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9735",
+  "Dest": "XMN",
+  "AirlineCode": "GA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1515",
+  "display_date": "2024-07-10",
+  "display_time": "1515",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9740",
+  "Dest": "DPS",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0645",
+  "display_date": "2024-07-10",
+  "display_time": "0645",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9742",
+  "Dest": "DPS",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2120",
+  "display_date": "2024-07-10",
+  "display_time": "2120",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9744",
+  "Dest": "DPS",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0820",
+  "display_date": "2024-07-10",
+  "display_time": "0820",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9904",
+  "Dest": "SUB",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9906",
+  "Dest": "SUB",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1630",
+  "display_date": "2024-07-10",
+  "display_time": "1630",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9908",
+  "Dest": "KNO",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0740",
+  "display_date": "2024-07-10",
+  "display_time": "0740",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9910",
+  "Dest": "KNO",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GA9997",
+  "Dest": "TPE",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1335",
+  "display_date": "2024-07-10",
+  "display_time": "1335",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "GM19",
+  "Dest": "HLP",
+  "AirlineCode": "GM",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0425",
+  "display_date": "2024-07-10",
+  "display_time": "0430",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "HA5007",
+  "Dest": "HND",
+  "AirlineCode": "HA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2150",
+  "display_date": "2024-07-10",
+  "display_time": "2150",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "HA5009",
+  "Dest": "HND",
+  "AirlineCode": "HA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0150",
+  "display_date": "2024-07-10",
+  "display_time": "0150",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "HA5370",
+  "Dest": "NRT",
+  "AirlineCode": "HA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0805",
+  "display_date": "2024-07-10",
+  "display_time": "0805",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "HJ14",
+  "Dest": "MEL",
+  "AirlineCode": "HJ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0625",
+  "display_date": "2024-07-10",
+  "display_time": "0625",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "HM6227",
+  "Dest": "CMB",
+  "AirlineCode": "HM",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2010",
+  "display_date": "2024-07-10",
+  "display_time": "2010",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "HO1602",
+  "Dest": "PVG",
+  "AirlineCode": "HO",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1600",
+  "display_date": "2024-07-10",
+  "display_time": "1600",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "HO1606",
+  "Dest": "PVG",
+  "AirlineCode": "HO",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2255",
+  "display_date": "2024-07-10",
+  "display_time": "2255",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "HO3512",
+  "Dest": "PVG",
+  "AirlineCode": "HO",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1635",
+  "display_date": "2024-07-10",
+  "display_time": "1635",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "HO3514",
+  "Dest": "PVG",
+  "AirlineCode": "HO",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1010",
+  "display_date": "2024-07-10",
+  "display_time": "1010",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "HU748",
+  "Dest": "HAK",
+  "AirlineCode": "HU",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1205",
+  "display_date": "2024-07-10",
+  "display_time": "1205",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "IB7305",
+  "Dest": "LHR",
+  "AirlineCode": "IB",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2320",
+  "display_date": "2024-07-10",
+  "display_time": "2320",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "IB7306",
+  "Dest": "SYD",
+  "AirlineCode": "IB",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1925",
+  "display_date": "2024-07-10",
+  "display_time": "1925",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "IB7307",
+  "Dest": "LHR",
+  "AirlineCode": "IB",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2235",
+  "display_date": "2024-07-10",
+  "display_time": "2235",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "IB7957",
+  "Dest": "DOH",
+  "AirlineCode": "IB",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0245",
+  "display_date": "2024-07-10",
+  "display_time": "0245",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "IB7959",
+  "Dest": "DOH",
+  "AirlineCode": "IB",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "IB909",
+  "Dest": "DOH",
+  "AirlineCode": "IB",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1030",
+  "display_date": "2024-07-10",
+  "display_time": "1030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ID7134",
+  "Dest": "DPS",
+  "AirlineCode": "ID",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1615",
+  "display_date": "2024-07-10",
+  "display_time": "1615",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ID7146",
+  "Dest": "KNO",
+  "AirlineCode": "ID",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1400",
+  "display_date": "2024-07-10",
+  "display_time": "1400",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ID7150",
+  "Dest": "CGK",
+  "AirlineCode": "ID",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1730",
+  "display_date": "2024-07-10",
+  "display_time": "1730",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ID7152",
+  "Dest": "CGK",
+  "AirlineCode": "ID",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2120",
+  "display_date": "2024-07-10",
+  "display_time": "2120",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ID7154",
+  "Dest": "CGK",
+  "AirlineCode": "ID",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1125",
+  "display_date": "2024-07-10",
+  "display_time": "1125",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ID7156",
+  "Dest": "CGK",
+  "AirlineCode": "ID",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1435",
+  "display_date": "2024-07-10",
+  "display_time": "1435",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ID7158",
+  "Dest": "CGK",
+  "AirlineCode": "ID",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2205",
+  "display_date": "2024-07-10",
+  "display_time": "2205",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "IX681",
+  "Dest": "TRZ",
+  "AirlineCode": "IX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0040",
+  "display_date": "2024-07-10",
+  "display_time": "0040",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "IX683",
+  "Dest": "IXM",
+  "AirlineCode": "IX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1000",
+  "display_date": "2024-07-10",
+  "display_time": "1000",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "IX687",
+  "Dest": "MAA",
+  "AirlineCode": "IX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2150",
+  "display_date": "2024-07-10",
+  "display_time": "2150",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "IX689",
+  "Dest": "TRZ",
+  "AirlineCode": "IX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1130",
+  "display_date": "2024-07-10",
+  "display_time": "1130",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "JL36",
+  "Dest": "HND",
+  "AirlineCode": "JL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2150",
+  "display_date": "2024-07-10",
+  "display_time": "2150",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "JL38",
+  "Dest": "HND",
+  "AirlineCode": "JL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0150",
+  "display_date": "2024-07-10",
+  "display_time": "0150",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "JL5732",
+  "Dest": "CMB",
+  "AirlineCode": "JL",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2010",
+  "display_date": "2024-07-10",
+  "display_time": "2010",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "JL712",
+  "Dest": "NRT",
+  "AirlineCode": "JL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0805",
+  "display_date": "2024-07-10",
+  "display_time": "0805",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "JL7887",
+  "Dest": "PER",
+  "AirlineCode": "JL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1935",
+  "display_date": "2024-07-10",
+  "display_time": "1935",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "JL7891",
+  "Dest": "MEL",
+  "AirlineCode": "JL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "JL7897",
+  "Dest": "BNE",
+  "AirlineCode": "JL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "JQ6036",
+  "Dest": "MEL",
+  "AirlineCode": "JQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "JQ6052",
+  "Dest": "BNE",
+  "AirlineCode": "JQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "JQ6072",
+  "Dest": "PER",
+  "AirlineCode": "JQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1935",
+  "display_date": "2024-07-10",
+  "display_time": "1935",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "JQ8",
+  "Dest": "MEL",
+  "AirlineCode": "JQ",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "JU8340",
+  "Dest": "DOH",
+  "AirlineCode": "JU",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0245",
+  "display_date": "2024-07-10",
+  "display_time": "0245",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "JX772",
+  "Dest": "TPE",
+  "AirlineCode": "JX",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1400",
+  "display_date": "2024-07-10",
+  "display_time": "1400",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "K63650",
+  "Dest": "SGN",
+  "AirlineCode": "K6",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1310",
+  "display_date": "2024-07-10",
+  "display_time": "1310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "K63654",
+  "Dest": "SGN",
+  "AirlineCode": "K6",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1825",
+  "display_date": "2024-07-10",
+  "display_time": "1825",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "K63660",
+  "Dest": "HAN",
+  "AirlineCode": "K6",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1305",
+  "display_date": "2024-07-10",
+  "display_time": "1305",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KE382",
+  "Dest": "ICN",
+  "AirlineCode": "KE",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1000",
+  "display_date": "2024-07-10",
+  "display_time": "1000",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KE5470",
+  "Dest": "CMB",
+  "AirlineCode": "KE",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2010",
+  "display_date": "2024-07-10",
+  "display_time": "2010",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KE644",
+  "Dest": "ICN",
+  "AirlineCode": "KE",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2230",
+  "display_date": "2024-07-10",
+  "display_time": "2230",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KE646",
+  "Dest": "ICN",
+  "AirlineCode": "KE",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0110",
+  "display_date": "2024-07-10",
+  "display_time": "0110",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KE648",
+  "Dest": "ICN",
+  "AirlineCode": "KE",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1050",
+  "display_date": "2024-07-10",
+  "display_time": "1050",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL3723",
+  "Dest": "USM",
+  "AirlineCode": "KL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL3856",
+  "Dest": "KUL",
+  "AirlineCode": "KL",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1815",
+  "display_date": "2024-07-10",
+  "display_time": "1815",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL3989",
+  "Dest": "USM",
+  "AirlineCode": "KL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4043",
+  "Dest": "CGK",
+  "AirlineCode": "KL",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4057",
+  "Dest": "SUB",
+  "AirlineCode": "KL",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1855",
+  "display_date": "2024-07-10",
+  "display_time": "1855",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4092",
+  "Dest": "KUL",
+  "AirlineCode": "KL",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2115",
+  "display_date": "2024-07-10",
+  "display_time": "2115",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4125",
+  "Dest": "KUL",
+  "AirlineCode": "KL",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4851",
+  "Dest": "MNL",
+  "AirlineCode": "KL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1715",
+  "display_date": "2024-07-10",
+  "display_time": "1715",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4853",
+  "Dest": "BKK",
+  "AirlineCode": "KL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4860",
+  "Dest": "HKT",
+  "AirlineCode": "KL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1940",
+  "display_date": "2024-07-10",
+  "display_time": "1940",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4862",
+  "Dest": "CRK",
+  "AirlineCode": "KL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1710",
+  "display_date": "2024-07-10",
+  "display_time": "1710",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4865",
+  "Dest": "BKK",
+  "AirlineCode": "KL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4868",
+  "Dest": "PNH",
+  "AirlineCode": "KL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1335",
+  "display_date": "2024-07-10",
+  "display_time": "1335",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4875",
+  "Dest": "KUL",
+  "AirlineCode": "KL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4877",
+  "Dest": "SUB",
+  "AirlineCode": "KL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1210",
+  "display_date": "2024-07-10",
+  "display_time": "1210",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4881",
+  "Dest": "SYD",
+  "AirlineCode": "KL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4884",
+  "Dest": "BNE",
+  "AirlineCode": "KL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4885",
+  "Dest": "PER",
+  "AirlineCode": "KL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1935",
+  "display_date": "2024-07-10",
+  "display_time": "1935",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL4886",
+  "Dest": "MEL",
+  "AirlineCode": "KL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL6064",
+  "Dest": "DPS",
+  "AirlineCode": "KL",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL835",
+  "Dest": "DPS",
+  "AirlineCode": "KL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1650",
+  "display_date": "2024-07-10",
+  "display_time": "1650",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KL836",
+  "Dest": "AMS",
+  "AirlineCode": "KL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0040",
+  "display_date": "2024-07-10",
+  "display_time": "0040",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KU6843",
+  "Dest": "AUH",
+  "AirlineCode": "KU",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2055",
+  "display_date": "2024-07-10",
+  "display_time": "2055",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KU6934",
+  "Dest": "BKK",
+  "AirlineCode": "KU",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2050",
+  "display_date": "2024-07-10",
+  "display_time": "2050",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "KZ254",
+  "Dest": "NRT",
+  "AirlineCode": "KZ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0625",
+  "display_date": "2024-07-10",
+  "display_time": "0625",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LA4881",
+  "Dest": "SYD",
+  "AirlineCode": "LA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LA5274",
+  "Dest": "DOH",
+  "AirlineCode": "LA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0245",
+  "display_date": "2024-07-10",
+  "display_time": "0245",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LA6068",
+  "Dest": "DOH",
+  "AirlineCode": "LA",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LD326",
+  "Dest": "HKG",
+  "AirlineCode": "LD",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2130",
+  "display_date": "2024-07-10",
+  "display_time": "2130",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH4630",
+  "Dest": "USM",
+  "AirlineCode": "LH",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7163",
+  "Dest": "AKL",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1840",
+  "display_date": "2024-07-10",
+  "display_time": "1840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7167",
+  "Dest": "AKL",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0850",
+  "display_date": "2024-07-10",
+  "display_time": "0850",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7198",
+  "Dest": "CGK",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2155",
+  "display_date": "2024-07-10",
+  "display_time": "2155",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7200",
+  "Dest": "DAD",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7202",
+  "Dest": "MNL",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1925",
+  "display_date": "2024-07-10",
+  "display_time": "1925",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7204",
+  "Dest": "MEL",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0025",
+  "display_date": "2024-07-10",
+  "display_time": "0025",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7206",
+  "Dest": "PER",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7208",
+  "Dest": "SYD",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7210",
+  "Dest": "CGK",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7212",
+  "Dest": "DAD",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1400",
+  "display_date": "2024-07-10",
+  "display_time": "1400",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7214",
+  "Dest": "DPS",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7216",
+  "Dest": "DPS",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2120",
+  "display_date": "2024-07-10",
+  "display_time": "2120",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7218",
+  "Dest": "BWN",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7220",
+  "Dest": "SGN",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7222",
+  "Dest": "SGN",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1715",
+  "display_date": "2024-07-10",
+  "display_time": "1715",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7224",
+  "Dest": "HAN",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0905",
+  "display_date": "2024-07-10",
+  "display_time": "0905",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7226",
+  "Dest": "CGK",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7228",
+  "Dest": "KUL",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7230",
+  "Dest": "CGK",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0620",
+  "display_date": "2024-07-10",
+  "display_time": "0620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7232",
+  "Dest": "SUB",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7234",
+  "Dest": "PEN",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7236",
+  "Dest": "KNO",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0740",
+  "display_date": "2024-07-10",
+  "display_time": "0740",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7238",
+  "Dest": "KNO",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7240",
+  "Dest": "DRW",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH7242",
+  "Dest": "CNS",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0840",
+  "display_date": "2024-07-10",
+  "display_time": "0840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH779",
+  "Dest": "FRA",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2340",
+  "display_date": "2024-07-10",
+  "display_time": "2340",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH791",
+  "Dest": "MUC",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2325",
+  "display_date": "2024-07-10",
+  "display_time": "2325",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9752",
+  "Dest": "MEL",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9754",
+  "Dest": "SYD",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0045",
+  "display_date": "2024-07-10",
+  "display_time": "0045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9758",
+  "Dest": "PNH",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0740",
+  "display_date": "2024-07-10",
+  "display_time": "0740",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9763",
+  "Dest": "FRA",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9765",
+  "Dest": "FRA",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9766",
+  "Dest": "AKL",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2245",
+  "display_date": "2024-07-10",
+  "display_time": "2245",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9770",
+  "Dest": "ADL",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2310",
+  "display_date": "2024-07-10",
+  "display_time": "2310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9772",
+  "Dest": "BNE",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2130",
+  "display_date": "2024-07-10",
+  "display_time": "2130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9774",
+  "Dest": "MEL",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2200",
+  "display_date": "2024-07-10",
+  "display_time": "2200",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9776",
+  "Dest": "MEL",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1110",
+  "display_date": "2024-07-10",
+  "display_time": "1110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9778",
+  "Dest": "CHC",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1950",
+  "display_date": "2024-07-10",
+  "display_time": "1950",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9780",
+  "Dest": "SYD",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9782",
+  "Dest": "BNE",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9784",
+  "Dest": "SYD",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0935",
+  "display_date": "2024-07-10",
+  "display_time": "0935",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9786",
+  "Dest": "PER",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9788",
+  "Dest": "PER",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9791",
+  "Dest": "MUC",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0030",
+  "display_date": "2024-07-10",
+  "display_time": "0030",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9792",
+  "Dest": "DPS",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1740",
+  "display_date": "2024-07-10",
+  "display_time": "1740",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9794",
+  "Dest": "SAI",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0845",
+  "display_date": "2024-07-10",
+  "display_time": "0845",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9796",
+  "Dest": "BNE",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0045",
+  "display_date": "2024-07-10",
+  "display_time": "0045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LH9798",
+  "Dest": "HKT",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX177",
+  "Dest": "ZRH",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2335",
+  "display_date": "2024-07-10",
+  "display_time": "2335",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9001",
+  "Dest": "ZRH",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0125",
+  "display_date": "2024-07-10",
+  "display_time": "0125",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9002",
+  "Dest": "BNE",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0045",
+  "display_date": "2024-07-10",
+  "display_time": "0045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9004",
+  "Dest": "KNO",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0740",
+  "display_date": "2024-07-10",
+  "display_time": "0740",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9008",
+  "Dest": "KNO",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9010",
+  "Dest": "CGK",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9012",
+  "Dest": "MEL",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1110",
+  "display_date": "2024-07-10",
+  "display_time": "1110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9014",
+  "Dest": "DRW",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9016",
+  "Dest": "ADL",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2310",
+  "display_date": "2024-07-10",
+  "display_time": "2310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9018",
+  "Dest": "BNE",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2130",
+  "display_date": "2024-07-10",
+  "display_time": "2130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9020",
+  "Dest": "CNS",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0840",
+  "display_date": "2024-07-10",
+  "display_time": "0840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9022",
+  "Dest": "MEL",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9024",
+  "Dest": "MEL",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2200",
+  "display_date": "2024-07-10",
+  "display_time": "2200",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9026",
+  "Dest": "PER",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9028",
+  "Dest": "SYD",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9030",
+  "Dest": "AKL",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2245",
+  "display_date": "2024-07-10",
+  "display_time": "2245",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9032",
+  "Dest": "CHC",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1950",
+  "display_date": "2024-07-10",
+  "display_time": "1950",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9036",
+  "Dest": "HAN",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0905",
+  "display_date": "2024-07-10",
+  "display_time": "0905",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9038",
+  "Dest": "SYD",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9040",
+  "Dest": "PER",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9042",
+  "Dest": "PER",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9044",
+  "Dest": "KUL",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0705",
+  "display_date": "2024-07-10",
+  "display_time": "0705",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9046",
+  "Dest": "SYD",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0935",
+  "display_date": "2024-07-10",
+  "display_time": "0935",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9048",
+  "Dest": "DPS",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2120",
+  "display_date": "2024-07-10",
+  "display_time": "2120",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9050",
+  "Dest": "DPS",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1610",
+  "display_date": "2024-07-10",
+  "display_time": "1610",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9052",
+  "Dest": "KUL",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9054",
+  "Dest": "DPS",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0820",
+  "display_date": "2024-07-10",
+  "display_time": "0820",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9056",
+  "Dest": "PEN",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9058",
+  "Dest": "HKT",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9062",
+  "Dest": "BKK",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9064",
+  "Dest": "KUL",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9066",
+  "Dest": "BKK",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0710",
+  "display_date": "2024-07-10",
+  "display_time": "0710",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9068",
+  "Dest": "CGK",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2155",
+  "display_date": "2024-07-10",
+  "display_time": "2155",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9072",
+  "Dest": "MNL",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1925",
+  "display_date": "2024-07-10",
+  "display_time": "1925",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9074",
+  "Dest": "MEL",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0025",
+  "display_date": "2024-07-10",
+  "display_time": "0025",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9076",
+  "Dest": "PEN",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9078",
+  "Dest": "KUL",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9080",
+  "Dest": "PER",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9082",
+  "Dest": "KUL",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0910",
+  "display_date": "2024-07-10",
+  "display_time": "0910",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9084",
+  "Dest": "PNH",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0740",
+  "display_date": "2024-07-10",
+  "display_time": "0740",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9086",
+  "Dest": "SGN",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9088",
+  "Dest": "SYD",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0045",
+  "display_date": "2024-07-10",
+  "display_time": "0045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9090",
+  "Dest": "HKT",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0810",
+  "display_date": "2024-07-10",
+  "display_time": "0810",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9092",
+  "Dest": "SAI",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0845",
+  "display_date": "2024-07-10",
+  "display_time": "0845",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9094",
+  "Dest": "DAD",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9096",
+  "Dest": "BNE",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9204",
+  "Dest": "BWN",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9215",
+  "Dest": "BRU",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9240",
+  "Dest": "SUB",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9244",
+  "Dest": "SUB",
+  "AirlineCode": "LX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1630",
+  "display_date": "2024-07-10",
+  "display_time": "1630",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MF852",
+  "Dest": "XMN",
+  "AirlineCode": "MF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1515",
+  "display_date": "2024-07-10",
+  "display_time": "1515",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MF866",
+  "Dest": "FOC",
+  "AirlineCode": "MF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1505",
+  "display_date": "2024-07-10",
+  "display_time": "1505",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MF8664",
+  "Dest": "JJN",
+  "AirlineCode": "MF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1345",
+  "display_date": "2024-07-10",
+  "display_time": "1345",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MF8704",
+  "Dest": "HGH",
+  "AirlineCode": "MF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1450",
+  "display_date": "2024-07-10",
+  "display_time": "1450",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MF886",
+  "Dest": "XMN",
+  "AirlineCode": "MF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0855",
+  "display_date": "2024-07-10",
+  "display_time": "0855",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MF9501",
+  "Dest": "CGK",
+  "AirlineCode": "MF",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MF9503",
+  "Dest": "CGK",
+  "AirlineCode": "MF",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1545",
+  "display_date": "2024-07-10",
+  "display_time": "1545",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MF9505",
+  "Dest": "CGK",
+  "AirlineCode": "MF",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1220",
+  "display_date": "2024-07-10",
+  "display_time": "1220",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MF9509",
+  "Dest": "DPS",
+  "AirlineCode": "MF",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5722",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0705",
+  "display_date": "2024-07-10",
+  "display_time": "0705",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5724",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0910",
+  "display_date": "2024-07-10",
+  "display_time": "0910",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5728",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5732",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2000",
+  "display_date": "2024-07-10",
+  "display_time": "2000",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5734",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1450",
+  "display_date": "2024-07-10",
+  "display_time": "1450",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5738",
+  "Dest": "PEN",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5740",
+  "Dest": "PEN",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5742",
+  "Dest": "PEN",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1300",
+  "display_date": "2024-07-10",
+  "display_time": "1300",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5744",
+  "Dest": "PEN",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1540",
+  "display_date": "2024-07-10",
+  "display_time": "1540",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5746",
+  "Dest": "PEN",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5752",
+  "Dest": "MXP",
+  "AirlineCode": "MH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5754",
+  "Dest": "LHR",
+  "AirlineCode": "MH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0110",
+  "display_date": "2024-07-10",
+  "display_time": "0110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5758",
+  "Dest": "LHR",
+  "AirlineCode": "MH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5760",
+  "Dest": "LHR",
+  "AirlineCode": "MH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1235",
+  "display_date": "2024-07-10",
+  "display_time": "1235",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5762",
+  "Dest": "LHR",
+  "AirlineCode": "MH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5764",
+  "Dest": "CPT",
+  "AirlineCode": "MH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0130",
+  "display_date": "2024-07-10",
+  "display_time": "0130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5794",
+  "Dest": "IST",
+  "AirlineCode": "MH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0145",
+  "display_date": "2024-07-10",
+  "display_time": "0145",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5806",
+  "Dest": "ZRH",
+  "AirlineCode": "MH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0125",
+  "display_date": "2024-07-10",
+  "display_time": "0125",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5842",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1625",
+  "display_date": "2024-07-10",
+  "display_time": "1625",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5844",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5854",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH5856",
+  "Dest": "CPH",
+  "AirlineCode": "MH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH602",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0620",
+  "display_date": "2024-07-10",
+  "display_time": "0620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH604",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH606",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1340",
+  "display_date": "2024-07-10",
+  "display_time": "1340",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH608",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1815",
+  "display_date": "2024-07-10",
+  "display_time": "1815",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH610",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2115",
+  "display_date": "2024-07-10",
+  "display_time": "2115",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH616",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH620",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1635",
+  "display_date": "2024-07-10",
+  "display_time": "1635",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH624",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1535",
+  "display_date": "2024-07-10",
+  "display_time": "1535",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MH628",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1215",
+  "display_date": "2024-07-10",
+  "display_time": "1215",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MK9719",
+  "Dest": "KUL",
+  "AirlineCode": "MK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0620",
+  "display_date": "2024-07-10",
+  "display_time": "0620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MK9721",
+  "Dest": "KUL",
+  "AirlineCode": "MK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU2046",
+  "Dest": "YNT",
+  "AirlineCode": "MU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0300",
+  "display_date": "2024-07-10",
+  "display_time": "0300",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU2070",
+  "Dest": "XIY",
+  "AirlineCode": "MU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1420",
+  "display_date": "2024-07-10",
+  "display_time": "1420",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU2568",
+  "Dest": "WUH",
+  "AirlineCode": "MU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1530",
+  "display_date": "2024-07-10",
+  "display_time": "1530",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU2670",
+  "Dest": "NKG",
+  "AirlineCode": "MU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0250",
+  "display_date": "2024-07-10",
+  "display_time": "0250",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU3972",
+  "Dest": "PVG",
+  "AirlineCode": "MU",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1600",
+  "display_date": "2024-07-10",
+  "display_time": "1600",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU3976",
+  "Dest": "PVG",
+  "AirlineCode": "MU",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2255",
+  "display_date": "2024-07-10",
+  "display_time": "2255",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU4008",
+  "Dest": "MEL",
+  "AirlineCode": "MU",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU4010",
+  "Dest": "BNE",
+  "AirlineCode": "MU",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU4012",
+  "Dest": "PER",
+  "AirlineCode": "MU",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1935",
+  "display_date": "2024-07-10",
+  "display_time": "1935",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU4900",
+  "Dest": "XMN",
+  "AirlineCode": "MU",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1515",
+  "display_date": "2024-07-10",
+  "display_time": "1515",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU4902",
+  "Dest": "XMN",
+  "AirlineCode": "MU",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0855",
+  "display_date": "2024-07-10",
+  "display_time": "0855",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU4904",
+  "Dest": "FOC",
+  "AirlineCode": "MU",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1505",
+  "display_date": "2024-07-10",
+  "display_time": "1505",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU5032",
+  "Dest": "PKX",
+  "AirlineCode": "MU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0055",
+  "display_date": "2024-07-10",
+  "display_time": "0055",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU544",
+  "Dest": "PVG",
+  "AirlineCode": "MU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0055",
+  "display_date": "2024-07-10",
+  "display_time": "0055",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU546",
+  "Dest": "PVG",
+  "AirlineCode": "MU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1010",
+  "display_date": "2024-07-10",
+  "display_time": "1010",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU566",
+  "Dest": "PVG",
+  "AirlineCode": "MU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2310",
+  "display_date": "2024-07-10",
+  "display_time": "2310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU568",
+  "Dest": "PVG",
+  "AirlineCode": "MU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1635",
+  "display_date": "2024-07-10",
+  "display_time": "1635",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU6018",
+  "Dest": "PVG",
+  "AirlineCode": "MU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "MU898",
+  "Dest": "HGH",
+  "AirlineCode": "MU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1545",
+  "display_date": "2024-07-10",
+  "display_time": "1545",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH5364",
+  "Dest": "HYD",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2000",
+  "display_date": "2024-07-10",
+  "display_time": "2000",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH5366",
+  "Dest": "SYD",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH5368",
+  "Dest": "SYD",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH5370",
+  "Dest": "PER",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH5374",
+  "Dest": "ADL",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2310",
+  "display_date": "2024-07-10",
+  "display_time": "2310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH5376",
+  "Dest": "BNE",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH5378",
+  "Dest": "CNS",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0840",
+  "display_date": "2024-07-10",
+  "display_time": "0840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH5482",
+  "Dest": "DRW",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH5484",
+  "Dest": "MEL",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1110",
+  "display_date": "2024-07-10",
+  "display_time": "1110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH5486",
+  "Dest": "MEL",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6250",
+  "Dest": "HND",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6252",
+  "Dest": "NRT",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6254",
+  "Dest": "NRT",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6256",
+  "Dest": "HND",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1355",
+  "display_date": "2024-07-10",
+  "display_time": "1355",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6258",
+  "Dest": "HND",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2250",
+  "display_date": "2024-07-10",
+  "display_time": "2250",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6260",
+  "Dest": "KIX",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1355",
+  "display_date": "2024-07-10",
+  "display_time": "1355",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6264",
+  "Dest": "KIX",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0125",
+  "display_date": "2024-07-10",
+  "display_time": "0125",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6266",
+  "Dest": "KIX",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6268",
+  "Dest": "NGO",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0120",
+  "display_date": "2024-07-10",
+  "display_time": "0120",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6270",
+  "Dest": "FUK",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0120",
+  "display_date": "2024-07-10",
+  "display_time": "0120",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6272",
+  "Dest": "CGK",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6274",
+  "Dest": "JNB",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0130",
+  "display_date": "2024-07-10",
+  "display_time": "0130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6276",
+  "Dest": "BOM",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6278",
+  "Dest": "DEL",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0235",
+  "display_date": "2024-07-10",
+  "display_time": "0235",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6280",
+  "Dest": "BLR",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2005",
+  "display_date": "2024-07-10",
+  "display_time": "2005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6282",
+  "Dest": "MAA",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2025",
+  "display_date": "2024-07-10",
+  "display_time": "2025",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6284",
+  "Dest": "BOM",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0740",
+  "display_date": "2024-07-10",
+  "display_time": "0740",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6286",
+  "Dest": "DEL",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1650",
+  "display_date": "2024-07-10",
+  "display_time": "1650",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6288",
+  "Dest": "PNH",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0740",
+  "display_date": "2024-07-10",
+  "display_time": "0740",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6290",
+  "Dest": "CCU",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2040",
+  "display_date": "2024-07-10",
+  "display_time": "2040",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6296",
+  "Dest": "RGN",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0755",
+  "display_date": "2024-07-10",
+  "display_time": "0755",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH6298",
+  "Dest": "COK",
+  "AirlineCode": "NH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2000",
+  "display_date": "2024-07-10",
+  "display_time": "2000",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH802",
+  "Dest": "NRT",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0615",
+  "display_date": "2024-07-10",
+  "display_time": "0615",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH8412",
+  "Dest": "NRT",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0425",
+  "display_date": "2024-07-10",
+  "display_time": "0425",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH842",
+  "Dest": "HND",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1105",
+  "display_date": "2024-07-10",
+  "display_time": "1105",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NH844",
+  "Dest": "HND",
+  "AirlineCode": "NH",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2210",
+  "display_date": "2024-07-10",
+  "display_time": "2210",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NX907",
+  "Dest": "MFM",
+  "AirlineCode": "NX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1700",
+  "display_date": "2024-07-10",
+  "display_time": "1700",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ281",
+  "Dest": "AKL",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0850",
+  "display_date": "2024-07-10",
+  "display_time": "0850",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ283",
+  "Dest": "AKL",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1840",
+  "display_date": "2024-07-10",
+  "display_time": "1840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3202",
+  "Dest": "BOM",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0740",
+  "display_date": "2024-07-10",
+  "display_time": "0740",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3204",
+  "Dest": "BOM",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3206",
+  "Dest": "BOM",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2040",
+  "display_date": "2024-07-10",
+  "display_time": "2040",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3208",
+  "Dest": "BLR",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2005",
+  "display_date": "2024-07-10",
+  "display_time": "2005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3210",
+  "Dest": "CCU",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2040",
+  "display_date": "2024-07-10",
+  "display_time": "2040",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3212",
+  "Dest": "MAA",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2025",
+  "display_date": "2024-07-10",
+  "display_time": "2025",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3214",
+  "Dest": "BLR",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0840",
+  "display_date": "2024-07-10",
+  "display_time": "0840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3216",
+  "Dest": "MAA",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0840",
+  "display_date": "2024-07-10",
+  "display_time": "0840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3218",
+  "Dest": "HAN",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1505",
+  "display_date": "2024-07-10",
+  "display_time": "1505",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3232",
+  "Dest": "PEN",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3252",
+  "Dest": "HYD",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2000",
+  "display_date": "2024-07-10",
+  "display_time": "2000",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3254",
+  "Dest": "COK",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2000",
+  "display_date": "2024-07-10",
+  "display_time": "2000",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3258",
+  "Dest": "HYD",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0845",
+  "display_date": "2024-07-10",
+  "display_time": "0845",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3274",
+  "Dest": "DXB",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1510",
+  "display_date": "2024-07-10",
+  "display_time": "1510",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3278",
+  "Dest": "CPT",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0130",
+  "display_date": "2024-07-10",
+  "display_time": "0130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3285",
+  "Dest": "AKL",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2245",
+  "display_date": "2024-07-10",
+  "display_time": "2245",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3297",
+  "Dest": "CHC",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1950",
+  "display_date": "2024-07-10",
+  "display_time": "1950",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3306",
+  "Dest": "LHR",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0110",
+  "display_date": "2024-07-10",
+  "display_time": "0110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3308",
+  "Dest": "LHR",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3318",
+  "Dest": "LHR",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1235",
+  "display_date": "2024-07-10",
+  "display_time": "1235",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3322",
+  "Dest": "LHR",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3324",
+  "Dest": "AMS",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3326",
+  "Dest": "FRA",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3328",
+  "Dest": "MUC",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0030",
+  "display_date": "2024-07-10",
+  "display_time": "0030",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3336",
+  "Dest": "FRA",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3346",
+  "Dest": "ZRH",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0125",
+  "display_date": "2024-07-10",
+  "display_time": "0125",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3352",
+  "Dest": "CPH",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3378",
+  "Dest": "MXP",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3382",
+  "Dest": "DEL",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0235",
+  "display_date": "2024-07-10",
+  "display_time": "0235",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3386",
+  "Dest": "DEL",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1650",
+  "display_date": "2024-07-10",
+  "display_time": "1650",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3392",
+  "Dest": "IST",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0145",
+  "display_date": "2024-07-10",
+  "display_time": "0145",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3396",
+  "Dest": "CEB",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1055",
+  "display_date": "2024-07-10",
+  "display_time": "1055",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3400",
+  "Dest": "BWN",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3404",
+  "Dest": "KUL",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0705",
+  "display_date": "2024-07-10",
+  "display_time": "0705",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3408",
+  "Dest": "KUL",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0910",
+  "display_date": "2024-07-10",
+  "display_time": "0910",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3410",
+  "Dest": "KUL",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2000",
+  "display_date": "2024-07-10",
+  "display_time": "2000",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3414",
+  "Dest": "KUL",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3416",
+  "Dest": "KUL",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1450",
+  "display_date": "2024-07-10",
+  "display_time": "1450",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3422",
+  "Dest": "PEN",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3424",
+  "Dest": "PEN",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3426",
+  "Dest": "PEN",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1540",
+  "display_date": "2024-07-10",
+  "display_time": "1540",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3428",
+  "Dest": "PEN",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1300",
+  "display_date": "2024-07-10",
+  "display_time": "1300",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3430",
+  "Dest": "KUL",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3432",
+  "Dest": "KUL",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1625",
+  "display_date": "2024-07-10",
+  "display_time": "1625",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3434",
+  "Dest": "KUL",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3436",
+  "Dest": "MNL",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0920",
+  "display_date": "2024-07-10",
+  "display_time": "0920",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3440",
+  "Dest": "PNH",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1630",
+  "display_date": "2024-07-10",
+  "display_time": "1630",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3442",
+  "Dest": "MNL",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1925",
+  "display_date": "2024-07-10",
+  "display_time": "1925",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3444",
+  "Dest": "CMB",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2220",
+  "display_date": "2024-07-10",
+  "display_time": "2220",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3446",
+  "Dest": "BKK",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0710",
+  "display_date": "2024-07-10",
+  "display_time": "0710",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3448",
+  "Dest": "BKK",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3450",
+  "Dest": "BKK",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1250",
+  "display_date": "2024-07-10",
+  "display_time": "1250",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3452",
+  "Dest": "BKK",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1600",
+  "display_date": "2024-07-10",
+  "display_time": "1600",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3454",
+  "Dest": "BKK",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3456",
+  "Dest": "SGN",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3458",
+  "Dest": "HAN",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0905",
+  "display_date": "2024-07-10",
+  "display_time": "0905",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3460",
+  "Dest": "SGN",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1715",
+  "display_date": "2024-07-10",
+  "display_time": "1715",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3462",
+  "Dest": "SGN",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1330",
+  "display_date": "2024-07-10",
+  "display_time": "1330",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3464",
+  "Dest": "BKK",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1730",
+  "display_date": "2024-07-10",
+  "display_time": "1730",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3468",
+  "Dest": "DAD",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3470",
+  "Dest": "DAD",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1400",
+  "display_date": "2024-07-10",
+  "display_time": "1400",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3476",
+  "Dest": "HKT",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1000",
+  "display_date": "2024-07-10",
+  "display_time": "1000",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3478",
+  "Dest": "PNH",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0740",
+  "display_date": "2024-07-10",
+  "display_time": "0740",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3482",
+  "Dest": "PNH",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1200",
+  "display_date": "2024-07-10",
+  "display_time": "1200",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3484",
+  "Dest": "SAI",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0845",
+  "display_date": "2024-07-10",
+  "display_time": "0845",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3492",
+  "Dest": "HKT",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0810",
+  "display_date": "2024-07-10",
+  "display_time": "0810",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3494",
+  "Dest": "HKT",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1315",
+  "display_date": "2024-07-10",
+  "display_time": "1315",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3496",
+  "Dest": "HKT",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1620",
+  "display_date": "2024-07-10",
+  "display_time": "1620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "NZ3498",
+  "Dest": "HKT",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "O3106",
+  "Dest": "SZX",
+  "AirlineCode": "O3",
+  "DTerm": "0",
+  "Date": "2024-07-10",
+  "Time": "0315",
+  "display_date": "2024-07-10",
+  "display_time": "0315",
+  "display_terminal": "0",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OD802",
+  "Dest": "KUL",
+  "AirlineCode": "OD",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1020",
+  "display_date": "2024-07-10",
+  "display_time": "1020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OD804",
+  "Dest": "KUL",
+  "AirlineCode": "OD",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1230",
+  "display_date": "2024-07-10",
+  "display_time": "1230",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OD806",
+  "Dest": "KUL",
+  "AirlineCode": "OD",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2140",
+  "display_date": "2024-07-10",
+  "display_time": "2140",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OD808",
+  "Dest": "KUL",
+  "AirlineCode": "OD",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1710",
+  "display_date": "2024-07-10",
+  "display_time": "1710",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OM5502",
+  "Dest": "NRT",
+  "AirlineCode": "OM",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0805",
+  "display_date": "2024-07-10",
+  "display_time": "0805",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OM6234",
+  "Dest": "ICN",
+  "AirlineCode": "OM",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1050",
+  "display_date": "2024-07-10",
+  "display_time": "1050",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OQ2096",
+  "Dest": "CKG",
+  "AirlineCode": "OQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1435",
+  "display_date": "2024-07-10",
+  "display_time": "1435",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OS8610",
+  "Dest": "BKK",
+  "AirlineCode": "OS",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2050",
+  "display_date": "2024-07-10",
+  "display_time": "2050",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OU5803",
+  "Dest": "LHR",
+  "AirlineCode": "OU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OU5805",
+  "Dest": "FRA",
+  "AirlineCode": "OU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OU5807",
+  "Dest": "CPH",
+  "AirlineCode": "OU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OU5809",
+  "Dest": "FRA",
+  "AirlineCode": "OU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OU5813",
+  "Dest": "MUC",
+  "AirlineCode": "OU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0030",
+  "display_date": "2024-07-10",
+  "display_time": "0030",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OU5815",
+  "Dest": "ZRH",
+  "AirlineCode": "OU",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0125",
+  "display_date": "2024-07-10",
+  "display_time": "0125",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OZ6724",
+  "Dest": "DPS",
+  "AirlineCode": "OZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0645",
+  "display_date": "2024-07-10",
+  "display_time": "0645",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OZ6726",
+  "Dest": "ICN",
+  "AirlineCode": "OZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0225",
+  "display_date": "2024-07-10",
+  "display_time": "0225",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OZ6734",
+  "Dest": "KUL",
+  "AirlineCode": "OZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0705",
+  "display_date": "2024-07-10",
+  "display_time": "0705",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OZ6782",
+  "Dest": "ICN",
+  "AirlineCode": "OZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0010",
+  "display_date": "2024-07-10",
+  "display_time": "0010",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OZ6784",
+  "Dest": "ICN",
+  "AirlineCode": "OZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1445",
+  "display_date": "2024-07-10",
+  "display_time": "1445",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OZ6786",
+  "Dest": "PUS",
+  "AirlineCode": "OZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2305",
+  "display_date": "2024-07-10",
+  "display_time": "2305",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OZ6790",
+  "Dest": "ICN",
+  "AirlineCode": "OZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OZ6792",
+  "Dest": "CPT",
+  "AirlineCode": "OZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0130",
+  "display_date": "2024-07-10",
+  "display_time": "0130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OZ6796",
+  "Dest": "CGK",
+  "AirlineCode": "OZ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OZ6797",
+  "Dest": "PER",
+  "AirlineCode": "OZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OZ6799",
+  "Dest": "AKL",
+  "AirlineCode": "OZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2245",
+  "display_date": "2024-07-10",
+  "display_time": "2245",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OZ752",
+  "Dest": "ICN",
+  "AirlineCode": "OZ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2250",
+  "display_date": "2024-07-10",
+  "display_time": "2250",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4307",
+  "Dest": "CGK",
+  "AirlineCode": "PG",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4375",
+  "Dest": "CGK",
+  "AirlineCode": "PG",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1545",
+  "display_date": "2024-07-10",
+  "display_time": "1545",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4533",
+  "Dest": "SYD",
+  "AirlineCode": "PG",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4539",
+  "Dest": "BNE",
+  "AirlineCode": "PG",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4541",
+  "Dest": "MEL",
+  "AirlineCode": "PG",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4543",
+  "Dest": "PER",
+  "AirlineCode": "PG",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1935",
+  "display_date": "2024-07-10",
+  "display_time": "1935",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4702",
+  "Dest": "BKK",
+  "AirlineCode": "PG",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0710",
+  "display_date": "2024-07-10",
+  "display_time": "0710",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4704",
+  "Dest": "BKK",
+  "AirlineCode": "PG",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4706",
+  "Dest": "BKK",
+  "AirlineCode": "PG",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1250",
+  "display_date": "2024-07-10",
+  "display_time": "1250",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4708",
+  "Dest": "BKK",
+  "AirlineCode": "PG",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1600",
+  "display_date": "2024-07-10",
+  "display_time": "1600",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4710",
+  "Dest": "BKK",
+  "AirlineCode": "PG",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1730",
+  "display_date": "2024-07-10",
+  "display_time": "1730",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4712",
+  "Dest": "BKK",
+  "AirlineCode": "PG",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4716",
+  "Dest": "HKT",
+  "AirlineCode": "PG",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0810",
+  "display_date": "2024-07-10",
+  "display_time": "0810",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4718",
+  "Dest": "HKT",
+  "AirlineCode": "PG",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1000",
+  "display_date": "2024-07-10",
+  "display_time": "1000",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4722",
+  "Dest": "HKT",
+  "AirlineCode": "PG",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1620",
+  "display_date": "2024-07-10",
+  "display_time": "1620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4724",
+  "Dest": "HKT",
+  "AirlineCode": "PG",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4726",
+  "Dest": "HKT",
+  "AirlineCode": "PG",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1315",
+  "display_date": "2024-07-10",
+  "display_time": "1315",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4729",
+  "Dest": "SYD",
+  "AirlineCode": "PG",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0045",
+  "display_date": "2024-07-10",
+  "display_time": "0045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4731",
+  "Dest": "SYD",
+  "AirlineCode": "PG",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4735",
+  "Dest": "ADL",
+  "AirlineCode": "PG",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2310",
+  "display_date": "2024-07-10",
+  "display_time": "2310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG4739",
+  "Dest": "AKL",
+  "AirlineCode": "PG",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2245",
+  "display_date": "2024-07-10",
+  "display_time": "2245",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG962",
+  "Dest": "USM",
+  "AirlineCode": "PG",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PG968",
+  "Dest": "USM",
+  "AirlineCode": "PG",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PR3830",
+  "Dest": "CDG",
+  "AirlineCode": "PR",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1355",
+  "display_date": "2024-07-10",
+  "display_time": "1355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PR3832",
+  "Dest": "CDG",
+  "AirlineCode": "PR",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0015",
+  "display_date": "2024-07-10",
+  "display_time": "0015",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PR3838",
+  "Dest": "FRA",
+  "AirlineCode": "PR",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PR3842",
+  "Dest": "FRA",
+  "AirlineCode": "PR",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PR3846",
+  "Dest": "MXP",
+  "AirlineCode": "PR",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PR3848",
+  "Dest": "ZRH",
+  "AirlineCode": "PR",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0125",
+  "display_date": "2024-07-10",
+  "display_time": "0125",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PR3852",
+  "Dest": "MNL",
+  "AirlineCode": "PR",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0920",
+  "display_date": "2024-07-10",
+  "display_time": "0920",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PR3854",
+  "Dest": "MNL",
+  "AirlineCode": "PR",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1330",
+  "display_date": "2024-07-10",
+  "display_time": "1330",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PR3856",
+  "Dest": "MNL",
+  "AirlineCode": "PR",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1925",
+  "display_date": "2024-07-10",
+  "display_time": "1925",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PR502",
+  "Dest": "MNL",
+  "AirlineCode": "PR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1040",
+  "display_date": "2024-07-10",
+  "display_time": "1040",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PR508",
+  "Dest": "MNL",
+  "AirlineCode": "PR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1430",
+  "display_date": "2024-07-10",
+  "display_time": "1430",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PR510",
+  "Dest": "MNL",
+  "AirlineCode": "PR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0030",
+  "display_date": "2024-07-10",
+  "display_time": "0145",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PR512",
+  "Dest": "MNL",
+  "AirlineCode": "PR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1950",
+  "display_date": "2024-07-10",
+  "display_time": "1950",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "PX393",
+  "Dest": "POM",
+  "AirlineCode": "PX",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2035",
+  "display_date": "2024-07-10",
+  "display_time": "2035",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF1",
+  "Dest": "LHR",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2315",
+  "display_date": "2024-07-10",
+  "display_time": "2315",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF2",
+  "Dest": "SYD",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF292",
+  "Dest": "SYD",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF3423",
+  "Dest": "CMB",
+  "AirlineCode": "QF",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2010",
+  "display_date": "2024-07-10",
+  "display_time": "2010",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF3440",
+  "Dest": "USM",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF3498",
+  "Dest": "USM",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF36",
+  "Dest": "MEL",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF3875",
+  "Dest": "HEL",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2145",
+  "display_date": "2024-07-10",
+  "display_time": "2145",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF4017",
+  "Dest": "HND",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0150",
+  "display_date": "2024-07-10",
+  "display_time": "0150",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF4021",
+  "Dest": "NRT",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0805",
+  "display_date": "2024-07-10",
+  "display_time": "0805",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF4025",
+  "Dest": "HND",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2150",
+  "display_date": "2024-07-10",
+  "display_time": "2150",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF5147",
+  "Dest": "DPS",
+  "AirlineCode": "QF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1540",
+  "display_date": "2024-07-10",
+  "display_time": "1540",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF5149",
+  "Dest": "DPS",
+  "AirlineCode": "QF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1050",
+  "display_date": "2024-07-10",
+  "display_time": "1050",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF5163",
+  "Dest": "PNH",
+  "AirlineCode": "QF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1335",
+  "display_date": "2024-07-10",
+  "display_time": "1335",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF5165",
+  "Dest": "BKK",
+  "AirlineCode": "QF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF5167",
+  "Dest": "BKK",
+  "AirlineCode": "QF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF5169",
+  "Dest": "BKK",
+  "AirlineCode": "QF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1045",
+  "display_date": "2024-07-10",
+  "display_time": "1045",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF5173",
+  "Dest": "HKT",
+  "AirlineCode": "QF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1700",
+  "display_date": "2024-07-10",
+  "display_time": "1700",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF5175",
+  "Dest": "HKT",
+  "AirlineCode": "QF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1940",
+  "display_date": "2024-07-10",
+  "display_time": "1940",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF5183",
+  "Dest": "KUL",
+  "AirlineCode": "QF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0700",
+  "display_date": "2024-07-10",
+  "display_time": "0700",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF5187",
+  "Dest": "KUL",
+  "AirlineCode": "QF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF5197",
+  "Dest": "SUB",
+  "AirlineCode": "QF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1210",
+  "display_date": "2024-07-10",
+  "display_time": "1210",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF52",
+  "Dest": "BNE",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF5201",
+  "Dest": "CGK",
+  "AirlineCode": "QF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF5510",
+  "Dest": "MEL",
+  "AirlineCode": "QF",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF72",
+  "Dest": "PER",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1935",
+  "display_date": "2024-07-10",
+  "display_time": "1935",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF8353",
+  "Dest": "DXB",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0050",
+  "display_date": "2024-07-10",
+  "display_time": "0050",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF8355",
+  "Dest": "DXB",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QF8404",
+  "Dest": "MEL",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1025",
+  "display_date": "2024-07-10",
+  "display_time": "1025",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QG523",
+  "Dest": "CGK",
+  "AirlineCode": "QG",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1020",
+  "display_date": "2024-07-10",
+  "display_time": "1020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QG527",
+  "Dest": "CGK",
+  "AirlineCode": "QG",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR4419",
+  "Dest": "USM",
+  "AirlineCode": "QR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR4421",
+  "Dest": "USM",
+  "AirlineCode": "QR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR5392",
+  "Dest": "KUL",
+  "AirlineCode": "QR",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0620",
+  "display_date": "2024-07-10",
+  "display_time": "0620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR5410",
+  "Dest": "KUL",
+  "AirlineCode": "QR",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR5480",
+  "Dest": "KUL",
+  "AirlineCode": "QR",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1215",
+  "display_date": "2024-07-10",
+  "display_time": "1215",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR5492",
+  "Dest": "KUL",
+  "AirlineCode": "QR",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1635",
+  "display_date": "2024-07-10",
+  "display_time": "1635",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR5494",
+  "Dest": "KUL",
+  "AirlineCode": "QR",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1535",
+  "display_date": "2024-07-10",
+  "display_time": "1535",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR5496",
+  "Dest": "KUL",
+  "AirlineCode": "QR",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1340",
+  "display_date": "2024-07-10",
+  "display_time": "1340",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR5498",
+  "Dest": "KUL",
+  "AirlineCode": "QR",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1815",
+  "display_date": "2024-07-10",
+  "display_time": "1815",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR5500",
+  "Dest": "KUL",
+  "AirlineCode": "QR",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2115",
+  "display_date": "2024-07-10",
+  "display_time": "2115",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR8416",
+  "Dest": "HKG",
+  "AirlineCode": "QR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0025",
+  "display_date": "2024-07-10",
+  "display_time": "0025",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR943",
+  "Dest": "DOH",
+  "AirlineCode": "QR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1030",
+  "display_date": "2024-07-10",
+  "display_time": "1030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR945",
+  "Dest": "DOH",
+  "AirlineCode": "QR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0245",
+  "display_date": "2024-07-10",
+  "display_time": "0245",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR947",
+  "Dest": "DOH",
+  "AirlineCode": "QR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QZ261",
+  "Dest": "CGK",
+  "AirlineCode": "QZ",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1940",
+  "display_date": "2024-07-10",
+  "display_time": "1940",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QZ263",
+  "Dest": "CGK",
+  "AirlineCode": "QZ",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1020",
+  "display_date": "2024-07-10",
+  "display_time": "1020",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QZ265",
+  "Dest": "CGK",
+  "AirlineCode": "QZ",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1445",
+  "display_date": "2024-07-10",
+  "display_time": "1445",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QZ267",
+  "Dest": "CGK",
+  "AirlineCode": "QZ",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1200",
+  "display_date": "2024-07-10",
+  "display_time": "1200",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QZ501",
+  "Dest": "DPS",
+  "AirlineCode": "QZ",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1610",
+  "display_date": "2024-07-10",
+  "display_time": "1610",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QZ503",
+  "Dest": "DPS",
+  "AirlineCode": "QZ",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1035",
+  "display_date": "2024-07-10",
+  "display_time": "1035",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QZ505",
+  "Dest": "DPS",
+  "AirlineCode": "QZ",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1215",
+  "display_date": "2024-07-10",
+  "display_time": "1215",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QZ507",
+  "Dest": "DPS",
+  "AirlineCode": "QZ",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1730",
+  "display_date": "2024-07-10",
+  "display_time": "1730",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "RJ3807",
+  "Dest": "DOH",
+  "AirlineCode": "RJ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0245",
+  "display_date": "2024-07-10",
+  "display_time": "0245",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "RJ3844",
+  "Dest": "DOH",
+  "AirlineCode": "RJ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1030",
+  "display_date": "2024-07-10",
+  "display_time": "1030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SA7231",
+  "Dest": "CPT",
+  "AirlineCode": "SA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0130",
+  "display_date": "2024-07-10",
+  "display_time": "0130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SC2422",
+  "Dest": "SZX",
+  "AirlineCode": "SC",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0425",
+  "display_date": "2024-07-10",
+  "display_time": "0425",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SC8062",
+  "Dest": "TNA",
+  "AirlineCode": "SC",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0055",
+  "display_date": "2024-07-10",
+  "display_time": "0055",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8000",
+  "Dest": "CPH",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8005",
+  "Dest": "AKL",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2245",
+  "display_date": "2024-07-10",
+  "display_time": "2245",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8007",
+  "Dest": "BKK",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1250",
+  "display_date": "2024-07-10",
+  "display_time": "1250",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8009",
+  "Dest": "BNE",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8011",
+  "Dest": "SYD",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0935",
+  "display_date": "2024-07-10",
+  "display_time": "0935",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8013",
+  "Dest": "MEL",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1110",
+  "display_date": "2024-07-10",
+  "display_time": "1110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8015",
+  "Dest": "DPS",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8017",
+  "Dest": "BKK",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0710",
+  "display_date": "2024-07-10",
+  "display_time": "0710",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8019",
+  "Dest": "BKK",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8023",
+  "Dest": "KUL",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8025",
+  "Dest": "BNE",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2130",
+  "display_date": "2024-07-10",
+  "display_time": "2130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8027",
+  "Dest": "BNE",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0045",
+  "display_date": "2024-07-10",
+  "display_time": "0045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8031",
+  "Dest": "ADL",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2310",
+  "display_date": "2024-07-10",
+  "display_time": "2310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8033",
+  "Dest": "CGK",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8035",
+  "Dest": "CGK",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1230",
+  "display_date": "2024-07-10",
+  "display_time": "1230",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8036",
+  "Dest": "LHR",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0110",
+  "display_date": "2024-07-10",
+  "display_time": "0110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8038",
+  "Dest": "LHR",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8040",
+  "Dest": "LHR",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1235",
+  "display_date": "2024-07-10",
+  "display_time": "1235",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8042",
+  "Dest": "LHR",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8043",
+  "Dest": "CGK",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2155",
+  "display_date": "2024-07-10",
+  "display_time": "2155",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8045",
+  "Dest": "DPS",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0820",
+  "display_date": "2024-07-10",
+  "display_time": "0820",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8047",
+  "Dest": "DPS",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1740",
+  "display_date": "2024-07-10",
+  "display_time": "1740",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8049",
+  "Dest": "KUL",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8051",
+  "Dest": "KUL",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8053",
+  "Dest": "KUL",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0910",
+  "display_date": "2024-07-10",
+  "display_time": "0910",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8057",
+  "Dest": "KUL",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0705",
+  "display_date": "2024-07-10",
+  "display_time": "0705",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8061",
+  "Dest": "MEL",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2200",
+  "display_date": "2024-07-10",
+  "display_time": "2200",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8063",
+  "Dest": "MEL",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0025",
+  "display_date": "2024-07-10",
+  "display_time": "0025",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8065",
+  "Dest": "MEL",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8067",
+  "Dest": "PER",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8069",
+  "Dest": "PER",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8071",
+  "Dest": "PER",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8073",
+  "Dest": "SYD",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8075",
+  "Dest": "SYD",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0045",
+  "display_date": "2024-07-10",
+  "display_time": "0045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8077",
+  "Dest": "SYD",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SL101",
+  "Dest": "DMK",
+  "AirlineCode": "SL",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1210",
+  "display_date": "2024-07-10",
+  "display_time": "1210",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SL105",
+  "Dest": "DMK",
+  "AirlineCode": "SL",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2240",
+  "display_date": "2024-07-10",
+  "display_time": "2240",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ104",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0705",
+  "display_date": "2024-07-10",
+  "display_time": "0705",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ106",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ108",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0910",
+  "display_date": "2024-07-10",
+  "display_time": "0910",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ114",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ116",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1450",
+  "display_date": "2024-07-10",
+  "display_time": "1450",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ12",
+  "Dest": "LAX",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ122",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1625",
+  "display_date": "2024-07-10",
+  "display_time": "1625",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ126",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ128",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2000",
+  "display_date": "2024-07-10",
+  "display_time": "2000",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ132",
+  "Dest": "PEN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ134",
+  "Dest": "PEN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ136",
+  "Dest": "PEN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1300",
+  "display_date": "2024-07-10",
+  "display_time": "1300",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ138",
+  "Dest": "PEN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1540",
+  "display_date": "2024-07-10",
+  "display_time": "1540",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ142",
+  "Dest": "PEN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ148",
+  "Dest": "BWN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ154",
+  "Dest": "PNH",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0740",
+  "display_date": "2024-07-10",
+  "display_time": "0740",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ156",
+  "Dest": "PNH",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1200",
+  "display_date": "2024-07-10",
+  "display_time": "1200",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ158",
+  "Dest": "PNH",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1630",
+  "display_date": "2024-07-10",
+  "display_time": "1630",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ164",
+  "Dest": "SAI",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0845",
+  "display_date": "2024-07-10",
+  "display_time": "0845",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ172",
+  "Dest": "DAD",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ174",
+  "Dest": "DAD",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1400",
+  "display_date": "2024-07-10",
+  "display_time": "1400",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ178",
+  "Dest": "SGN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ184",
+  "Dest": "SGN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1330",
+  "display_date": "2024-07-10",
+  "display_time": "1330",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ186",
+  "Dest": "SGN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1715",
+  "display_date": "2024-07-10",
+  "display_time": "1715",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ192",
+  "Dest": "HAN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0905",
+  "display_date": "2024-07-10",
+  "display_time": "0905",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ194",
+  "Dest": "HAN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1505",
+  "display_date": "2024-07-10",
+  "display_time": "1505",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ2008",
+  "Dest": "FRA",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2340",
+  "display_date": "2024-07-10",
+  "display_time": "2340",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ203",
+  "Dest": "CNS",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0840",
+  "display_date": "2024-07-10",
+  "display_time": "0840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ207",
+  "Dest": "MEL",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ211",
+  "Dest": "SYD",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0935",
+  "display_date": "2024-07-10",
+  "display_time": "0935",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ213",
+  "Dest": "PER",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ215",
+  "Dest": "PER",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ217",
+  "Dest": "MEL",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1110",
+  "display_date": "2024-07-10",
+  "display_time": "1110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ22",
+  "Dest": "EWR",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2335",
+  "display_date": "2024-07-10",
+  "display_time": "2335",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ2203",
+  "Dest": "MUC",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2325",
+  "display_date": "2024-07-10",
+  "display_time": "2325",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ221",
+  "Dest": "SYD",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ223",
+  "Dest": "PER",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ225",
+  "Dest": "PER",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ227",
+  "Dest": "MEL",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2200",
+  "display_date": "2024-07-10",
+  "display_time": "2200",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ231",
+  "Dest": "SYD",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0045",
+  "display_date": "2024-07-10",
+  "display_time": "0045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ235",
+  "Dest": "BNE",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2130",
+  "display_date": "2024-07-10",
+  "display_time": "2130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ237",
+  "Dest": "MEL",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0025",
+  "display_date": "2024-07-10",
+  "display_time": "0025",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ24",
+  "Dest": "JFK",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1210",
+  "display_date": "2024-07-10",
+  "display_time": "1210",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ241",
+  "Dest": "SYD",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ245",
+  "Dest": "BNE",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ247",
+  "Dest": "MEL",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2040",
+  "display_date": "2024-07-10",
+  "display_time": "2040",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ251",
+  "Dest": "DRW",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ255",
+  "Dest": "BNE",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0045",
+  "display_date": "2024-07-10",
+  "display_time": "0045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ26",
+  "Dest": "JFK",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ279",
+  "Dest": "ADL",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2310",
+  "display_date": "2024-07-10",
+  "display_time": "2310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ285",
+  "Dest": "AKL",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2245",
+  "display_date": "2024-07-10",
+  "display_time": "2245",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ2929",
+  "Dest": "ZRH",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2335",
+  "display_date": "2024-07-10",
+  "display_time": "2335",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ297",
+  "Dest": "CHC",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1950",
+  "display_date": "2024-07-10",
+  "display_time": "1950",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ304",
+  "Dest": "BRU",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ306",
+  "Dest": "LHR",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0110",
+  "display_date": "2024-07-10",
+  "display_time": "0110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ308",
+  "Dest": "LHR",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ318",
+  "Dest": "LHR",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1235",
+  "display_date": "2024-07-10",
+  "display_time": "1235",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ32",
+  "Dest": "SFO",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ322",
+  "Dest": "LHR",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ324",
+  "Dest": "AMS",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ326",
+  "Dest": "FRA",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ328",
+  "Dest": "MUC",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0030",
+  "display_date": "2024-07-10",
+  "display_time": "0030",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ332",
+  "Dest": "CDG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1355",
+  "display_date": "2024-07-10",
+  "display_time": "1355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ336",
+  "Dest": "CDG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0015",
+  "display_date": "2024-07-10",
+  "display_time": "0015",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ34",
+  "Dest": "SFO",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1950",
+  "display_date": "2024-07-10",
+  "display_time": "1950",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ346",
+  "Dest": "ZRH",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0125",
+  "display_date": "2024-07-10",
+  "display_time": "0125",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ352",
+  "Dest": "CPH",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ36",
+  "Dest": "LAX",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1840",
+  "display_date": "2024-07-10",
+  "display_time": "1840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ366",
+  "Dest": "FCO",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0130",
+  "display_date": "2024-07-10",
+  "display_time": "0130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ378",
+  "Dest": "BCN",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ38",
+  "Dest": "LAX",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2045",
+  "display_date": "2024-07-10",
+  "display_time": "2045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ392",
+  "Dest": "IST",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0145",
+  "display_date": "2024-07-10",
+  "display_time": "0145",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ402",
+  "Dest": "DEL",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0235",
+  "display_date": "2024-07-10",
+  "display_time": "0235",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ406",
+  "Dest": "DEL",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1650",
+  "display_date": "2024-07-10",
+  "display_time": "1650",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ422",
+  "Dest": "BOM",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0740",
+  "display_date": "2024-07-10",
+  "display_time": "0740",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ424",
+  "Dest": "BOM",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ426",
+  "Dest": "BOM",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2040",
+  "display_date": "2024-07-10",
+  "display_time": "2040",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ4281",
+  "Dest": "AKL",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0850",
+  "display_date": "2024-07-10",
+  "display_time": "0850",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ4283",
+  "Dest": "AKL",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1840",
+  "display_date": "2024-07-10",
+  "display_time": "1840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ432",
+  "Dest": "MLE",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1005",
+  "display_date": "2024-07-10",
+  "display_time": "1005",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ438",
+  "Dest": "MLE",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2045",
+  "display_date": "2024-07-10",
+  "display_time": "2045",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ442",
+  "Dest": "KTM",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1855",
+  "display_date": "2024-07-10",
+  "display_time": "1855",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ446",
+  "Dest": "DAC",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2035",
+  "display_date": "2024-07-10",
+  "display_time": "2035",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ468",
+  "Dest": "CMB",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2220",
+  "display_date": "2024-07-10",
+  "display_time": "2220",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ478",
+  "Dest": "CPT",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0130",
+  "display_date": "2024-07-10",
+  "display_time": "0130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ494",
+  "Dest": "DXB",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1510",
+  "display_date": "2024-07-10",
+  "display_time": "1510",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5052",
+  "Dest": "MNL",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1040",
+  "display_date": "2024-07-10",
+  "display_time": "1040",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5054",
+  "Dest": "MNL",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1430",
+  "display_date": "2024-07-10",
+  "display_time": "1430",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5056",
+  "Dest": "MNL",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0030",
+  "display_date": "2024-07-10",
+  "display_time": "0145",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5058",
+  "Dest": "MNL",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1950",
+  "display_date": "2024-07-10",
+  "display_time": "1950",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ508",
+  "Dest": "BLR",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0840",
+  "display_date": "2024-07-10",
+  "display_time": "0840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ510",
+  "Dest": "BLR",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2005",
+  "display_date": "2024-07-10",
+  "display_time": "2005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ516",
+  "Dest": "CCU",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2040",
+  "display_date": "2024-07-10",
+  "display_time": "2040",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ518",
+  "Dest": "HYD",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0845",
+  "display_date": "2024-07-10",
+  "display_time": "0845",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ52",
+  "Dest": "IAH",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0225",
+  "display_date": "2024-07-10",
+  "display_time": "0225",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ522",
+  "Dest": "HYD",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2000",
+  "display_date": "2024-07-10",
+  "display_time": "2000",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ524",
+  "Dest": "MAA",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0840",
+  "display_date": "2024-07-10",
+  "display_time": "0840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ528",
+  "Dest": "MAA",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2025",
+  "display_date": "2024-07-10",
+  "display_time": "2025",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ534",
+  "Dest": "COK",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2000",
+  "display_date": "2024-07-10",
+  "display_time": "2000",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5462",
+  "Dest": "USM",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5498",
+  "Dest": "USM",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5553",
+  "Dest": "DPS",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5555",
+  "Dest": "SUB",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1855",
+  "display_date": "2024-07-10",
+  "display_time": "1855",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5563",
+  "Dest": "CGK",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0725",
+  "display_date": "2024-07-10",
+  "display_time": "0725",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5569",
+  "Dest": "CGK",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1220",
+  "display_date": "2024-07-10",
+  "display_time": "1220",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5573",
+  "Dest": "CGK",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1545",
+  "display_date": "2024-07-10",
+  "display_time": "1545",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5577",
+  "Dest": "CGK",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5602",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0620",
+  "display_date": "2024-07-10",
+  "display_time": "0620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5604",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5606",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1340",
+  "display_date": "2024-07-10",
+  "display_time": "1340",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5608",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1815",
+  "display_date": "2024-07-10",
+  "display_time": "1815",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5610",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2115",
+  "display_date": "2024-07-10",
+  "display_time": "2115",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5616",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5620",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1635",
+  "display_date": "2024-07-10",
+  "display_time": "1635",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5624",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1535",
+  "display_date": "2024-07-10",
+  "display_time": "1535",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5628",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1215",
+  "display_date": "2024-07-10",
+  "display_time": "1215",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5752",
+  "Dest": "ICN",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2250",
+  "display_date": "2024-07-10",
+  "display_time": "2250",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5804",
+  "Dest": "TPE",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1510",
+  "display_date": "2024-07-10",
+  "display_time": "1510",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5806",
+  "Dest": "TPE",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1310",
+  "display_date": "2024-07-10",
+  "display_time": "1310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5870",
+  "Dest": "PEK",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2325",
+  "display_date": "2024-07-10",
+  "display_time": "2325",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5872",
+  "Dest": "PEK",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1615",
+  "display_date": "2024-07-10",
+  "display_time": "1615",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5876",
+  "Dest": "PEK",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5880",
+  "Dest": "TFU",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1600",
+  "display_date": "2024-07-10",
+  "display_time": "1600",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5886",
+  "Dest": "CKG",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1735",
+  "display_date": "2024-07-10",
+  "display_time": "1735",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5894",
+  "Dest": "SZX",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1740",
+  "display_date": "2024-07-10",
+  "display_time": "1740",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5904",
+  "Dest": "NRT",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0615",
+  "display_date": "2024-07-10",
+  "display_time": "0615",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5906",
+  "Dest": "HND",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2210",
+  "display_date": "2024-07-10",
+  "display_time": "2210",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ5908",
+  "Dest": "HND",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1105",
+  "display_date": "2024-07-10",
+  "display_time": "1105",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ600",
+  "Dest": "ICN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ606",
+  "Dest": "ICN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1445",
+  "display_date": "2024-07-10",
+  "display_time": "1445",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ608",
+  "Dest": "ICN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0010",
+  "display_date": "2024-07-10",
+  "display_time": "0010",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ612",
+  "Dest": "ICN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0225",
+  "display_date": "2024-07-10",
+  "display_time": "0225",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ616",
+  "Dest": "PUS",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2305",
+  "display_date": "2024-07-10",
+  "display_time": "2305",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ618",
+  "Dest": "KIX",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0125",
+  "display_date": "2024-07-10",
+  "display_time": "0125",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ620",
+  "Dest": "KIX",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ622",
+  "Dest": "KIX",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1355",
+  "display_date": "2024-07-10",
+  "display_time": "1355",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ632",
+  "Dest": "HND",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ634",
+  "Dest": "HND",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1355",
+  "display_date": "2024-07-10",
+  "display_time": "1355",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ636",
+  "Dest": "HND",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2250",
+  "display_date": "2024-07-10",
+  "display_time": "2250",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ638",
+  "Dest": "NRT",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ656",
+  "Dest": "FUK",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0120",
+  "display_date": "2024-07-10",
+  "display_time": "0120",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ672",
+  "Dest": "NGO",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0120",
+  "display_date": "2024-07-10",
+  "display_time": "0120",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ706",
+  "Dest": "BKK",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0710",
+  "display_date": "2024-07-10",
+  "display_time": "0710",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ708",
+  "Dest": "BKK",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ710",
+  "Dest": "BKK",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1250",
+  "display_date": "2024-07-10",
+  "display_time": "1250",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ712",
+  "Dest": "BKK",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1600",
+  "display_date": "2024-07-10",
+  "display_time": "1600",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ714",
+  "Dest": "BKK",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1730",
+  "display_date": "2024-07-10",
+  "display_time": "1730",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ720",
+  "Dest": "BKK",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ726",
+  "Dest": "HKT",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0810",
+  "display_date": "2024-07-10",
+  "display_time": "0810",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ728",
+  "Dest": "HKT",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1000",
+  "display_date": "2024-07-10",
+  "display_time": "1000",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ732",
+  "Dest": "HKT",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1315",
+  "display_date": "2024-07-10",
+  "display_time": "1315",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ736",
+  "Dest": "HKT",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1620",
+  "display_date": "2024-07-10",
+  "display_time": "1620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ7374",
+  "Dest": "AMS",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0155",
+  "display_date": "2024-07-10",
+  "display_time": "0155",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ740",
+  "Dest": "HKT",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ7414",
+  "Dest": "LAX",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2140",
+  "display_date": "2024-07-10",
+  "display_time": "2140",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ7442",
+  "Dest": "CVG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ7602",
+  "Dest": "BKK",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0625",
+  "display_date": "2024-07-10",
+  "display_time": "0625",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ762",
+  "Dest": "RGN",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0755",
+  "display_date": "2024-07-10",
+  "display_time": "0755",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ7862",
+  "Dest": "HKG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1410",
+  "display_date": "2024-07-10",
+  "display_time": "1410",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ7888",
+  "Dest": "PVG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1825",
+  "display_date": "2024-07-10",
+  "display_time": "1825",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ7988",
+  "Dest": "LAX",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1125",
+  "display_date": "2024-07-10",
+  "display_time": "1125",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ802",
+  "Dest": "PEK",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ806",
+  "Dest": "PEK",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1650",
+  "display_date": "2024-07-10",
+  "display_time": "1650",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ818",
+  "Dest": "CKG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ826",
+  "Dest": "PVG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0115",
+  "display_date": "2024-07-10",
+  "display_time": "0115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ828",
+  "Dest": "PVG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0755",
+  "display_date": "2024-07-10",
+  "display_time": "0755",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ830",
+  "Dest": "PVG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8302",
+  "Dest": "ATQ",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1510",
+  "display_date": "2024-07-10",
+  "display_time": "1510",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8308",
+  "Dest": "CRK",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1850",
+  "display_date": "2024-07-10",
+  "display_time": "1850",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8316",
+  "Dest": "HGH",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1630",
+  "display_date": "2024-07-10",
+  "display_time": "1630",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ832",
+  "Dest": "PVG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8322",
+  "Dest": "IPH",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1525",
+  "display_date": "2024-07-10",
+  "display_time": "1525",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8324",
+  "Dest": "IPH",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1105",
+  "display_date": "2024-07-10",
+  "display_time": "1105",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8340",
+  "Dest": "USM",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0700",
+  "display_date": "2024-07-10",
+  "display_time": "0700",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8342",
+  "Dest": "USM",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1015",
+  "display_date": "2024-07-10",
+  "display_time": "1015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8344",
+  "Dest": "MFM",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1350",
+  "display_date": "2024-07-10",
+  "display_time": "1350",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8348",
+  "Dest": "NKG",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1030",
+  "display_date": "2024-07-10",
+  "display_time": "1030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8356",
+  "Dest": "SHE",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0250",
+  "display_date": "2024-07-10",
+  "display_time": "0250",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8358",
+  "Dest": "TAO",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0145",
+  "display_date": "2024-07-10",
+  "display_time": "0145",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ836",
+  "Dest": "PVG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1725",
+  "display_date": "2024-07-10",
+  "display_time": "1725",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8370",
+  "Dest": "TSN",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0130",
+  "display_date": "2024-07-10",
+  "display_time": "0130",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8374",
+  "Dest": "XIY",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1910",
+  "display_date": "2024-07-10",
+  "display_time": "1910",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8382",
+  "Dest": "HDY",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1220",
+  "display_date": "2024-07-10",
+  "display_time": "1220",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8388",
+  "Dest": "NNG",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0940",
+  "display_date": "2024-07-10",
+  "display_time": "0940",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8390",
+  "Dest": "KHN",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1430",
+  "display_date": "2024-07-10",
+  "display_time": "1430",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8396",
+  "Dest": "LGK",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0815",
+  "display_date": "2024-07-10",
+  "display_time": "0815",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8416",
+  "Dest": "TRV",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8418",
+  "Dest": "CJB",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2025",
+  "display_date": "2024-07-10",
+  "display_time": "2025",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ842",
+  "Dest": "TFU",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1235",
+  "display_date": "2024-07-10",
+  "display_time": "1235",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8420",
+  "Dest": "VTZ",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2025",
+  "display_date": "2024-07-10",
+  "display_time": "2025",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8424",
+  "Dest": "BKI",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1645",
+  "display_date": "2024-07-10",
+  "display_time": "1645",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8426",
+  "Dest": "CNX",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0820",
+  "display_date": "2024-07-10",
+  "display_time": "0820",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8430",
+  "Dest": "CAN",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0515",
+  "display_date": "2024-07-10",
+  "display_time": "0515",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8442",
+  "Dest": "MAA",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2220",
+  "display_date": "2024-07-10",
+  "display_time": "2220",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8448",
+  "Dest": "WUH",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1855",
+  "display_date": "2024-07-10",
+  "display_time": "1855",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8484",
+  "Dest": "KCH",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1955",
+  "display_date": "2024-07-10",
+  "display_time": "1955",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8492",
+  "Dest": "PER",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1200",
+  "display_date": "2024-07-10",
+  "display_time": "1200",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8494",
+  "Dest": "PER",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1530",
+  "display_date": "2024-07-10",
+  "display_time": "1530",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ850",
+  "Dest": "CAN",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8500",
+  "Dest": "PEN",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1430",
+  "display_date": "2024-07-10",
+  "display_time": "1430",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8502",
+  "Dest": "PEN",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8508",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0940",
+  "display_date": "2024-07-10",
+  "display_time": "0940",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8510",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2000",
+  "display_date": "2024-07-10",
+  "display_time": "2000",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ852",
+  "Dest": "CAN",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2010",
+  "display_date": "2024-07-10",
+  "display_time": "2010",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8524",
+  "Dest": "TPE",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0145",
+  "display_date": "2024-07-10",
+  "display_time": "0145",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8528",
+  "Dest": "TPE",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1155",
+  "display_date": "2024-07-10",
+  "display_time": "1155",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8530",
+  "Dest": "MEL",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0230",
+  "display_date": "2024-07-10",
+  "display_time": "0230",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8534",
+  "Dest": "SGN",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1520",
+  "display_date": "2024-07-10",
+  "display_time": "1520",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8536",
+  "Dest": "SGN",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0700",
+  "display_date": "2024-07-10",
+  "display_time": "0700",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8538",
+  "Dest": "SGN",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1310",
+  "display_date": "2024-07-10",
+  "display_time": "1310",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8546",
+  "Dest": "BKK",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0820",
+  "display_date": "2024-07-10",
+  "display_time": "0820",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8550",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1700",
+  "display_date": "2024-07-10",
+  "display_time": "1700",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8552",
+  "Dest": "HAN",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8556",
+  "Dest": "CEB",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0820",
+  "display_date": "2024-07-10",
+  "display_time": "0820",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8558",
+  "Dest": "BKK",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1510",
+  "display_date": "2024-07-10",
+  "display_time": "1510",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8566",
+  "Dest": "DVO",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1300",
+  "display_date": "2024-07-10",
+  "display_time": "1300",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8570",
+  "Dest": "HKT",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1815",
+  "display_date": "2024-07-10",
+  "display_time": "1815",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8578",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0450",
+  "display_date": "2024-07-10",
+  "display_time": "0450",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8582",
+  "Dest": "KUL",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1610",
+  "display_date": "2024-07-10",
+  "display_time": "1610",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ860",
+  "Dest": "SZX",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2210",
+  "display_date": "2024-07-10",
+  "display_time": "2210",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8602",
+  "Dest": "PEN",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1945",
+  "display_date": "2024-07-10",
+  "display_time": "1945",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8612",
+  "Dest": "BKK",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1255",
+  "display_date": "2024-07-10",
+  "display_time": "1255",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8614",
+  "Dest": "BKK",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0545",
+  "display_date": "2024-07-10",
+  "display_time": "0545",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8620",
+  "Dest": "HKT",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0725",
+  "display_date": "2024-07-10",
+  "display_time": "0725",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8634",
+  "Dest": "KBV",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1545",
+  "display_date": "2024-07-10",
+  "display_time": "1545",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8636",
+  "Dest": "MNL",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0200",
+  "display_date": "2024-07-10",
+  "display_time": "0200",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8642",
+  "Dest": "NRT",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2215",
+  "display_date": "2024-07-10",
+  "display_time": "2215",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8644",
+  "Dest": "KIX",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0625",
+  "display_date": "2024-07-10",
+  "display_time": "0625",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ868",
+  "Dest": "XMN",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8682",
+  "Dest": "HKG",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1555",
+  "display_date": "2024-07-10",
+  "display_time": "1555",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ874",
+  "Dest": "HKG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0725",
+  "display_date": "2024-07-10",
+  "display_time": "0725",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ876",
+  "Dest": "TPE",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0820",
+  "display_date": "2024-07-10",
+  "display_time": "0820",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ878",
+  "Dest": "TPE",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1145",
+  "display_date": "2024-07-10",
+  "display_time": "1145",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ882",
+  "Dest": "HKG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0840",
+  "display_date": "2024-07-10",
+  "display_time": "0840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8871",
+  "Dest": "JHB",
+  "AirlineCode": "SQ",
+  "DTerm": "0",
+  "Date": "2024-07-10",
+  "Time": "1200",
+  "display_date": "2024-07-10",
+  "display_time": "1200",
+  "display_terminal": "0",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ892",
+  "Dest": "HKG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0940",
+  "display_date": "2024-07-10",
+  "display_time": "0940",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ894",
+  "Dest": "HKG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1305",
+  "display_date": "2024-07-10",
+  "display_time": "1305",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ896",
+  "Dest": "HKG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1530",
+  "display_date": "2024-07-10",
+  "display_time": "1530",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ898",
+  "Dest": "HKG",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ900",
+  "Dest": "CEB",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1055",
+  "display_date": "2024-07-10",
+  "display_time": "1055",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ910",
+  "Dest": "MNL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0920",
+  "display_date": "2024-07-10",
+  "display_time": "0920",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ916",
+  "Dest": "MNL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1330",
+  "display_date": "2024-07-10",
+  "display_time": "1330",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ918",
+  "Dest": "MNL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1925",
+  "display_date": "2024-07-10",
+  "display_time": "1925",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ922",
+  "Dest": "SUB",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ926",
+  "Dest": "SUB",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1420",
+  "display_date": "2024-07-10",
+  "display_time": "1420",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ928",
+  "Dest": "SUB",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1630",
+  "display_date": "2024-07-10",
+  "display_time": "1630",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ934",
+  "Dest": "DPS",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0645",
+  "display_date": "2024-07-10",
+  "display_time": "0645",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ936",
+  "Dest": "DPS",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0820",
+  "display_date": "2024-07-10",
+  "display_time": "0820",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ938",
+  "Dest": "DPS",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ944",
+  "Dest": "DPS",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1610",
+  "display_date": "2024-07-10",
+  "display_time": "1610",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ946",
+  "Dest": "DPS",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1740",
+  "display_date": "2024-07-10",
+  "display_time": "1740",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ948",
+  "Dest": "DPS",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2120",
+  "display_date": "2024-07-10",
+  "display_time": "2120",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ950",
+  "Dest": "CGK",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0620",
+  "display_date": "2024-07-10",
+  "display_time": "0620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ956",
+  "Dest": "CGK",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ958",
+  "Dest": "CGK",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1230",
+  "display_date": "2024-07-10",
+  "display_time": "1230",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ962",
+  "Dest": "CGK",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1625",
+  "display_date": "2024-07-10",
+  "display_time": "1625",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ964",
+  "Dest": "CGK",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ968",
+  "Dest": "CGK",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2155",
+  "display_date": "2024-07-10",
+  "display_time": "2155",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ990",
+  "Dest": "KNO",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0740",
+  "display_date": "2024-07-10",
+  "display_time": "0740",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ994",
+  "Dest": "KNO",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SV6123",
+  "Dest": "SUB",
+  "AirlineCode": "SV",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1855",
+  "display_date": "2024-07-10",
+  "display_time": "1855",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SV6173",
+  "Dest": "CGK",
+  "AirlineCode": "SV",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0725",
+  "display_date": "2024-07-10",
+  "display_time": "0725",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SV6193",
+  "Dest": "CGK",
+  "AirlineCode": "SV",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1545",
+  "display_date": "2024-07-10",
+  "display_time": "1545",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SV6201",
+  "Dest": "CGK",
+  "AirlineCode": "SV",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TG402",
+  "Dest": "BKK",
+  "AirlineCode": "TG",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TG404",
+  "Dest": "BKK",
+  "AirlineCode": "TG",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1225",
+  "display_date": "2024-07-10",
+  "display_time": "1225",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TG408",
+  "Dest": "BKK",
+  "AirlineCode": "TG",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1815",
+  "display_date": "2024-07-10",
+  "display_time": "1815",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TG410",
+  "Dest": "BKK",
+  "AirlineCode": "TG",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2050",
+  "display_date": "2024-07-10",
+  "display_time": "2050",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TG414",
+  "Dest": "BKK",
+  "AirlineCode": "TG",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1555",
+  "display_date": "2024-07-10",
+  "display_time": "1555",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TG7335",
+  "Dest": "USM",
+  "AirlineCode": "TG",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TG7337",
+  "Dest": "USM",
+  "AirlineCode": "TG",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TH383",
+  "Dest": "KUL",
+  "AirlineCode": "TH",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0615",
+  "display_date": "2024-07-10",
+  "display_time": "0615",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK168",
+  "Dest": "MEL",
+  "AirlineCode": "TK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1015",
+  "display_date": "2024-07-10",
+  "display_time": "1015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK4468",
+  "Dest": "USM",
+  "AirlineCode": "TK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK4515",
+  "Dest": "USM",
+  "AirlineCode": "TK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK55",
+  "Dest": "IST",
+  "AirlineCode": "TK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2325",
+  "display_date": "2024-07-10",
+  "display_time": "2325",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK8028",
+  "Dest": "BKK",
+  "AirlineCode": "TK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1815",
+  "display_date": "2024-07-10",
+  "display_time": "1815",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK8489",
+  "Dest": "BKK",
+  "AirlineCode": "TK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2050",
+  "display_date": "2024-07-10",
+  "display_time": "2050",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK8733",
+  "Dest": "AKL",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1840",
+  "display_date": "2024-07-10",
+  "display_time": "1840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9301",
+  "Dest": "IST",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0145",
+  "display_date": "2024-07-10",
+  "display_time": "0145",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9302",
+  "Dest": "MEL",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9304",
+  "Dest": "SYD",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0935",
+  "display_date": "2024-07-10",
+  "display_time": "0935",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9306",
+  "Dest": "PER",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9308",
+  "Dest": "PER",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9310",
+  "Dest": "MEL",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1110",
+  "display_date": "2024-07-10",
+  "display_time": "1110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9312",
+  "Dest": "SYD",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9314",
+  "Dest": "PER",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9316",
+  "Dest": "PER",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9318",
+  "Dest": "MEL",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2200",
+  "display_date": "2024-07-10",
+  "display_time": "2200",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9320",
+  "Dest": "SYD",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0045",
+  "display_date": "2024-07-10",
+  "display_time": "0045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9322",
+  "Dest": "BNE",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2130",
+  "display_date": "2024-07-10",
+  "display_time": "2130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9324",
+  "Dest": "MEL",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0025",
+  "display_date": "2024-07-10",
+  "display_time": "0025",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9326",
+  "Dest": "SYD",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9328",
+  "Dest": "BNE",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9330",
+  "Dest": "BNE",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0045",
+  "display_date": "2024-07-10",
+  "display_time": "0045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9332",
+  "Dest": "ADL",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2310",
+  "display_date": "2024-07-10",
+  "display_time": "2310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9334",
+  "Dest": "AKL",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2245",
+  "display_date": "2024-07-10",
+  "display_time": "2245",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9336",
+  "Dest": "CHC",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1950",
+  "display_date": "2024-07-10",
+  "display_time": "1950",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9338",
+  "Dest": "BWN",
+  "AirlineCode": "TK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9340",
+  "Dest": "HAN",
+  "AirlineCode": "TK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0905",
+  "display_date": "2024-07-10",
+  "display_time": "0905",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9522",
+  "Dest": "BWN",
+  "AirlineCode": "TK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1210",
+  "display_date": "2024-07-10",
+  "display_time": "1210",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TP6356",
+  "Dest": "DXB",
+  "AirlineCode": "TP",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0050",
+  "display_date": "2024-07-10",
+  "display_time": "0050",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TP8400",
+  "Dest": "LHR",
+  "AirlineCode": "TP",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0110",
+  "display_date": "2024-07-10",
+  "display_time": "0110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TP8402",
+  "Dest": "LHR",
+  "AirlineCode": "TP",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TP8404",
+  "Dest": "LHR",
+  "AirlineCode": "TP",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TP8410",
+  "Dest": "MXP",
+  "AirlineCode": "TP",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TP8416",
+  "Dest": "FRA",
+  "AirlineCode": "TP",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TP8418",
+  "Dest": "LHR",
+  "AirlineCode": "TP",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1235",
+  "display_date": "2024-07-10",
+  "display_time": "1235",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TP8421",
+  "Dest": "FRA",
+  "AirlineCode": "TP",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR100",
+  "Dest": "CAN",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0515",
+  "display_date": "2024-07-10",
+  "display_time": "0515",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR112",
+  "Dest": "KHN",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1430",
+  "display_date": "2024-07-10",
+  "display_time": "1430",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR114",
+  "Dest": "NNG",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0940",
+  "display_date": "2024-07-10",
+  "display_time": "0940",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR120",
+  "Dest": "WUH",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1855",
+  "display_date": "2024-07-10",
+  "display_time": "1855",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR134",
+  "Dest": "XIY",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1910",
+  "display_date": "2024-07-10",
+  "display_time": "1910",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR138",
+  "Dest": "TSN",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0130",
+  "display_date": "2024-07-10",
+  "display_time": "0130",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR156",
+  "Dest": "SHE",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0250",
+  "display_date": "2024-07-10",
+  "display_time": "0250",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR16",
+  "Dest": "PER",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1530",
+  "display_date": "2024-07-10",
+  "display_time": "1530",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR172",
+  "Dest": "TNA",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0025",
+  "display_date": "2024-07-10",
+  "display_time": "0025",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR174",
+  "Dest": "FOC",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0705",
+  "display_date": "2024-07-10",
+  "display_time": "0705",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR18",
+  "Dest": "MEL",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0230",
+  "display_date": "2024-07-10",
+  "display_time": "0230",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR180",
+  "Dest": "NKG",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1030",
+  "display_date": "2024-07-10",
+  "display_time": "1030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR186",
+  "Dest": "TAO",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0145",
+  "display_date": "2024-07-10",
+  "display_time": "0145",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR188",
+  "Dest": "HGH",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1630",
+  "display_date": "2024-07-10",
+  "display_time": "1630",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR2",
+  "Dest": "SYD",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0200",
+  "display_date": "2024-07-10",
+  "display_time": "0200",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR200",
+  "Dest": "YIA",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0820",
+  "display_date": "2024-07-10",
+  "display_time": "0820",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR216",
+  "Dest": "MDC",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR222",
+  "Dest": "BPN",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0755",
+  "display_date": "2024-07-10",
+  "display_time": "0755",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR258",
+  "Dest": "LOP",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0745",
+  "display_date": "2024-07-10",
+  "display_time": "0745",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR262",
+  "Dest": "SUB",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0815",
+  "display_date": "2024-07-10",
+  "display_time": "0815",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR276",
+  "Dest": "CGK",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1020",
+  "display_date": "2024-07-10",
+  "display_time": "1020",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR278",
+  "Dest": "CGK",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1825",
+  "display_date": "2024-07-10",
+  "display_time": "1825",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR280",
+  "Dest": "DPS",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0710",
+  "display_date": "2024-07-10",
+  "display_time": "0710",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR284",
+  "Dest": "DPS",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1035",
+  "display_date": "2024-07-10",
+  "display_time": "1035",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR286",
+  "Dest": "DPS",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1550",
+  "display_date": "2024-07-10",
+  "display_time": "1550",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR300",
+  "Dest": "HAN",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR302",
+  "Dest": "SGN",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1520",
+  "display_date": "2024-07-10",
+  "display_time": "1520",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR304",
+  "Dest": "SGN",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0700",
+  "display_date": "2024-07-10",
+  "display_time": "0700",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR306",
+  "Dest": "SGN",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1310",
+  "display_date": "2024-07-10",
+  "display_time": "1310",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR360",
+  "Dest": "DVO",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1300",
+  "display_date": "2024-07-10",
+  "display_time": "1300",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR384",
+  "Dest": "CEB",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0820",
+  "display_date": "2024-07-10",
+  "display_time": "0820",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR386",
+  "Dest": "CRK",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1850",
+  "display_date": "2024-07-10",
+  "display_time": "1850",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR396",
+  "Dest": "MNL",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0200",
+  "display_date": "2024-07-10",
+  "display_time": "0200",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR410",
+  "Dest": "SBW",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0525",
+  "display_date": "2024-07-10",
+  "display_time": "0525",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR424",
+  "Dest": "PEN",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1430",
+  "display_date": "2024-07-10",
+  "display_time": "1430",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR426",
+  "Dest": "PEN",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR428",
+  "Dest": "PEN",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1945",
+  "display_date": "2024-07-10",
+  "display_time": "1945",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR434",
+  "Dest": "KCH",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1955",
+  "display_date": "2024-07-10",
+  "display_time": "1955",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR452",
+  "Dest": "KUL",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0940",
+  "display_date": "2024-07-10",
+  "display_time": "0940",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR456",
+  "Dest": "KUL",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0450",
+  "display_date": "2024-07-10",
+  "display_time": "0450",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR466",
+  "Dest": "KUL",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2000",
+  "display_date": "2024-07-10",
+  "display_time": "2000",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR468",
+  "Dest": "KUL",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1700",
+  "display_date": "2024-07-10",
+  "display_time": "1700",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR470",
+  "Dest": "KUA",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1655",
+  "display_date": "2024-07-10",
+  "display_time": "1655",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR472",
+  "Dest": "KUL",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1610",
+  "display_date": "2024-07-10",
+  "display_time": "1610",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR478",
+  "Dest": "LGK",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0815",
+  "display_date": "2024-07-10",
+  "display_time": "0815",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR484",
+  "Dest": "IPH",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1105",
+  "display_date": "2024-07-10",
+  "display_time": "1105",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR486",
+  "Dest": "IPH",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1525",
+  "display_date": "2024-07-10",
+  "display_time": "1525",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR492",
+  "Dest": "BKI",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1645",
+  "display_date": "2024-07-10",
+  "display_time": "1645",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR512",
+  "Dest": "ATQ",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1510",
+  "display_date": "2024-07-10",
+  "display_time": "1510",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR530",
+  "Dest": "TRV",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR540",
+  "Dest": "CJB",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2025",
+  "display_date": "2024-07-10",
+  "display_time": "2025",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR562",
+  "Dest": "TRZ",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2255",
+  "display_date": "2024-07-10",
+  "display_time": "2255",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR564",
+  "Dest": "TRZ",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2125",
+  "display_date": "2024-07-10",
+  "display_time": "2125",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR578",
+  "Dest": "MAA",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2220",
+  "display_date": "2024-07-10",
+  "display_time": "2220",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR586",
+  "Dest": "VTZ",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2025",
+  "display_date": "2024-07-10",
+  "display_time": "2025",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR604",
+  "Dest": "BKK",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1255",
+  "display_date": "2024-07-10",
+  "display_time": "1255",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR608",
+  "Dest": "BKK",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0545",
+  "display_date": "2024-07-10",
+  "display_time": "0545",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR610",
+  "Dest": "BKK",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1510",
+  "display_date": "2024-07-10",
+  "display_time": "1510",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR614",
+  "Dest": "BKK",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR624",
+  "Dest": "BKK",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0820",
+  "display_date": "2024-07-10",
+  "display_time": "0820",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR632",
+  "Dest": "HDY",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1220",
+  "display_date": "2024-07-10",
+  "display_time": "1220",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR640",
+  "Dest": "USM",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0700",
+  "display_date": "2024-07-10",
+  "display_time": "0700",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR642",
+  "Dest": "USM",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1015",
+  "display_date": "2024-07-10",
+  "display_time": "1015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR652",
+  "Dest": "HKT",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1815",
+  "display_date": "2024-07-10",
+  "display_time": "1815",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR658",
+  "Dest": "HKT",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0725",
+  "display_date": "2024-07-10",
+  "display_time": "0725",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR676",
+  "Dest": "CNX",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0820",
+  "display_date": "2024-07-10",
+  "display_time": "0820",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR684",
+  "Dest": "KBV",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1545",
+  "display_date": "2024-07-10",
+  "display_time": "1545",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR720",
+  "Dest": "BER",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0030",
+  "display_date": "2024-07-10",
+  "display_time": "0030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR8",
+  "Dest": "PER",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1200",
+  "display_date": "2024-07-10",
+  "display_time": "1200",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR808",
+  "Dest": "NRT",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2215",
+  "display_date": "2024-07-10",
+  "display_time": "2215",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR812",
+  "Dest": "CJU",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0015",
+  "display_date": "2024-07-10",
+  "display_time": "0015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR818",
+  "Dest": "KIX",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0625",
+  "display_date": "2024-07-10",
+  "display_time": "0625",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR896",
+  "Dest": "ICN",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1155",
+  "display_date": "2024-07-10",
+  "display_time": "1155",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR898",
+  "Dest": "NRT",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0145",
+  "display_date": "2024-07-10",
+  "display_time": "0145",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR904",
+  "Dest": "MFM",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1350",
+  "display_date": "2024-07-10",
+  "display_time": "1350",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR972",
+  "Dest": "HKG",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1555",
+  "display_date": "2024-07-10",
+  "display_time": "1555",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TW172",
+  "Dest": "ICN",
+  "AirlineCode": "TW",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0215",
+  "display_date": "2024-07-10",
+  "display_time": "0215",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA2",
+  "Dest": "SFO",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0845",
+  "display_date": "2024-07-10",
+  "display_time": "0845",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA28",
+  "Dest": "SFO",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7671",
+  "Dest": "PEN",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1540",
+  "display_date": "2024-07-10",
+  "display_time": "1540",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7672",
+  "Dest": "PER",
+  "AirlineCode": "UA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7674",
+  "Dest": "SUB",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1420",
+  "display_date": "2024-07-10",
+  "display_time": "1420",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7677",
+  "Dest": "CGK",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7678",
+  "Dest": "CGK",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1230",
+  "display_date": "2024-07-10",
+  "display_time": "1230",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7681",
+  "Dest": "CGK",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2155",
+  "display_date": "2024-07-10",
+  "display_time": "2155",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7682",
+  "Dest": "KUL",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7692",
+  "Dest": "SAI",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0845",
+  "display_date": "2024-07-10",
+  "display_time": "0845",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7694",
+  "Dest": "PER",
+  "AirlineCode": "UA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7696",
+  "Dest": "MLE",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2045",
+  "display_date": "2024-07-10",
+  "display_time": "2045",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7698",
+  "Dest": "MLE",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1005",
+  "display_date": "2024-07-10",
+  "display_time": "1005",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7700",
+  "Dest": "KUL",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0910",
+  "display_date": "2024-07-10",
+  "display_time": "0910",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7702",
+  "Dest": "DPS",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1610",
+  "display_date": "2024-07-10",
+  "display_time": "1610",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7704",
+  "Dest": "DPS",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7708",
+  "Dest": "BWN",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7712",
+  "Dest": "PEN",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7714",
+  "Dest": "SUB",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1630",
+  "display_date": "2024-07-10",
+  "display_time": "1630",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7934",
+  "Dest": "NRT",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0615",
+  "display_date": "2024-07-10",
+  "display_time": "0615",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UA7992",
+  "Dest": "HND",
+  "AirlineCode": "UA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1105",
+  "display_date": "2024-07-10",
+  "display_time": "1105",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UB2",
+  "Dest": "RGN",
+  "AirlineCode": "UB",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1315",
+  "display_date": "2024-07-10",
+  "display_time": "1315",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK106",
+  "Dest": "BOM",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1030",
+  "display_date": "2024-07-10",
+  "display_time": "1030",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK108",
+  "Dest": "BOM",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2120",
+  "display_date": "2024-07-10",
+  "display_time": "2120",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK110",
+  "Dest": "PNQ",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1155",
+  "display_date": "2024-07-10",
+  "display_time": "1155",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK116",
+  "Dest": "DEL",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK2006",
+  "Dest": "HND",
+  "AirlineCode": "UK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2150",
+  "display_date": "2024-07-10",
+  "display_time": "2150",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK2008",
+  "Dest": "HND",
+  "AirlineCode": "UK",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0150",
+  "display_date": "2024-07-10",
+  "display_time": "0150",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8012",
+  "Dest": "NRT",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8022",
+  "Dest": "EWR",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2335",
+  "display_date": "2024-07-10",
+  "display_time": "2335",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8024",
+  "Dest": "JFK",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1210",
+  "display_date": "2024-07-10",
+  "display_time": "1210",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8032",
+  "Dest": "SFO",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8034",
+  "Dest": "SFO",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1950",
+  "display_date": "2024-07-10",
+  "display_time": "1950",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8038",
+  "Dest": "LAX",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2045",
+  "display_date": "2024-07-10",
+  "display_time": "2045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8114",
+  "Dest": "KUL",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8116",
+  "Dest": "KUL",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1450",
+  "display_date": "2024-07-10",
+  "display_time": "1450",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8128",
+  "Dest": "KUL",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2000",
+  "display_date": "2024-07-10",
+  "display_time": "2000",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8134",
+  "Dest": "PEN",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8136",
+  "Dest": "PEN",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1300",
+  "display_date": "2024-07-10",
+  "display_time": "1300",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8156",
+  "Dest": "PNH",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1200",
+  "display_date": "2024-07-10",
+  "display_time": "1200",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8172",
+  "Dest": "DAD",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8174",
+  "Dest": "DAD",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1400",
+  "display_date": "2024-07-10",
+  "display_time": "1400",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8178",
+  "Dest": "SGN",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8184",
+  "Dest": "SGN",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1330",
+  "display_date": "2024-07-10",
+  "display_time": "1330",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8192",
+  "Dest": "HAN",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0905",
+  "display_date": "2024-07-10",
+  "display_time": "0905",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8194",
+  "Dest": "HAN",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1505",
+  "display_date": "2024-07-10",
+  "display_time": "1505",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8217",
+  "Dest": "MEL",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1110",
+  "display_date": "2024-07-10",
+  "display_time": "1110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8221",
+  "Dest": "SYD",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8223",
+  "Dest": "PER",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8225",
+  "Dest": "PER",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8227",
+  "Dest": "MEL",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2200",
+  "display_date": "2024-07-10",
+  "display_time": "2200",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8231",
+  "Dest": "SYD",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0045",
+  "display_date": "2024-07-10",
+  "display_time": "0045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8235",
+  "Dest": "BNE",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2130",
+  "display_date": "2024-07-10",
+  "display_time": "2130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8245",
+  "Dest": "BNE",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8279",
+  "Dest": "ADL",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2310",
+  "display_date": "2024-07-10",
+  "display_time": "2310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8285",
+  "Dest": "AKL",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2245",
+  "display_date": "2024-07-10",
+  "display_time": "2245",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8297",
+  "Dest": "CHC",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1950",
+  "display_date": "2024-07-10",
+  "display_time": "1950",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8606",
+  "Dest": "ICN",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1445",
+  "display_date": "2024-07-10",
+  "display_time": "1445",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8608",
+  "Dest": "ICN",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0010",
+  "display_date": "2024-07-10",
+  "display_time": "0010",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8622",
+  "Dest": "KIX",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1355",
+  "display_date": "2024-07-10",
+  "display_time": "1355",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8634",
+  "Dest": "HND",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1355",
+  "display_date": "2024-07-10",
+  "display_time": "1355",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8636",
+  "Dest": "HND",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2250",
+  "display_date": "2024-07-10",
+  "display_time": "2250",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8638",
+  "Dest": "NRT",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8672",
+  "Dest": "NGO",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0120",
+  "display_date": "2024-07-10",
+  "display_time": "0120",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8728",
+  "Dest": "HKT",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1000",
+  "display_date": "2024-07-10",
+  "display_time": "1000",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8732",
+  "Dest": "HKT",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1315",
+  "display_date": "2024-07-10",
+  "display_time": "1315",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8878",
+  "Dest": "TPE",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1145",
+  "display_date": "2024-07-10",
+  "display_time": "1145",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8892",
+  "Dest": "HKG",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0940",
+  "display_date": "2024-07-10",
+  "display_time": "0940",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8894",
+  "Dest": "HKG",
+  "AirlineCode": "UK",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1305",
+  "display_date": "2024-07-10",
+  "display_time": "1305",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8926",
+  "Dest": "SUB",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1420",
+  "display_date": "2024-07-10",
+  "display_time": "1420",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8938",
+  "Dest": "DPS",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8948",
+  "Dest": "DPS",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2120",
+  "display_date": "2024-07-10",
+  "display_time": "2120",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8958",
+  "Dest": "CGK",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1230",
+  "display_date": "2024-07-10",
+  "display_time": "1230",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UK8968",
+  "Dest": "CGK",
+  "AirlineCode": "UK",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2155",
+  "display_date": "2024-07-10",
+  "display_time": "2155",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL309",
+  "Dest": "CMB",
+  "AirlineCode": "UL",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2010",
+  "display_date": "2024-07-10",
+  "display_time": "2010",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3261",
+  "Dest": "HKT",
+  "AirlineCode": "UL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1700",
+  "display_date": "2024-07-10",
+  "display_time": "1700",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3269",
+  "Dest": "HKT",
+  "AirlineCode": "UL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1940",
+  "display_date": "2024-07-10",
+  "display_time": "1940",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3279",
+  "Dest": "KUL",
+  "AirlineCode": "UL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3281",
+  "Dest": "BKK",
+  "AirlineCode": "UL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1045",
+  "display_date": "2024-07-10",
+  "display_time": "1045",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3283",
+  "Dest": "BKK",
+  "AirlineCode": "UL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3285",
+  "Dest": "KUL",
+  "AirlineCode": "UL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0700",
+  "display_date": "2024-07-10",
+  "display_time": "0700",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3291",
+  "Dest": "BKK",
+  "AirlineCode": "UL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3304",
+  "Dest": "RGN",
+  "AirlineCode": "UL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1350",
+  "display_date": "2024-07-10",
+  "display_time": "1350",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3306",
+  "Dest": "RGN",
+  "AirlineCode": "UL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3336",
+  "Dest": "HND",
+  "AirlineCode": "UL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2150",
+  "display_date": "2024-07-10",
+  "display_time": "2150",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3338",
+  "Dest": "HND",
+  "AirlineCode": "UL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0150",
+  "display_date": "2024-07-10",
+  "display_time": "0150",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3354",
+  "Dest": "NRT",
+  "AirlineCode": "UL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0805",
+  "display_date": "2024-07-10",
+  "display_time": "0805",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3378",
+  "Dest": "MEL",
+  "AirlineCode": "UL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2015",
+  "display_date": "2024-07-10",
+  "display_time": "2015",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3382",
+  "Dest": "BNE",
+  "AirlineCode": "UL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2030",
+  "display_date": "2024-07-10",
+  "display_time": "2030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3386",
+  "Dest": "PER",
+  "AirlineCode": "UL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1935",
+  "display_date": "2024-07-10",
+  "display_time": "1935",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3419",
+  "Dest": "SYD",
+  "AirlineCode": "UL",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "2100",
+  "display_date": "2024-07-10",
+  "display_time": "2100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UL3816",
+  "Dest": "ICN",
+  "AirlineCode": "UL",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "2230",
+  "display_date": "2024-07-10",
+  "display_time": "2230",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "UX2718",
+  "Dest": "AUH",
+  "AirlineCode": "UX",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2055",
+  "display_date": "2024-07-10",
+  "display_time": "2055",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5406",
+  "Dest": "FRA",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5424",
+  "Dest": "KUL",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0705",
+  "display_date": "2024-07-10",
+  "display_time": "0705",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5426",
+  "Dest": "KUL",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5428",
+  "Dest": "KUL",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0910",
+  "display_date": "2024-07-10",
+  "display_time": "0910",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5434",
+  "Dest": "KUL",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1245",
+  "display_date": "2024-07-10",
+  "display_time": "1245",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5436",
+  "Dest": "KUL",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1450",
+  "display_date": "2024-07-10",
+  "display_time": "1450",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5442",
+  "Dest": "KUL",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1625",
+  "display_date": "2024-07-10",
+  "display_time": "1625",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5446",
+  "Dest": "KUL",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5452",
+  "Dest": "PEN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5454",
+  "Dest": "PEN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5456",
+  "Dest": "PEN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1300",
+  "display_date": "2024-07-10",
+  "display_time": "1300",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5458",
+  "Dest": "PEN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1540",
+  "display_date": "2024-07-10",
+  "display_time": "1540",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5462",
+  "Dest": "PEN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5474",
+  "Dest": "PNH",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0740",
+  "display_date": "2024-07-10",
+  "display_time": "0740",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5476",
+  "Dest": "PNH",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1200",
+  "display_date": "2024-07-10",
+  "display_time": "1200",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5478",
+  "Dest": "PNH",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1630",
+  "display_date": "2024-07-10",
+  "display_time": "1630",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5482",
+  "Dest": "SAI",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0845",
+  "display_date": "2024-07-10",
+  "display_time": "0845",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5486",
+  "Dest": "DAD",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0915",
+  "display_date": "2024-07-10",
+  "display_time": "0915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5488",
+  "Dest": "DAD",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1400",
+  "display_date": "2024-07-10",
+  "display_time": "1400",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5490",
+  "Dest": "SGN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0945",
+  "display_date": "2024-07-10",
+  "display_time": "0945",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5492",
+  "Dest": "HAN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0905",
+  "display_date": "2024-07-10",
+  "display_time": "0905",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5494",
+  "Dest": "SGN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1330",
+  "display_date": "2024-07-10",
+  "display_time": "1330",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5496",
+  "Dest": "SGN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1715",
+  "display_date": "2024-07-10",
+  "display_time": "1715",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5498",
+  "Dest": "HAN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1505",
+  "display_date": "2024-07-10",
+  "display_time": "1505",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5503",
+  "Dest": "CNS",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0840",
+  "display_date": "2024-07-10",
+  "display_time": "0840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5507",
+  "Dest": "MEL",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0750",
+  "display_date": "2024-07-10",
+  "display_time": "0750",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5511",
+  "Dest": "SYD",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0935",
+  "display_date": "2024-07-10",
+  "display_time": "0935",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5515",
+  "Dest": "PER",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5517",
+  "Dest": "MEL",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1110",
+  "display_date": "2024-07-10",
+  "display_time": "1110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5521",
+  "Dest": "SYD",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2020",
+  "display_date": "2024-07-10",
+  "display_time": "2020",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5523",
+  "Dest": "PER",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5525",
+  "Dest": "PER",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5527",
+  "Dest": "MEL",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2200",
+  "display_date": "2024-07-10",
+  "display_time": "2200",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5531",
+  "Dest": "SYD",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0045",
+  "display_date": "2024-07-10",
+  "display_time": "0045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5535",
+  "Dest": "BNE",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2130",
+  "display_date": "2024-07-10",
+  "display_time": "2130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5537",
+  "Dest": "MEL",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0025",
+  "display_date": "2024-07-10",
+  "display_time": "0025",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5539",
+  "Dest": "SYD",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0715",
+  "display_date": "2024-07-10",
+  "display_time": "0715",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5541",
+  "Dest": "BNE",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5545",
+  "Dest": "DRW",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5549",
+  "Dest": "BNE",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0045",
+  "display_date": "2024-07-10",
+  "display_time": "0045",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5555",
+  "Dest": "ADL",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2310",
+  "display_date": "2024-07-10",
+  "display_time": "2310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5560",
+  "Dest": "LHR",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0110",
+  "display_date": "2024-07-10",
+  "display_time": "0110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5562",
+  "Dest": "LHR",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5564",
+  "Dest": "LHR",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1235",
+  "display_date": "2024-07-10",
+  "display_time": "1235",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5566",
+  "Dest": "LHR",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5570",
+  "Dest": "AMS",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2355",
+  "display_date": "2024-07-10",
+  "display_time": "2355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5572",
+  "Dest": "FRA",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5574",
+  "Dest": "MUC",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0030",
+  "display_date": "2024-07-10",
+  "display_time": "0030",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5576",
+  "Dest": "CDG",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0015",
+  "display_date": "2024-07-10",
+  "display_time": "0015",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5578",
+  "Dest": "CDG",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1355",
+  "display_date": "2024-07-10",
+  "display_time": "1355",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5580",
+  "Dest": "ZRH",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0125",
+  "display_date": "2024-07-10",
+  "display_time": "0125",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5582",
+  "Dest": "CPH",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0005",
+  "display_date": "2024-07-10",
+  "display_time": "0005",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5588",
+  "Dest": "MXP",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5592",
+  "Dest": "IST",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0145",
+  "display_date": "2024-07-10",
+  "display_time": "0145",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5624",
+  "Dest": "CMB",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2220",
+  "display_date": "2024-07-10",
+  "display_time": "2220",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5628",
+  "Dest": "JNB",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0130",
+  "display_date": "2024-07-10",
+  "display_time": "0130",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5670",
+  "Dest": "ICN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5676",
+  "Dest": "ICN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1445",
+  "display_date": "2024-07-10",
+  "display_time": "1445",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5678",
+  "Dest": "ICN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0010",
+  "display_date": "2024-07-10",
+  "display_time": "0010",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5682",
+  "Dest": "ICN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0225",
+  "display_date": "2024-07-10",
+  "display_time": "0225",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5716",
+  "Dest": "BKK",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0710",
+  "display_date": "2024-07-10",
+  "display_time": "0710",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5718",
+  "Dest": "BKK",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5720",
+  "Dest": "BKK",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1250",
+  "display_date": "2024-07-10",
+  "display_time": "1250",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5722",
+  "Dest": "BKK",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1600",
+  "display_date": "2024-07-10",
+  "display_time": "1600",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5724",
+  "Dest": "BKK",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1730",
+  "display_date": "2024-07-10",
+  "display_time": "1730",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5730",
+  "Dest": "HKT",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0810",
+  "display_date": "2024-07-10",
+  "display_time": "0810",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5732",
+  "Dest": "HKT",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1000",
+  "display_date": "2024-07-10",
+  "display_time": "1000",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5736",
+  "Dest": "HKT",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1620",
+  "display_date": "2024-07-10",
+  "display_time": "1620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5738",
+  "Dest": "HKT",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1830",
+  "display_date": "2024-07-10",
+  "display_time": "1830",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5742",
+  "Dest": "PEK",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0830",
+  "display_date": "2024-07-10",
+  "display_time": "0830",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5746",
+  "Dest": "PVG",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0115",
+  "display_date": "2024-07-10",
+  "display_time": "0115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5748",
+  "Dest": "PVG",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0755",
+  "display_date": "2024-07-10",
+  "display_time": "0755",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5750",
+  "Dest": "CAN",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5756",
+  "Dest": "PVG",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1725",
+  "display_date": "2024-07-10",
+  "display_time": "1725",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5758",
+  "Dest": "PVG",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0930",
+  "display_date": "2024-07-10",
+  "display_time": "0930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5764",
+  "Dest": "HKG",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0725",
+  "display_date": "2024-07-10",
+  "display_time": "0725",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5772",
+  "Dest": "HKG",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0840",
+  "display_date": "2024-07-10",
+  "display_time": "0840",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5774",
+  "Dest": "HKG",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1305",
+  "display_date": "2024-07-10",
+  "display_time": "1305",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5776",
+  "Dest": "HKG",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1530",
+  "display_date": "2024-07-10",
+  "display_time": "1530",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5778",
+  "Dest": "HKG",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1900",
+  "display_date": "2024-07-10",
+  "display_time": "1900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5782",
+  "Dest": "HKG",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0940",
+  "display_date": "2024-07-10",
+  "display_time": "0940",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5786",
+  "Dest": "PEK",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1650",
+  "display_date": "2024-07-10",
+  "display_time": "1650",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5818",
+  "Dest": "CGK",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0620",
+  "display_date": "2024-07-10",
+  "display_time": "0620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5824",
+  "Dest": "CGK",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0925",
+  "display_date": "2024-07-10",
+  "display_time": "0925",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5826",
+  "Dest": "CGK",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1230",
+  "display_date": "2024-07-10",
+  "display_time": "1230",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5832",
+  "Dest": "CGK",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1720",
+  "display_date": "2024-07-10",
+  "display_time": "1720",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5834",
+  "Dest": "CGK",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1625",
+  "display_date": "2024-07-10",
+  "display_time": "1625",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5836",
+  "Dest": "CGK",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2155",
+  "display_date": "2024-07-10",
+  "display_time": "2155",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VJ812",
+  "Dest": "SGN",
+  "AirlineCode": "VJ",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1305",
+  "display_date": "2024-07-10",
+  "display_time": "1305",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VJ814",
+  "Dest": "SGN",
+  "AirlineCode": "VJ",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1755",
+  "display_date": "2024-07-10",
+  "display_time": "1755",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VJ916",
+  "Dest": "HAN",
+  "AirlineCode": "VJ",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1455",
+  "display_date": "2024-07-10",
+  "display_time": "1455",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VJ970",
+  "Dest": "DAD",
+  "AirlineCode": "VJ",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VN3251",
+  "Dest": "CGK",
+  "AirlineCode": "VN",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0725",
+  "display_date": "2024-07-10",
+  "display_time": "0725",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VN3289",
+  "Dest": "SUB",
+  "AirlineCode": "VN",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1855",
+  "display_date": "2024-07-10",
+  "display_time": "1855",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VN3932",
+  "Dest": "CGK",
+  "AirlineCode": "VN",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1220",
+  "display_date": "2024-07-10",
+  "display_time": "1220",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VN3963",
+  "Dest": "DPS",
+  "AirlineCode": "VN",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1115",
+  "display_date": "2024-07-10",
+  "display_time": "1115",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VN3967",
+  "Dest": "CGK",
+  "AirlineCode": "VN",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1930",
+  "display_date": "2024-07-10",
+  "display_time": "1930",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VN3981",
+  "Dest": "CGK",
+  "AirlineCode": "VN",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1545",
+  "display_date": "2024-07-10",
+  "display_time": "1545",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VN650",
+  "Dest": "SGN",
+  "AirlineCode": "VN",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1310",
+  "display_date": "2024-07-10",
+  "display_time": "1310",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VN654",
+  "Dest": "SGN",
+  "AirlineCode": "VN",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1825",
+  "display_date": "2024-07-10",
+  "display_time": "1825",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VN660",
+  "Dest": "HAN",
+  "AirlineCode": "VN",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1305",
+  "display_date": "2024-07-10",
+  "display_time": "1305",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VS7969",
+  "Dest": "LHR",
+  "AirlineCode": "VS",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "2330",
+  "display_date": "2024-07-10",
+  "display_time": "2330",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VS7971",
+  "Dest": "LHR",
+  "AirlineCode": "VS",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "1235",
+  "display_date": "2024-07-10",
+  "display_time": "1235",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VS7973",
+  "Dest": "LHR",
+  "AirlineCode": "VS",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0900",
+  "display_date": "2024-07-10",
+  "display_time": "0900",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VS7975",
+  "Dest": "LHR",
+  "AirlineCode": "VS",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0110",
+  "display_date": "2024-07-10",
+  "display_time": "0110",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "WS5933",
+  "Dest": "NRT",
+  "AirlineCode": "WS",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0805",
+  "display_date": "2024-07-10",
+  "display_time": "0805",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "WS6066",
+  "Dest": "ICN",
+  "AirlineCode": "WS",
+  "DTerm": "4",
+  "Date": "2024-07-10",
+  "Time": "1050",
+  "display_date": "2024-07-10",
+  "display_time": "1050",
+  "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "WY5605",
+  "Dest": "KUL",
+  "AirlineCode": "WY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2115",
+  "display_date": "2024-07-10",
+  "display_time": "2115",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "WY5608",
+  "Dest": "KUL",
+  "AirlineCode": "WY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1815",
+  "display_date": "2024-07-10",
+  "display_time": "1815",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "WY5613",
+  "Dest": "KUL",
+  "AirlineCode": "WY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1915",
+  "display_date": "2024-07-10",
+  "display_time": "1915",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "WY5617",
+  "Dest": "KUL",
+  "AirlineCode": "WY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1535",
+  "display_date": "2024-07-10",
+  "display_time": "1535",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "WY5690",
+  "Dest": "KUL",
+  "AirlineCode": "WY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0620",
+  "display_date": "2024-07-10",
+  "display_time": "0620",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "WY5691",
+  "Dest": "KUL",
+  "AirlineCode": "WY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "0955",
+  "display_date": "2024-07-10",
+  "display_time": "0955",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "WY5692",
+  "Dest": "KUL",
+  "AirlineCode": "WY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1340",
+  "display_date": "2024-07-10",
+  "display_time": "1340",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "WY5693",
+  "Dest": "KUL",
+  "AirlineCode": "WY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1635",
+  "display_date": "2024-07-10",
+  "display_time": "1635",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "WY5694",
+  "Dest": "KUL",
+  "AirlineCode": "WY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "1215",
+  "display_date": "2024-07-10",
+  "display_time": "1215",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "WY6082",
+  "Dest": "DOH",
+  "AirlineCode": "WY",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0245",
+  "display_date": "2024-07-10",
+  "display_time": "0245",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "WY6084",
+  "Dest": "DOH",
+  "AirlineCode": "WY",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1845",
+  "display_date": "2024-07-10",
+  "display_time": "1845",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "WY6578",
+  "Dest": "DOH",
+  "AirlineCode": "WY",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1030",
+  "display_date": "2024-07-10",
+  "display_time": "1030",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "XY3473",
+  "Dest": "AUH",
+  "AirlineCode": "XY",
+  "DTerm": "2",
+  "Date": "2024-07-10",
+  "Time": "2055",
+  "display_date": "2024-07-10",
+  "display_time": "2055",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ZG54",
+  "Dest": "NRT",
+  "AirlineCode": "ZG",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "0040",
+  "display_date": "2024-07-10",
+  "display_time": "0040",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ZH3561",
+  "Dest": "CAN",
+  "AirlineCode": "ZH",
+  "DTerm": "3",
+  "Date": "2024-07-10",
+  "Time": "0800",
+  "display_date": "2024-07-10",
+  "display_time": "0800",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ZH9024",
+  "Dest": "SZX",
+  "AirlineCode": "ZH",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1740",
+  "display_date": "2024-07-10",
+  "display_time": "1740",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "ZH9026",
+  "Dest": "SZX",
+  "AirlineCode": "ZH",
+  "DTerm": "1",
+  "Date": "2024-07-10",
+  "Time": "1200",
+  "display_date": "2024-07-10",
   "display_time": "1200",
   "display_terminal": "1",
   "display_gate": ""
