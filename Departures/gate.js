@@ -2912,7 +2912,7 @@ let Gate_Info = `
   "Date": "2024-07-10",
   "Time": "2325",
   "display_date": "2024-07-10",
-  "display_time": "2325",
+  "display_time": "2355",
   "display_terminal": "1",
   "display_gate": "D34"
  },
@@ -12236,7 +12236,7 @@ let Gate_Info = `
   "Date": "2024-07-10",
   "Time": "2325",
   "display_date": "2024-07-10",
-  "display_time": "2325",
+  "display_time": "2355",
   "display_terminal": "1",
   "display_gate": "D34"
  },
@@ -18514,7 +18514,7 @@ let Gate_Info = `
   "display_date": "2024-07-11",
   "display_time": "0530",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F36"
  },
  {
   "Flight": "6E1008",
@@ -20758,7 +20758,7 @@ let Gate_Info = `
   "display_date": "2024-07-11",
   "display_time": "0540",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B3"
  },
  {
   "Flight": "CA3306",
@@ -31246,7 +31246,7 @@ let Gate_Info = `
   "display_date": "2024-07-11",
   "display_time": "0515",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D32"
  },
  {
   "Flight": "SQ8442",
@@ -31798,6 +31798,18 @@ let Gate_Info = `
   "display_date": "2024-07-11",
   "display_time": "0840",
   "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8871",
+  "Dest": "BTH",
+  "AirlineCode": "SQ",
+  "DTerm": " ",
+  "Date": "2024-07-11",
+  "Time": "1000",
+  "display_date": "2024-07-11",
+  "display_time": "1000",
+  "display_terminal": " ",
   "display_gate": ""
  },
  {
@@ -32746,7 +32758,7 @@ let Gate_Info = `
   "display_date": "2024-07-11",
   "display_time": "0515",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D32"
  },
  {
   "Flight": "TR116",
@@ -36190,7 +36202,7 @@ let Gate_Info = `
   "display_date": "2024-07-11",
   "display_time": "0040",
   "display_terminal": "1",
-  "display_gate": "D41"
+  "display_gate": "D40"
  },
  {
   "Flight": "ZH3561",
