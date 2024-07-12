@@ -11252,7 +11252,7 @@ let Gate_Info = `
   "Date": "2024-07-12",
   "Time": "2240",
   "display_date": "2024-07-12",
-  "display_time": "2240",
+  "display_time": "2310",
   "display_terminal": "3",
   "display_gate": "A6"
  },
@@ -19246,7 +19246,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "0415",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "6E1028",
@@ -22870,7 +22870,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "0125",
   "display_terminal": "2",
-  "display_gate": "E26"
+  "display_gate": "F41"
  },
  {
   "Flight": "FJ5949",
@@ -23554,7 +23554,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "0430",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "HA5007",
@@ -26518,7 +26518,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "0125",
   "display_terminal": "2",
-  "display_gate": "E26"
+  "display_gate": "F41"
  },
  {
   "Flight": "NH6266",
@@ -31174,7 +31174,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "0125",
   "display_terminal": "2",
-  "display_gate": "E26"
+  "display_gate": "F41"
  },
  {
   "Flight": "SQ620",
@@ -31486,7 +31486,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "0420",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "SQ800",
@@ -32290,7 +32290,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "0200",
   "display_terminal": "1",
-  "display_gate": "D36"
+  "display_gate": "D47"
  },
  {
   "Flight": "SQ8640",
@@ -33658,7 +33658,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "0200",
   "display_terminal": "1",
-  "display_gate": "D36"
+  "display_gate": "D47"
  },
  {
   "Flight": "TR412",
@@ -34066,7 +34066,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "0200",
   "display_terminal": "1",
-  "display_gate": "D47"
+  "display_gate": "D36"
  },
  {
   "Flight": "TR874",
