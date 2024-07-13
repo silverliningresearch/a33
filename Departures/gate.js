@@ -778,7 +778,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "A31203",
@@ -790,7 +790,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2330",
   "display_terminal": "3",
-  "display_gate": "A10"
+  "display_gate": "A16"
  },
  {
   "Flight": "A31207",
@@ -1186,7 +1186,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "AC6298",
@@ -1270,7 +1270,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "AC7419",
@@ -1354,7 +1354,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1930",
   "display_terminal": "3",
-  "display_gate": "B10"
+  "display_gate": "A12"
  },
  {
   "Flight": "AF3992",
@@ -2134,7 +2134,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2330",
   "display_terminal": "3",
-  "display_gate": "A10"
+  "display_gate": "A16"
  },
  {
   "Flight": "AY132",
@@ -2732,7 +2732,7 @@ let Gate_Info = `
   "Date": "2024-07-13",
   "Time": "1740",
   "display_date": "2024-07-13",
-  "display_time": "1740",
+  "display_time": "1800",
   "display_terminal": "1",
   "display_gate": "C16"
  },
@@ -3778,7 +3778,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1950",
   "display_terminal": "3",
-  "display_gate": "B6"
+  "display_gate": "A1"
  },
  {
   "Flight": "ET1323",
@@ -3886,7 +3886,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "ET1346",
@@ -3994,7 +3994,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1930",
   "display_terminal": "3",
-  "display_gate": "B10"
+  "display_gate": "A12"
  },
  {
   "Flight": "FD350",
@@ -4162,7 +4162,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "FJ5921",
@@ -4186,7 +4186,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "FJ5931",
@@ -4486,7 +4486,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1930",
   "display_terminal": "3",
-  "display_gate": "B10"
+  "display_gate": "A12"
  },
  {
   "Flight": "GA843",
@@ -4858,7 +4858,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2100",
   "display_terminal": "3",
-  "display_gate": "B10"
+  "display_gate": "A12"
  },
  {
   "Flight": "GF4052",
@@ -5494,7 +5494,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1930",
   "display_terminal": "3",
-  "display_gate": "B10"
+  "display_gate": "A12"
  },
  {
   "Flight": "KL4057",
@@ -6190,7 +6190,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "LH9765",
@@ -6274,7 +6274,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1950",
   "display_terminal": "3",
-  "display_gate": "B6"
+  "display_gate": "A1"
  },
  {
   "Flight": "LH9780",
@@ -6586,7 +6586,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1950",
   "display_terminal": "3",
-  "display_gate": "B6"
+  "display_gate": "A1"
  },
  {
   "Flight": "LX9036",
@@ -7030,7 +7030,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1930",
   "display_terminal": "3",
-  "display_gate": "B10"
+  "display_gate": "A12"
  },
  {
   "Flight": "MF9503",
@@ -7210,7 +7210,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2330",
   "display_terminal": "3",
-  "display_gate": "A10"
+  "display_gate": "A16"
  },
  {
   "Flight": "MH5754",
@@ -7798,7 +7798,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "NH6256",
@@ -8302,7 +8302,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1950",
   "display_terminal": "3",
-  "display_gate": "B6"
+  "display_gate": "A1"
  },
  {
   "Flight": "NZ3302",
@@ -8350,7 +8350,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A1"
  },
  {
   "Flight": "NZ3318",
@@ -8386,7 +8386,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B5"
  },
  {
   "Flight": "NZ3326",
@@ -8422,7 +8422,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "NZ3346",
@@ -8458,7 +8458,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2330",
   "display_terminal": "3",
-  "display_gate": "A10"
+  "display_gate": "A16"
  },
  {
   "Flight": "NZ3382",
@@ -9094,7 +9094,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "OU5813",
@@ -9274,7 +9274,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2250",
   "display_terminal": "3",
-  "display_gate": "B9"
+  "display_gate": "A15"
  },
  {
   "Flight": "PG4307",
@@ -9286,7 +9286,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1930",
   "display_terminal": "3",
-  "display_gate": "B10"
+  "display_gate": "A12"
  },
  {
   "Flight": "PG4375",
@@ -9610,7 +9610,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "PR3842",
@@ -9634,7 +9634,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2330",
   "display_terminal": "3",
-  "display_gate": "A10"
+  "display_gate": "A16"
  },
  {
   "Flight": "PR3848",
@@ -11314,7 +11314,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2335",
   "display_terminal": "3",
-  "display_gate": "A15"
+  "display_gate": "B9"
  },
  {
   "Flight": "SQ2203",
@@ -11494,7 +11494,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "SQ279",
@@ -11554,7 +11554,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1950",
   "display_terminal": "3",
-  "display_gate": "B6"
+  "display_gate": "A1"
  },
  {
   "Flight": "SQ306",
@@ -11590,7 +11590,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A1"
  },
  {
   "Flight": "SQ318",
@@ -11638,7 +11638,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B5"
  },
  {
   "Flight": "SQ326",
@@ -11734,7 +11734,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2330",
   "display_terminal": "3",
-  "display_gate": "A10"
+  "display_gate": "A16"
  },
  {
   "Flight": "SQ38",
@@ -12178,7 +12178,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1930",
   "display_terminal": "3",
-  "display_gate": "B10"
+  "display_gate": "A12"
  },
  {
   "Flight": "SQ5602",
@@ -12286,7 +12286,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2250",
   "display_terminal": "3",
-  "display_gate": "B9"
+  "display_gate": "A15"
  },
  {
   "Flight": "SQ5804",
@@ -12380,7 +12380,7 @@ let Gate_Info = `
   "Date": "2024-07-13",
   "Time": "1740",
   "display_date": "2024-07-13",
-  "display_time": "1740",
+  "display_time": "1800",
   "display_terminal": "1",
   "display_gate": "C16"
  },
@@ -12574,7 +12574,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "SQ656",
@@ -14050,7 +14050,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1930",
   "display_terminal": "3",
-  "display_gate": "B10"
+  "display_gate": "A12"
  },
  {
   "Flight": "TG402",
@@ -14446,7 +14446,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1950",
   "display_terminal": "3",
-  "display_gate": "B6"
+  "display_gate": "A1"
  },
  {
   "Flight": "TK9338",
@@ -14530,7 +14530,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2330",
   "display_terminal": "3",
-  "display_gate": "A10"
+  "display_gate": "A16"
  },
  {
   "Flight": "TP8416",
@@ -14542,7 +14542,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "TP8418",
@@ -14578,7 +14578,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A1"
  },
  {
   "Flight": "TR100",
@@ -15778,7 +15778,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2335",
   "display_terminal": "3",
-  "display_gate": "A15"
+  "display_gate": "B9"
  },
  {
   "Flight": "UK8024",
@@ -16102,7 +16102,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1950",
   "display_terminal": "3",
-  "display_gate": "B6"
+  "display_gate": "A1"
  },
  {
   "Flight": "UK8606",
@@ -16174,7 +16174,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F40"
  },
  {
   "Flight": "UK8672",
@@ -16558,7 +16558,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A12"
  },
  {
   "Flight": "VA5412",
@@ -17086,7 +17086,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2355",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B5"
  },
  {
   "Flight": "VA5572",
@@ -17170,7 +17170,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2330",
   "display_terminal": "3",
-  "display_gate": "A10"
+  "display_gate": "A16"
  },
  {
   "Flight": "VA5624",
@@ -17686,7 +17686,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "1930",
   "display_terminal": "3",
-  "display_gate": "B10"
+  "display_gate": "A12"
  },
  {
   "Flight": "VN3981",
@@ -17996,7 +17996,7 @@ let Gate_Info = `
   "Date": "2024-07-13",
   "Time": "1740",
   "display_date": "2024-07-13",
-  "display_time": "1740",
+  "display_time": "1800",
   "display_terminal": "1",
   "display_gate": "C16"
  },
@@ -23914,7 +23914,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "LH7208",
@@ -24658,7 +24658,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "LX9044",
@@ -25366,7 +25366,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "MH604",
@@ -26542,7 +26542,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "NZ3368",
@@ -27178,7 +27178,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "OU5809",
@@ -27262,7 +27262,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0010",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "OZ6784",
@@ -27322,7 +27322,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "OZ6799",
@@ -27670,7 +27670,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0015",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B2"
  },
  {
   "Flight": "PR3838",
@@ -28534,7 +28534,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "SK8005",
@@ -28906,7 +28906,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "SK8073",
@@ -29422,7 +29422,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "SQ227",
@@ -29758,7 +29758,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0015",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B2"
  },
  {
   "Flight": "SQ34",
@@ -29794,7 +29794,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "SQ356",
@@ -30562,7 +30562,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0010",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "SQ612",
@@ -31354,7 +31354,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0015",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "SQ8492",
@@ -32398,7 +32398,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "TK9318",
@@ -33490,7 +33490,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0015",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "TR820",
@@ -33622,7 +33622,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "UA7677",
@@ -34162,7 +34162,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "UK8227",
@@ -34270,7 +34270,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0010",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "UK8622",
@@ -35062,7 +35062,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A5"
  },
  {
   "Flight": "VA5527",
@@ -35266,7 +35266,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0015",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "B2"
  },
  {
   "Flight": "VA5578",
@@ -35302,7 +35302,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0005",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A13"
  },
  {
   "Flight": "VA5586",
@@ -35374,7 +35374,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0010",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F59"
  },
  {
   "Flight": "VA5682",
