@@ -1306,7 +1306,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2235",
   "display_terminal": "1",
-  "display_gate": "C22"
+  "display_gate": "C24"
  },
  {
   "Flight": "AF3819",
@@ -1834,7 +1834,7 @@ let Gate_Info = `
   "display_date": "2024-07-13",
   "display_time": "2140",
   "display_terminal": "4",
-  "display_gate": "G11"
+  "display_gate": "G9"
  },
  {
   "Flight": "AK1774",
@@ -18310,7 +18310,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0325",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "3S545",
@@ -21106,7 +21106,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0200",
   "display_terminal": "3",
-  "display_gate": "B5"
+  "display_gate": "A14"
  },
  {
   "Flight": "CI9705",
@@ -22318,7 +22318,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0315",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "FX5194",
@@ -27046,7 +27046,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0315",
   "display_terminal": "0",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "OD802",
@@ -28316,7 +28316,7 @@ let Gate_Info = `
   "Date": "2024-07-14",
   "Time": "0355",
   "display_date": "2024-07-14",
-  "display_time": "0355",
+  "display_time": "0500",
   "display_terminal": "1",
   "display_gate": ""
  },
@@ -30850,7 +30850,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0320",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "SQ7460",
@@ -31570,7 +31570,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0030",
   "display_terminal": "1",
-  "display_gate": "C24"
+  "display_gate": "C22"
  },
  {
   "Flight": "SQ8570",
@@ -33454,7 +33454,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0030",
   "display_terminal": "1",
-  "display_gate": "C24"
+  "display_gate": "C22"
  },
  {
   "Flight": "TR8",
