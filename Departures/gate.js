@@ -18238,7 +18238,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0600",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G11"
  },
  {
   "Flight": "3K763",
@@ -18490,7 +18490,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0530",
   "display_terminal": "2",
-  "display_gate": "F35"
+  "display_gate": "F56"
  },
  {
   "Flight": "6E1008",
@@ -18502,7 +18502,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0455",
   "display_terminal": "2",
-  "display_gate": "F50"
+  "display_gate": "F36"
  },
  {
   "Flight": "6E1012",
@@ -18538,7 +18538,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0415",
   "display_terminal": "2",
-  "display_gate": "F36"
+  "display_gate": "F50"
  },
  {
   "Flight": "6E1018",
@@ -18550,7 +18550,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0600",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "6E1028",
@@ -19150,7 +19150,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0615",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "AC6296",
@@ -26134,7 +26134,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0615",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "NH842",
@@ -30502,7 +30502,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0615",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "SQ5906",
@@ -33526,7 +33526,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0600",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D46"
  },
  {
   "Flight": "TR896",
@@ -33814,7 +33814,7 @@ let Gate_Info = `
   "display_date": "2024-07-14",
   "display_time": "0615",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "UA7992",
