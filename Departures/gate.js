@@ -20998,7 +20998,7 @@ let Gate_Info = `
   "display_date": "2024-07-15",
   "display_time": "0230",
   "display_terminal": "1",
-  "display_gate": "C11"
+  "display_gate": "D38"
  },
  {
   "Flight": "CA776",
@@ -26950,7 +26950,7 @@ let Gate_Info = `
   "display_date": "2024-07-15",
   "display_time": "0315",
   "display_terminal": "0",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "OD802",
