@@ -18610,7 +18610,7 @@ let Gate_Info = `
   "display_date": "2024-07-17",
   "display_time": "0415",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F35"
  },
  {
   "Flight": "6E1018",
@@ -21346,7 +21346,7 @@ let Gate_Info = `
   "display_date": "2024-07-17",
   "display_time": "0355",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C23"
  },
  {
   "Flight": "DL7691",
@@ -28496,7 +28496,7 @@ let Gate_Info = `
   "Date": "2024-07-17",
   "Time": "0055",
   "display_date": "2024-07-17",
-  "display_time": "0055",
+  "display_time": "0300",
   "display_terminal": "1",
   "display_gate": "D42"
  },
@@ -31078,7 +31078,7 @@ let Gate_Info = `
   "display_date": "2024-07-17",
   "display_time": "0250",
   "display_terminal": "1",
-  "display_gate": "C22"
+  "display_gate": "C13"
  },
  {
   "Flight": "SQ8358",
@@ -31090,7 +31090,7 @@ let Gate_Info = `
   "display_date": "2024-07-17",
   "display_time": "0145",
   "display_terminal": "1",
-  "display_gate": "D32"
+  "display_gate": "C13"
  },
  {
   "Flight": "SQ836",
@@ -31640,9 +31640,9 @@ let Gate_Info = `
   "Date": "2024-07-17",
   "Time": "0200",
   "display_date": "2024-07-17",
-  "display_time": "0200",
+  "display_time": "0230",
   "display_terminal": "1",
-  "display_gate": "C15"
+  "display_gate": "D34"
  },
  {
   "Flight": "SQ8642",
@@ -32710,7 +32710,7 @@ let Gate_Info = `
   "display_date": "2024-07-17",
   "display_time": "0250",
   "display_terminal": "1",
-  "display_gate": "C22"
+  "display_gate": "C13"
  },
  {
   "Flight": "TR16",
@@ -32782,7 +32782,7 @@ let Gate_Info = `
   "display_date": "2024-07-17",
   "display_time": "0145",
   "display_terminal": "1",
-  "display_gate": "D32"
+  "display_gate": "C13"
  },
  {
   "Flight": "TR188",
@@ -33032,9 +33032,9 @@ let Gate_Info = `
   "Date": "2024-07-17",
   "Time": "0200",
   "display_date": "2024-07-17",
-  "display_time": "0200",
+  "display_time": "0230",
   "display_terminal": "1",
-  "display_gate": "C15"
+  "display_gate": "D34"
  },
  {
   "Flight": "TR410",
