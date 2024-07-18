@@ -1856,7 +1856,7 @@ let Gate_Info = `
   "Date": "2024-07-18",
   "Time": "2140",
   "display_date": "2024-07-18",
-  "display_time": "2140",
+  "display_time": "2245",
   "display_terminal": "4",
   "display_gate": "G1"
  },
@@ -15392,7 +15392,7 @@ let Gate_Info = `
   "Date": "2024-07-18",
   "Time": "2125",
   "display_date": "2024-07-18",
-  "display_time": "2125",
+  "display_time": "2205",
   "display_terminal": "1",
   "display_gate": "D38"
  },
@@ -18574,7 +18574,7 @@ let Gate_Info = `
   "display_date": "2024-07-19",
   "display_time": "0215",
   "display_terminal": "4",
-  "display_gate": "G1"
+  "display_gate": "G2"
  },
  {
   "Flight": "3K765",
@@ -18838,7 +18838,7 @@ let Gate_Info = `
   "display_date": "2024-07-19",
   "display_time": "0415",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "6E1028",
@@ -20554,7 +20554,7 @@ let Gate_Info = `
   "display_date": "2024-07-19",
   "display_time": "0215",
   "display_terminal": "4",
-  "display_gate": "G1"
+  "display_gate": "G2"
  },
  {
   "Flight": "AY6374",
@@ -21634,7 +21634,7 @@ let Gate_Info = `
   "display_date": "2024-07-19",
   "display_time": "0355",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D35"
  },
  {
   "Flight": "DL7691",
@@ -21644,7 +21644,7 @@ let Gate_Info = `
   "Date": "2024-07-19",
   "Time": "0110",
   "display_date": "2024-07-19",
-  "display_time": "0110",
+  "display_time": "0245",
   "display_terminal": "4",
   "display_gate": "G18"
  },
@@ -23876,7 +23876,7 @@ let Gate_Info = `
   "Date": "2024-07-19",
   "Time": "0110",
   "display_date": "2024-07-19",
-  "display_time": "0110",
+  "display_time": "0245",
   "display_terminal": "4",
   "display_gate": "G18"
  },
@@ -28364,7 +28364,7 @@ let Gate_Info = `
   "Date": "2024-07-19",
   "Time": "1950",
   "display_date": "2024-07-19",
-  "display_time": "1950",
+  "display_time": "2040",
   "display_terminal": "1",
   "display_gate": ""
  },
@@ -30692,7 +30692,7 @@ let Gate_Info = `
   "Date": "2024-07-19",
   "Time": "1950",
   "display_date": "2024-07-19",
-  "display_time": "1950",
+  "display_time": "2040",
   "display_terminal": "1",
   "display_gate": ""
  },
