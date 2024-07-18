@@ -4354,7 +4354,7 @@ let Gate_Info = `
   "display_date": "2024-07-18",
   "display_time": "2135",
   "display_terminal": "1",
-  "display_gate": "A6F"
+  "display_gate": ""
  },
  {
   "Flight": "FX6091",
@@ -4367,6 +4367,18 @@ let Gate_Info = `
   "display_time": "1550",
   "display_terminal": "1",
   "display_gate": "A6F"
+ },
+ {
+  "Flight": "FX9126",
+  "Dest": "CAN",
+  "AirlineCode": "FX",
+  "DTerm": "1",
+  "Date": "2024-07-18",
+  "Time": "2155",
+  "display_date": "2024-07-18",
+  "display_time": "2155",
+  "display_terminal": "1",
+  "display_gate": ""
  },
  {
   "Flight": "FY3671",
@@ -18310,7 +18322,7 @@ let Gate_Info = `
   "display_date": "2024-07-19",
   "display_time": "0430",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "2Y935",
@@ -18838,7 +18850,7 @@ let Gate_Info = `
   "display_date": "2024-07-19",
   "display_time": "0415",
   "display_terminal": "2",
-  "display_gate": "F56"
+  "display_gate": "F58"
  },
  {
   "Flight": "6E1028",
@@ -21334,7 +21346,7 @@ let Gate_Info = `
   "display_date": "2024-07-19",
   "display_time": "0230",
   "display_terminal": "1",
-  "display_gate": "C11"
+  "display_gate": "C16"
  },
  {
   "Flight": "CA776",
@@ -23266,7 +23278,7 @@ let Gate_Info = `
   "display_date": "2024-07-19",
   "display_time": "0425",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "GN518",
@@ -26638,7 +26650,7 @@ let Gate_Info = `
   "display_date": "2024-07-19",
   "display_time": "0425",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F51F"
  },
  {
   "Flight": "NH842",
@@ -29158,7 +29170,7 @@ let Gate_Info = `
   "display_date": "2024-07-19",
   "display_time": "0425",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "SC8062",
@@ -32194,7 +32206,7 @@ let Gate_Info = `
   "display_date": "2024-07-19",
   "display_time": "0450",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C17"
  },
  {
   "Flight": "SQ8582",
@@ -33802,7 +33814,7 @@ let Gate_Info = `
   "display_date": "2024-07-19",
   "display_time": "0450",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C17"
  },
  {
   "Flight": "TR464",
