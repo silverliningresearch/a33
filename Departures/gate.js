@@ -1987,8 +1987,8 @@ let Gate_Info = `
   "DTerm": "4",
   "Date": "2024-07-20",
   "Time": "2120",
-  "display_date": "2024-07-20",
-  "display_time": "2330",
+  "display_date": "2024-07-21",
+  "display_time": "0120",
   "display_terminal": "4",
   "display_gate": "G1"
  },
@@ -19198,7 +19198,7 @@ let Gate_Info = `
   "display_date": "2024-07-21",
   "display_time": "0615",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "AC6296",
@@ -20792,9 +20792,9 @@ let Gate_Info = `
   "Date": "2024-07-21",
   "Time": "0540",
   "display_date": "2024-07-21",
-  "display_time": "0540",
+  "display_time": "0640",
   "display_terminal": "3",
-  "display_gate": "A9"
+  "display_gate": ""
  },
  {
   "Flight": "CA3306",
@@ -21214,7 +21214,7 @@ let Gate_Info = `
   "display_date": "2024-07-21",
   "display_time": "0630",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G18"
  },
  {
   "Flight": "CX710",
@@ -22630,7 +22630,7 @@ let Gate_Info = `
   "display_date": "2024-07-21",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E11"
  },
  {
   "Flight": "GA8956",
@@ -24154,7 +24154,7 @@ let Gate_Info = `
   "display_date": "2024-07-21",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E11"
  },
  {
   "Flight": "LH7232",
@@ -26230,7 +26230,7 @@ let Gate_Info = `
   "display_date": "2024-07-21",
   "display_time": "0615",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "NH842",
@@ -30622,7 +30622,7 @@ let Gate_Info = `
   "display_date": "2024-07-21",
   "display_time": "0615",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "SQ5906",
@@ -32086,7 +32086,7 @@ let Gate_Info = `
   "display_date": "2024-07-21",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E11"
  },
  {
   "Flight": "SQ956",
@@ -33922,7 +33922,7 @@ let Gate_Info = `
   "display_date": "2024-07-21",
   "display_time": "0615",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E28"
  },
  {
   "Flight": "UA7992",
@@ -35770,7 +35770,7 @@ let Gate_Info = `
   "display_date": "2024-07-21",
   "display_time": "0620",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "E11"
  },
  {
   "Flight": "VA5824",
