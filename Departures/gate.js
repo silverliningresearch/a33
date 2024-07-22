@@ -3742,7 +3742,7 @@ let Gate_Info = `
   "display_date": "2024-07-23",
   "display_time": "0500",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F51F"
  },
  {
   "Flight": "EY7175",
@@ -18346,7 +18346,7 @@ let Gate_Info = `
   "display_date": "2024-07-23",
   "display_time": "0455",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F42"
  },
  {
   "Flight": "6E1012",
@@ -21130,6 +21130,18 @@ let Gate_Info = `
   "display_date": "2024-07-23",
   "display_time": "2230",
   "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "DL9970",
+  "Dest": "HND",
+  "AirlineCode": "DL",
+  "DTerm": "1",
+  "Date": "2024-07-23",
+  "Time": "0630",
+  "display_date": "2024-07-23",
+  "display_time": "0630",
+  "display_terminal": "1",
   "display_gate": ""
  },
  {
@@ -25870,7 +25882,7 @@ let Gate_Info = `
   "display_date": "2024-07-23",
   "display_time": "0055",
   "display_terminal": "2",
-  "display_gate": "F42"
+  "display_gate": "E26"
  },
  {
   "Flight": "NX907",
@@ -31234,7 +31246,7 @@ let Gate_Info = `
   "display_date": "2024-07-23",
   "display_time": "0450",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D38"
  },
  {
   "Flight": "SQ8582",
@@ -32854,7 +32866,7 @@ let Gate_Info = `
   "display_date": "2024-07-23",
   "display_time": "0450",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D38"
  },
  {
   "Flight": "TR466",
