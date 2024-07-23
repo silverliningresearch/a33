@@ -18094,7 +18094,7 @@ let Gate_Info = `
   "display_date": "2024-07-24",
   "display_time": "0600",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "2Y9903",
@@ -18298,7 +18298,7 @@ let Gate_Info = `
   "display_date": "2024-07-24",
   "display_time": "0600",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G11"
  },
  {
   "Flight": "3K763",
@@ -18586,7 +18586,7 @@ let Gate_Info = `
   "display_date": "2024-07-24",
   "display_time": "0600",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F37"
  },
  {
   "Flight": "6E1028",
@@ -18694,7 +18694,7 @@ let Gate_Info = `
   "display_date": "2024-07-24",
   "display_time": "0600",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "8M232",
@@ -19220,7 +19220,7 @@ let Gate_Info = `
   "Date": "2024-07-24",
   "Time": "0110",
   "display_date": "2024-07-24",
-  "display_time": "0110",
+  "display_time": "0125",
   "display_terminal": "3",
   "display_gate": "A12"
  },
@@ -21298,7 +21298,7 @@ let Gate_Info = `
   "display_date": "2024-07-24",
   "display_time": "0355",
   "display_terminal": "1",
-  "display_gate": "D30"
+  "display_gate": "D32"
  },
  {
   "Flight": "DL7691",
@@ -22160,7 +22160,7 @@ let Gate_Info = `
   "Date": "2024-07-24",
   "Time": "0110",
   "display_date": "2024-07-24",
-  "display_time": "0110",
+  "display_time": "0125",
   "display_terminal": "3",
   "display_gate": "A12"
  },
@@ -22282,7 +22282,7 @@ let Gate_Info = `
   "display_date": "2024-07-24",
   "display_time": "0555",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "FX6024",
@@ -25220,7 +25220,7 @@ let Gate_Info = `
   "Date": "2024-07-24",
   "Time": "0110",
   "display_date": "2024-07-24",
-  "display_time": "0110",
+  "display_time": "0125",
   "display_terminal": "3",
   "display_gate": "A12"
  },
@@ -26420,7 +26420,7 @@ let Gate_Info = `
   "Date": "2024-07-24",
   "Time": "0110",
   "display_date": "2024-07-24",
-  "display_time": "0110",
+  "display_time": "0125",
   "display_terminal": "3",
   "display_gate": "A12"
  },
@@ -28700,7 +28700,7 @@ let Gate_Info = `
   "Date": "2024-07-24",
   "Time": "0110",
   "display_date": "2024-07-24",
-  "display_time": "0110",
+  "display_time": "0125",
   "display_terminal": "3",
   "display_gate": "A12"
  },
@@ -29612,7 +29612,7 @@ let Gate_Info = `
   "Date": "2024-07-24",
   "Time": "0110",
   "display_date": "2024-07-24",
-  "display_time": "0110",
+  "display_time": "0125",
   "display_terminal": "3",
   "display_gate": "A12"
  },
@@ -31234,7 +31234,7 @@ let Gate_Info = `
   "display_date": "2024-07-24",
   "display_time": "0515",
   "display_terminal": "1",
-  "display_gate": "D44"
+  "display_gate": "D32"
  },
  {
   "Flight": "SQ8484",
@@ -31582,7 +31582,7 @@ let Gate_Info = `
   "display_date": "2024-07-24",
   "display_time": "0545",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C17"
  },
  {
   "Flight": "SQ8620",
@@ -32516,7 +32516,7 @@ let Gate_Info = `
   "Date": "2024-07-24",
   "Time": "0110",
   "display_date": "2024-07-24",
-  "display_time": "0110",
+  "display_time": "0125",
   "display_terminal": "3",
   "display_gate": "A12"
  },
@@ -32602,7 +32602,7 @@ let Gate_Info = `
   "display_date": "2024-07-24",
   "display_time": "0515",
   "display_terminal": "1",
-  "display_gate": "D44"
+  "display_gate": "D32"
  },
  {
   "Flight": "TR112",
@@ -33250,7 +33250,7 @@ let Gate_Info = `
   "display_date": "2024-07-24",
   "display_time": "0545",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C17"
  },
  {
   "Flight": "TR610",
@@ -35144,7 +35144,7 @@ let Gate_Info = `
   "Date": "2024-07-24",
   "Time": "0110",
   "display_date": "2024-07-24",
-  "display_time": "0110",
+  "display_time": "0125",
   "display_terminal": "3",
   "display_gate": "A12"
  },
@@ -35888,7 +35888,7 @@ let Gate_Info = `
   "Date": "2024-07-24",
   "Time": "0110",
   "display_date": "2024-07-24",
-  "display_time": "0110",
+  "display_time": "0125",
   "display_terminal": "3",
   "display_gate": "A12"
  },
