@@ -18682,7 +18682,7 @@ let Gate_Info = `
   "display_date": "2024-07-24",
   "display_time": "0340",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "8K804",
@@ -21298,7 +21298,7 @@ let Gate_Info = `
   "display_date": "2024-07-24",
   "display_time": "0355",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D32"
  },
  {
   "Flight": "DL7691",
