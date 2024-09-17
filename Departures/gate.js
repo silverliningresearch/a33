@@ -18070,7 +18070,7 @@ let Gate_Info = `
   "display_date": "2024-09-18",
   "display_time": "0600",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "3K201",
@@ -18262,7 +18262,7 @@ let Gate_Info = `
   "display_date": "2024-09-18",
   "display_time": "0600",
   "display_terminal": "4",
-  "display_gate": ""
+  "display_gate": "G10"
  },
  {
   "Flight": "3K763",
@@ -18490,7 +18490,7 @@ let Gate_Info = `
   "display_date": "2024-09-18",
   "display_time": "0530",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F52"
  },
  {
   "Flight": "6E1008",
@@ -18550,7 +18550,7 @@ let Gate_Info = `
   "display_date": "2024-09-18",
   "display_time": "0600",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F50"
  },
  {
   "Flight": "6E1028",
@@ -18658,7 +18658,7 @@ let Gate_Info = `
   "display_date": "2024-09-18",
   "display_time": "0600",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "8M232",
@@ -20662,7 +20662,7 @@ let Gate_Info = `
   "display_date": "2024-09-18",
   "display_time": "0540",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A9"
  },
  {
   "Flight": "CA404",
@@ -20960,7 +20960,7 @@ let Gate_Info = `
   "Date": "2024-09-18",
   "Time": "0630",
   "display_date": "2024-09-18",
-  "display_time": "0630",
+  "display_time": "1130",
   "display_terminal": "3",
   "display_gate": ""
  },
@@ -21034,7 +21034,7 @@ let Gate_Info = `
   "display_date": "2024-09-18",
   "display_time": "0535",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "CX2074",
@@ -22186,7 +22186,7 @@ let Gate_Info = `
   "display_date": "2024-09-18",
   "display_time": "0555",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "FX6024",
@@ -25858,7 +25858,7 @@ let Gate_Info = `
   "display_date": "2024-09-18",
   "display_time": "0120",
   "display_terminal": "2",
-  "display_gate": "D40"
+  "display_gate": "F58"
  },
  {
   "Flight": "NH6272",
@@ -30502,7 +30502,7 @@ let Gate_Info = `
   "display_date": "2024-09-18",
   "display_time": "0120",
   "display_terminal": "2",
-  "display_gate": "D40"
+  "display_gate": "F58"
  },
  {
   "Flight": "SQ672",
