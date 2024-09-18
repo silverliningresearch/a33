@@ -18418,7 +18418,7 @@ let Gate_Info = `
   "display_date": "2024-09-19",
   "display_time": "0530",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F56"
  },
  {
   "Flight": "6E1008",
@@ -20686,7 +20686,7 @@ let Gate_Info = `
   "display_date": "2024-09-19",
   "display_time": "0540",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A18"
  },
  {
   "Flight": "CA404",
@@ -21010,7 +21010,7 @@ let Gate_Info = `
   "display_date": "2024-09-19",
   "display_time": "0200",
   "display_terminal": "3",
-  "display_gate": "B9"
+  "display_gate": "B5"
  },
  {
   "Flight": "CI758",
@@ -22198,7 +22198,7 @@ let Gate_Info = `
   "display_date": "2024-09-19",
   "display_time": "0555",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "A6F"
  },
  {
   "Flight": "FX6024",
@@ -23084,7 +23084,7 @@ let Gate_Info = `
   "Date": "2024-09-19",
   "Time": "1130",
   "display_date": "2024-09-19",
-  "display_time": "1130",
+  "display_time": "1235",
   "display_terminal": "2",
   "display_gate": ""
  },
@@ -25426,7 +25426,7 @@ let Gate_Info = `
   "display_date": "2024-09-19",
   "display_time": "0300",
   "display_terminal": "3",
-  "display_gate": "A15"
+  "display_gate": "A4"
  },
  {
   "Flight": "MU3972",
@@ -26962,6 +26962,18 @@ let Gate_Info = `
   "display_date": "2024-09-19",
   "display_time": "1050",
   "display_terminal": "4",
+  "display_gate": ""
+ },
+ {
+  "Flight": "OQ2096",
+  "Dest": "CKG",
+  "AirlineCode": "OQ",
+  "DTerm": "1",
+  "Date": "2024-09-19",
+  "Time": "1435",
+  "display_date": "2024-09-19",
+  "display_time": "1435",
+  "display_terminal": "1",
   "display_gate": ""
  },
  {
@@ -31474,7 +31486,7 @@ let Gate_Info = `
   "display_date": "2024-09-19",
   "display_time": "0550",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D30"
  },
  {
   "Flight": "SQ8616",
@@ -33214,7 +33226,7 @@ let Gate_Info = `
   "display_date": "2024-09-19",
   "display_time": "0550",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D30"
  },
  {
   "Flight": "TR610",
