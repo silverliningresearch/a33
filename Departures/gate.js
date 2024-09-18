@@ -25918,7 +25918,7 @@ let Gate_Info = `
   "display_date": "2024-09-19",
   "display_time": "0740",
   "display_terminal": "3",
-  "display_gate": "A2"
+  "display_gate": "B7"
  },
  {
   "Flight": "NH6286",
@@ -26074,7 +26074,7 @@ let Gate_Info = `
   "display_date": "2024-09-19",
   "display_time": "0740",
   "display_terminal": "3",
-  "display_gate": "A2"
+  "display_gate": "B7"
  },
  {
   "Flight": "NZ3204",
@@ -29710,7 +29710,7 @@ let Gate_Info = `
   "display_date": "2024-09-19",
   "display_time": "0740",
   "display_terminal": "3",
-  "display_gate": "A2"
+  "display_gate": "B7"
  },
  {
   "Flight": "SQ424",
