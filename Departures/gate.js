@@ -20686,7 +20686,7 @@ let Gate_Info = `
   "display_date": "2024-09-19",
   "display_time": "0540",
   "display_terminal": "3",
-  "display_gate": "A18"
+  "display_gate": "A19"
  },
  {
   "Flight": "CA404",
