@@ -668,7 +668,7 @@ let Gate_Info = `
   "Date": "2024-09-18",
   "Time": "2100",
   "display_date": "2024-09-18",
-  "display_time": "2100",
+  "display_time": "2220",
   "display_terminal": "1",
   "display_gate": "C2"
  },
@@ -16340,7 +16340,7 @@ let Gate_Info = `
   "Date": "2024-09-18",
   "Time": "2100",
   "display_date": "2024-09-18",
-  "display_time": "2100",
+  "display_time": "2220",
   "display_terminal": "1",
   "display_gate": "C2"
  },
@@ -17948,7 +17948,7 @@ let Gate_Info = `
   "Date": "2024-09-19",
   "Time": "0430",
   "display_date": "2024-09-19",
-  "display_time": "0430",
+  "display_time": "0630",
   "display_terminal": "1",
   "display_gate": ""
  },
@@ -17972,7 +17972,7 @@ let Gate_Info = `
   "Date": "2024-09-19",
   "Time": "0630",
   "display_date": "2024-09-19",
-  "display_time": "0630",
+  "display_time": "0430",
   "display_terminal": "1",
   "display_gate": ""
  },
@@ -18466,7 +18466,7 @@ let Gate_Info = `
   "display_date": "2024-09-19",
   "display_time": "0415",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F42"
  },
  {
   "Flight": "6E1028",
@@ -18548,7 +18548,7 @@ let Gate_Info = `
   "Date": "2024-09-19",
   "Time": "1145",
   "display_date": "2024-09-19",
-  "display_time": "1145",
+  "display_time": "1330",
   "display_terminal": "2",
   "display_gate": ""
  },
@@ -21214,7 +21214,7 @@ let Gate_Info = `
   "display_date": "2024-09-19",
   "display_time": "0355",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "C15"
  },
  {
   "Flight": "DL7691",
@@ -22760,9 +22760,21 @@ let Gate_Info = `
   "Date": "2024-09-19",
   "Time": "0425",
   "display_date": "2024-09-19",
-  "display_time": "0425",
+  "display_time": "0600",
   "display_terminal": "1",
   "display_gate": ""
+ },
+ {
+  "Flight": "GM301",
+  "Dest": "CGK",
+  "AirlineCode": "GM",
+  "DTerm": "1",
+  "Date": "2024-09-19",
+  "Time": "0100",
+  "display_date": "2024-09-19",
+  "display_time": "0100",
+  "display_terminal": "1",
+  "display_gate": "A6F"
  },
  {
   "Flight": "GN942",
@@ -27032,7 +27044,7 @@ let Gate_Info = `
   "Date": "2024-09-19",
   "Time": "1625",
   "display_date": "2024-09-19",
-  "display_time": "1625",
+  "display_time": "2110",
   "display_terminal": "3",
   "display_gate": ""
  },
@@ -29372,7 +29384,7 @@ let Gate_Info = `
   "Date": "2024-09-19",
   "Time": "0700",
   "display_date": "2024-09-19",
-  "display_time": "0700",
+  "display_time": "0725",
   "display_terminal": "3",
   "display_gate": ""
  },
