@@ -27055,8 +27055,8 @@ let Gate_Info = `
   "DTerm": "3",
   "Date": "2024-09-19",
   "Time": "1625",
-  "display_date": "2024-09-19",
-  "display_time": "2335",
+  "display_date": "2024-09-20",
+  "display_time": "0005",
   "display_terminal": "3",
   "display_gate": ""
  },
