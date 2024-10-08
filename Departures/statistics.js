@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-07-09",
         "quota_id": "3K-BKK",
         "Number of interviews": 5,
-        "download_time": "25-09-2024 15:43:46"
+        "download_time": "08-10-2024 17:45:54"
     },
     {
         "InterviewDate": "2024-07-09",
@@ -553,6 +553,106 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2024-09-04",
         "quota_id": "SQ-MNL",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-02",
+        "quota_id": "CZ-CAN",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-02",
+        "quota_id": "EK-DXB",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-02",
+        "quota_id": "KL-DPS",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-02",
+        "quota_id": "MF-XMN",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-02",
+        "quota_id": "QF-MEL",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-02",
+        "quota_id": "TK-IST",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-02",
+        "quota_id": "TR-TPE",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-02",
+        "quota_id": "TR-TRZ",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-03",
+        "quota_id": "EK-DXB",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-05",
+        "quota_id": "6E-MAA",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-10-05",
+        "quota_id": "SQ-BKK",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-05",
+        "quota_id": "SQ-DAC",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-05",
+        "quota_id": "SQ-HAN",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-05",
+        "quota_id": "SQ-HKT",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-10-05",
+        "quota_id": "SQ-RGN",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-05",
+        "quota_id": "SQ-SUB",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-08",
+        "quota_id": "MU-PVG",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-08",
+        "quota_id": "SQ-DEL",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-08",
+        "quota_id": "SQ-DXB",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-08",
+        "quota_id": "SQ-TPE",
         "Number of interviews": 5
     }
 ] `;
