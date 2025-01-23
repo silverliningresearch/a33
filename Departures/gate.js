@@ -1,6 +1,114 @@
 let Gate_Info = ` 
 [
  {
+  "Flight": "SQ8416",
+  "Dest": "TRV",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "2035",
+  "display_date": "2025-01-23",
+  "display_time": "2035",
+  "display_terminal": "1",
+  "display_gate": "C17"
+ },
+ {
+  "Flight": "TK55",
+  "Dest": "IST",
+  "AirlineCode": "TK",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "2325",
+  "display_date": "2025-01-23",
+  "display_time": "2325",
+  "display_terminal": "1",
+  "display_gate": "D32"
+ },
+ {
+  "Flight": "CA5282",
+  "Dest": "PEK",
+  "AirlineCode": "CA",
+  "DTerm": "3",
+  "Date": "2025-01-23",
+  "Time": "1655",
+  "display_date": "2025-01-23",
+  "display_time": "1655",
+  "display_terminal": "3",
+  "display_gate": "A11"
+ },
+ {
+  "Flight": "FD354",
+  "Dest": "DMK",
+  "AirlineCode": "FD",
+  "DTerm": "4",
+  "Date": "2025-01-23",
+  "Time": "1710",
+  "display_date": "2025-01-23",
+  "display_time": "1710",
+  "display_terminal": "4",
+  "display_gate": "G10"
+ },
+ {
+  "Flight": "SQ946",
+  "Dest": "DPS",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "1745",
+  "display_date": "2025-01-23",
+  "display_time": "1745",
+  "display_terminal": "2",
+  "display_gate": "F41"
+ },
+ {
+  "Flight": "AI8150",
+  "Dest": "DPS",
+  "AirlineCode": "AI",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "1745",
+  "display_date": "2025-01-23",
+  "display_time": "1745",
+  "display_terminal": "2",
+  "display_gate": "F41"
+ },
+ {
+  "Flight": "CA5260",
+  "Dest": "DPS",
+  "AirlineCode": "CA",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "1745",
+  "display_date": "2025-01-23",
+  "display_time": "1745",
+  "display_terminal": "2",
+  "display_gate": "F41"
+ },
+ {
+  "Flight": "LH9792",
+  "Dest": "DPS",
+  "AirlineCode": "LH",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "1745",
+  "display_date": "2025-01-23",
+  "display_time": "1745",
+  "display_terminal": "2",
+  "display_gate": "F41"
+ },
+ {
+  "Flight": "SK8047",
+  "Dest": "DPS",
+  "AirlineCode": "SK",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "1745",
+  "display_date": "2025-01-23",
+  "display_time": "1745",
+  "display_terminal": "2",
+  "display_gate": "F41"
+ },
+ {
   "Flight": "OD808",
   "Dest": "KUL",
   "AirlineCode": "OD",
@@ -34,7 +142,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2240",
   "display_terminal": "2",
-  "display_gate": "F50"
+  "display_gate": "E11"
  },
  {
   "Flight": "SK8043",
@@ -46,7 +154,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2240",
   "display_terminal": "2",
-  "display_gate": "F50"
+  "display_gate": "E11"
  },
  {
   "Flight": "UA7681",
@@ -58,7 +166,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2240",
   "display_terminal": "2",
-  "display_gate": "F50"
+  "display_gate": "E11"
  },
  {
   "Flight": "VA5836",
@@ -70,7 +178,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2240",
   "display_terminal": "2",
-  "display_gate": "F50"
+  "display_gate": "E11"
  },
  {
   "Flight": "SQ928",
@@ -368,9 +476,9 @@ let Gate_Info = `
   "Date": "2025-01-23",
   "Time": "1730",
   "display_date": "2025-01-23",
-  "display_time": "1730",
+  "display_time": "1800",
   "display_terminal": "2",
-  "display_gate": "E12"
+  "display_gate": "A5"
  },
  {
   "Flight": "AI8258",
@@ -380,9 +488,9 @@ let Gate_Info = `
   "Date": "2025-01-23",
   "Time": "1730",
   "display_date": "2025-01-23",
-  "display_time": "1730",
+  "display_time": "1800",
   "display_terminal": "2",
-  "display_gate": "E12"
+  "display_gate": "A5"
  },
  {
   "Flight": "SQ186",
@@ -392,9 +500,9 @@ let Gate_Info = `
   "Date": "2025-01-23",
   "Time": "1730",
   "display_date": "2025-01-23",
-  "display_time": "1730",
+  "display_time": "1800",
   "display_terminal": "2",
-  "display_gate": "E12"
+  "display_gate": "A5"
  },
  {
   "Flight": "SQ138",
@@ -476,9 +584,9 @@ let Gate_Info = `
   "Date": "2025-01-23",
   "Time": "1730",
   "display_date": "2025-01-23",
-  "display_time": "1730",
+  "display_time": "1800",
   "display_terminal": "2",
-  "display_gate": "E12"
+  "display_gate": "A5"
  },
  {
   "Flight": "NZ3460",
@@ -488,9 +596,9 @@ let Gate_Info = `
   "Date": "2025-01-23",
   "Time": "1730",
   "display_date": "2025-01-23",
-  "display_time": "1730",
+  "display_time": "1800",
   "display_terminal": "2",
-  "display_gate": "E12"
+  "display_gate": "A5"
  },
  {
   "Flight": "AC5932",
@@ -635,6 +743,558 @@ let Gate_Info = `
   "display_time": "1640",
   "display_terminal": "3",
   "display_gate": "B7"
+ },
+ {
+  "Flight": "NZ3452",
+  "Dest": "BKK",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "1525",
+  "display_date": "2025-01-23",
+  "display_time": "1525",
+  "display_terminal": "2",
+  "display_gate": "E8"
+ },
+ {
+  "Flight": "PG4708",
+  "Dest": "BKK",
+  "AirlineCode": "PG",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "1525",
+  "display_date": "2025-01-23",
+  "display_time": "1525",
+  "display_terminal": "2",
+  "display_gate": "E8"
+ },
+ {
+  "Flight": "VA5722",
+  "Dest": "BKK",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "1525",
+  "display_date": "2025-01-23",
+  "display_time": "1525",
+  "display_terminal": "2",
+  "display_gate": "E8"
+ },
+ {
+  "Flight": "HO1602",
+  "Dest": "PVG",
+  "AirlineCode": "HO",
+  "DTerm": "4",
+  "Date": "2025-01-23",
+  "Time": "1555",
+  "display_date": "2025-01-23",
+  "display_time": "1555",
+  "display_terminal": "4",
+  "display_gate": "G12"
+ },
+ {
+  "Flight": "AI8130",
+  "Dest": "CGK",
+  "AirlineCode": "AI",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "1610",
+  "display_date": "2025-01-23",
+  "display_time": "1610",
+  "display_terminal": "2",
+  "display_gate": "F54"
+ },
+ {
+  "Flight": "GA8962",
+  "Dest": "CGK",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "1610",
+  "display_date": "2025-01-23",
+  "display_time": "1610",
+  "display_terminal": "2",
+  "display_gate": "F54"
+ },
+ {
+  "Flight": "VA5834",
+  "Dest": "CGK",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "1610",
+  "display_date": "2025-01-23",
+  "display_time": "1610",
+  "display_terminal": "2",
+  "display_gate": "F54"
+ },
+ {
+  "Flight": "MH5972",
+  "Dest": "KUL",
+  "AirlineCode": "MH",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "1550",
+  "display_date": "2025-01-23",
+  "display_time": "1550",
+  "display_terminal": "2",
+  "display_gate": "F50"
+ },
+ {
+  "Flight": "TR16",
+  "Dest": "PER",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1510",
+  "display_date": "2025-01-23",
+  "display_time": "1510",
+  "display_terminal": "1",
+  "display_gate": "C22"
+ },
+ {
+  "Flight": "SQ8494",
+  "Dest": "PER",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1510",
+  "display_date": "2025-01-23",
+  "display_time": "1510",
+  "display_terminal": "1",
+  "display_gate": "C22"
+ },
+ {
+  "Flight": "SQ8634",
+  "Dest": "KBV",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1545",
+  "display_date": "2025-01-23",
+  "display_time": "1545",
+  "display_terminal": "1",
+  "display_gate": "C16"
+ },
+ {
+  "Flight": "TW174",
+  "Dest": "ICN",
+  "AirlineCode": "TW",
+  "DTerm": "3",
+  "Date": "2025-01-23",
+  "Time": "2300",
+  "display_date": "2025-01-23",
+  "display_time": "2300",
+  "display_terminal": "3",
+  "display_gate": "B2"
+ },
+ {
+  "Flight": "SQ660",
+  "Dest": "CTS",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "2300",
+  "display_date": "2025-01-23",
+  "display_time": "2300",
+  "display_terminal": "2",
+  "display_gate": "D40"
+ },
+ {
+  "Flight": "TR188",
+  "Dest": "HGH",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1645",
+  "display_date": "2025-01-23",
+  "display_time": "1645",
+  "display_terminal": "1",
+  "display_gate": "B10"
+ },
+ {
+  "Flight": "SQ8328",
+  "Dest": "JED",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1630",
+  "display_date": "2025-01-23",
+  "display_time": "1630",
+  "display_terminal": "1",
+  "display_gate": "C15"
+ },
+ {
+  "Flight": "CX734",
+  "Dest": "HKG",
+  "AirlineCode": "CX",
+  "DTerm": "4",
+  "Date": "2025-01-23",
+  "Time": "1645",
+  "display_date": "2025-01-23",
+  "display_time": "1710",
+  "display_terminal": "4",
+  "display_gate": "G19"
+ },
+ {
+  "Flight": "6E1092",
+  "Dest": "BLR",
+  "AirlineCode": "6E",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "1710",
+  "display_date": "2025-01-23",
+  "display_time": "1710",
+  "display_terminal": "2",
+  "display_gate": "F36"
+ },
+ {
+  "Flight": "TG414",
+  "Dest": "BKK",
+  "AirlineCode": "TG",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1555",
+  "display_date": "2025-01-23",
+  "display_time": "1555",
+  "display_terminal": "1",
+  "display_gate": "C18"
+ },
+ {
+  "Flight": "BA16",
+  "Dest": "LHR",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "2305",
+  "display_date": "2025-01-23",
+  "display_time": "2305",
+  "display_terminal": "1",
+  "display_gate": "C20"
+ },
+ {
+  "Flight": "AK714",
+  "Dest": "KUL",
+  "AirlineCode": "AK",
+  "DTerm": "4",
+  "Date": "2025-01-23",
+  "Time": "1635",
+  "display_date": "2025-01-23",
+  "display_time": "1635",
+  "display_terminal": "4",
+  "display_gate": "G8"
+ },
+ {
+  "Flight": "AI8246",
+  "Dest": "PNH",
+  "AirlineCode": "AI",
+  "DTerm": "2",
+  "Date": "2025-01-23",
+  "Time": "1650",
+  "display_date": "2025-01-23",
+  "display_time": "1650",
+  "display_terminal": "2",
+  "display_gate": "E10"
+ },
+ {
+  "Flight": "5J538",
+  "Dest": "CRK",
+  "AirlineCode": "5J",
+  "DTerm": "4",
+  "Date": "2025-01-23",
+  "Time": "1650",
+  "display_date": "2025-01-23",
+  "display_time": "1650",
+  "display_terminal": "4",
+  "display_gate": "G11"
+ },
+ {
+  "Flight": "SQ8534",
+  "Dest": "SGN",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1605",
+  "display_date": "2025-01-23",
+  "display_time": "1605",
+  "display_terminal": "1",
+  "display_gate": "C1"
+ },
+ {
+  "Flight": "PG968",
+  "Dest": "USM",
+  "AirlineCode": "PG",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1720",
+  "display_date": "2025-01-23",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": "C16"
+ },
+ {
+  "Flight": "AY6916",
+  "Dest": "USM",
+  "AirlineCode": "AY",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1720",
+  "display_date": "2025-01-23",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": "C16"
+ },
+ {
+  "Flight": "BA2170",
+  "Dest": "USM",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1720",
+  "display_date": "2025-01-23",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": "C16"
+ },
+ {
+  "Flight": "EK4611",
+  "Dest": "USM",
+  "AirlineCode": "EK",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1720",
+  "display_date": "2025-01-23",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": "C16"
+ },
+ {
+  "Flight": "EY7723",
+  "Dest": "USM",
+  "AirlineCode": "EY",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1720",
+  "display_date": "2025-01-23",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": "C16"
+ },
+ {
+  "Flight": "QF3440",
+  "Dest": "USM",
+  "AirlineCode": "QF",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1720",
+  "display_date": "2025-01-23",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": "C16"
+ },
+ {
+  "Flight": "QR4419",
+  "Dest": "USM",
+  "AirlineCode": "QR",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1720",
+  "display_date": "2025-01-23",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": "C16"
+ },
+ {
+  "Flight": "SQ5498",
+  "Dest": "USM",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1720",
+  "display_date": "2025-01-23",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": "C16"
+ },
+ {
+  "Flight": "TG7337",
+  "Dest": "USM",
+  "AirlineCode": "TG",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1720",
+  "display_date": "2025-01-23",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": "C16"
+ },
+ {
+  "Flight": "TK4515",
+  "Dest": "USM",
+  "AirlineCode": "TK",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1720",
+  "display_date": "2025-01-23",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": "C16"
+ },
+ {
+  "Flight": "VN3234",
+  "Dest": "USM",
+  "AirlineCode": "VN",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1720",
+  "display_date": "2025-01-23",
+  "display_time": "1720",
+  "display_terminal": "1",
+  "display_gate": "C16"
+ },
+ {
+  "Flight": "VA5786",
+  "Dest": "PEK",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2025-01-23",
+  "Time": "1655",
+  "display_date": "2025-01-23",
+  "display_time": "1655",
+  "display_terminal": "3",
+  "display_gate": "A11"
+ },
+ {
+  "Flight": "VJ814",
+  "Dest": "SGN",
+  "AirlineCode": "VJ",
+  "DTerm": "4",
+  "Date": "2025-01-23",
+  "Time": "1655",
+  "display_date": "2025-01-23",
+  "display_time": "1655",
+  "display_terminal": "4",
+  "display_gate": "G7"
+ },
+ {
+  "Flight": "BA12",
+  "Dest": "LHR",
+  "AirlineCode": "BA",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "2315",
+  "display_date": "2025-01-23",
+  "display_time": "2315",
+  "display_terminal": "1",
+  "display_gate": "C26"
+ },
+ {
+  "Flight": "TR976",
+  "Dest": "HKG",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1600",
+  "display_date": "2025-01-23",
+  "display_time": "1600",
+  "display_terminal": "1",
+  "display_gate": "D36"
+ },
+ {
+  "Flight": "GA9176",
+  "Dest": "DEL",
+  "AirlineCode": "GA",
+  "DTerm": "3",
+  "Date": "2025-01-23",
+  "Time": "1625",
+  "display_date": "2025-01-23",
+  "display_time": "1625",
+  "display_terminal": "3",
+  "display_gate": "B2"
+ },
+ {
+  "Flight": "SQ8684",
+  "Dest": "HKG",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2025-01-23",
+  "Time": "1600",
+  "display_date": "2025-01-23",
+  "display_time": "1600",
+  "display_terminal": "1",
+  "display_gate": "D36"
+ },
+ {
+  "Flight": "NZ283",
+  "Dest": "AKL",
+  "AirlineCode": "NZ",
+  "DTerm": "3",
+  "Date": "2025-01-23",
+  "Time": "1830",
+  "display_date": "2025-01-23",
+  "display_time": "1830",
+  "display_terminal": "3",
+  "display_gate": "B6"
+ },
+ {
+  "Flight": "LH7163",
+  "Dest": "AKL",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2025-01-23",
+  "Time": "1830",
+  "display_date": "2025-01-23",
+  "display_time": "1830",
+  "display_terminal": "3",
+  "display_gate": "B6"
+ },
+ {
+  "Flight": "SQ4283",
+  "Dest": "AKL",
+  "AirlineCode": "SQ",
+  "DTerm": "3",
+  "Date": "2025-01-23",
+  "Time": "1830",
+  "display_date": "2025-01-23",
+  "display_time": "1830",
+  "display_terminal": "3",
+  "display_gate": "B6"
+ },
+ {
+  "Flight": "MU568",
+  "Dest": "PVG",
+  "AirlineCode": "MU",
+  "DTerm": "3",
+  "Date": "2025-01-23",
+  "Time": "1615",
+  "display_date": "2025-01-23",
+  "display_time": "1615",
+  "display_terminal": "3",
+  "display_gate": "A2"
+ },
+ {
+  "Flight": "HO1606",
+  "Dest": "PVG",
+  "AirlineCode": "HO",
+  "DTerm": "4",
+  "Date": "2025-01-23",
+  "Time": "2325",
+  "display_date": "2025-01-23",
+  "display_time": "2325",
+  "display_terminal": "4",
+  "display_gate": "G8"
+ },
+ {
+  "Flight": "MU3984",
+  "Dest": "PVG",
+  "AirlineCode": "MU",
+  "DTerm": "4",
+  "Date": "2025-01-23",
+  "Time": "2325",
+  "display_date": "2025-01-23",
+  "display_time": "2325",
+  "display_terminal": "4",
+  "display_gate": "G8"
  },
  {
   "Flight": "MF866",
@@ -970,7 +1630,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "1820",
   "display_terminal": "1",
-  "display_gate": "D36"
+  "display_gate": "C12"
  },
  {
   "Flight": "2Y2201",
@@ -994,7 +1654,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2300",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A17"
  },
  {
   "Flight": "JQ98",
@@ -1030,7 +1690,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2310",
   "display_terminal": "3",
-  "display_gate": ""
+  "display_gate": "A1"
  },
  {
   "Flight": "SQ8366",
@@ -1174,7 +1834,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2120",
   "display_terminal": "2",
-  "display_gate": "E27"
+  "display_gate": "E24"
  },
  {
   "Flight": "KL4092",
@@ -1186,7 +1846,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2120",
   "display_terminal": "2",
-  "display_gate": "E27"
+  "display_gate": "E24"
  },
  {
   "Flight": "TR358",
@@ -1319,18 +1979,6 @@ let Gate_Info = `
   "display_time": "0740",
   "display_terminal": "1",
   "display_gate": "A6F"
- },
- {
-  "Flight": "5J538",
-  "Dest": "CRK",
-  "AirlineCode": "5J",
-  "DTerm": "4",
-  "Date": "2025-01-23",
-  "Time": "1650",
-  "display_date": "2025-01-23",
-  "display_time": "1650",
-  "display_terminal": "4",
-  "display_gate": "G11"
  },
  {
   "Flight": "AK1310",
@@ -1489,18 +2137,6 @@ let Gate_Info = `
   "display_gate": ""
  },
  {
-  "Flight": "TK55",
-  "Dest": "IST",
-  "AirlineCode": "TK",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "2325",
-  "display_date": "2025-01-23",
-  "display_time": "2325",
-  "display_terminal": "1",
-  "display_gate": ""
- },
- {
   "Flight": "FD358",
   "Dest": "DMK",
   "AirlineCode": "FD",
@@ -1561,18 +2197,6 @@ let Gate_Info = `
   "display_gate": "A6F"
  },
  {
-  "Flight": "6E1092",
-  "Dest": "BLR",
-  "AirlineCode": "6E",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1710",
-  "display_date": "2025-01-23",
-  "display_time": "1710",
-  "display_terminal": "2",
-  "display_gate": "F36"
- },
- {
   "Flight": "VJ970",
   "Dest": "DAD",
   "AirlineCode": "VJ",
@@ -1583,66 +2207,6 @@ let Gate_Info = `
   "display_time": "1115",
   "display_terminal": "4",
   "display_gate": "G10"
- },
- {
-  "Flight": "SQ946",
-  "Dest": "DPS",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1745",
-  "display_date": "2025-01-23",
-  "display_time": "1745",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "AI8150",
-  "Dest": "DPS",
-  "AirlineCode": "AI",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1745",
-  "display_date": "2025-01-23",
-  "display_time": "1745",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "CA5260",
-  "Dest": "DPS",
-  "AirlineCode": "CA",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1745",
-  "display_date": "2025-01-23",
-  "display_time": "1745",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "LH9792",
-  "Dest": "DPS",
-  "AirlineCode": "LH",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1745",
-  "display_date": "2025-01-23",
-  "display_time": "1745",
-  "display_terminal": "2",
-  "display_gate": "F41"
- },
- {
-  "Flight": "SK8047",
-  "Dest": "DPS",
-  "AirlineCode": "SK",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1745",
-  "display_date": "2025-01-23",
-  "display_time": "1745",
-  "display_terminal": "2",
-  "display_gate": "F41"
  },
  {
   "Flight": "5X167",
@@ -1918,18 +2482,6 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2345",
   "display_terminal": "3",
-  "display_gate": ""
- },
- {
-  "Flight": "SQ660",
-  "Dest": "CTS",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "2300",
-  "display_date": "2025-01-23",
-  "display_time": "2300",
-  "display_terminal": "2",
   "display_gate": ""
  },
  {
@@ -2267,42 +2819,6 @@ let Gate_Info = `
   "display_time": "1830",
   "display_terminal": "3",
   "display_gate": "B9"
- },
- {
-  "Flight": "NZ283",
-  "Dest": "AKL",
-  "AirlineCode": "NZ",
-  "DTerm": "3",
-  "Date": "2025-01-23",
-  "Time": "1830",
-  "display_date": "2025-01-23",
-  "display_time": "1830",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "LH7163",
-  "Dest": "AKL",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2025-01-23",
-  "Time": "1830",
-  "display_date": "2025-01-23",
-  "display_time": "1830",
-  "display_terminal": "3",
-  "display_gate": "B7"
- },
- {
-  "Flight": "SQ4283",
-  "Dest": "AKL",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
-  "Date": "2025-01-23",
-  "Time": "1830",
-  "display_date": "2025-01-23",
-  "display_time": "1830",
-  "display_terminal": "3",
-  "display_gate": "B7"
  },
  {
   "Flight": "VN3788",
@@ -2830,7 +3346,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2120",
   "display_terminal": "2",
-  "display_gate": "E27"
+  "display_gate": "E24"
  },
  {
   "Flight": "QZ265",
@@ -3239,18 +3755,6 @@ let Gate_Info = `
   "display_time": "0120",
   "display_terminal": "2",
   "display_gate": "E22"
- },
- {
-  "Flight": "FD354",
-  "Dest": "DMK",
-  "AirlineCode": "FD",
-  "DTerm": "4",
-  "Date": "2025-01-23",
-  "Time": "1710",
-  "display_date": "2025-01-23",
-  "display_time": "1710",
-  "display_terminal": "4",
-  "display_gate": "G10"
  },
  {
   "Flight": "QF52D",
@@ -3673,18 +4177,6 @@ let Gate_Info = `
   "display_gate": ""
  },
  {
-  "Flight": "TW174",
-  "Dest": "ICN",
-  "AirlineCode": "TW",
-  "DTerm": "3",
-  "Date": "2025-01-23",
-  "Time": "2300",
-  "display_date": "2025-01-23",
-  "display_time": "2300",
-  "display_terminal": "3",
-  "display_gate": ""
- },
- {
   "Flight": "UL3374",
   "Dest": "MEL",
   "AirlineCode": "UL",
@@ -3742,7 +4234,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2240",
   "display_terminal": "2",
-  "display_gate": "F50"
+  "display_gate": "E11"
  },
  {
   "Flight": "MU4900",
@@ -3961,18 +4453,6 @@ let Gate_Info = `
   "display_gate": "F41"
  },
  {
-  "Flight": "BA16",
-  "Dest": "LHR",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "2305",
-  "display_date": "2025-01-23",
-  "display_time": "2305",
-  "display_terminal": "1",
-  "display_gate": ""
- },
- {
   "Flight": "VA5624",
   "Dest": "CMB",
   "AirlineCode": "VA",
@@ -4007,18 +4487,6 @@ let Gate_Info = `
   "display_time": "2120",
   "display_terminal": "3",
   "display_gate": "A15"
- },
- {
-  "Flight": "HO1606",
-  "Dest": "PVG",
-  "AirlineCode": "HO",
-  "DTerm": "4",
-  "Date": "2025-01-23",
-  "Time": "2325",
-  "display_date": "2025-01-23",
-  "display_time": "2325",
-  "display_terminal": "4",
-  "display_gate": ""
  },
  {
   "Flight": "VJ916",
@@ -4090,19 +4558,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "1820",
   "display_terminal": "1",
-  "display_gate": "D36"
- },
- {
-  "Flight": "SQ8328",
-  "Dest": "JED",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1630",
-  "display_date": "2025-01-23",
-  "display_time": "1630",
-  "display_terminal": "1",
-  "display_gate": "C15"
+  "display_gate": "C12"
  },
  {
   "Flight": "SQ116",
@@ -4162,7 +4618,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "1830",
   "display_terminal": "3",
-  "display_gate": "B7"
+  "display_gate": "B6"
  },
  {
   "Flight": "6E1028",
@@ -4297,30 +4753,6 @@ let Gate_Info = `
   "display_gate": "A11"
  },
  {
-  "Flight": "NZ3452",
-  "Dest": "BKK",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1525",
-  "display_date": "2025-01-23",
-  "display_time": "1525",
-  "display_terminal": "2",
-  "display_gate": "E8"
- },
- {
-  "Flight": "VA5834",
-  "Dest": "CGK",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1610",
-  "display_date": "2025-01-23",
-  "display_time": "1610",
-  "display_terminal": "2",
-  "display_gate": "F54"
- },
- {
   "Flight": "AF257",
   "Dest": "CDG",
   "AirlineCode": "AF",
@@ -4343,18 +4775,6 @@ let Gate_Info = `
   "display_time": "1600",
   "display_terminal": "1",
   "display_gate": "D34"
- },
- {
-  "Flight": "MU3984",
-  "Dest": "PVG",
-  "AirlineCode": "MU",
-  "DTerm": "4",
-  "Date": "2025-01-23",
-  "Time": "2325",
-  "display_date": "2025-01-23",
-  "display_time": "2325",
-  "display_terminal": "4",
-  "display_gate": ""
  },
  {
   "Flight": "NZ3444",
@@ -4391,18 +4811,6 @@ let Gate_Info = `
   "display_time": "1455",
   "display_terminal": "1",
   "display_gate": "D37"
- },
- {
-  "Flight": "AI8130",
-  "Dest": "CGK",
-  "AirlineCode": "AI",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1610",
-  "display_date": "2025-01-23",
-  "display_time": "1610",
-  "display_terminal": "2",
-  "display_gate": "F54"
  },
  {
   "Flight": "AC5931",
@@ -4465,18 +4873,6 @@ let Gate_Info = `
   "display_gate": "F40"
  },
  {
-  "Flight": "MH5972",
-  "Dest": "KUL",
-  "AirlineCode": "MH",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1550",
-  "display_date": "2025-01-23",
-  "display_time": "1550",
-  "display_terminal": "2",
-  "display_gate": "F50"
- },
- {
   "Flight": "SQ918",
   "Dest": "MNL",
   "AirlineCode": "SQ",
@@ -4523,18 +4919,6 @@ let Gate_Info = `
   "display_time": "1910",
   "display_terminal": "2",
   "display_gate": "E28"
- },
- {
-  "Flight": "CX734",
-  "Dest": "HKG",
-  "AirlineCode": "CX",
-  "DTerm": "4",
-  "Date": "2025-01-23",
-  "Time": "1645",
-  "display_date": "2025-01-23",
-  "display_time": "1645",
-  "display_terminal": "4",
-  "display_gate": "G19"
  },
  {
   "Flight": "FD356",
@@ -4655,18 +5039,6 @@ let Gate_Info = `
   "display_time": "1450",
   "display_terminal": "1",
   "display_gate": "C19"
- },
- {
-  "Flight": "SQ8416",
-  "Dest": "TRV",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "2035",
-  "display_date": "2025-01-23",
-  "display_time": "2035",
-  "display_terminal": "1",
-  "display_gate": "C17"
  },
  {
   "Flight": "SQ8428",
@@ -4873,18 +5245,6 @@ let Gate_Info = `
   "display_gate": "G15"
  },
  {
-  "Flight": "TR188",
-  "Dest": "HGH",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1645",
-  "display_date": "2025-01-23",
-  "display_time": "1645",
-  "display_terminal": "1",
-  "display_gate": "B10"
- },
- {
   "Flight": "SQ494",
   "Dest": "DXB",
   "AirlineCode": "SQ",
@@ -4921,18 +5281,6 @@ let Gate_Info = `
   "display_gate": "B5"
  },
  {
-  "Flight": "SQ8534",
-  "Dest": "SGN",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1605",
-  "display_date": "2025-01-23",
-  "display_time": "1605",
-  "display_terminal": "1",
-  "display_gate": "C1"
- },
- {
   "Flight": "EK5032",
   "Dest": "MEL",
   "AirlineCode": "EK",
@@ -4966,7 +5314,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2240",
   "display_terminal": "2",
-  "display_gate": "F50"
+  "display_gate": "E11"
  },
  {
   "Flight": "SQ874",
@@ -4991,18 +5339,6 @@ let Gate_Info = `
   "display_time": "2100",
   "display_terminal": "1",
   "display_gate": "D35"
- },
- {
-  "Flight": "GA8962",
-  "Dest": "CGK",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1610",
-  "display_date": "2025-01-23",
-  "display_time": "1610",
-  "display_terminal": "2",
-  "display_gate": "F54"
  },
  {
   "Flight": "SQ235",
@@ -5111,30 +5447,6 @@ let Gate_Info = `
   "display_time": "1515",
   "display_terminal": "2",
   "display_gate": "F41"
- },
- {
-  "Flight": "TR16",
-  "Dest": "PER",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1510",
-  "display_date": "2025-01-23",
-  "display_time": "1510",
-  "display_terminal": "1",
-  "display_gate": "C22"
- },
- {
-  "Flight": "SQ8494",
-  "Dest": "PER",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1510",
-  "display_date": "2025-01-23",
-  "display_time": "1510",
-  "display_terminal": "1",
-  "display_gate": "C22"
  },
  {
   "Flight": "DL7820",
@@ -5317,18 +5629,6 @@ let Gate_Info = `
   "display_gate": "A3"
  },
  {
-  "Flight": "HO1602",
-  "Dest": "PVG",
-  "AirlineCode": "HO",
-  "DTerm": "4",
-  "Date": "2025-01-23",
-  "Time": "1555",
-  "display_date": "2025-01-23",
-  "display_time": "1555",
-  "display_terminal": "4",
-  "display_gate": "G12"
- },
- {
   "Flight": "MU3982",
   "Dest": "PVG",
   "AirlineCode": "MU",
@@ -5339,18 +5639,6 @@ let Gate_Info = `
   "display_time": "1555",
   "display_terminal": "4",
   "display_gate": "G12"
- },
- {
-  "Flight": "TG414",
-  "Dest": "BKK",
-  "AirlineCode": "TG",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1555",
-  "display_date": "2025-01-23",
-  "display_time": "1555",
-  "display_terminal": "1",
-  "display_gate": "C18"
  },
  {
   "Flight": "TR390",
@@ -5449,138 +5737,6 @@ let Gate_Info = `
   "display_gate": "B8"
  },
  {
-  "Flight": "PG968",
-  "Dest": "USM",
-  "AirlineCode": "PG",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1720",
-  "display_date": "2025-01-23",
-  "display_time": "1720",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "AY6916",
-  "Dest": "USM",
-  "AirlineCode": "AY",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1720",
-  "display_date": "2025-01-23",
-  "display_time": "1720",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "BA2170",
-  "Dest": "USM",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1720",
-  "display_date": "2025-01-23",
-  "display_time": "1720",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "EK4611",
-  "Dest": "USM",
-  "AirlineCode": "EK",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1720",
-  "display_date": "2025-01-23",
-  "display_time": "1720",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "EY7723",
-  "Dest": "USM",
-  "AirlineCode": "EY",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1720",
-  "display_date": "2025-01-23",
-  "display_time": "1720",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "QF3440",
-  "Dest": "USM",
-  "AirlineCode": "QF",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1720",
-  "display_date": "2025-01-23",
-  "display_time": "1720",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "QR4419",
-  "Dest": "USM",
-  "AirlineCode": "QR",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1720",
-  "display_date": "2025-01-23",
-  "display_time": "1720",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "SQ5498",
-  "Dest": "USM",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1720",
-  "display_date": "2025-01-23",
-  "display_time": "1720",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "TG7337",
-  "Dest": "USM",
-  "AirlineCode": "TG",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1720",
-  "display_date": "2025-01-23",
-  "display_time": "1720",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "TK4515",
-  "Dest": "USM",
-  "AirlineCode": "TK",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1720",
-  "display_date": "2025-01-23",
-  "display_time": "1720",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "VN3234",
-  "Dest": "USM",
-  "AirlineCode": "VN",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1720",
-  "display_date": "2025-01-23",
-  "display_time": "1720",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
   "Flight": "VA5730",
   "Dest": "HKT",
   "AirlineCode": "VA",
@@ -5674,7 +5830,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2040",
   "display_terminal": "2",
-  "display_gate": "E11"
+  "display_gate": "E12"
  },
  {
   "Flight": "ET638",
@@ -5938,31 +6094,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2040",
   "display_terminal": "2",
-  "display_gate": "E11"
- },
- {
-  "Flight": "SQ8634",
-  "Dest": "KBV",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1545",
-  "display_date": "2025-01-23",
-  "display_time": "1545",
-  "display_terminal": "1",
-  "display_gate": "C16"
- },
- {
-  "Flight": "AI8246",
-  "Dest": "PNH",
-  "AirlineCode": "AI",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1650",
-  "display_date": "2025-01-23",
-  "display_time": "1650",
-  "display_terminal": "2",
-  "display_gate": "E10"
+  "display_gate": "E12"
  },
  {
   "Flight": "NZ3440",
@@ -6169,30 +6301,6 @@ let Gate_Info = `
   "display_gate": "F52"
  },
  {
-  "Flight": "AK714",
-  "Dest": "KUL",
-  "AirlineCode": "AK",
-  "DTerm": "4",
-  "Date": "2025-01-23",
-  "Time": "1635",
-  "display_date": "2025-01-23",
-  "display_time": "1635",
-  "display_terminal": "4",
-  "display_gate": "G8"
- },
- {
-  "Flight": "BA12",
-  "Dest": "LHR",
-  "AirlineCode": "BA",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "2315",
-  "display_date": "2025-01-23",
-  "display_time": "2315",
-  "display_terminal": "1",
-  "display_gate": ""
- },
- {
   "Flight": "LH7216",
   "Dest": "DPS",
   "AirlineCode": "LH",
@@ -6358,7 +6466,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2240",
   "display_terminal": "2",
-  "display_gate": "F50"
+  "display_gate": "E11"
  },
  {
   "Flight": "SQ5906",
@@ -6589,18 +6697,6 @@ let Gate_Info = `
   "display_gate": ""
  },
  {
-  "Flight": "PG4708",
-  "Dest": "BKK",
-  "AirlineCode": "PG",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1525",
-  "display_date": "2025-01-23",
-  "display_time": "1525",
-  "display_terminal": "2",
-  "display_gate": "E8"
- },
- {
   "Flight": "MH610",
   "Dest": "KUL",
   "AirlineCode": "MH",
@@ -6610,7 +6706,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2120",
   "display_terminal": "2",
-  "display_gate": "E27"
+  "display_gate": "E24"
  },
  {
   "Flight": "FJ5432",
@@ -6850,7 +6946,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2120",
   "display_terminal": "2",
-  "display_gate": "E27"
+  "display_gate": "E24"
  },
  {
   "Flight": "SQ720",
@@ -6863,18 +6959,6 @@ let Gate_Info = `
   "display_time": "1835",
   "display_terminal": "2",
   "display_gate": "E11"
- },
- {
-  "Flight": "VJ814",
-  "Dest": "SGN",
-  "AirlineCode": "VJ",
-  "DTerm": "4",
-  "Date": "2025-01-23",
-  "Time": "1655",
-  "display_date": "2025-01-23",
-  "display_time": "1655",
-  "display_terminal": "4",
-  "display_gate": "G7"
  },
  {
   "Flight": "OZ398",
@@ -7066,19 +7150,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2120",
   "display_terminal": "2",
-  "display_gate": "E27"
- },
- {
-  "Flight": "TR976",
-  "Dest": "HKG",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1600",
-  "display_date": "2025-01-23",
-  "display_time": "1600",
-  "display_terminal": "1",
-  "display_gate": "D36"
+  "display_gate": "E24"
  },
  {
   "Flight": "AY6413",
@@ -7126,7 +7198,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2305",
   "display_terminal": "1",
-  "display_gate": ""
+  "display_gate": "D46"
  },
  {
   "Flight": "CI5874",
@@ -7186,7 +7258,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2120",
   "display_terminal": "2",
-  "display_gate": "E27"
+  "display_gate": "E24"
  },
  {
   "Flight": "AI2383",
@@ -7198,7 +7270,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2300",
   "display_terminal": "2",
-  "display_gate": ""
+  "display_gate": "F36"
  },
  {
   "Flight": "OU5809",
@@ -7342,7 +7414,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2240",
   "display_terminal": "2",
-  "display_gate": "F50"
+  "display_gate": "E11"
  },
  {
   "Flight": "VA5527",
@@ -7355,18 +7427,6 @@ let Gate_Info = `
   "display_time": "2150",
   "display_terminal": "3",
   "display_gate": "A12"
- },
- {
-  "Flight": "SQ8684",
-  "Dest": "HKG",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2025-01-23",
-  "Time": "1600",
-  "display_date": "2025-01-23",
-  "display_time": "1600",
-  "display_terminal": "1",
-  "display_gate": "D36"
  },
  {
   "Flight": "AY6421",
@@ -7391,18 +7451,6 @@ let Gate_Info = `
   "display_time": "2220",
   "display_terminal": "2",
   "display_gate": "F40"
- },
- {
-  "Flight": "VA5722",
-  "Dest": "BKK",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1525",
-  "display_date": "2025-01-23",
-  "display_time": "1525",
-  "display_terminal": "2",
-  "display_gate": "E8"
  },
  {
   "Flight": "MH5734",
@@ -8497,6 +8545,18 @@ let Gate_Info = `
   "display_gate": "G10"
  },
  {
+  "Flight": "AF7001",
+  "Dest": "MNL",
+  "AirlineCode": "AF",
+  "DTerm": "4",
+  "Date": "2025-01-23",
+  "Time": "1650",
+  "display_date": "2025-01-23",
+  "display_time": "1650",
+  "display_terminal": "4",
+  "display_gate": "G13"
+ },
+ {
   "Flight": "VA5628",
   "Dest": "CPT",
   "AirlineCode": "VA",
@@ -8521,9 +8581,9 @@ let Gate_Info = `
   "display_gate": "D30"
  },
  {
-  "Flight": "AF7001",
+  "Flight": "KL4851",
   "Dest": "MNL",
-  "AirlineCode": "AF",
+  "AirlineCode": "KL",
   "DTerm": "4",
   "Date": "2025-01-23",
   "Time": "1650",
@@ -8543,18 +8603,6 @@ let Gate_Info = `
   "display_time": "0230",
   "display_terminal": "3",
   "display_gate": "A9"
- },
- {
-  "Flight": "KL4851",
-  "Dest": "MNL",
-  "AirlineCode": "KL",
-  "DTerm": "4",
-  "Date": "2025-01-23",
-  "Time": "1650",
-  "display_date": "2025-01-23",
-  "display_time": "1650",
-  "display_terminal": "4",
-  "display_gate": "G13"
  },
  {
   "Flight": "TR462",
@@ -9205,18 +9253,6 @@ let Gate_Info = `
   "display_gate": "B1"
  },
  {
-  "Flight": "CA5282",
-  "Dest": "PEK",
-  "AirlineCode": "CA",
-  "DTerm": "3",
-  "Date": "2025-01-23",
-  "Time": "1655",
-  "display_date": "2025-01-23",
-  "display_time": "1655",
-  "display_terminal": "3",
-  "display_gate": "A11"
- },
- {
   "Flight": "NZ3254",
   "Dest": "COK",
   "AirlineCode": "NZ",
@@ -9251,18 +9287,6 @@ let Gate_Info = `
   "display_time": "2020",
   "display_terminal": "3",
   "display_gate": "B1"
- },
- {
-  "Flight": "VA5786",
-  "Dest": "PEK",
-  "AirlineCode": "VA",
-  "DTerm": "3",
-  "Date": "2025-01-23",
-  "Time": "1655",
-  "display_date": "2025-01-23",
-  "display_time": "1655",
-  "display_terminal": "3",
-  "display_gate": "A11"
  },
  {
   "Flight": "SQ522",
@@ -10609,18 +10633,6 @@ let Gate_Info = `
   "display_gate": "B9"
  },
  {
-  "Flight": "MU568",
-  "Dest": "PVG",
-  "AirlineCode": "MU",
-  "DTerm": "3",
-  "Date": "2025-01-23",
-  "Time": "1615",
-  "display_date": "2025-01-23",
-  "display_time": "1615",
-  "display_terminal": "3",
-  "display_gate": "A2"
- },
- {
   "Flight": "QF36",
   "Dest": "MEL",
   "AirlineCode": "QF",
@@ -11146,7 +11158,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2120",
   "display_terminal": "2",
-  "display_gate": "E27"
+  "display_gate": "E24"
  },
  {
   "Flight": "LH9778",
@@ -11518,7 +11530,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2040",
   "display_terminal": "2",
-  "display_gate": "E11"
+  "display_gate": "E12"
  },
  {
   "Flight": "UA7696",
@@ -11530,7 +11542,7 @@ let Gate_Info = `
   "display_date": "2025-01-23",
   "display_time": "2040",
   "display_terminal": "2",
-  "display_gate": "E11"
+  "display_gate": "E12"
  },
  {
   "Flight": "AC5841",
@@ -11965,16 +11977,16 @@ let Gate_Info = `
   "display_gate": "D40"
  },
  {
-  "Flight": "GA9176",
-  "Dest": "DEL",
-  "AirlineCode": "GA",
-  "DTerm": "3",
+  "Flight": "LX9200",
+  "Dest": "KTM",
+  "AirlineCode": "LX",
+  "DTerm": "2",
   "Date": "2025-01-23",
-  "Time": "1625",
+  "Time": "1715",
   "display_date": "2025-01-23",
-  "display_time": "1625",
-  "display_terminal": "3",
-  "display_gate": "B2"
+  "display_time": "1715",
+  "display_terminal": "2",
+  "display_gate": "F52"
  },
  {
   "Flight": "QF5147",
@@ -11987,18 +11999,6 @@ let Gate_Info = `
   "display_time": "1505",
   "display_terminal": "4",
   "display_gate": "G9"
- },
- {
-  "Flight": "LX9200",
-  "Dest": "KTM",
-  "AirlineCode": "LX",
-  "DTerm": "2",
-  "Date": "2025-01-23",
-  "Time": "1715",
-  "display_date": "2025-01-23",
-  "display_time": "1715",
-  "display_terminal": "2",
-  "display_gate": "F52"
  },
  {
   "Flight": "GA837",
@@ -18373,6 +18373,42 @@ let Gate_Info = `
   "display_gate": ""
  },
  {
+  "Flight": "VA5458",
+  "Dest": "PEN",
+  "AirlineCode": "VA",
+  "DTerm": "2",
+  "Date": "2025-01-24",
+  "Time": "1540",
+  "display_date": "2025-01-24",
+  "display_time": "1540",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ712",
+  "Dest": "BKK",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2025-01-24",
+  "Time": "1525",
+  "display_date": "2025-01-24",
+  "display_time": "1525",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ622",
+  "Dest": "KIX",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2025-01-24",
+  "Time": "1420",
+  "display_date": "2025-01-24",
+  "display_time": "1420",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
   "Flight": "SQ402",
   "Dest": "DEL",
   "AirlineCode": "SQ",
@@ -18394,6 +18430,18 @@ let Gate_Info = `
   "display_date": "2025-01-24",
   "display_time": "0225",
   "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ916",
+  "Dest": "MNL",
+  "AirlineCode": "SQ",
+  "DTerm": "2",
+  "Date": "2025-01-24",
+  "Time": "1355",
+  "display_date": "2025-01-24",
+  "display_time": "1355",
+  "display_terminal": "2",
   "display_gate": ""
  },
  {
@@ -18433,6 +18481,18 @@ let Gate_Info = `
   "display_gate": ""
  },
  {
+  "Flight": "LH9788",
+  "Dest": "PER",
+  "AirlineCode": "LH",
+  "DTerm": "3",
+  "Date": "2025-01-24",
+  "Time": "1850",
+  "display_date": "2025-01-24",
+  "display_time": "1850",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
   "Flight": "SQ8390",
   "Dest": "KHN",
   "AirlineCode": "SQ",
@@ -18441,6 +18501,126 @@ let Gate_Info = `
   "Time": "1430",
   "display_date": "2025-01-24",
   "display_time": "1430",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9026",
+  "Dest": "PER",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2025-01-24",
+  "Time": "1850",
+  "display_date": "2025-01-24",
+  "display_time": "1850",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SK8069",
+  "Dest": "PER",
+  "AirlineCode": "SK",
+  "DTerm": "3",
+  "Date": "2025-01-24",
+  "Time": "1850",
+  "display_date": "2025-01-24",
+  "display_time": "1850",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TK9308",
+  "Dest": "PER",
+  "AirlineCode": "TK",
+  "DTerm": "3",
+  "Date": "2025-01-24",
+  "Time": "1850",
+  "display_date": "2025-01-24",
+  "display_time": "1850",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "VA5515",
+  "Dest": "PER",
+  "AirlineCode": "VA",
+  "DTerm": "3",
+  "Date": "2025-01-24",
+  "Time": "1850",
+  "display_date": "2025-01-24",
+  "display_time": "1850",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "QR8408",
+  "Dest": "HKG",
+  "AirlineCode": "QR",
+  "DTerm": "1",
+  "Date": "2025-01-24",
+  "Time": "0100",
+  "display_date": "2025-01-24",
+  "display_time": "0100",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR656",
+  "Dest": "HKT",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2025-01-24",
+  "Time": "1255",
+  "display_date": "2025-01-24",
+  "display_time": "1255",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR304",
+  "Dest": "SGN",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2025-01-24",
+  "Time": "0640",
+  "display_date": "2025-01-24",
+  "display_time": "0640",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "SQ8536",
+  "Dest": "SGN",
+  "AirlineCode": "SQ",
+  "DTerm": "1",
+  "Date": "2025-01-24",
+  "Time": "0640",
+  "display_date": "2025-01-24",
+  "display_time": "0640",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "TR306",
+  "Dest": "SGN",
+  "AirlineCode": "TR",
+  "DTerm": "1",
+  "Date": "2025-01-24",
+  "Time": "1310",
+  "display_date": "2025-01-24",
+  "display_time": "1310",
+  "display_terminal": "1",
+  "display_gate": ""
+ },
+ {
+  "Flight": "AC5913",
+  "Dest": "SGN",
+  "AirlineCode": "AC",
+  "DTerm": "1",
+  "Date": "2025-01-24",
+  "Time": "1310",
+  "display_date": "2025-01-24",
+  "display_time": "1310",
   "display_terminal": "1",
   "display_gate": ""
  },
@@ -28573,18 +28753,6 @@ let Gate_Info = `
   "display_gate": ""
  },
  {
-  "Flight": "TR656",
-  "Dest": "HKT",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2025-01-24",
-  "Time": "1255",
-  "display_date": "2025-01-24",
-  "display_time": "1255",
-  "display_terminal": "1",
-  "display_gate": ""
- },
- {
   "Flight": "TR484",
   "Dest": "IPH",
   "AirlineCode": "TR",
@@ -29293,18 +29461,6 @@ let Gate_Info = `
   "display_gate": ""
  },
  {
-  "Flight": "SQ622",
-  "Dest": "KIX",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2025-01-24",
-  "Time": "1420",
-  "display_date": "2025-01-24",
-  "display_time": "1420",
-  "display_terminal": "2",
-  "display_gate": ""
- },
- {
   "Flight": "3K1509",
   "Dest": "BKK",
   "AirlineCode": "3K",
@@ -29713,30 +29869,6 @@ let Gate_Info = `
   "display_gate": ""
  },
  {
-  "Flight": "TR304",
-  "Dest": "SGN",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2025-01-24",
-  "Time": "0640",
-  "display_date": "2025-01-24",
-  "display_time": "0640",
-  "display_terminal": "1",
-  "display_gate": ""
- },
- {
-  "Flight": "SQ8536",
-  "Dest": "SGN",
-  "AirlineCode": "SQ",
-  "DTerm": "1",
-  "Date": "2025-01-24",
-  "Time": "0640",
-  "display_date": "2025-01-24",
-  "display_time": "0640",
-  "display_terminal": "1",
-  "display_gate": ""
- },
- {
   "Flight": "KL4851",
   "Dest": "MNL",
   "AirlineCode": "KL",
@@ -29746,18 +29878,6 @@ let Gate_Info = `
   "display_date": "2025-01-24",
   "display_time": "1650",
   "display_terminal": "4",
-  "display_gate": ""
- },
- {
-  "Flight": "QR8408",
-  "Dest": "HKG",
-  "AirlineCode": "QR",
-  "DTerm": "1",
-  "Date": "2025-01-24",
-  "Time": "0100",
-  "display_date": "2025-01-24",
-  "display_time": "0100",
-  "display_terminal": "1",
   "display_gate": ""
  },
  {
@@ -30205,30 +30325,6 @@ let Gate_Info = `
   "display_gate": ""
  },
  {
-  "Flight": "TR306",
-  "Dest": "SGN",
-  "AirlineCode": "TR",
-  "DTerm": "1",
-  "Date": "2025-01-24",
-  "Time": "1310",
-  "display_date": "2025-01-24",
-  "display_time": "1310",
-  "display_terminal": "1",
-  "display_gate": ""
- },
- {
-  "Flight": "AC5913",
-  "Dest": "SGN",
-  "AirlineCode": "AC",
-  "DTerm": "1",
-  "Date": "2025-01-24",
-  "Time": "1310",
-  "display_date": "2025-01-24",
-  "display_time": "1310",
-  "display_terminal": "1",
-  "display_gate": ""
- },
- {
   "Flight": "3K511",
   "Dest": "BKK",
   "AirlineCode": "3K",
@@ -30526,18 +30622,6 @@ let Gate_Info = `
   "display_date": "2025-01-24",
   "display_time": "0945",
   "display_terminal": "3",
-  "display_gate": ""
- },
- {
-  "Flight": "SQ712",
-  "Dest": "BKK",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2025-01-24",
-  "Time": "1525",
-  "display_date": "2025-01-24",
-  "display_time": "1525",
-  "display_terminal": "2",
   "display_gate": ""
  },
  {
@@ -33361,18 +33445,6 @@ let Gate_Info = `
   "display_gate": ""
  },
  {
-  "Flight": "VA5458",
-  "Dest": "PEN",
-  "AirlineCode": "VA",
-  "DTerm": "2",
-  "Date": "2025-01-24",
-  "Time": "1540",
-  "display_date": "2025-01-24",
-  "display_time": "1540",
-  "display_terminal": "2",
-  "display_gate": ""
- },
- {
   "Flight": "SQ606",
   "Dest": "ICN",
   "AirlineCode": "SQ",
@@ -34081,18 +34153,6 @@ let Gate_Info = `
   "display_gate": ""
  },
  {
-  "Flight": "NZ3454",
-  "Dest": "BKK",
-  "AirlineCode": "NZ",
-  "DTerm": "2",
-  "Date": "2025-01-24",
-  "Time": "1835",
-  "display_date": "2025-01-24",
-  "display_time": "1835",
-  "display_terminal": "2",
-  "display_gate": ""
- },
- {
   "Flight": "UA7671",
   "Dest": "PEN",
   "AirlineCode": "UA",
@@ -34105,21 +34165,21 @@ let Gate_Info = `
   "display_gate": ""
  },
  {
-  "Flight": "SQ277",
-  "Dest": "ADL",
-  "AirlineCode": "SQ",
-  "DTerm": "3",
+  "Flight": "NZ3454",
+  "Dest": "BKK",
+  "AirlineCode": "NZ",
+  "DTerm": "2",
   "Date": "2025-01-24",
-  "Time": "0805",
+  "Time": "1835",
   "display_date": "2025-01-24",
-  "display_time": "0805",
-  "display_terminal": "3",
+  "display_time": "1835",
+  "display_terminal": "2",
   "display_gate": ""
  },
  {
-  "Flight": "LX9212",
+  "Flight": "SQ277",
   "Dest": "ADL",
-  "AirlineCode": "LX",
+  "AirlineCode": "SQ",
   "DTerm": "3",
   "Date": "2025-01-24",
   "Time": "0805",
@@ -34137,6 +34197,18 @@ let Gate_Info = `
   "Time": "0810",
   "display_date": "2025-01-24",
   "display_time": "0810",
+  "display_terminal": "3",
+  "display_gate": ""
+ },
+ {
+  "Flight": "LX9212",
+  "Dest": "ADL",
+  "AirlineCode": "LX",
+  "DTerm": "3",
+  "Date": "2025-01-24",
+  "Time": "0805",
+  "display_date": "2025-01-24",
+  "display_time": "0805",
   "display_terminal": "3",
   "display_gate": ""
  },
@@ -34525,6 +34597,18 @@ let Gate_Info = `
   "display_gate": ""
  },
  {
+  "Flight": "GA9740",
+  "Dest": "DPS",
+  "AirlineCode": "GA",
+  "DTerm": "2",
+  "Date": "2025-01-24",
+  "Time": "0650",
+  "display_date": "2025-01-24",
+  "display_time": "0650",
+  "display_terminal": "2",
+  "display_gate": ""
+ },
+ {
   "Flight": "SQ8342",
   "Dest": "USM",
   "AirlineCode": "SQ",
@@ -34545,18 +34629,6 @@ let Gate_Info = `
   "Time": "0750",
   "display_date": "2025-01-24",
   "display_time": "0750",
-  "display_terminal": "2",
-  "display_gate": ""
- },
- {
-  "Flight": "GA9740",
-  "Dest": "DPS",
-  "AirlineCode": "GA",
-  "DTerm": "2",
-  "Date": "2025-01-24",
-  "Time": "0650",
-  "display_date": "2025-01-24",
-  "display_time": "0650",
   "display_terminal": "2",
   "display_gate": ""
  },
@@ -36481,18 +36553,6 @@ let Gate_Info = `
   "display_gate": ""
  },
  {
-  "Flight": "SQ916",
-  "Dest": "MNL",
-  "AirlineCode": "SQ",
-  "DTerm": "2",
-  "Date": "2025-01-24",
-  "Time": "1355",
-  "display_date": "2025-01-24",
-  "display_time": "1355",
-  "display_terminal": "2",
-  "display_gate": ""
- },
- {
   "Flight": "SQ706",
   "Dest": "BKK",
   "AirlineCode": "SQ",
@@ -36760,66 +36820,6 @@ let Gate_Info = `
   "Flight": "ET1315",
   "Dest": "PER",
   "AirlineCode": "ET",
-  "DTerm": "3",
-  "Date": "2025-01-24",
-  "Time": "1850",
-  "display_date": "2025-01-24",
-  "display_time": "1850",
-  "display_terminal": "3",
-  "display_gate": ""
- },
- {
-  "Flight": "LH9788",
-  "Dest": "PER",
-  "AirlineCode": "LH",
-  "DTerm": "3",
-  "Date": "2025-01-24",
-  "Time": "1850",
-  "display_date": "2025-01-24",
-  "display_time": "1850",
-  "display_terminal": "3",
-  "display_gate": ""
- },
- {
-  "Flight": "LX9026",
-  "Dest": "PER",
-  "AirlineCode": "LX",
-  "DTerm": "3",
-  "Date": "2025-01-24",
-  "Time": "1850",
-  "display_date": "2025-01-24",
-  "display_time": "1850",
-  "display_terminal": "3",
-  "display_gate": ""
- },
- {
-  "Flight": "SK8069",
-  "Dest": "PER",
-  "AirlineCode": "SK",
-  "DTerm": "3",
-  "Date": "2025-01-24",
-  "Time": "1850",
-  "display_date": "2025-01-24",
-  "display_time": "1850",
-  "display_terminal": "3",
-  "display_gate": ""
- },
- {
-  "Flight": "TK9308",
-  "Dest": "PER",
-  "AirlineCode": "TK",
-  "DTerm": "3",
-  "Date": "2025-01-24",
-  "Time": "1850",
-  "display_date": "2025-01-24",
-  "display_time": "1850",
-  "display_terminal": "3",
-  "display_gate": ""
- },
- {
-  "Flight": "VA5515",
-  "Dest": "PER",
-  "AirlineCode": "VA",
   "DTerm": "3",
   "Date": "2025-01-24",
   "Time": "1850",
