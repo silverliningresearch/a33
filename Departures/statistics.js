@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-10-02",
         "quota_id": "CZ-CAN",
         "Number of interviews": 5,
-        "download_time": "12-03-2025 18:30:15"
+        "download_time": "12-03-2025 19:02:03"
     },
     {
         "InterviewDate": "2024-10-02",
@@ -1078,6 +1078,81 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2025-03-04",
         "quota_id": "TR-TPE",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-07",
+        "quota_id": "GA-CGK",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-07",
+        "quota_id": "MH-KUL",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-07",
+        "quota_id": "MU-PVG",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-07",
+        "quota_id": "SQ-HKG",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-07",
+        "quota_id": "SQ-MEL",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-07",
+        "quota_id": "SQ-PEK",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-07",
+        "quota_id": "SQ-PVG",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-10",
+        "quota_id": "MH-KUL",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-10",
+        "quota_id": "QF-BNE",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-03-10",
+        "quota_id": "SQ-BKK",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-03-10",
+        "quota_id": "SQ-CGK",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-10",
+        "quota_id": "SQ-DPS",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-10",
+        "quota_id": "SQ-ICN",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-10",
+        "quota_id": "SQ-MNL",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-03-10",
+        "quota_id": "SQ-SGN",
         "Number of interviews": 5
     }
 ] `;
